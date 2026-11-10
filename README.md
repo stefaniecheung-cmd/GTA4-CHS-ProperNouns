@@ -2,7 +2,7 @@
 
 在民间简中补丁 `GTA4.CHS.asi` 基础上，完成三章译文字典定稿、中文字库扩容与地图区名修复的非官方整合包。**本包自带汉化补丁本体，解压安装即可，无需另装原补丁。** 覆盖本体 / 失落与诅咒 (TLAD) / 夜生活之曲 (TBoGT) 三章。免费发布，仅供交流学习，禁止任何商业用途；不含破解、不提供游戏本体。
 
-> 当前 v2.0 工程与发布物位于 `localization-v2` 分支；`main` 保留上游 v1.0 快照用于跟随上游更新。Release 见 [v2.0](https://github.com/stefaniecheung-cmd/GTA4-CHS-ProperNouns/releases/tag/v2.0)。
+> v2.0 工程源码与完整发布物见 `localization-v2` 分支；本仓库 fork 自 ghh-6 上游，可在网页端 Sync fork 跟随更新。Release 见 [v2.0](https://github.com/stefaniecheung-cmd/GTA4-CHS-ProperNouns/releases/tag/v2.0)。
 
 ## 一、来龙去脉
 
