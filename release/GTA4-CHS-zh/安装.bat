@@ -54,7 +54,7 @@ if /i "!PKGN!"=="!GAMEN!" (
   pause
   exit /b 1
 )
-rem ---- 复制主补丁、数据文件与翻译资产 ----
+rem ---- 复制主补丁与 plugins 数据文件 ----
 set "REL=plugins\GTA4.CHS.asi"
 call :copy_plugin
 set "REL=plugins\GTA4.CHS\char_table.dat"
@@ -65,6 +65,19 @@ set "REL=plugins\GTA4.CHS\custom_translations.json"
 call :copy_plugin
 set "REL=plugins\mapfix.asi"
 call :copy_plugin
+rem ---- 覆盖三章字典与字库图集（update 层）----
+set "REL=update\pc\textures\fonts.wtd"
+call :copy_over
+set "REL=update\TLAD\pc\textures\fonts.wtd"
+call :copy_over
+set "REL=update\TBoGT\pc\textures\fonts.wtd"
+call :copy_over
+set "REL=update\common\text\american.gxt"
+call :copy_over
+set "REL=update\TLAD\common\text\american.gxt"
+call :copy_over
+set "REL=update\TBoGT\common\text\american.gxt"
+call :copy_over
 echo.
 if not "!FAILED!"=="0" (
   echo [错误] 有 !FAILED! 个文件写入失败，补丁未完整安装！
@@ -101,6 +114,14 @@ exit /b 0
 
 :copy_plugin
 if not exist "!GAME!\plugins" mkdir "!GAME!\plugins"
+attrib -r "!GAME!\%REL%" >nul 2>nul
+copy /y "%PKG%%REL%" "!GAME!\%REL%" >nul
+if errorlevel 1 (echo [失败] %REL% —— 系统返回： & copy /y "%PKG%%REL%" "!GAME!\%REL%" & set /a FAILED+=1) else (echo [成功] %REL%)
+exit /b 0
+
+:copy_over
+for %%F in ("!GAME!\%REL%") do set "OD=%%~dpF"
+if not exist "!OD!" mkdir "!OD!"
 attrib -r "!GAME!\%REL%" >nul 2>nul
 copy /y "%PKG%%REL%" "!GAME!\%REL%" >nul
 if errorlevel 1 (echo [失败] %REL% —— 系统返回： & copy /y "%PKG%%REL%" "!GAME!\%REL%" & set /a FAILED+=1) else (echo [成功] %REL%)

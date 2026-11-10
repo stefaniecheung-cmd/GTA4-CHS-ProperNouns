@@ -36,3 +36,10 @@
 
 # === 临时文件 ===
 **/_batch_tmp.txt
+
+# === E 盘安装前回滚备份（本地依据，不入库）===
+/build/backup_Edrive_pre_v21_20261110/
+
+# === release 根独立 ASCII 打包产物（中文同构 zip 仍入库；分发包走 Release 附件）===
+/release/GTA4-CHS-zh-v2.0.zip
+/release/GTA4-CHS-zh-v2.1.zip

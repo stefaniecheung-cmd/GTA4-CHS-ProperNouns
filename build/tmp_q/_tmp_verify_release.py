@@ -3,9 +3,9 @@
 import os, hashlib, io
 
 G = r"C:\Game\Grand Theft Auto IV"
-REL = os.path.join(G, r"gta4-chs\release\GTA4-CHS-zh")
-W = os.path.join(G, r"gta4-chs\build\font_work")
-REF = os.path.join(G, r"gta4-chs\reference\第三方补完包v1.0")
+REL = r"C:\Game\gta4-chs\release\GTA4-CHS-zh"
+W = r"C:\Game\gta4-chs\build\font_work"
+REF = r"C:\Game\gta4-chs\reference\第三方补完包v1.0"
 
 OK = 0; FAIL = 0
 def chk(c, m):
@@ -50,18 +50,31 @@ for rel, pref in plug:
 print("=== 3. mapfix.asi == 参考包 ===")
 chk(eq(os.path.join(REF, r"plugins\mapfix.asi"), os.path.join(REL, r"plugins\mapfix.asi")), "plugins\\mapfix.asi")
 
-print("=== 4. _ORIGINAL 基底 == pristine 参考 ===")
-orig = [
-    ("_ORIGINAL_char_table.dat", "_ORIGINAL_char_table.dat"),
-    ("_ORIGINAL_fonts_pc.wtd", "_ORIGINAL_fonts_pc.wtd"),
-    ("_ORIGINAL_fonts_tlad.wtd", "_ORIGINAL_fonts_tlad.wtd"),
-    ("_ORIGINAL_fonts_tbogt.wtd", "_ORIGINAL_fonts_tbogt.wtd"),
-    ("_ORIGINAL_american.gxt", "_ORIGINAL_american.gxt"),
-    ("_ORIGINAL_american_tlad.gxt", "_ORIGINAL_american_tlad.gxt"),
-    ("_ORIGINAL_american_tbogt.gxt", "_ORIGINAL_american_tbogt.gxt"),
+print("=== 4. _ORIGINAL 基底 == 基础层英文原版（方案 B）===")
+BASE = [
+    ("_ORIGINAL_american.gxt", r"common\text\american.gxt"),
+    ("_ORIGINAL_american_tlad.gxt", r"TLAD\common\text\american.gxt"),
+    ("_ORIGINAL_american_tbogt.gxt", r"TBoGT\common\text\american.gxt"),
+    ("_ORIGINAL_fonts_pc.wtd", r"pc\textures\fonts.wtd"),
+    ("_ORIGINAL_fonts_tlad.wtd", r"TLAD\pc\textures\fonts.wtd"),
+    ("_ORIGINAL_fonts_tbogt.wtd", r"TBoGT\pc\textures\fonts.wtd"),
 ]
-for src, dst in orig:
-    chk(eq(os.path.join(REF, src), os.path.join(REL, dst)), dst)
+for dst, base_rel in BASE:
+    chk(eq(os.path.join(G, base_rel), os.path.join(REL, dst)), dst + " == 基础层原版")
+chk(not os.path.exists(os.path.join(REL, "_ORIGINAL_char_table.dat")), "已移除冗余 char_table 基底")
+
+# 条目级语言断言：基底 gxt 为英文原版，中文条目趋近 0（本体仅游戏原生亚洲字符）
+import sys, re
+sys.path.insert(0, r"C:\Game\_tools")
+from gxt_extract import parse_gxt
+cjk = re.compile(r"[一-鿿]")
+def _zh_count(p):
+    _, es = parse_gxt(p)
+    return sum(1 for _, _, t in es if t.strip() and cjk.search(t))
+ZH_LIM = {"_ORIGINAL_american.gxt": 30, "_ORIGINAL_american_tlad.gxt": 0, "_ORIGINAL_american_tbogt.gxt": 0}
+for dst, cap in ZH_LIM.items():
+    n = _zh_count(os.path.join(REL, dst))
+    chk(n <= cap, "%s 中文条目 %d ≤ %d（英文原版基底）" % (dst, n, cap))
 
 print("=== 5. bat 编码与定位逻辑 ===")
 def dec(p):
@@ -82,6 +95,39 @@ for rel in [r"plugins\GTA4.CHS.asi", r"plugins\GTA4.CHS\char_table.dat",
             r"plugins\mapfix.asi"]:
     chk(rel in it, "安装 复制 " + rel)
 chk(":copy_plugin" in it, "安装 复制子过程")
+for rel in [r"update\pc\textures\fonts.wtd", r"update\TLAD\pc\textures\fonts.wtd",
+            r"update\TBoGT\pc\textures\fonts.wtd", r"update\common\text\american.gxt",
+            r"update\TLAD\common\text\american.gxt", r"update\TBoGT\common\text\american.gxt"]:
+    chk(rel in it, "安装 覆盖 " + rel)
+chk(":copy_over" in it, "安装 update 覆盖子过程")
+chk(os.path.exists(os.path.join(REL, "清理旧汉化.bat")), "清理旧汉化.bat 存在")
+chk(os.path.exists(os.path.join(REL, "清理旧汉化.ps1")), "清理旧汉化.ps1 存在")
+ps1 = open(os.path.join(REL, "清理旧汉化.ps1"), "rb").read().decode("utf-8-sig")
+chk("GTAIV.exe" in ps1 and "_chs_old_isolated_" in ps1 and "Move-Item" in ps1, "ps1 定位/隔离/移动逻辑")
+
+print("=== 5b. Linux/SteamOS bash 脚本 ===")
+ln_plugin = ["plugins/GTA4.CHS.asi", "plugins/GTA4.CHS/char_table.dat",
+             "plugins/GTA4.CHS/whm_table.dat", "plugins/GTA4.CHS/custom_translations.json",
+             "plugins/mapfix.asi"]
+ln_over = ["update/pc/textures/fonts.wtd", "update/TLAD/pc/textures/fonts.wtd",
+           "update/TBoGT/pc/textures/fonts.wtd", "update/common/text/american.gxt",
+           "update/TLAD/common/text/american.gxt", "update/TBoGT/common/text/american.gxt"]
+for sh in ["install.sh", "uninstall.sh", "cleanup_old_zh.sh"]:
+    p = os.path.join(REL, sh)
+    chk(os.path.exists(p), sh + " 存在")
+    if os.path.exists(p):
+        raw = open(p, "rb").read()
+        chk(b"\r\n" not in raw, sh + " LF 换行")
+        chk(raw.startswith(b"#!/usr/bin/env bash"), sh + " shebang")
+ish = open(os.path.join(REL, "install.sh"), "rb").read().decode("utf-8")
+for rel in ln_plugin + ln_over:
+    chk(rel in ish, "install.sh 含 " + rel)
+chk("libraryfolders.vdf" in ish and "GTA4_DIR" in ish, "install.sh Steam 库定位+手动覆盖")
+ush = open(os.path.join(REL, "uninstall.sh"), "rb").read().decode("utf-8")
+for bak in ["_ORIGINAL_fonts_pc.wtd", "_ORIGINAL_american.gxt"]:
+    chk(bak in ush, "uninstall.sh 还原 " + bak)
+csh = open(os.path.join(REL, "cleanup_old_zh.sh"), "rb").read().decode("utf-8")
+chk("_chs_old_isolated_" in csh and "md5sum" in csh and "--apply" in csh, "cleanup 隔离/清单/参数")
 chk("FAILED=0" in it and "attrib -r" in it and "exit /b 1" in it, "安装 失败计数+只读清除+中止")
 chk("PKGN" in it and "GAMEN" in it, "安装 解压进游戏目录防呆")
 chk("未检测到原汉化补丁" not in it, "安装 已移除强制预装检测")
@@ -97,10 +143,10 @@ print("=== 6. 文档关键文案 ===")
 def rd(p):
     return open(p, "rb").read().decode("utf-8-sig")
 for f, keys in {
-    "使用说明（必读）.txt": ["无需另装原补丁", "GTA4.CHS.asi", "whm_table.dat", "安装.bat", "卸载.bat", "mapfix.asi", "问号", "_ORIGINAL_", "3,624"],
-    "更新日志.txt": ["3,624", "44", "11,440", "3,276", "mapfix.asi", "GTA4.CHS.asi"],
+    "使用说明（必读）.txt": ["无需另装原补丁", "GTA4.CHS.asi", "whm_table.dat", "安装.bat", "卸载.bat", "mapfix.asi", "问号", "_ORIGINAL_", "3,624", "install.sh", "cleanup_old_zh.sh", "Proton", "1.2.0.59"],
+    "更新日志.txt": ["3,624", "44", "11,440", "3,276", "mapfix.asi", "GTA4.CHS.asi", "v2.1"],
     "声明.txt": ["免责", "一切后果由使用者自负", "GTA4.CHS.asi", "商业"],
-    "README.md": ["mapfix.asi", "GTA4.CHS.asi", "安装.bat", "禁止任何商业用途"],
+    "README.md": ["mapfix.asi", "GTA4.CHS.asi", "安装.bat", "禁止任何商业用途", "v2.1"],
 }.items():
     t = rd(os.path.join(REL, f))
     for k in keys:

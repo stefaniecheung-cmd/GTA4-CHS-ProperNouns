@@ -9,29 +9,62 @@
 无需另装原补丁。
 
 【前置条件（重要）】
-1. 游戏：GTA4 完整版 1.2.0.43（三合一）。
+1. 游戏：GTA4 完整版 1.2.0.59（三合一）。
 2. 本包已包含汉化补丁 GTA4.CHS.asi 及其数据文件夹，解压安装即可，
    不需要再单独下载原补丁。
 
 【安装】
 0. 把压缩包解压到一个【独立文件夹】（不要解压进游戏目录、也别把文件合并进去）。
 1. 确认游戏与 Steam 没有在运行。
-2. 双击 安装.bat —— 自动定位游戏本体（依次尝试：补丁文件夹相对位置 →
+2. （仅目标机器装过其它旧汉化 / 老版汉化包时）先双击 清理旧汉化.bat：
+   扫描疑似旧汉化 ASI、数据目录、外置字库，以及基础层与 update 层的残留
+   字典 / 图集 / 汉化索引（chinese.gxt、fonts_chs.wtd、content_chs.dat 等），
+   列出清单后经你确认再隔离到游戏目录旁的隔离文件夹（不直接删除，可随时拷回）。
+3. 双击 安装.bat —— 自动定位游戏本体（依次尝试：补丁文件夹相对位置 →
    Rockstar 注册表 → Steam 注册表与库列表），不要求把本文件夹放进游戏目录。
-3. 看到「[完成] 全部文件安装成功」即成功；全部提示为中文。
-4. 启动游戏。
+4. 看到「[完成] 全部文件安装成功」即成功；全部提示为中文。
+5. 启动游戏。
 安装时复制主补丁 GTA4.CHS.asi 与 plugins\GTA4.CHS 数据文件夹（字符表 +
 whm_table.dat + custom_translations.json），覆盖三章字库图集与译文字典，
-并安装 plugins\mapfix.asi。覆盖前会把现有文件备份到本文件夹的 _ORIGINAL_*
-（已附带原版基底，备份不会被覆盖污染）。
+并安装 plugins\mapfix.asi。包内 _ORIGINAL_* 为英文原版基底（三章译文字典 +
+三章字库图集，共 6 个），供卸载时把 update 层显式还原成英文原版；字符表属
+补丁数据目录，卸载随整个 plugins\GTA4.CHS 删除，不另留基底。
+
+【跨机器 / 备份目录移植】
+- 先核对目标游戏版本与本包一致（三合一完整版）；版本不同不要直接铺。
+- 推荐顺序：先跑 清理旧汉化.bat 隔离旧汉化残留 → 进游戏确认是干净英文原版、
+  能读档 → 再跑 安装.bat → 进游戏抽查本体 / TLAD / TBoGT 菜单、字幕、手机网页。
+- 本包只动上表列出的 plugins 与 update 文件；原版多语言 gxt、我方 american*
+  字典与 fonts.wtd、update\GTA IV 资源套及其它图形 / 玩法 MOD 不会被清理脚本误伤。
+- 隔离目录为游戏目录下 `_chs_old_isolated_<时间戳>`，含《隔离清单.txt》
+  （归类 / 相对路径 / 大小 / MD5 前 12 位）；确认新补丁显示正常后再手动删除。
+
+【SteamOS / Linux（Proton 跑 Windows 版）】
+- 前提：游戏为 Steam 安装的 Windows 版、经 Proton 运行；且 Windows 版
+  ASI/ScriptHook 加载器（FusionFix / dinput8 那套）已在 Proton 下装好并能加载
+  .asi。本包数据资产与 asi 文件与 Windows 版完全相同，只是安装脚本换成 bash。
+- 在解压目录的终端里依次执行（无需 chmod，直接用 bash 调起）：
+    1. 先清旧汉化：`bash cleanup_old_zh.sh`（预览清单，确认后输入 Y 隔离；
+       加 `--apply` 可跳过询问直接隔离）。
+    2. 安装：`bash install.sh`；卸载：`bash uninstall.sh`。
+- 脚本自动扫描桌面版与 Flatpak 版 Steam 库目录及 libraryfolders.vdf 多库；
+  定位不到时手动指定：`GTA4_DIR=/路径/到/Grand\ Theft\ Auto\ IV bash install.sh`。
+- 游戏目录在 Linux 文件系统的 Steam 库内（如
+  `~/.local/share/Steam/steamapps/common/Grand Theft Auto IV`），Proton 直接读取，
+  不要把文件拷进 compatdata 的 wine prefix。
+- 限制：若为 Linux 原生移植（非 Proton），PE 格式 .asi 无法被原生进程加载，
+  本包的 asi 与 hook 链不适用；数据资产能否被原生版读取需另行验证。
 
 【卸载 / 回退】
-双击 卸载.bat：用 _ORIGINAL_* 把 update 目录的三章字库图集与译文字典还原成
-原版基底，删除主补丁 GTA4.CHS.asi、plugins\GTA4.CHS 数据文件夹与 mapfix.asi，
-回到原版英文状态。请勿删除文件夹里的 _ORIGINAL_* 文件。
+双击 卸载.bat：用 _ORIGINAL_* 英文原版基底，把 update 目录的三章字库图集与
+译文字典逐项拷回还原为英文原版，再删除主补丁 GTA4.CHS.asi、
+plugins\GTA4.CHS 数据文件夹（含字符表）与 mapfix.asi，回到干净的英文原版状态，
+其它图形 / 玩法 MOD 不受影响。请勿删除文件夹里的 _ORIGINAL_* 文件。
 
 【本包内容】
-  安装.bat / 卸载.bat                  安装与回退（自动定位游戏目录）
+  安装.bat / 卸载.bat                  Windows 安装与回退（自动定位游戏目录）
+  清理旧汉化.bat / 清理旧汉化.ps1      Windows 扫描隔离其它旧汉化补丁与死文件（不直删）
+  install.sh / uninstall.sh / cleanup_old_zh.sh  Linux/SteamOS(Proton) 对应脚本
   plugins\GTA4.CHS.asi                 汉化补丁主程序（二进制未改动）
   plugins\GTA4.CHS\char_table.dat    允许字符表（3,624 字，含新增 44 个 CJK 用字）
   plugins\GTA4.CHS\whm_table.dat      游戏内网页译文替换表（沿用原补丁）
@@ -43,7 +76,7 @@ whm_table.dat + custom_translations.json），覆盖三章字库图集与译文�
   update\common\text\american.gxt    本体译文字典
   update\TLAD\common\text\american.gxt 失落与诅咒译文字典
   update\TBoGT\common\text\american.gxt 夜生活之曲译文字典
-  _ORIGINAL_* ×7                        卸载回退基底（原版文件）
+  _ORIGINAL_* ×6                        卸载回退基底（英文原版：三章 gxt + 三章图集）
   声明.txt / 更新日志.txt               版权免责 / 版本记录
   有意保留英文清单.tsv                   按口径保留英文的条目与原因
 
@@ -55,6 +88,8 @@ whm_table.dat + custom_translations.json），覆盖三章字库图集与译文�
 - 对白粗口按口语中译；控制码（~z~ ~n~ ~s~ 等）随原文保留，不改配色。
 
 【已知事项】
+- 主补丁 GTA4.CHS.asi 为第三方二进制、本包未改动；若出现源于该 asi 自身的
+  问题（卡顿、接口行为等），需等上游汉化补丁更新 asi 文件，本包只交付翻译数据资产。
 - 商标与重音符号（™ ¬ ® © 　 ／ 以及 é á ç 等拉丁重音）先走原生拉丁字体；
   若真机显示为方块/问号，再另行收进中文字库。
 - 中文为固定等宽排版，所有汉字同一字宽，新增 44 字与旧字同宽，不存在
