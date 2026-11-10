@@ -12,7 +12,7 @@
 
 ## 安装（摘要）
 
-1. **先装原版简中补丁**（必需）：https://github.com/ghh-6/ckeleshi/GTA4.CHS ／ https://b9348.pages.dev/
+1. **先装原版简中补丁**（必需）：https://github.com/ckeleshi/GTA4.CHS ／ https://b9348.pages.dev/
 2. 把 zip **解压到独立文件夹**，双击 `安装.bat`（自动定位游戏目录，不必放进游戏目录）。
 3. 卸载：双击 `卸载.bat` 还原到原版补丁状态。
 
