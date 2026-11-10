@@ -24,7 +24,7 @@ print("\n新增 %d 个: %s" % (len(add), "".join(chr(x) for x in add)))
 print("消失 %d 个: %s" % (len(rem), "".join(chr(x) for x in rem)))
 
 # 图集验证
-PNG = r"C:\Game\Grand Theft Auto IV\gta4-chs\build\atlas_work\v1_base.png"
+PNG = r"C:\Game\gta4-chs\build\atlas_work\v1_base.png"
 im = Image.open(PNG).convert("RGBA")
 a = im.split()[3].load()
 W, H = im.size

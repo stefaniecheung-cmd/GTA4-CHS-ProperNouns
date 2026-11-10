@@ -3,8 +3,8 @@
 import csv, io, os, re, collections, sys
 csv.field_size_limit(10**9)
 
-BUILD = r"C:\Game\Grand Theft Auto IV\gta4-chs\build"
-OUT = r"C:\Game\Grand Theft Auto IV\gta4-chs\build\cmp_assets\未译_分类.tsv"
+BUILD = r"C:\Game\gta4-chs\build"
+OUT = r"C:\Game\gta4-chs\build\cmp_assets\未译_分类.tsv"
 CODE = re.compile(r"~[a-zA-Z0-9_]+~")
 RAW_OK = re.compile(
     r"(CTRL\+[A-Z]|ALT\+[A-Z]|SHIFT\+[A-Z]|CAPS LOCK|NUM LOCK|SYSRQ|MEDIA SEL|PRTSC"

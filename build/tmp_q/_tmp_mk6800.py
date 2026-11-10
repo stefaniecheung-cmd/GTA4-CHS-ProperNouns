@@ -10,7 +10,7 @@ rows = [
 ("base","MAIN","B436B1E5","我还以为你会说要去一家满是男人的妓院。","a brothel full of men 是「全是男人的妓院」，原译「男公关俱乐部」是替换了场所"),
 ("base","MAIN","BC68B738","明明知道自己兜里只有七十八块自由城币。","seventy-eight Liberty City dollars 是七十多块自由城币，原译「78 刀」改了币种说法并漏「明明」"),
 ]
-with io.open(r"C:\Game\Grand Theft Auto IV\gta4-chs\build\tmp_q\fixes_p1_06800.tsv","w",encoding="utf-8",newline="\n") as f:
+with io.open(r"C:\Game\gta4-chs\build\tmp_q\fixes_p1_06800.tsv","w",encoding="utf-8",newline="\n") as f:
     f.write("chapter\ttable\tcrc\t新译正文\t理由\n")
     for r in rows:
         f.write("\t".join(r)+"\n")

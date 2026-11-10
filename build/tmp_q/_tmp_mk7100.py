@@ -10,7 +10,7 @@ rows = [
 ("base","MAIN","8B577DFE","Playboy X 现在不在。请在晚上十点到凌晨两点之间找他。","Playboy 是角色名 Playboy X，与其它条目统一保留英文"),
 ("base","MAIN","A530F01E","尼克，记住，想赚钱的话可以找我接开出租的活。罗曼","Niko 按口径统一「尼克」"),
 ]
-with io.open(r"C:\Game\Grand Theft Auto IV\gta4-chs\build\tmp_q\fixes_p1_07100.tsv","w",encoding="utf-8",newline="\n") as f:
+with io.open(r"C:\Game\gta4-chs\build\tmp_q\fixes_p1_07100.tsv","w",encoding="utf-8",newline="\n") as f:
     f.write("chapter\ttable\tcrc\t新译正文\t理由\n")
     for r in rows:
         f.write("\t".join(r)+"\n")

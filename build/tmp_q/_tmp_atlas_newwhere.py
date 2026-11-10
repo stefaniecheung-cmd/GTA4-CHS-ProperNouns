@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 from PIL import Image
 
-W = r"C:\Game\Grand Theft Auto IV\gta4-chs\build\atlas_work"
+W = r"C:\Game\gta4-chs\build\atlas_work"
 S = 4096
 
 old = Image.open(W + r"\atlas_base_px.png").convert("RGBA").split()[3].tobytes()

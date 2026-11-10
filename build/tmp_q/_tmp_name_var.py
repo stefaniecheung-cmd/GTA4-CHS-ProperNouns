@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 import io, csv, re
 csv.field_size_limit(10**9)
-ZG = r"C:\Game\Grand Theft Auto IV\gta4-chs\data\zh_global.tsv"
+ZG = r"C:\Game\gta4-chs\data\zh_global.tsv"
 
 VAR = ["尼克", "尼科", "尼可", "Niko", "NICKO", "Nico",
        "罗曼", "羅曼", "Roman", "ROMAN", "罗曼表哥", "表哥"]

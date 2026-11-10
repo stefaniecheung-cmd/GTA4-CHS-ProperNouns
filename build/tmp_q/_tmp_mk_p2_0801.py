@@ -14,7 +14,7 @@ rows = [
 ("base","MAIN","9AC78535","~s~按下~INPUT_PICKUP~或~CANCEL~，或点击桌面上的「LOGOUT」图标以退出本机。","原文只说 on the desktop，原译自加「右下角」"),
 ("base","MAIN","A31B6CAD","NB，你在哪儿，兄弟？你他妈到底在哪儿？我敢说你现在肯定不是戴着金链子、搂着姑娘、揣着钞票——因为那才是我现在的样子。 - B","原译「肯定不是项戴大金链子、手持碧绿票子、身下骑着婊子」句式断裂且「项戴」为错字"),
 ]
-with io.open(r"C:\Game\Grand Theft Auto IV\gta4-chs\build\tmp_q\fixes_p2_0801.tsv","w",encoding="utf-8",newline="\n") as f:
+with io.open(r"C:\Game\gta4-chs\build\tmp_q\fixes_p2_0801.tsv","w",encoding="utf-8",newline="\n") as f:
     f.write("chapter\ttable\tcrc\t新译正文\t理由\n")
     for r in rows:
         f.write("\t".join(r)+"\n")

@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 from PIL import Image
 
-OUT = r"C:\Game\Grand Theft Auto IV\gta4-chs\build\atlas_work"
+OUT = r"C:\Game\gta4-chs\build\atlas_work"
 for n in ("p0_font1", "p0_font2"):
     im = Image.open(OUT + "\\" + n + ".png").convert("RGBA")
     a = im.split()[3]

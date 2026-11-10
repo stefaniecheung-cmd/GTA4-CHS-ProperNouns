@@ -4,7 +4,7 @@ from collections import Counter
 csv.field_size_limit(10**9)
 
 CT = r"C:\Users\yy253\Desktop\GTA4汉化补丁2026-11-09\release\plugins\GTA4.CHS\char_table.dat"
-B = r"C:\Game\Grand Theft Auto IV\gta4-chs\build"
+B = r"C:\Game\gta4-chs\build"
 
 data = open(CT, "rb").read()
 n = struct.unpack("<I", data[:4])[0]

@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 import io, json, os, hashlib, shutil
 
-P = r"C:\Game\Grand Theft Auto IV\gta4-chs\data\review\润色线-断点.json"
+P = r"C:\Game\gta4-chs\data\review\润色线-断点.json"
 d = json.loads(io.open(P, encoding="utf-8").read())
 
 def sz(p):
@@ -10,9 +10,9 @@ def sha16(p):
     h = hashlib.sha256(open(p, "rb").read()).hexdigest().upper()
     return h[:16]
 
-b = r"C:\Game\Grand Theft Auto IV\gta4-chs\build"
-zg = r"C:\Game\Grand Theft Auto IV\gta4-chs\data\zh_global.tsv"
-lg = r"C:\Game\Grand Theft Auto IV\gta4-chs\data\review\上游润色_审读日志.tsv"
+b = r"C:\Game\gta4-chs\build"
+zg = r"C:\Game\gta4-chs\data\zh_global.tsv"
+lg = r"C:\Game\gta4-chs\data\review\上游润色_审读日志.tsv"
 
 d["updated"] = "2026-11-09 23:40:00"
 d["p2"] = {"total": 1113, "offset_done": 1113, "remaining": 0, "next_from": 1114,

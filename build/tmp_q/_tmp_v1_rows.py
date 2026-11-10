@@ -3,7 +3,7 @@ import struct
 from PIL import Image
 
 V1 = r"C:\Users\yy253\Desktop\GTA4 简中补丁之补丁（含AI翻译）v1.0"
-PNG = r"C:\Game\Grand Theft Auto IV\gta4-chs\build\atlas_work\v1_base.png"
+PNG = r"C:\Game\gta4-chs\build\atlas_work\v1_base.png"
 CT = V1 + r"\plugins\GTA4.CHS\char_table.dat"
 
 raw = open(CT, "rb").read()

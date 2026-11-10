@@ -12,7 +12,7 @@ rows = [
 ("base","MAIN","1084AEED","~s~~1~:~1~ 前到 SoBoHoe 家。","原译把时间标签与拉丁名挤在一起，缺分隔空格"),
 ("base","MAIN","EE1CD506","有未读短信时，小地图下方会显示信封图标。","below the radar 是「小地图下方」，原译「上方」方向反"),
 ]
-with io.open(r"C:\Game\Grand Theft Auto IV\gta4-chs\build\tmp_q\fixes_p1_06666.tsv","w",encoding="utf-8",newline="\n") as f:
+with io.open(r"C:\Game\gta4-chs\build\tmp_q\fixes_p1_06666.tsv","w",encoding="utf-8",newline="\n") as f:
     f.write("chapter\ttable\tcrc\t新译正文\t理由\n")
     for r in rows:
         f.write("\t".join(r)+"\n")

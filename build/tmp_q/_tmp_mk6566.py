@@ -12,7 +12,7 @@ rows = [
 ("base","MAIN","F777A5C4","~z~~x~今晚夜色真好。","It's a beautiful night 是陈述当下夜色，原译「今晚一定会是个不错的夜晚」加了推测"),
 ("base","MAIN","56DABBFC","按~INPUT_PICKUP~投放炸弹。","drop the bomb 是「投下炸弹」，原译「丢弃炸弹」把投弹译成扔掉"),
 ]
-with io.open(r"C:\Game\Grand Theft Auto IV\gta4-chs\build\tmp_q\fixes_p1_06566.tsv","w",encoding="utf-8",newline="\n") as f:
+with io.open(r"C:\Game\gta4-chs\build\tmp_q\fixes_p1_06566.tsv","w",encoding="utf-8",newline="\n") as f:
     f.write("chapter\ttable\tcrc\t新译正文\t理由\n")
     for r in rows:
         f.write("\t".join(r)+"\n")

@@ -177,8 +177,8 @@ V = (行 - 基值) * (40/512) + 4/512 - 39.5/512
 
 ### 源与脚本
 
-- 源码 `C:\Game\Grand Theft Auto IV\gta4-chs\src\`（`font.cpp` / `font.h` / `dllmain.cpp` / `build.bat`）
-- 重编译：`cd "C:\Game\Grand Theft Auto IV\gta4-chs\src"; cmd /c build.bat` → `out\z_gta4cn.asi`
+- 源码 `C:\Game\gta4-chs\src\`（`font.cpp` / `font.h` / `dllmain.cpp` / `build.bat`）
+- 重编译：`cd "C:\Game\gta4-chs\src"; cmd /c build.bat` → `out\z_gta4cn.asi`
 - 反汇编：`python -X utf8 C:\Game\_tools\p4_dis.py <VA-0x400000> <len>`（`0x921534`→`521534`，`0x9216BF`→`5216BF`）
 - 搜绝对引用：`p4_disp_refs.py`（收绝对 VA）；搜调用者：`p4_callers2.py`（改 `TARGETS`，收绝对 VA）
 - wtd 取证：`p4_wtd_scan.py` / `p4_wtd_scan2.py` / `p4_verify_wtd.py`

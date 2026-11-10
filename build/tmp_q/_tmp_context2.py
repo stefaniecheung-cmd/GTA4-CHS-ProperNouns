@@ -3,7 +3,7 @@ import io, os, sys, csv
 csv.field_size_limit(10**9)
 sys.path.insert(0, r"C:\Game\_tools")
 from gxt_extract import parse_gxt
-ROOT = r"C:\Game\Grand Theft Auto IV\gta4-chs"
+ROOT = r"C:\Game\gta4-chs"
 V10 = r"C:\Users\yy253\Desktop\GTA4 简中补丁之补丁（含AI翻译）v1.0"
 
 def gxt_map(p):

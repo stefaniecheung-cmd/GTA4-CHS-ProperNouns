@@ -9,7 +9,7 @@ rows = [
 ("base","MAIN","04A0ACE8","~z~只需 39,999 美元就能拯救地球。Karin Dilettante。坏加好，等于对大家都更好。","Dilettante 是车型专名，按口径保留英文，原译「半吊子」把车名意译；Kirin 系 Karin 品牌误拼，按原文品牌统一"),
 ("base","MAIN","6F20029D","尼克，我正坐救护车去医院。你不管我的电话，他们就把我揍了一顿。他们还说以后还来找我。","Niko 按口径统一「尼克」；ignored my call 是「没接我的电话」"),
 ]
-with io.open(r"C:\Game\Grand Theft Auto IV\gta4-chs\build\tmp_q\fixes_p2_0601.tsv","w",encoding="utf-8",newline="\n") as f:
+with io.open(r"C:\Game\gta4-chs\build\tmp_q\fixes_p2_0601.tsv","w",encoding="utf-8",newline="\n") as f:
     f.write("chapter\ttable\tcrc\t新译正文\t理由\n")
     for r in rows:
         f.write("\t".join(r)+"\n")

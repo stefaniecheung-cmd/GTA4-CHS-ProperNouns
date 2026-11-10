@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 import io, os, csv
 csv.field_size_limit(10**9)
-GP = r"C:\Game\Grand Theft Auto IV\gta4-chs\data\zh_global.tsv"
+GP = r"C:\Game\gta4-chs\data\zh_global.tsv"
 NEW = "~z~这是我抛头露面的马甲。~n~我还是希望你称呼我「名人终结者」。"
 CRC = "C12FFF32"; CH = "TBoGT"
 

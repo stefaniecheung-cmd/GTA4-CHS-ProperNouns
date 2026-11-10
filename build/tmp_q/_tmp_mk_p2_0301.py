@@ -7,7 +7,7 @@ rows = [
 ("base","MAIN","269D16C4","尼克，你开这玩意儿简直跟职业选手一样，行吧？你跟我一样是赢家，兄弟。","Nicky 按口径统一「尼克」"),
 ("base","MAIN","2C97F610","干得漂亮，尼克。你是赢家，跟布鲁斯一样。我没说错吧，女士们？","Nicky 按口径统一「尼克」"),
 ]
-with io.open(r"C:\Game\Grand Theft Auto IV\gta4-chs\build\tmp_q\fixes_p2_0301.tsv","w",encoding="utf-8",newline="\n") as f:
+with io.open(r"C:\Game\gta4-chs\build\tmp_q\fixes_p2_0301.tsv","w",encoding="utf-8",newline="\n") as f:
     f.write("chapter\ttable\tcrc\t新译正文\t理由\n")
     for r in rows:
         f.write("\t".join(r)+"\n")

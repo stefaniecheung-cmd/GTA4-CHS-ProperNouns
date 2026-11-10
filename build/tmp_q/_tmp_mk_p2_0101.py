@@ -24,7 +24,7 @@ rows = [
 ("base","MAIN","1A0D5A97","太不地道了，NB。太他妈不地道了。说好来医院接我，就得准时来。 - B","when you say you will 是「说好什么时候就什么时候」，原译「谢谢」与句意无关"),
 ("base","MAIN","9D8EA450","给我打电话，尼克。我们再出去约一次吧。我真的很想多了解你一点。xx","Niko 按口径统一「尼克」"),
 ]
-with io.open(r"C:\Game\Grand Theft Auto IV\gta4-chs\build\tmp_q\fixes_p2_0101.tsv","w",encoding="utf-8",newline="\n") as f:
+with io.open(r"C:\Game\gta4-chs\build\tmp_q\fixes_p2_0101.tsv","w",encoding="utf-8",newline="\n") as f:
     f.write("chapter\ttable\tcrc\t新译正文\t理由\n")
     for r in rows:
         f.write("\t".join(r)+"\n")

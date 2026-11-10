@@ -10,7 +10,7 @@ n = struct.unpack_from("<I", raw, 0)[0]
 cps = [struct.unpack_from("<I", raw, 4 + 4 * i)[0] for i in range(n)]
 idx_of = {chr(c): i for i, c in enumerate(cps)}
 
-BUILD = r"C:\Game\Grand Theft Auto IV\gta4-chs\build"
+BUILD = r"C:\Game\gta4-chs\build"
 GXTS = ["zchs_base_tr.gxt", "zchs_TLAD_tr.gxt", "zchs_TBoGT_tr.gxt"]
 
 try:

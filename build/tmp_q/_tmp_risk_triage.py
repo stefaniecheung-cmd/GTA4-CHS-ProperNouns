@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 import csv, io, os, collections
 csv.field_size_limit(10**9)
-OUT = r"C:\Game\Grand Theft Auto IV\gta4-chs\build\cmp_assets"
+OUT = r"C:\Game\gta4-chs\build\cmp_assets"
 
 def load(fn):
     p = os.path.join(OUT, fn)

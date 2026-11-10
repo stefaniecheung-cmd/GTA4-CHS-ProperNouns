@@ -17,7 +17,7 @@ rows = [
 ("base","MAIN","4707AF14","载入内容中。请不要关闭您的系统。","原文无 ~n~，原译多插了换行标签"),
 ("base","MAIN","8900A803","载入内容中。请不要关闭您的系统。","原文无 ~n~，原译多插了换行标签"),
 ]
-with io.open(r"C:\Game\Grand Theft Auto IV\gta4-chs\build\tmp_q\fixes_p1_06900.tsv","w",encoding="utf-8",newline="\n") as f:
+with io.open(r"C:\Game\gta4-chs\build\tmp_q\fixes_p1_06900.tsv","w",encoding="utf-8",newline="\n") as f:
     f.write("chapter\ttable\tcrc\t新译正文\t理由\n")
     for r in rows:
         f.write("\t".join(r)+"\n")

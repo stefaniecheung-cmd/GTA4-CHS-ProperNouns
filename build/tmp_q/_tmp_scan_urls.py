@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 import os, re, io
-REL = r"C:\Game\Grand Theft Auto IV\gta4-chs\release\GTA4-CHS-zh"
+REL = r"C:\Game\gta4-chs\release\GTA4-CHS-zh"
 url = re.compile(r"https?://[^\s()）】\]]+")
 exts = {".txt", ".md", ".tsv", ".json", ".ini", ".bat", ".cfg"}
 for root, _, files in os.walk(REL):

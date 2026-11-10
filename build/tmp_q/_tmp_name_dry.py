@@ -2,7 +2,7 @@
 import io, csv, re
 from collections import Counter
 csv.field_size_limit(10**9)
-ZG = r"C:\Game\Grand Theft Auto IV\gta4-chs\data\zh_global.tsv"
+ZG = r"C:\Game\gta4-chs\data\zh_global.tsv"
 
 pat = re.compile(r"(尼克|尼科|罗曼)")
 follow_cjk = Counter()

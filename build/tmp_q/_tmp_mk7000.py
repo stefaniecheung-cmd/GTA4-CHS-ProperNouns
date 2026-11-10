@@ -13,7 +13,7 @@ rows = [
 ("base","MAIN","48E91EA3","那个不是马龙！附近还有另一伙人吗？ - the X","another group near by 是「附近还有另一伙」，原译「人群聚集」把 group 译成群体集合"),
 ("base","MAIN","701D6419","再飞高点，尼克。姑娘们想看看这玩意儿。","Nicky 统一「尼克」；this thing 指眼前的东西，原译「看得清楚些」把宾语换了"),
 ]
-with io.open(r"C:\Game\Grand Theft Auto IV\gta4-chs\build\tmp_q\fixes_p1_07000.tsv","w",encoding="utf-8",newline="\n") as f:
+with io.open(r"C:\Game\gta4-chs\build\tmp_q\fixes_p1_07000.tsv","w",encoding="utf-8",newline="\n") as f:
     f.write("chapter\ttable\tcrc\t新译正文\t理由\n")
     for r in rows:
         f.write("\t".join(r)+"\n")

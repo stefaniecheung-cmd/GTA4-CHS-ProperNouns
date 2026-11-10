@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 import io, shutil
-zg = r"C:\Game\Grand Theft Auto IV\gta4-chs\data\zh_global.tsv"
-lg = r"C:\Game\Grand Theft Auto IV\gta4-chs\data\review\上游润色_审读日志.tsv"
+zg = r"C:\Game\gta4-chs\data\zh_global.tsv"
+lg = r"C:\Game\gta4-chs\data\review\上游润色_审读日志.tsv"
 shutil.copy2(zg, zg + ".bak_before_p1dup")
 shutil.copy2(lg, lg + ".bak_before_p1dup")
 crcs = ["555B588D","5DEAC486","7772096E","7F33465E","C34B807E","C4E0B1FD","D76A224A","DE199A4A","0941C360","11871D0D"]

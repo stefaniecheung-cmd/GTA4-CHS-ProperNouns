@@ -2,7 +2,7 @@
 """97 条缺口切分：拍板保留 vs 待决策候选；候选再按原因标注。"""
 import csv, io, os, re, collections
 csv.field_size_limit(10**9)
-B = r"C:\Game\Grand Theft Auto IV\gta4-chs\build"
+B = r"C:\Game\gta4-chs\build"
 SRC = os.path.join(B, r"cmp_assets\未译_我方缺口_v10译了.tsv")
 OUT = os.path.join(B, r"cmp_assets\待决策缺口.tsv")
 

@@ -8,7 +8,7 @@ rows = [
  "~z~去。把音响轰起来！",
  "意语 Pompa il volume（把音量开大）/ 法语 Fais péter le son（把音响炸响）/ 西语 Dale caña（加把劲猛干）三语都把 roll 解成「开音响、放起来」，不是「登场」；原译「闪亮登场」无原文依据。"),
 ]
-with io.open(r"C:\Game\Grand Theft Auto IV\gta4-chs\build\tmp_q\fixes_p2_hold2.tsv","w",encoding="utf-8",newline="\n") as f:
+with io.open(r"C:\Game\gta4-chs\build\tmp_q\fixes_p2_hold2.tsv","w",encoding="utf-8",newline="\n") as f:
     f.write("chapter\ttable\tcrc\t新译正文\t理由\n")
     for r in rows:
         f.write("\t".join(r)+"\n")

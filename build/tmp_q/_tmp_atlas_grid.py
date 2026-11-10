@@ -2,7 +2,7 @@
 import os
 from PIL import Image, ImageDraw
 
-W = r"C:\Game\Grand Theft Auto IV\gta4-chs\build\atlas_work"
+W = r"C:\Game\gta4-chs\build\atlas_work"
 im = Image.open(W + r"\atlas_base_px.png").convert("RGBA")
 bg = Image.new("RGBA", im.size, (0, 0, 0, 255)); bg.alpha_composite(im)
 rgb = bg.convert("RGB")

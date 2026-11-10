@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 import io, json, hashlib, os, datetime
 
-base = r"C:\Game\Grand Theft Auto IV\gta4-chs"
+base = r"C:\Game\gta4-chs"
 p = os.path.join(base, "data", "review", "润色线-断点.json")
 d = json.load(io.open(p, encoding="utf-8-sig"))
 

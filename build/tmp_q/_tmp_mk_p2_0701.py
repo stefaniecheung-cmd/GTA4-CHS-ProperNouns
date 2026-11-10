@@ -15,7 +15,7 @@ rows = [
 ("base","MAIN","F2CAA8E4","尼克。怎么样，兄弟？缺什么装备就找我。我车里头装满了这玩意儿，我给你开过来。就这样 - LJ","Niko 按口径统一「尼克」"),
 ("base","MAIN","F4DE0F7B","尼克，你想想，这桩买卖要是成了，我能带玛洛丽去度什么样的蜜月。来吧，就为我做这一回——我是你堂弟。罗曼","Niko 按口径统一「尼克」；cousin 统一「堂弟」"),
 ]
-with io.open(r"C:\Game\Grand Theft Auto IV\gta4-chs\build\tmp_q\fixes_p2_0701.tsv","w",encoding="utf-8",newline="\n") as f:
+with io.open(r"C:\Game\gta4-chs\build\tmp_q\fixes_p2_0701.tsv","w",encoding="utf-8",newline="\n") as f:
     f.write("chapter\ttable\tcrc\t新译正文\t理由\n")
     for r in rows:
         f.write("\t".join(r)+"\n")

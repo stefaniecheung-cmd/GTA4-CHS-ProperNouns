@@ -4,7 +4,7 @@ sys.path.insert(0, r"C:\Game\_tools")
 from gxt_extract import parse_gxt
 
 P1 = r"C:\Users\yy253\Desktop\GTA4汉化补丁2026-11-09\release\update\common\text\american.gxt"
-P2 = r"C:\Game\Grand Theft Auto IV\gta4-chs\build\zchs_base_tr.gxt"
+P2 = r"C:\Game\gta4-chs\build\zchs_base_tr.gxt"
 P3 = r"C:\Game\Grand Theft Auto IV\common\text\american.gxt"
 
 def names(p):

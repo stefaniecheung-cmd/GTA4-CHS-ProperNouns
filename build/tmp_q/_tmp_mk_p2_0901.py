@@ -24,7 +24,7 @@ rows = [
 ("base","MAIN","D16B4584","用~PAD_LEFT~和~PAD_RIGHT~浏览帽子。~n~按~INPUT_FRONTEND_ACCEPT~购买帽子。~n~按~INPUT_PICKUP~不买帽子离开。","两键名之间缺「和」；leave hat 漏译宾语"),
 ("base","MAIN","DF2EE10B","用~PAD_LEFT~和~PAD_RIGHT~浏览眼镜。~n~按~INPUT_FRONTEND_ACCEPT~购买眼镜。~n~按~INPUT_PICKUP~不买眼镜离开。","两键名之间缺「和」；leave glasses 漏译宾语"),
 ]
-with io.open(r"C:\Game\Grand Theft Auto IV\gta4-chs\build\tmp_q\fixes_p2_0901.tsv","w",encoding="utf-8",newline="\n") as f:
+with io.open(r"C:\Game\gta4-chs\build\tmp_q\fixes_p2_0901.tsv","w",encoding="utf-8",newline="\n") as f:
     f.write("chapter\ttable\tcrc\t新译正文\t理由\n")
     for r in rows:
         f.write("\t".join(r)+"\n")

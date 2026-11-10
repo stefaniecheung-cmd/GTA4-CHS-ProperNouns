@@ -3,7 +3,7 @@ import io, os, sys, csv
 csv.field_size_limit(10**9)
 sys.path.insert(0, r"C:\Game\_tools")
 from gxt_extract import parse_gxt
-ROOT = r"C:\Game\Grand Theft Auto IV\gta4-chs"
+ROOT = r"C:\Game\gta4-chs"
 
 # 1) zh_global 原始目标行
 print("=== zh_global.tsv 目标行（物理行）===")

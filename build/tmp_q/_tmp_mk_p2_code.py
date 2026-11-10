@@ -20,7 +20,7 @@ rows = [
  "「好啊，来啊！把三明治机和熔岩灯都拿出来。」",
  "与 TLAD 的 446D60CD 原文逐字相同；sandwich maker 原译「擀面杖」错物，改「三明治机」；删除自加的 * 与括注。"),
 ]
-with io.open(r"C:\Game\Grand Theft Auto IV\gta4-chs\build\tmp_q\fixes_p2_code.tsv","w",encoding="utf-8",newline="\n") as f:
+with io.open(r"C:\Game\gta4-chs\build\tmp_q\fixes_p2_code.tsv","w",encoding="utf-8",newline="\n") as f:
     f.write("chapter\ttable\tcrc\t新译正文\t理由\n")
     for r in rows:
         f.write("\t".join(r)+"\n")

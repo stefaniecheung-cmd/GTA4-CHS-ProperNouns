@@ -79,7 +79,7 @@ rows = [
  "~n~比赛在被禁止的地区无效。无需购买。由 Rockstar Games 赞助，地址：622 Broadway, New York, NY, USA。",
  "与 1D3BDEAC 统一；原译自加了两处 ~n~（原文该处无换行），已按原文去掉"),
 ]
-with io.open(r"C:\Game\Grand Theft Auto IV\gta4-chs\build\tmp_q\fixes_p2_eula.tsv","w",encoding="utf-8",newline="\n") as f:
+with io.open(r"C:\Game\gta4-chs\build\tmp_q\fixes_p2_eula.tsv","w",encoding="utf-8",newline="\n") as f:
     f.write("chapter\ttable\tcrc\t新译正文\t理由\n")
     for r in rows:
         f.write("\t".join(r)+"\n")

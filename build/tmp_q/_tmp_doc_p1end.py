@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 import io
 
-p = r"C:\Game\Grand Theft Auto IV\gta4-chs\docs\润色线-进度存档.md"
+p = r"C:\Game\gta4-chs\docs\润色线-进度存档.md"
 raw = io.open(p, "rb").read()
 enc = "utf-8-sig" if raw[:3] == b"\xef\xbb\xbf" else "utf-8"
 

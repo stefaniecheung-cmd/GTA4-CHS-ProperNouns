@@ -7,8 +7,8 @@ from gxt_extract import parse_gxt
 
 PATCH = r"C:\Users\yy253\Desktop\汉化补丁+FUSIONFIX5.1.2+Solitude 3 Fix\release"
 CT = PATCH + r"\plugins\GTA4.CHS\char_table.dat"
-PNG = r"C:\Game\Grand Theft Auto IV\gta4-chs\build\atlas_work\_rel_pc.png"
-OUT = r"C:\Game\Grand Theft Auto IV\gta4-chs\build\atlas_work"
+PNG = r"C:\Game\gta4-chs\build\atlas_work\_rel_pc.png"
+OUT = r"C:\Game\gta4-chs\build\atlas_work"
 
 raw = open(CT, "rb").read()
 n = struct.unpack_from("<I", raw, 0)[0]

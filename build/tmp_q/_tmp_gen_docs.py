@@ -3,8 +3,8 @@
 txt 为 UTF-8 BOM + CRLF；README.md 为 UTF-8 LF。"""
 import os, shutil, csv, io
 
-REL = r"C:\Game\Grand Theft Auto IV\gta4-chs\release\GTA4-CHS-zh"
-DATA = r"C:\Game\Grand Theft Auto IV\gta4-chs\data"
+REL = r"C:\Game\gta4-chs\release\GTA4-CHS-zh"
+DATA = r"C:\Game\gta4-chs\data"
 
 def wtxt(name, text):
     p = os.path.join(REL, name)

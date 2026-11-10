@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 from PIL import Image
 
-PNG = r"C:\Game\Grand Theft Auto IV\gta4-chs\build\atlas_work\v1_base.png"
+PNG = r"C:\Game\gta4-chs\build\atlas_work\v1_base.png"
 im = Image.open(PNG).convert("RGBA")
 a = im.split()[3]
 W, H = im.size

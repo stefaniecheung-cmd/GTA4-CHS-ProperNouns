@@ -12,7 +12,7 @@ rows = [
 ("base","MAIN","B9255713","是啊兄弟，看看这玩意儿，我的兄弟。","check this shit out 是「看看这玩意儿」，原译「你尽管挑吧」完全错解；ma bredren 是「我的兄弟」"),
 ("base","MAIN","B93C303D","一爱，尼克。我们很快就会再见。","One love 是拉斯塔法里式问候「一爱」（保重/再见），I and I 是「我们」；Niko 统一「尼克」"),
 ]
-with io.open(r"C:\Game\Grand Theft Auto IV\gta4-chs\build\tmp_q\fixes_p1_06466.tsv","w",encoding="utf-8",newline="\n") as f:
+with io.open(r"C:\Game\gta4-chs\build\tmp_q\fixes_p1_06466.tsv","w",encoding="utf-8",newline="\n") as f:
     f.write("chapter\ttable\tcrc\t新译正文\t理由\n")
     for r in rows:
         f.write("\t".join(r)+"\n")

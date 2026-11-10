@@ -2,7 +2,7 @@
 import os
 from PIL import Image
 
-W = r"C:\Game\Grand Theft Auto IV\gta4-chs\build\atlas_work"
+W = r"C:\Game\gta4-chs\build\atlas_work"
 
 for ch in ("base", "TLAD", "TBoGT"):
     p = os.path.join(W, f"atlas_{ch}_px.png")

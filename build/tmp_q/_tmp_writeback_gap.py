@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 import io, os, shutil, csv, sys
 csv.field_size_limit(10**9)
-ROOT = r"C:\Game\Grand Theft Auto IV\gta4-chs"
+ROOT = r"C:\Game\gta4-chs"
 GP = os.path.join(ROOT, "data", "zh_global.tsv")
 BK = os.path.join(ROOT, "build", "tmp_q", "backup_zh_global_20261110.tsv")
 

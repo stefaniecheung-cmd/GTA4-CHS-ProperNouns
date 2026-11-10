@@ -2,7 +2,7 @@
 """对 ~s~ 出入做位置分级：句尾重置=低风险；句中彩色段=串色风险。"""
 import csv, io, os, re, collections
 csv.field_size_limit(10**9)
-B = r"C:\Game\Grand Theft Auto IV\gta4-chs\build\cmp_assets"
+B = r"C:\Game\gta4-chs\build\cmp_assets"
 SRC = os.path.join(B, "风险_控制符_en基准.tsv")
 
 CODE = re.compile(r"~[A-Za-z0-9_]+~")

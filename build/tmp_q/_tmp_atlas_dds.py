@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 import struct, os, subprocess
 
-W = r"C:\Game\Grand Theft Auto IV\gta4-chs\build\atlas_work"
+W = r"C:\Game\gta4-chs\build\atlas_work"
 
 def dds_hdr(w, h, fourcc=b"DXT5", size=0):
     hdr = bytearray()

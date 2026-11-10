@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 import io, shutil, os, json, hashlib
 
-RV = r"C:\Game\Grand Theft Auto IV\gta4-chs\data\review"
+RV = r"C:\Game\gta4-chs\data\review"
 HOLD = os.path.join(RV, "挂起待拍板.tsv")
 DONE = os.path.join(RV, "挂起待拍板_已处理_20261109.tsv")
 
@@ -67,11 +67,11 @@ with io.open(HOLD, "w", encoding="utf-8-sig", newline="\n") as f:
 print("done", len(done), "closed", len(closed), "remain", len(remain))
 
 # 断点 JSON 刷新
-P = r"C:\Game\Grand Theft Auto IV\gta4-chs\data\review\润色线-断点.json"
+P = r"C:\Game\gta4-chs\data\review\润色线-断点.json"
 d = json.loads(io.open(P, encoding="utf-8").read())
-B = r"C:\Game\Grand Theft Auto IV\gta4-chs\build"
-ZG = r"C:\Game\Grand Theft Auto IV\gta4-chs\data\zh_global.tsv"
-LG = r"C:\Game\Grand Theft Auto IV\gta4-chs\data\review\上游润色_审读日志.tsv"
+B = r"C:\Game\gta4-chs\build"
+ZG = r"C:\Game\gta4-chs\data\zh_global.tsv"
+LG = r"C:\Game\gta4-chs\data\review\上游润色_审读日志.tsv"
 
 def sha16(p):
     return hashlib.sha256(open(p, "rb").read()).hexdigest().upper()[:16]

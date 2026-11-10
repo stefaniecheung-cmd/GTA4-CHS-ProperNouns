@@ -28,7 +28,7 @@ if new[:len(old)] != old:
             print("  首个不一致位置", i, hex(a), hex(b)); break
 
 # 我们的译文用字
-B = r"C:\Game\Grand Theft Auto IV\gta4-chs\build"
+B = r"C:\Game\gta4-chs\build"
 used = set()
 for ch in ("base", "TLAD", "TBoGT"):
     with io.open(rf"{B}\src_{ch}_tr.tsv", encoding="utf-8") as f:

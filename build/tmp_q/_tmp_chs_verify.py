@@ -20,7 +20,7 @@ dup = n - len(set(cps))
 print("重复码点数 =", dup)
 
 # 图集验证：用原版补丁图集
-PNG = r"C:\Game\Grand Theft Auto IV\gta4-chs\build\atlas_work\atlas_base_px.png"
+PNG = r"C:\Game\gta4-chs\build\atlas_work\atlas_base_px.png"
 im = Image.open(PNG).convert("RGBA")
 a = im.split()[3]
 W, H = im.size

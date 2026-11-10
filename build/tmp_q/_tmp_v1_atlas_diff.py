@@ -2,7 +2,7 @@
 import struct, zlib, os, subprocess
 from PIL import Image, ImageChops
 
-W = r"C:\Game\Grand Theft Auto IV\gta4-chs\build\atlas_work"
+W = r"C:\Game\gta4-chs\build\atlas_work"
 os.makedirs(W, exist_ok=True)
 Z = r"C:\Users\yy253\Desktop\GTA4 简中补丁之补丁（含AI翻译）v1.0"
 tc = r"C:\Game\_tools\texconv.exe"

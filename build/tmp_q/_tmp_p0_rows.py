@@ -3,7 +3,7 @@ import struct
 from PIL import Image
 
 P0 = r"C:\Users\yy253\Desktop\汉化补丁+FUSIONFIX5.1.2+Solitude 3 Fix\release\plugins\GTA4.CHS\char_table.dat"
-PNG = r"C:\Game\Grand Theft Auto IV\gta4-chs\build\atlas_work\atlas_base_px.png"
+PNG = r"C:\Game\gta4-chs\build\atlas_work\atlas_base_px.png"
 
 raw = open(P0, "rb").read()
 n = struct.unpack_from("<I", raw, 0)[0]

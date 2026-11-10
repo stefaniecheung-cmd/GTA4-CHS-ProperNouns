@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 import csv, io, os, sys
 csv.field_size_limit(10**9)
-BUILD = r"C:\Game\Grand Theft Auto IV\gta4-chs\build"
+BUILD = r"C:\Game\gta4-chs\build"
 # 读缺口清单
 gap = list(csv.DictReader(io.open(os.path.join(BUILD, r"cmp_assets\未译_我方缺口_v10译了.tsv"), encoding="utf-8-sig"), delimiter="\t"))
 # corpus 英文

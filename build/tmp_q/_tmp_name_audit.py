@@ -2,8 +2,8 @@
 import io, csv, re
 from collections import Counter, defaultdict
 csv.field_size_limit(10**9)
-B = r"C:\Game\Grand Theft Auto IV\gta4-chs\build"
-ZG = r"C:\Game\Grand Theft Auto IV\gta4-chs\data\zh_global.tsv"
+B = r"C:\Game\gta4-chs\build"
+ZG = r"C:\Game\gta4-chs\data\zh_global.tsv"
 CODE = re.compile(r"~[a-zA-Z0-9_]+~")
 
 # 1) src 表里含「尼克」/「Niko」的分布

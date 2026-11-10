@@ -5,7 +5,7 @@
 卸载：还原 update 目录 6 个原版基底，删除主 asi、CHS 文件夹、mapfix.asi。"""
 import os
 
-REL = r"C:\Game\Grand Theft Auto IV\gta4-chs\release\GTA4-CHS-zh"
+REL = r"C:\Game\gta4-chs\release\GTA4-CHS-zh"
 
 # 卸载时还原为原版基底的 update 目录文件（原版游戏有对应文件）
 RESTORE = [

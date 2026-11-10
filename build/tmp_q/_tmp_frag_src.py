@@ -4,7 +4,7 @@ csv.field_size_limit(10**9)
 sys.path.insert(0, r"C:\Game\_tools")
 from gxt_extract import parse_gxt
 
-B = r"C:\Game\Grand Theft Auto IV\gta4-chs\build"
+B = r"C:\Game\gta4-chs\build"
 CODE = re.compile(r"~[a-zA-Z0-9_]+~")
 # 碎片形态：去掉控制符后只有 1-3 个纯小写字母（或残缺音节）
 FRAG = re.compile(r"^[A-Za-z]{1,3}$")

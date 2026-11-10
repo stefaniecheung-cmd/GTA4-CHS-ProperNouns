@@ -8,7 +8,7 @@ data = open(CT, "rb").read()
 n = struct.unpack("<I", data[:4])[0]
 cps = set(struct.unpack("<I", data[4 + i*4:8 + i*4])[0] for i in range(n))
 
-B = r"C:\Game\Grand Theft Auto IV\gta4-chs\build"
+B = r"C:\Game\gta4-chs\build"
 rows = []
 for ch in ["base", "TLAD", "TBoGT"]:
     with io.open(rf"{B}\src_{ch}_tr.tsv", encoding="utf-8") as f:

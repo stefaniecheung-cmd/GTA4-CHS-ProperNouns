@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 import io
 
-p = r"C:\Game\Grand Theft Auto IV\gta4-chs\docs\润色流水线-已知坑.md"
+p = r"C:\Game\gta4-chs\docs\润色流水线-已知坑.md"
 
 sec = """
 ## 坑：fixes 的「新译正文」不能以颜色标签开头（P1 段实证，一次 10 条）

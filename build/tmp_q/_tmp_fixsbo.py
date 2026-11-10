@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 import io, shutil
-zg = r"C:\Game\Grand Theft Auto IV\gta4-chs\data\zh_global.tsv"
-lg = r"C:\Game\Grand Theft Auto IV\gta4-chs\data\review\上游润色_审读日志.tsv"
+zg = r"C:\Game\gta4-chs\data\zh_global.tsv"
+lg = r"C:\Game\gta4-chs\data\review\上游润色_审读日志.tsv"
 shutil.copy2(zg, zg + ".bak_before_sbo")
 shutil.copy2(lg, lg + ".bak_before_sbo")
 old = "~s~~1~~s~~1~:~1~ 前到 SoBoHoe 家。"

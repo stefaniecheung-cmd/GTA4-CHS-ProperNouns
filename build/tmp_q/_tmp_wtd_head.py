@@ -2,7 +2,7 @@
 import struct, zlib, os, re
 
 P = r"C:\Users\yy253\Desktop\汉化补丁+FUSIONFIX5.1.2+Solitude 3 Fix\release\update\pc\textures\fonts.wtd"
-OUT = r"C:\Game\Grand Theft Auto IV\gta4-chs\build\atlas_work"
+OUT = r"C:\Game\gta4-chs\build\atlas_work"
 raw = open(P, "rb").read()
 start = raw.find(b"\x78\xda")
 dec = zlib.decompress(raw[start:])

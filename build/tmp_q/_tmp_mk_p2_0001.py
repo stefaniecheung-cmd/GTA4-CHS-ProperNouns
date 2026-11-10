@@ -23,7 +23,7 @@ rows = [
 ("TLAD","MAIN","B6CC48F4","小地图上方显示的信息，表明你的 Lost 帮成员经过战斗磨砺到什么程度；程度由名字旁边的色条表示。","how fight hardened your Lost gang members are 是「战斗磨砺程度」，原译「此次作战对你战友的强化程度」把主动磨砺译成被动强化"),
 ("TLAD","MAIN","A1643EC9","干得漂亮。想听你那台窃听器，就打 123-555-0160。 - TS III","原文 Call ... if you want to tune into that listening device of yours 是条件句，原译把它压成「如果你要听」的短句且缺标点"),
 ]
-with io.open(r"C:\Game\Grand Theft Auto IV\gta4-chs\build\tmp_q\fixes_p2_0001.tsv","w",encoding="utf-8",newline="\n") as f:
+with io.open(r"C:\Game\gta4-chs\build\tmp_q\fixes_p2_0001.tsv","w",encoding="utf-8",newline="\n") as f:
     f.write("chapter\ttable\tcrc\t新译正文\t理由\n")
     for r in rows:
         f.write("\t".join(r)+"\n")

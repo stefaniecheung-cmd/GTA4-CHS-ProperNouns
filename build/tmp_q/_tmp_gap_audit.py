@@ -6,9 +6,9 @@ from gxt_extract import parse_gxt
 
 PATCH = r"C:\Users\yy253\Desktop\汉化补丁+FUSIONFIX5.1.2+Solitude 3 Fix\release"
 CT = PATCH + r"\plugins\GTA4.CHS\char_table.dat"
-MINE = [r"C:\Game\Grand Theft Auto IV\gta4-chs\build\zchs_base_tr.gxt",
-        r"C:\Game\Grand Theft Auto IV\gta4-chs\build\zchs_TLAD_tr.gxt",
-        r"C:\Game\Grand Theft Auto IV\gta4-chs\build\zchs_TBoGT_tr.gxt"]
+MINE = [r"C:\Game\gta4-chs\build\zchs_base_tr.gxt",
+        r"C:\Game\gta4-chs\build\zchs_TLAD_tr.gxt",
+        r"C:\Game\gta4-chs\build\zchs_TBoGT_tr.gxt"]
 
 raw = open(CT, "rb").read()
 n = struct.unpack_from("<I", raw, 0)[0]

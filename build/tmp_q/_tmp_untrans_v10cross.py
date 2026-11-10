@@ -5,13 +5,13 @@ csv.field_size_limit(10**9)
 sys.path.insert(0, r"C:\Game\_tools")
 from gxt_extract import parse_gxt
 
-BUILD = r"C:\Game\Grand Theft Auto IV\gta4-chs\build"
+BUILD = r"C:\Game\gta4-chs\build"
 V10 = {
     "base": r"C:\Users\yy253\Desktop\GTA4 简中补丁之补丁（含AI翻译）v1.0\update\common\text\american.gxt",
     "TLAD": r"C:\Users\yy253\Desktop\GTA4 简中补丁之补丁（含AI翻译）v1.0\update\TLAD\common\text\american.gxt",
     "TBoGT": r"C:\Users\yy253\Desktop\GTA4 简中补丁之补丁（含AI翻译）v1.0\update\TBoGT\common\text\american.gxt",
 }
-OUT = r"C:\Game\Grand Theft Auto IV\gta4-chs\build\cmp_assets\未译_我方缺口_v10译了.tsv"
+OUT = r"C:\Game\gta4-chs\build\cmp_assets\未译_我方缺口_v10译了.tsv"
 
 def has_cjk(s):
     return any("\u4e00" <= x <= "\u9fff" for x in s)

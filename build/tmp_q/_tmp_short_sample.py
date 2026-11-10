@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 import csv, io, os, re, random, collections
 csv.field_size_limit(10**9)
-B = r"C:\Game\Grand Theft Auto IV\gta4-chs\build"
+B = r"C:\Game\gta4-chs\build"
 CODE = re.compile(r"~[A-Za-z0-9_]+~")
 short = []
 for ch in ("base", "TLAD", "TBoGT"):

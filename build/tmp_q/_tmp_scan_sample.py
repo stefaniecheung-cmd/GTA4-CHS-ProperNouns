@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 import io, csv, re
 csv.field_size_limit(10**9)
-B = r"C:\Game\Grand Theft Auto IV\gta4-chs\build"
+B = r"C:\Game\gta4-chs\build"
 CODE = re.compile(r"~[a-zA-Z0-9_]+~")
 WORD = re.compile(r"[A-Za-z][A-Za-z_'-]*")
 

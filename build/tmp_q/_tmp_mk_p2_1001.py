@@ -28,7 +28,7 @@ rows = [
 ("base","MAIN","4BFC85E6","按~INPUT_VEH_EXIT~下车。~n~按~INPUT_FRONTEND_ACCEPT~跳过这段行程。~n~按~PAD_X~加急。~n~用~PAD_RSTICK_ALL~观察四周。~n~用~PAD_LSTICK_UPDOWN~切换目的地。","skip 是跳过这段行程，原译「跳过动画」错层"),
 ("base","MAIN","698ABFB2","按~INPUT_VEH_EXIT~下车。~n~按~INPUT_FRONTEND_ACCEPT~加钱跳过这段行程。~n~按~PAD_X~加急。~n~用~PAD_RSTICK_ALL~观察四周。~n~用~PAD_LSTICK_UPDOWN~切换目的地。","skip at extra cost 是加钱跳过这段行程，原译「跳过动画」错层"),
 ]
-with io.open(r"C:\Game\Grand Theft Auto IV\gta4-chs\build\tmp_q\fixes_p2_1001.tsv","w",encoding="utf-8",newline="\n") as f:
+with io.open(r"C:\Game\gta4-chs\build\tmp_q\fixes_p2_1001.tsv","w",encoding="utf-8",newline="\n") as f:
     f.write("chapter\ttable\tcrc\t新译正文\t理由\n")
     for r in rows:
         f.write("\t".join(r)+"\n")

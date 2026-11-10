@@ -2,7 +2,7 @@
 import os, struct, zlib, sys
 G=r"C:\Game\Grand Theft Auto IV"
 WORK=os.path.join(G,"gta4-chs","build","font_work")
-sys.path.insert(0,r"C:\Game\Grand Theft Auto IV\gta4-chs\build\tmp_q")
+sys.path.insert(0,r"C:\Game\gta4-chs\build\tmp_q")
 
 def read_table(p):
     b=open(p,"rb").read(); n=struct.unpack("<I",b[:4])[0]

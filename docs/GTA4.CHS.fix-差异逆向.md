@@ -338,7 +338,7 @@ fix/旧版这条路要覆盖 **13 个 `E9` 落点 + 3 个捕获 + 一套自绘 h
 
 §7.3 列的三处（`E8` 结案、13 个落点、`whm` 定性）都是**对既有 `P4-hook-落地方案(REA逆向).md` 的补充说明**，我没有动那份文件。若要我改：
 
-- 备份位置：`C:\Game\Grand Theft Auto IV\gta4-chs\docs\P4-hook-落地方案(REA逆向).md.bak_before_fixerrata`（同目录副本，只增不改原文件）
+- 备份位置：`C:\Game\gta4-chs\docs\P4-hook-落地方案(REA逆向).md.bak_before_fixerrata`（同目录副本，只增不改原文件）
 - 回滚方式：删除该 `.bak` 或反向覆盖即可
 - **未执行前，那份文档仍是原文状态**（它不影响游戏，也不影响任何代码）。
 

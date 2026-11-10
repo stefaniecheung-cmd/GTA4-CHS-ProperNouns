@@ -10,7 +10,7 @@ rows = [
 ("base","MAIN","7A5B91A4","按~PAD_BACK~切换视角。~n~按~INPUT_PICKUP~退出舞蹈。","exit dance 是「退出舞蹈」，原译「退出观看」把动作换成观看"),
 ("base","MAIN","CF2A3AE8","用~PAD_RSTICK_ALL~四处观看。~n~按~PAD_BACK~切换视角。~n~按~INPUT_PICKUP~退出舞蹈。","exit dance 是「退出舞蹈」，原译「退出观看」把动作换成观看"),
 ]
-with io.open(r"C:\Game\Grand Theft Auto IV\gta4-chs\build\tmp_q\fixes_p1_07900.tsv","w",encoding="utf-8",newline="\n") as f:
+with io.open(r"C:\Game\gta4-chs\build\tmp_q\fixes_p1_07900.tsv","w",encoding="utf-8",newline="\n") as f:
     f.write("chapter\ttable\tcrc\t新译正文\t理由\n")
     for r in rows:
         f.write("\t".join(r)+"\n")

@@ -125,4 +125,4 @@ Get-Content "$env:TEMP\applylog.txt"
 - `dumpline5.py` 的 E/Z 都是截断文本，不能当完整原文用
 - crc 手抄是最大出错点，落表前逐字核对 dump 行头 8 位
 
-完整版：`C:\Game\Grand Theft Auto IV\gta4-chs\docs\润色流水线-已知坑.md`，`p4_work\给hook窗口_已知坑.md` 另存一份副本。
+完整版：`C:\Game\gta4-chs\docs\润色流水线-已知坑.md`，`p4_work\给hook窗口_已知坑.md` 另存一份副本。

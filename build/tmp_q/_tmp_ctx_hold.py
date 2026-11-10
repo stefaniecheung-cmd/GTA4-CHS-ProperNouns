@@ -3,7 +3,7 @@ import io, sys
 sys.path.insert(0, r"C:\Game\_tools")
 from gxt_extract import parse_gxt
 
-B = r"C:\Game\Grand Theft Auto IV\gta4-chs\build"
+B = r"C:\Game\gta4-chs\build"
 targets = {"E50E2243", "CC495487", "1AEDA761", "96E75BE0", "BBC92791", "5D478FFD"}
 files = [("base", "zchs_base.gxt"), ("TLAD", "zchs_TLAD.gxt"), ("TBoGT", "zchs_TBoGT.gxt")]
 

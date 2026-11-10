@@ -3,7 +3,7 @@ import os, sys
 from PIL import Image, ImageFont, ImageDraw
 
 FONT = r"C:\Users\yy253\AppData\Local\Microsoft\Windows\Fonts\NotoSansSC-VF.ttf"
-OUT = r"C:\Game\Grand Theft Auto IV\gta4-chs\build\atlas_work"
+OUT = r"C:\Game\gta4-chs\build\atlas_work"
 os.makedirs(OUT, exist_ok=True)
 
 probe = "的是我你人中大个"

@@ -2,9 +2,9 @@
 import io, csv, shutil, os, re, sys
 csv.field_size_limit(10**9)
 
-ZG = r"C:\Game\Grand Theft Auto IV\gta4-chs\data\zh_global.tsv"
-LG = r"C:\Game\Grand Theft Auto IV\gta4-chs\data\review\上游润色_审读日志.tsv"
-BK = r"C:\Game\Grand Theft Auto IV\gta4-chs\assets_backup"
+ZG = r"C:\Game\gta4-chs\data\zh_global.tsv"
+LG = r"C:\Game\gta4-chs\data\review\上游润色_审读日志.tsv"
+BK = r"C:\Game\gta4-chs\assets_backup"
 os.makedirs(BK, exist_ok=True)
 DRY = "--apply" not in sys.argv
 

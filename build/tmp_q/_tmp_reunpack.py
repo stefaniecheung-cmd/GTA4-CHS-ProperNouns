@@ -3,7 +3,7 @@ import os, zlib, struct, subprocess
 from PIL import Image
 
 BASE = r"C:\Users\yy253\Desktop\汉化补丁+FUSIONFIX5.1.2+Solitude 3 Fix\release\update"
-OUT = r"C:\Game\Grand Theft Auto IV\gta4-chs\build\atlas_work"
+OUT = r"C:\Game\gta4-chs\build\atlas_work"
 TEX = r"C:\Game\_tools\texconv.exe"
 
 DDS_HDR = bytearray(128)

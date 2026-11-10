@@ -11,7 +11,7 @@ rows = [
 ("base","MAIN","A648AACA","平整的台面用来铺轨道，还有丛林秋千——全都装在轮子上——超有档次。","laying out rails 是「铺轨道」，原译「摆线」把 rails 误读成线缆"),
 ("base","MAIN","A8290EF1","我只想说这歌很牛逼，就这意思。我是说它样样都好用。","good for everything 是「什么都好用」，原译「好处很多」把适用范围扩大成优点罗列"),
 ]
-with io.open(r"C:\Game\Grand Theft Auto IV\gta4-chs\build\tmp_q\fixes_p1_07800.tsv","w",encoding="utf-8",newline="\n") as f:
+with io.open(r"C:\Game\gta4-chs\build\tmp_q\fixes_p1_07800.tsv","w",encoding="utf-8",newline="\n") as f:
     f.write("chapter\ttable\tcrc\t新译正文\t理由\n")
     for r in rows:
         f.write("\t".join(r)+"\n")

@@ -1,13 +1,13 @@
 # -*- coding: utf-8 -*-
 import struct, zlib, os, sys
 from PIL import Image
-sys.path.insert(0, r"C:\Game\Grand Theft Auto IV\gta4-chs\build\tmp_q")
+sys.path.insert(0, r"C:\Game\gta4-chs\build\tmp_q")
 from _tmp_atlas_cells import open_wtd, parse_textures, decode_alpha, CW, CH, COLS
 
 G = r"C:\Game\Grand Theft Auto IV"
 CT = os.path.join(G, "plugins", "GTA4.CHS", "char_table.dat")
 WTD = os.path.join(G, "update", "pc", "textures", "fonts.wtd")
-OUT = r"C:\Game\Grand Theft Auto IV\gta4-chs\build\atlas_work"
+OUT = r"C:\Game\gta4-chs\build\atlas_work"
 os.makedirs(OUT, exist_ok=True)
 
 # 字表

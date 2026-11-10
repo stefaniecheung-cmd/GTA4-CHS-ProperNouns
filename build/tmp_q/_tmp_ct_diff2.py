@@ -14,7 +14,7 @@ def load(p):
 v1 = load(Z + r"\plugins\GTA4.CHS\char_table.dat")
 print("v1.0 字表码点数:", len(v1))
 
-B = r"C:\Game\Grand Theft Auto IV\gta4-chs\build"
+B = r"C:\Game\gta4-chs\build"
 used = set()
 for ch in ("base", "TLAD", "TBoGT"):
     with io.open(rf"{B}\src_{ch}_tr.tsv", encoding="utf-8") as f:

@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 import csv, io, os, glob, sys
 csv.field_size_limit(10**9)
-ROOT = r"C:\Game\Grand Theft Auto IV\gta4-chs"
+ROOT = r"C:\Game\gta4-chs"
 DATA = os.path.join(ROOT, "data")
 BUILD = os.path.join(ROOT, "build")
 

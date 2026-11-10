@@ -4,8 +4,8 @@ from PIL import Image, ImageDraw, ImageFont
 
 V1 = r"C:\Users\yy253\Desktop\GTA4 简中补丁之补丁（含AI翻译）v1.0"
 CT = V1 + r"\plugins\GTA4.CHS\char_table.dat"
-PNG = r"C:\Game\Grand Theft Auto IV\gta4-chs\build\atlas_work\v1_base.png"
-OUT = r"C:\Game\Grand Theft Auto IV\gta4-chs\build\atlas_work"
+PNG = r"C:\Game\gta4-chs\build\atlas_work\v1_base.png"
+OUT = r"C:\Game\gta4-chs\build\atlas_work"
 
 raw = open(CT, "rb").read()
 n = struct.unpack_from("<I", raw, 0)[0]

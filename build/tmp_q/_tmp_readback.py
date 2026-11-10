@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 import io, os, csv
 csv.field_size_limit(10**9)
-ROOT = r"C:\Game\Grand Theft Auto IV\gta4-chs"
+ROOT = r"C:\Game\gta4-chs"
 CH = {"base":"base","TLAD":"TLAD","TBoGT":"TBoGT"}
 TARGET = {
     "base": ["2C924360","9AF702B1","BF73CBAA","D3CE008D","92984525","FB0B04EC"],

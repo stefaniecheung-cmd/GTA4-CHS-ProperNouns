@@ -1,8 +1,8 @@
 # -*- coding: utf-8 -*-
 import io, shutil, os
 
-D1 = r"C:\Game\Grand Theft Auto IV\gta4-chs\docs\润色线-进度存档.md"
-D2 = r"C:\Game\Grand Theft Auto IV\gta4-chs\docs\润色流水线-已知坑.md"
+D1 = r"C:\Game\gta4-chs\docs\润色线-进度存档.md"
+D2 = r"C:\Game\gta4-chs\docs\润色流水线-已知坑.md"
 
 sec1 = """
 ## 挂起项集中结案（2026-11-09 23:58）
