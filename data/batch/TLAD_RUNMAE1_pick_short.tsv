@@ -1,0 +1,47 @@
+序号	crc	english	上邻	下邻
+1	062D0AF3	passed a checkpoint		45 mins
+2	087E4DA3	45 mins	passed a checkpoint	Hold ~INPUT_VEH_CIN_CAM~ to focus on the biker when close to them.
+3	0A3F5AB2	Hold ~INPUT_VEH_CIN_CAM~ to focus on the biker when close to them.	45 mins	Hold ~PAD_Y~ to respawn on your bike.
+4	0F346478	Hold ~PAD_Y~ to respawn on your bike.	Hold ~INPUT_VEH_CIN_CAM~ to focus on the biker when close to them.	Run for 5 mins
+5	124E6143	Run for 5 mins	Hold ~PAD_Y~ to respawn on your bike.	10 seconds
+6	15021D2D	10 seconds	Run for 5 mins	Game Type
+7	157212C8	Game Type	10 seconds	Cars
+8	1DBEE86D	Respawn Time	Cars	Vehicle
+9	200985CE	Vehicle	Respawn Time	15 seconds
+10	233BB9A0	15 seconds	Vehicle	3 checkpoints
+11	267A9F8B	3 checkpoints	15 seconds	20 mins
+12	26C38A2D	20 mins	3 checkpoints	20 seconds
+13	292FC588	20 seconds	20 mins	Off
+14	330F49FC	You must pass a checkpoint to continue accumulating time.	Off	60 mins
+15	34373B04	60 mins	You must pass a checkpoint to continue accumulating time.	60 mins
+16	365F2964	60 mins	60 mins	25 seconds
+17	37766215	25 seconds	60 mins	~s~Take out the ~COL_NET_1~Lone Wolf Biker.
+18	37F704D8	~s~Take out the ~COL_NET_1~Lone Wolf Biker.	25 seconds	45 mins
+19	420D56B0	45 mins	~s~Take out the ~COL_NET_1~Lone Wolf Biker.	30 mins
+20	4D89D7B9	30 mins	45 mins	30 mins
+21	50B2F3FB	30 mins	30 mins	5 checkpoints
+22	5CBB8C00	5 checkpoints	30 mins	Duration
+23	60417F51	Hold ~INPUT_VEH_CIN_CAM~ to focus on the Lone Wolf Biker when close to them.	Duration	is the Lone Wolf Biker
+24	60528A9E	is the Lone Wolf Biker	Hold ~INPUT_VEH_CIN_CAM~ to focus on the Lone Wolf Biker when close to them.	Far
+25	63C01EA8	Road Bikes	Far	10 mins
+26	69D91057	10 mins	Road Bikes	Class
+27	6B059672	Class	10 mins	Sport Bikes
+28	7171BA0B	Sport Bikes	Class	Pursuer Blips
+29	7EFB4344	Pursuer Blips	Sport Bikes	30 seconds
+30	7FD072CC	30 seconds	Pursuer Blips	Initial Lone Wolf Biker
+31	806E29F8	Initial Lone Wolf Biker	30 seconds	is the biker
+32	82145919	is the biker	Initial Lone Wolf Biker	9 checkpoints
+33	8898E3BA	9 checkpoints	is the biker	~s~Get to the ~y~checkpoints~s~, and avoid the ~COL_NET_2~pursuers.
+34	91C36521	~s~Get to the ~y~checkpoints~s~, and avoid the ~COL_NET_2~pursuers.	9 checkpoints	lost their bike
+35	98E636E6	lost their bike	~s~Get to the ~y~checkpoints~s~, and avoid the ~COL_NET_2~pursuers.	~s~Get to the ~y~checkpoints~s~, and avoid the pursuer.
+36	9C4F3318	~s~Get to the ~y~checkpoints~s~, and avoid the pursuer.	lost their bike	Hold ~INPUT_VEH_CIN_CAM~ to focus on the pursuer when close to them.
+37	AA60C368	Hold ~INPUT_VEH_CIN_CAM~ to focus on the pursuer when close to them.	~s~Get to the ~y~checkpoints~s~, and avoid the pursuer.	Bike
+38	B34007EE	Chopper vs Chopper	Bike	Get to a checkpoint within the next minute or roles will be reversed.
+39	B3424508	Get to a checkpoint within the next minute or roles will be reversed.	Chopper vs Chopper	全油门
+40	C7DB5553	~s~Take out the ~COL_NET_1~ biker.	全油门	Near
+41	D182DFAD	Run for 10 mins	Near	20 mins
+42	DCE90C5D	20 mins	Run for 10 mins	On
+43	E42884F8	Run for 2 mins	On	10 mins
+44	EB23A8D2	10 mins	Run for 2 mins	Duration
+45	F7A39C9A	Initial Biker	Duration	Everyone gets a go
+46	FED9BA5A	Everyone gets a go	Initial Biker	

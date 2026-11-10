@@ -1,0 +1,473 @@
+chapter	table	crc	english	bucket	category	zh
+base	MAIN	25092ED5	Cluckin' Bell.	zh	店名/场所	咯咯钟炸鸡
+base	MAIN	306CC7E8	69th Street Diner.	zh	店名/场所	69 街餐馆
+base	MAIN	3EFCC036	Jizzy Jim's.	zh	短名/专名	吉兹·吉姆夜店
+base	MAIN	59E5627E	Colony Island Apartments.	zh	店名/场所	殖民地岛公寓
+base	MAIN	5CDC9D1C	Dummy label.	dev	开发残留	
+base	MAIN	735172D6	Kamayshev Import/Export.	zh	店名/场所	卡马伊舍夫进出口
+base	MAIN	8B9E55E3	Social Club	keep	品牌/商标	
+base	MAIN	9C20492D	Sergei's Bar.	zh	店名/场所	谢尔盖酒吧
+base	MAIN	AB81F213	Social Club	keep	品牌/商标	
+base	MAIN	CA5CFE52	Dummy label.	dev	开发残留	
+base	MAIN	FDE4902E	Social Club	keep	品牌/商标	
+base	EMAILBK	3D9F0801	United Liberty Paper Co.	zh	节目/标题	自由城联合纸业
+base	EMAILBK	6F2D0118	United Liberty Paper Co.	zh	节目/标题	自由城联合纸业
+TLAD	MAIN	B495BEAE	I Want One Of..	zh	节目/标题	我也想要一个…
+TLAD	MAIN	D051974B	Dummy label.	dev	开发残留	
+TBoGT	MAIN	AE1959A5	Dummy label.	dev	开发残留	
+TBoGT	MAIN	EB34DC30	Club Class	zh	店名/场所	贵宾区
+TBoGT	MAIN	3A481F0E	Club Class	zh	店名/场所	贵宾区
+TBoGT	RACESE2	D4B78A9F	Club Class	zh	店名/场所	贵宾区
+base	MAIN	2D8DB486	Gun Car - Special Ability (jacob_gun_car - NF)	dev	开发残留	
+base	MAIN	D41EA803	Girl_20 (temp name)	dev	开发残留	
+base	MAIN	D9F9DA0E	Ten-Pin Bowling (Thomas F)	dev	开发残留	
+base	MAIN	DA956BAB	Pool (Neil F)	dev	开发残留	
+TBoGT	MAIN	9FA262B2	Chop Chop (Heli Courier) - OBSOLETE	dev	开发残留	
+TBoGT	MAIN	C4390854	Chop Chop (Heli Courier) - OBSOLETE	dev	开发残留	
+base	MAIN	278B3104	Liberty Rock Radio 97.8	keep	电台/频道	
+base	MAIN	2C05A83A	The Beat 102.7	keep	电台/频道	
+base	MAIN	35DA4DA2	Massive B Soundsystem 96.9	keep	电台/频道	
+base	MAIN	36F413F2	The Vibe	keep	电台/频道	
+base	MAIN	4207C8D0	Ram Jam FM	keep	电台/频道	
+base	MAIN	4A2AFBC3	Vice City FM	keep	电台/频道	
+base	MAIN	4EE20525	Self Actualization FM	keep	电台/频道	
+base	MAIN	68C238E5	Ram Jam FM	keep	电台/频道	
+base	MAIN	868DC59F	Vice City FM	keep	电台/频道	
+base	MAIN	8706DE37	Tuff Gong Radio	keep	电台/频道	
+base	MAIN	992F1452	Jazz Nation Radio 108.5	keep	电台/频道	
+base	MAIN	9E148C56	Public Liberty Radio	keep	电台/频道	
+base	MAIN	B95218B0	The Beat 102.7	keep	电台/频道	
+base	MAIN	C391574F	The Classics 104.1	keep	电台/频道	
+base	MAIN	D5627AF1	The Vibe 98.8	keep	电台/频道	
+base	MAIN	E3C1ED8F	Jazz Nation Radio	keep	电台/频道	
+base	MAIN	F3C2AC47	Self Actualization FM	keep	电台/频道	
+base	MAIN	042A40CD	Grand Theft Auto IV	keep	品牌/商标	
+base	MAIN	086AE0D6	Heel-and-Toe	keep	短名/专名	
+base	MAIN	0A505525	Beat the Bitch	zh	节目/标题	打倒那贱人
+base	MAIN	11077DE8	Big Dip	keep	短名/专名	
+base	MAIN	14C16254	Long Way Round	zh	节目/标题	绕远路
+base	MAIN	1A2D8DC4	In the Drink	zh	节目/标题	落水
+base	MAIN	26C50453	Mine Until Monday	zh	节目/标题	挖到下周一
+base	MAIN	27A102BF	Credit Check	keep	短名/专名	
+base	MAIN	287C20FC	Bogan's Run	zh	赛道/特技	波根跑道
+base	MAIN	2A7F23F2	Beat the Bitch	zh	节目/标题	打倒那贱人
+base	MAIN	398B29DF	Into Something	keep	短名/专名	
+base	MAIN	3A3AC479	Southern Switch	keep	短名/专名	
+base	MAIN	40FC8B70	United Liberty Paper	zh	节目/标题	自由城联合纸业
+base	MAIN	4166CF85	Driving While High	zh	节目/标题	嗑药飙车
+base	MAIN	41F0D6EA	Midnight Theater	keep	短名/专名	
+base	MAIN	46C64455	The One for Me	zh	节目/标题	我的唯一
+base	MAIN	4CBB9D44	Sigma_PSN	dev	开发残留	
+base	MAIN	4CBFE983	Round the Block	zh	节目/标题	绕街区一圈
+base	MAIN	4D3980A2	Dukes/Broker	zh	街道/地名	公爵区/布洛克
+base	MAIN	4F8C234C	Auto Retune	keep	短名/专名	
+base	MAIN	5240066D	The Journey	keep	短名/专名	
+base	MAIN	53555AA2	Bogan's Run	zh	赛道/特技	波根跑道
+base	MAIN	5B6CED35	Buzz the Tower	zh	节目/标题	掠过塔楼
+base	MAIN	5D7873C1	Highs & Lows	zh	节目/标题	高低起伏
+base	MAIN	5E898D16	Road to Bohan	zh	街道/地名	通往波汉
+base	MAIN	6A320CE8	Tuff Gong	keep	短名/专名	
+base	MAIN	6C22B8A6	Bohan/Dukes	zh	街道/地名	波汉/公爵区
+base	MAIN	6ED911A9	Heel-and-Toe	keep	短名/专名	
+base	MAIN	7143B28A	Stars in your Eyes	zh	节目/标题	眼中的星辰
+base	MAIN	753D3AA4	K109 The Studio	keep	电台/频道	
+base	MAIN	7C720FDF	Dukes/Broker	zh	街道/地名	公爵区/布洛克
+base	MAIN	80B4C8FB	Skill_PSN	dev	开发残留	
+base	MAIN	819FB736	Southern Switch	keep	短名/专名	
+base	MAIN	81CA29C9	K109 The Studio	keep	电台/频道	
+base	MAIN	834ED590	The 556 Connection	zh	节目/标题	556 连线
+base	MAIN	89E781C4	Invalid string	keep	短名/专名	
+base	MAIN	8A2AC84C	Stars in your Eyes	zh	节目/标题	眼中的星辰
+base	MAIN	90E58F6B	Duck and Weave	zh	节目/标题	闪避腾挪
+base	MAIN	933D6001	Long Way Round	zh	节目/标题	绕远路
+base	MAIN	951460F4	Funk In Time	zh	节目/标题	放克时光
+base	MAIN	9ABC05A1	We Know The Truth	zh	节目/标题	我们知道真相
+base	MAIN	9D5B8761	Don't Look Down	zh	节目/标题	别往下看
+base	MAIN	9F5F87B4	Dukes/Broker	zh	街道/地名	公爵区/布洛克
+base	MAIN	A631B9FF	Rize in the East	zh	节目/标题	东区崛起
+base	MAIN	A65F00C8	Round the Block	zh	节目/标题	绕街区一圈
+base	MAIN	A7E5B1BF	Liberty City Hardcore	keep	电台/频道	
+base	MAIN	A8A67755	Liberty Rock	keep	短名/专名	
+base	MAIN	AB659CF2	Docks Friend	zh	街道/地名	码头之友
+base	MAIN	ABE79052	IF99 Int. Funk	keep	电台/频道	
+base	MAIN	B19CB366	Electro Choc	keep	短名/专名	
+base	MAIN	B335540A	Driving While High	zh	节目/标题	嗑药飙车
+base	MAIN	B4729F3F	Big Dip	keep	短名/专名	
+base	MAIN	B67E3BF2	Buzz the Tower	zh	节目/标题	掠过塔楼
+base	MAIN	B815A435	Road to Bohan	zh	街道/地名	通往波汉
+base	MAIN	B914384F	City Contact	zh	街道/地名	城市连线
+base	MAIN	B9BF39B9	Cab Contact	keep	短名/专名	
+base	MAIN	BD2133EC	Sinner & Saint	zh	节目/标题	罪人与圣徒
+base	MAIN	BF186BD0	Don't Look Down	zh	节目/标题	别往下看
+base	MAIN	BF205A13	Sinner & Saint	zh	节目/标题	罪人与圣徒
+base	MAIN	BF55372D	The Classics	keep	短名/专名	
+base	MAIN	C08B3988	Pilgrim's Progress	keep	短名/专名	
+base	MAIN	C6C64E12	The 556 Connection	zh	节目/标题	556 连线
+base	MAIN	CB9663D6	Duck and Weave	zh	节目/标题	闪避腾挪
+base	MAIN	CBB6503F	Pilgrim's Progress	keep	短名/专名	
+base	MAIN	D0275909	Electro Choc	keep	短名/专名	
+base	MAIN	D263DE4D	Highs & Lows	zh	节目/标题	高低起伏
+base	MAIN	D2938716	San Juan Sounds	keep	电台/频道	
+base	MAIN	E26BFD92	San Juan Sounds	keep	电台/频道	
+base	MAIN	E865F7D6	PLAY/PAUSE	keep	短名/专名	
+base	MAIN	EB83A3B0	Rize in the East	zh	节目/标题	东区崛起
+base	MAIN	F40A6323	Dukes/Broker	zh	街道/地名	公爵区/布洛克
+base	MAIN	F6B2ECF6	Dukes/Broker	zh	街道/地名	公爵区/布洛克
+base	MAIN	FEC52395	The Journey	keep	短名/专名	
+base	MAIN	FFA637BD	In the Drink	zh	节目/标题	落水
+base	BASES	8C7E34D4	Dukes/Broker	zh	街道/地名	公爵区/布洛克
+base	BLOGALX	A2066DEE	Alex xxxxx	zh	短名/专名	亚历克斯 xxxxx
+base	CSTEAL	F174378E	Dukes/Broker	zh	街道/地名	公爵区/布洛克
+base	EMAILBK	129C7F88	Heuteri Gerthenaooti	zh	短名/专名	赫特里·格特纳奥蒂
+base	EMAILBK	134B80E6	Teresa Thomas	zh	短名/专名	特蕾莎·托马斯
+base	EMAILBK	13BF81DE	Ecumm Icumm	zh	短名/专名	埃库姆·伊库姆
+base	EMAILBK	142C3BC8	Elaina Serrantooz	zh	短名/专名	埃莱娜·塞兰图兹
+base	EMAILBK	22B2E859	Larry Ligner	zh	短名/专名	拉里·利格纳
+base	EMAILBK	37A54999	Travis Young	zh	短名/专名	特拉维斯·杨
+base	EMAILBK	4993ED76	T49ooee Mcsharon	zh	短名/专名	T49ooee·麦克莎伦
+base	EMAILBK	509CFCF4	Port The4	zh	短名/专名	波特·德福
+base	EMAILBK	7018ECF4	Marnie Allen	zh	短名/专名	玛妮·艾伦
+base	EMAILBK	95BB871C	Dwayne Forge	zh	短名/专名	德韦恩·福奇
+base	EMAILBK	A1D7E66D	Milica Bellic	zh	短名/专名	米莉卡·贝利奇
+base	EMAILBK	BFD31007	Lenova Vodkalini	zh	短名/专名	列诺瓦·伏特加里尼
+base	EMAILBK	DC201290	Gerry kerten	zh	短名/专名	格里·克尔滕
+base	EYESRCH	13EC3378	LOOT & WANK VIII	zh	节目/标题	劫掠与狂欢 8
+base	FCJSAUD	CE97C371	FCJ_BYE	dev	开发残留	
+base	LCPDAE	0A5EE9A5	Joe "Tuna"	zh	短名/专名	乔·“金枪鱼”
+base	LCPDAE	1F48D54E	Johnny "Spaz"	zh	短名/专名	约翰尼·“抽筋”
+base	LCPDAE	44FEF522	Alexandra "Alex"	zh	短名/专名	亚历山德拉·“亚历克斯”
+base	LCPDAE	EC619F3E	Del Rio	zh	短名/专名	德尔里奥
+base	LCPDFJ	11618466	Gavin "Ambrosia"	zh	短名/专名	加文·“神仙食”
+base	LCPDFJ	866D73DC	Dave "The Stiff"	zh	节目/标题	戴夫·“僵硬”
+base	LCPDFJ	DB66962D	Joseph "Joe Jon"	zh	节目/标题	约瑟夫·“乔·乔恩”
+base	LCPDFJ	E7CAB699	Little Jacob	zh	短名/专名	小雅各
+base	LCPDKO	50D2DE8F	Luis Fernando	zh	短名/专名	路易斯·费尔南多
+base	LCPDKO	646D85C8	Teafore "Real Badman"	zh	节目/标题	蒂亚福·“真狠角色”
+base	LCPDKO	A9908C5C	Chubby Charlie	zh	短名/专名	胖查理
+base	LCPDKO	DF33FB53	Patrick "Packie"	zh	短名/专名	帕特里克·“派基”
+base	LCPDKO	F982E56A	Maxwell-Davies	zh	短名/专名	麦克斯韦-戴维斯
+base	LCPDPU	20C221F9	Trey "Playboy X"	zh	节目/标题	特雷·“花花公子 X”
+base	LCPDPU	2ED526A6	Anthony "Tony Black"	zh	节目/标题	安东尼·“黑托尼”
+base	LCPDPU	4884DB25	Jimmy "Peg"	zh	短名/专名	吉米·“木栓”
+base	LCPDPU	8D577B2E	Elaine "The Doctor"	zh	节目/标题	伊莱恩·“医生”
+base	LCPDPU	92F0EEDC	French Tom	zh	短名/专名	法国佬汤姆
+base	LCPDVZ	4B0FE7B4	Young-Guk	zh	短名/专名	英国
+base	LCPDVZ	75B12C5E	January Natasha	zh	短名/专名	一月娜塔莎
+base	LCPDVZ	FE3046DF	Mark Anthony	zh	短名/专名	马克·安东尼
+base	LIBTR1	006252E5	Tony J Smith	zh	节目/标题	托尼·J·史密斯
+base	LIBTR1	EC11F8B4	Tony J Smith	zh	节目/标题	托尼·J·史密斯
+base	LIBTR10	23C9BF31	Michael Wayne	zh	短名/专名	迈克尔·韦恩
+base	LIBTR12	796D477F	Tony J Smith	zh	节目/标题	托尼·J·史密斯
+base	LIBTR12	8020F7DE	Tony J Smith	zh	节目/标题	托尼·J·史密斯
+base	LIBTR13	DE78348F	Tony J Smith	zh	节目/标题	托尼·J·史密斯
+base	LIBTR14	C8C20923	Tony J Smith	zh	节目/标题	托尼·J·史密斯
+base	LIBTR15	0C177416	Richie Score	zh	短名/专名	里奇·斯科尔
+base	LIBTR16	CD4BEF4F	Michael Wayne	zh	短名/专名	迈克尔·韦恩
+base	LIBTR16	FA58D099	Tony J Smith	zh	节目/标题	托尼·J·史密斯
+base	LIBTR17	A81EC7DD	Tony J Smith	zh	节目/标题	托尼·J·史密斯
+base	LIBTR18	91C69B2D	Tony J Smith	zh	节目/标题	托尼·J·史密斯
+base	LIBTR18	DEAF1946	Tony J Smith	zh	节目/标题	托尼·J·史密斯
+base	LIBTR19	00ACF8F8	Tony J Smith	zh	节目/标题	托尼·J·史密斯
+base	LIBTR2	5682FF29	Tony J Smith	zh	节目/标题	托尼·J·史密斯
+base	LIBTR2	6C2878E3	Tony J Smith	zh	节目/标题	托尼·J·史密斯
+base	LIBTR20	00FA7ABF	Tony J Smith	zh	节目/标题	托尼·J·史密斯
+base	LIBTR21	88E55E3F	Tony J Smith	zh	节目/标题	托尼·J·史密斯
+base	LIBTR21	8F569779	Tony J Smith	zh	节目/标题	托尼·J·史密斯
+base	LIBTR21	CD1E9429	Tony J Smith	zh	节目/标题	托尼·J·史密斯
+base	LIBTR22	9D9433F4	Tony J Smith	zh	节目/标题	托尼·J·史密斯
+base	LIBTR22	DB5C30A4	Tony J Smith	zh	节目/标题	托尼·J·史密斯
+base	LIBTR23	2A894DDC	Tony J Smith	zh	节目/标题	托尼·J·史密斯
+base	LIBTR23	BF66F8BA	Richie Score	zh	短名/专名	里奇·斯科尔
+base	LIBTR24	08CDDE12	Tony J Smith	zh	节目/标题	托尼·J·史密斯
+base	LIBTR24	37ABE821	Tony J Smith	zh	节目/标题	托尼·J·史密斯
+base	LIBTR24	4DA8153E	Tony J Smith	zh	节目/标题	托尼·J·史密斯
+base	LIBTR25	83CD0187	Tony J Smith	zh	节目/标题	托尼·J·史密斯
+base	LIBTR26	9446A27A	Tony J Smith	zh	节目/标题	托尼·J·史密斯
+base	LIBTR27	8170FBAE	Tony J Smith	zh	节目/标题	托尼·J·史密斯
+base	LIBTR28	29274C21	Mary Williamson	zh	短名/专名	玛丽·威廉森
+base	LIBTR29	80D57B7C	Mary Williamson	zh	短名/专名	玛丽·威廉森
+base	LIBTR3	177A2269	Michael Wayne	zh	短名/专名	迈克尔·韦恩
+base	LIBTR3	24C51BAE	Michael Wayne	zh	短名/专名	迈克尔·韦恩
+base	LIBTR30	588326A7	Tony J Smith	zh	节目/标题	托尼·J·史密斯
+base	LIBTR31	6E37A9CC	Mary Williamson	zh	短名/专名	玛丽·威廉森
+base	LIBTR31	C1C8F935	Tony J Smith	zh	节目/标题	托尼·J·史密斯
+base	LIBTR31	C60E84B9	Mary Williamson	zh	短名/专名	玛丽·威廉森
+base	LIBTR32	348BE1B2	Richie Score	zh	短名/专名	里奇·斯科尔
+base	LIBTR32	93EF1D82	Tony J Smith	zh	节目/标题	托尼·J·史密斯
+base	LIBTR33	0F74148A	Tony J Smith	zh	节目/标题	托尼·J·史密斯
+base	LIBTR33	2A39CD0E	Richie Score	zh	短名/专名	里奇·斯科尔
+base	LIBTR34	19E4296A	Tony J Smith	zh	节目/标题	托尼·J·史密斯
+base	LIBTR35	6B074BAF	Tony J Smith	zh	节目/标题	托尼·J·史密斯
+base	LIBTR36	6F4B5720	Mary Williamson	zh	短名/专名	玛丽·威廉森
+base	LIBTR36	75506041	Tony J Smith	zh	节目/标题	托尼·J·史密斯
+base	LIBTR37	D8B6A710	Richie Score	zh	短名/专名	里奇·斯科尔
+base	LIBTR38	FB83C466	Tony J Smith	zh	节目/标题	托尼·J·史密斯
+base	LIBTR39	EE22A9A4	Tony J Smith	zh	节目/标题	托尼·J·史密斯
+base	LIBTR4	E9C446FE	Tony J Smith	zh	节目/标题	托尼·J·史密斯
+base	LIBTR40	0F8F922E	Mary Williamson	zh	短名/专名	玛丽·威廉森
+base	LIBTR40	E3CF3E39	Tony J Smith	zh	节目/标题	托尼·J·史密斯
+base	LIBTR41	19F72A8C	Tony J Smith	zh	节目/标题	托尼·J·史密斯
+base	LIBTR42	32CD58A9	Mary Williamson	zh	短名/专名	玛丽·威廉森
+base	LIBTR42	4070777E	Michael Wayne	zh	短名/专名	迈克尔·韦恩
+base	LIBTR43	E8524743	Tony J Smith	zh	节目/标题	托尼·J·史密斯
+base	LIBTR44	F69FE3DE	Tony J Smith	zh	节目/标题	托尼·J·史密斯
+base	LIBTR45	9B14A99A	Tony J Smith	zh	节目/标题	托尼·J·史密斯
+base	LIBTR45	D0FF989E	Michael Wayne	zh	短名/专名	迈克尔·韦恩
+base	LIBTR46	79F4396D	Tony J Smith	zh	节目/标题	托尼·J·史密斯
+base	LIBTR46	D740A520	Michael Wayne	zh	短名/专名	迈克尔·韦恩
+base	LIBTR47	BF48F531	Tony J Smith	zh	节目/标题	托尼·J·史密斯
+base	LIBTR47	DCF02D58	Richie Score	zh	短名/专名	里奇·斯科尔
+base	LIBTR48	4D7B9194	Tony J Smith	zh	节目/标题	托尼·J·史密斯
+base	LIBTR5	03C57B00	Tony J Smith	zh	节目/标题	托尼·J·史密斯
+base	LIBTR5	68A5A36E	Michael Wayne	zh	短名/专名	迈克尔·韦恩
+base	LIBTR6	A2C438F7	Tony J Smith	zh	节目/标题	托尼·J·史密斯
+base	LIBTR7	334F0731	Richie Score	zh	短名/专名	里奇·斯科尔
+base	LIBTR7	887D0469	Tony J Smith	zh	节目/标题	托尼·J·史密斯
+base	LIBTR7	89B8E594	Michael Wayne	zh	短名/专名	迈克尔·韦恩
+base	LIBTR8	4C2538DD	Tony J Smith	zh	节目/标题	托尼·J·史密斯
+base	LIBTR8	7D58CCD8	Michael Wayne	zh	短名/专名	迈克尔·韦恩
+base	LIBTR8	8646FFFD	Michael Wayne	zh	短名/专名	迈克尔·韦恩
+base	LIBTR9	73E85B40	Michael Wayne	zh	短名/专名	迈克尔·韦恩
+base	LOVEMTF	64C00458	2Hot2Handle	zh	短名/专名	太辣难驾
+base	LOVEMTM	0A97E6B0	The Nickmeister	zh	短名/专名	尼克大师
+base	LOVEMTM	0CBADDFE	Matte Black	zh	短名/专名	哑光黑
+base	LOVEMTM	34C73B12	Oscar Wild	zh	短名/专名	奥斯卡·狂野
+base	LOVEMTM	7E7FCE82	Troy Harder	zh	短名/专名	特洛伊·哈德
+base	LOVEMTM	BA67B959	Mark Tenninch	zh	短名/专名	马克·坦尼奇
+base	PIEAUD	5079347C	PIE_FAA	dev	开发残留	
+base	PIEAUD	C4999BD7	PIE_FAB	dev	开发残留	
+base	PIEAUD	CC74AA2D	PIE_FAC	dev	开发残留	
+base	PUBLB1	F0EACF78	Joshua Crane	zh	短名/专名	约书亚·克莱恩
+base	PUBLB11	AE806230	Joshua Crane	zh	短名/专名	约书亚·克莱恩
+base	PUBLB15	3433BA2B	Joshua Crane	zh	短名/专名	约书亚·克莱恩
+base	PUBLB15	75AEF08E	Candice Johnson	zh	短名/专名	坎迪斯·约翰逊
+base	PUBLB16	14652DFC	S. Fiona Scott	zh	节目/标题	菲奥娜·斯科特
+base	PUBLB19	2085463C	Candice Johnson	zh	短名/专名	坎迪斯·约翰逊
+base	PUBLB21	E54ACEAC	Joshua Crane	zh	短名/专名	约书亚·克莱恩
+base	PUBLB23	001F47DF	Candice Johnson	zh	短名/专名	坎迪斯·约翰逊
+base	PUBLB23	1765B301	S. Fiona Scott	zh	节目/标题	菲奥娜·斯科特
+base	PUBLB27	CE1C206F	Joshua Crane	zh	短名/专名	约书亚·克莱恩
+base	PUBLB28	204B44CC	Candice Johnson	zh	短名/专名	坎迪斯·约翰逊
+base	PUBLB28	B0DAA957	Joshua Crane	zh	短名/专名	约书亚·克莱恩
+base	PUBLB3	CC620667	Joshua Crane	zh	短名/专名	约书亚·克莱恩
+base	PUBLB32	67B7CDB8	S. Fiona Scott	zh	节目/标题	菲奥娜·斯科特
+base	PUBLB33	5C19B67C	S. Fiona Scott	zh	节目/标题	菲奥娜·斯科特
+base	PUBLB34	4A4C12E1	Candice Johnson	zh	短名/专名	坎迪斯·约翰逊
+base	PUBLB35	90D39FF7	Joshua Crane	zh	短名/专名	约书亚·克莱恩
+base	PUBLB36	7E28FAA2	Candice Johnson	zh	短名/专名	坎迪斯·约翰逊
+base	PUBLB37	5370A532	S. Fiona Scott	zh	节目/标题	菲奥娜·斯科特
+base	PUBLB38	41C701DF	S. Fiona Scott	zh	节目/标题	菲奥娜·斯科特
+base	PUBLB4	D22711AD	Candice Johnson	zh	短名/专名	坎迪斯·约翰逊
+base	PUBLB40	1755BDD9	Joshua Crane	zh	短名/专名	约书亚·克莱恩
+base	PUBLB41	40941055	Candice Johnson	zh	短名/专名	坎迪斯·约翰逊
+base	PUBLB45	8BCBA6C7	Candice Johnson	zh	短名/专名	坎迪斯·约翰逊
+base	PUBLB46	7D2F098E	Candice Johnson	zh	短名/专名	坎迪斯·约翰逊
+base	PUBLB47	AB5D65EA	Joshua Crane	zh	短名/专名	约书亚·克莱恩
+base	PUBLB48	9D324994	S. Fiona Scott	zh	节目/标题	菲奥娜·斯科特
+base	PUBLB5	E85A3E13	Candice Johnson	zh	短名/专名	坎迪斯·约翰逊
+base	PUBLB6	B6935A86	Joshua Crane	zh	短名/专名	约书亚·克莱恩
+base	PUBLB7	BCAB66B6	S. Fiona Scott	zh	节目/标题	菲奥娜·斯科特
+base	PUBLB9	151F689A	S. Fiona Scott	zh	节目/标题	菲奥娜·斯科特
+base	PUBLB9	9ED6AB0D	Candice Johnson	zh	短名/专名	坎迪斯·约翰逊
+base	WEAZL1	D7CFDBDB	Eugene White	zh	短名/专名	尤金·怀特
+base	WEAZL10	8A48A1BC	John Chesapeake	zh	短名/专名	约翰·切萨皮克
+base	WEAZL10	9E88BB01	Eugene White	zh	短名/专名	尤金·怀特
+base	WEAZL11	8D291842	Eugene White	zh	短名/专名	尤金·怀特
+base	WEAZL12	BFDBFDA7	Leslie Mitchell	zh	短名/专名	莱斯利·米切尔
+base	WEAZL13	2174C0DB	Eugene White	zh	短名/专名	尤金·怀特
+base	WEAZL13	7A840233	John Chesapeake	zh	短名/专名	约翰·切萨皮克
+base	WEAZL14	54BEA76E	Eugene White	zh	短名/专名	尤金·怀特
+base	WEAZL14	D39E346A	John Chesapeake	zh	短名/专名	约翰·切萨皮克
+base	WEAZL15	46118A14	John Chesapeake	zh	短名/专名	约翰·切萨皮克
+base	WEAZL15	A731DB8E	Leslie Mitchell	zh	短名/专名	莱斯利·米切尔
+base	WEAZL16	78606EB1	Eugene White	zh	短名/专名	尤金·怀特
+base	WEAZL16	E014CD57	John Chesapeake	zh	短名/专名	约翰·切萨皮克
+base	WEAZL17	FE0AFA08	Leslie Mitchell	zh	短名/专名	莱斯利·米切尔
+base	WEAZL18	F0795EE5	Eugene White	zh	短名/专名	尤金·怀特
+base	WEAZL19	1FD63D9E	John Chesapeake	zh	短名/专名	约翰·切萨皮克
+base	WEAZL2	8E7DC920	Leslie Mitchell	zh	短名/专名	莱斯利·米切尔
+base	WEAZL20	EE80D994	Leslie Mitchell	zh	短名/专名	莱斯利·米切尔
+base	WEAZL21	FFEB7C69	Eugene White	zh	短名/专名	尤金·怀特
+base	WEAZL22	B14CDF2D	John Chesapeake	zh	短名/专名	约翰·切萨皮克
+base	WEAZL23	75AE7754	Eugene White	zh	短名/专名	尤金·怀特
+base	WEAZL23	C00E7CB0	Leslie Mitchell	zh	短名/专名	莱斯利·米切尔
+base	WEAZL25	9C6BB56B	Leslie Mitchell	zh	短名/专名	莱斯利·米切尔
+base	WEAZL26	77356AFF	John Chesapeake	zh	短名/专名	约翰·切萨皮克
+base	WEAZL27	48EA8E6A	Eugene White	zh	短名/专名	尤金·怀特
+base	WEAZL28	5397A3C4	Leslie Mitchell	zh	短名/专名	莱斯利·米切尔
+base	WEAZL29	2205C0A1	Eugene White	zh	短名/专名	尤金·怀特
+base	WEAZL29	E208500A	Leslie Mitchell	zh	短名/专名	莱斯利·米切尔
+base	WEAZL31	A925CE03	John Chesapeake	zh	短名/专名	约翰·切萨皮克
+base	WEAZL32	9333A217	Eugene White	zh	短名/专名	尤金·怀特
+base	WEAZL33	858606BC	Eugene White	zh	短名/专名	尤金·怀特
+base	WEAZL35	60343C19	Leslie Mitchell	zh	短名/专名	莱斯利·米切尔
+base	WEAZL37	7B9EF2EE	Leslie Mitchell	zh	短名/专名	莱斯利·米切尔
+base	WEAZL38	6D495643	Eugene White	zh	短名/专名	尤金·怀特
+base	WEAZL39	17FAABA7	John Chesapeake	zh	短名/专名	约翰·切萨皮克
+base	WEAZL4	AACF81C7	Leslie Mitchell	zh	短名/专名	莱斯利·米切尔
+base	WEAZL40	9EA6B79D	Leslie Mitchell	zh	短名/专名	莱斯利·米切尔
+base	WEAZL40	D7BCB8EF	Eugene White	zh	短名/专名	尤金·怀特
+base	WEAZL41	8C581300	John Chesapeake	zh	短名/专名	约翰·切萨皮克
+base	WEAZL42	444211F8	Leslie Mitchell	zh	短名/专名	莱斯利·米切尔
+base	WEAZL42	A7D8165D	John Chesapeake	zh	短名/专名	约翰·切萨皮克
+base	WEAZL42	C23B7EC6	Eugene White	zh	短名/专名	尤金·怀特
+base	WEAZL45	7524E49A	Leslie Mitchell	zh	短名/专名	莱斯利·米切尔
+base	WEAZL46	644242D5	Leslie Mitchell	zh	短名/专名	莱斯利·米切尔
+base	WEAZL47	0FB828FD	John Chesapeake	zh	短名/专名	约翰·切萨皮克
+base	WEAZL47	198FAD71	Eugene White	zh	短名/专名	尤金·怀特
+base	WEAZL5	027242D8	John Chesapeake	zh	短名/专名	约翰·切萨皮克
+base	WEAZL5	BC4024A8	John Chesapeake	zh	短名/专名	约翰·切萨皮克
+base	WEAZL5	D4D85056	Eugene White	zh	短名/专名	尤金·怀特
+base	WEAZL6	5559E8A6	Leslie Mitchell	zh	短名/专名	莱斯利·米切尔
+base	WEAZL6	583C5C9E	Eugene White	zh	短名/专名	尤金·怀特
+base	WEAZL7	26F00BD3	Eugene White	zh	短名/专名	尤金·怀特
+base	WEAZL7	6987FF35	John Chesapeake	zh	短名/专名	约翰·切萨皮克
+base	WEAZL8	73D613D1	Eugene White	zh	短名/专名	尤金·怀特
+base	WEAZL9	852CB67E	John Chesapeake	zh	短名/专名	约翰·切萨皮克
+base	WEAZL9	D7266C41	Leslie Mitchell	zh	短名/专名	莱斯利·米切尔
+TLAD	MAIN	0E178CE4	Proc Odd Jobs	zh	节目/标题	随机零工
+TLAD	MAIN	2C60F0C5	Proc Odd Jobs	zh	节目/标题	随机零工
+TLAD	MAIN	2CF5CCC1	Down Under	zh	短名/专名	南半球
+TLAD	MAIN	0F6E91B3	Triple L Rocks	zh	节目/标题	三 L 摇滚
+TLAD	MAIN	C86903A5	Down The Hatch	zh	节目/标题	一饮而尽
+TLAD	MAIN	D9E1A696	In the Bricks	zh	节目/标题	闯砖区
+TLAD	MAIN	8F1F1112	A Bohan Scramble	zh	街道/地名	波汉争夺战
+TLAD	MAIN	6B9CA766	Down By The River	zh	节目/标题	河畔
+TLAD	MAIN	1506FA30	Bridging the Gap	zh	节目/标题	跨越鸿沟
+TLAD	MAIN	2B92283A	Duke of the City	zh	街道/地名	城市公爵
+TLAD	MAIN	0919633D	Snakes & Ladders	zh	节目/标题	蛇与梯子
+TLAD	MAIN	5A386B66	Bogan's Revenge	zh	短名/专名	波根的复仇
+TLAD	MAIN	C52B0A6E	Angels of Death	zh	节目/标题	死亡天使
+TLAD	MAIN	D3DF2BC6	Down Under	zh	短名/专名	南半球
+TLAD	MAIN	C4490BBA	Triple L Rocks	zh	节目/标题	三 L 摇滚
+TLAD	MAIN	5D0F3D40	Down The Hatch	zh	节目/标题	一饮而尽
+TLAD	MAIN	B8B0F482	In the Bricks	zh	节目/标题	闯砖区
+TLAD	MAIN	6430CB83	A Bohan Scramble	zh	街道/地名	波汉争夺战
+TLAD	MAIN	D17C261C	Down By The River	zh	节目/标题	河畔
+TLAD	MAIN	115DA906	Bridging the Gap	zh	节目/标题	跨越鸿沟
+TLAD	MAIN	B103E854	Duke of the City	zh	街道/地名	城市公爵
+TLAD	MAIN	00271246	Reaper's Ride	zh	短名/专名	死神之车
+TLAD	MAIN	0AC32776	Snakes & Ladders	zh	节目/标题	蛇与梯子
+TLAD	MAIN	F99C8529	Bogan's Revenge	zh	短名/专名	波根的复仇
+TLAD	LBTR110	CE9DD755	Tony J. Smith	zh	节目/标题	托尼·J·史密斯
+TLAD	LBTR115	13A6E166	Tony J Smith	zh	节目/标题	托尼·J·史密斯
+TLAD	LBTR115	5A375CAB	Richie Score	zh	短名/专名	里奇·斯科尔
+TLAD	LBTR116	078B558B	Mary Williamson	zh	短名/专名	玛丽·威廉森
+TLAD	LBTR116	4810B85E	Michael Wayne	zh	短名/专名	迈克尔·韦恩
+TLAD	LBTR124	C5304B42	Michael Wayne	zh	短名/专名	迈克尔·韦恩
+TLAD	LBTR130	55106BEC	Tony J Smith	zh	节目/标题	托尼·J·史密斯
+TLAD	LBTR130	904964C5	Mary Williamson	zh	短名/专名	玛丽·威廉森
+TLAD	LBTR17	19EAE52A	Michael Wayne	zh	短名/专名	迈克尔·韦恩
+TLAD	LBTR17	8DA006A1	Tony J Smith	zh	节目/标题	托尼·J·史密斯
+TLAD	OPENING	57236D38	Terry Thorpe	zh	短名/专名	特里·索普
+TLAD	OPENING	8F76D243	Clay Simons	zh	短名/专名	克莱·西蒙斯
+TLAD	OPENING	93585FD5	Brian Jeremy	zh	短名/专名	布莱恩·杰里米
+TLAD	OPENING	EA5C5992	Jim Fitzgerald	zh	短名/专名	吉姆·菲茨杰拉德
+TLAD	PBLB115	31A4E19A	S. Fiona Scott	zh	节目/标题	菲奥娜·斯科特
+TLAD	PBLB115	E227E9FF	Joshua Crane	zh	短名/专名	约书亚·克莱恩
+TLAD	PBLB17	B475AB54	Joshua Crane	zh	短名/专名	约书亚·克莱恩
+TLAD	RACESE1	068F77FC	Down By The River	zh	节目/标题	河畔
+TLAD	RACESE1	092A74B1	Down The Hatch	zh	节目/标题	一饮而尽
+TLAD	RACESE1	2BFC42D5	Bridging the Gap	zh	节目/标题	跨越鸿沟
+TLAD	RACESE1	4B607924	Triple L Rocks	zh	节目/标题	三 L 摇滚
+TLAD	RACESE1	7AB45864	Snakes & Ladders	zh	节目/标题	蛇与梯子
+TLAD	RACESE1	85166C8F	Down Under	zh	短名/专名	南半球
+TLAD	RACESE1	940A8C5C	Bogan's Revenge	zh	短名/专名	波根的复仇
+TLAD	RACESE1	973A116F	Reaper's Ride	zh	短名/专名	死神之车
+TLAD	RACESE1	D74E1192	The Lost's Highway	zh	节目/标题	失落帮的公路
+TLAD	RACESE1	E924B53F	Duke of the City	zh	街道/地名	城市公爵
+TLAD	RACESE1	F0C8C3F2	A Bohan Scramble	zh	街道/地名	波汉争夺战
+TLAD	RACESE1	F6F0D03E	In the Bricks	zh	节目/标题	闯砖区
+TLAD	TURFE1	8C7E34D4	Dukes/Broker	zh	街道/地名	公爵区/布洛克
+TLAD	WEZL110	6D6769CE	John Chesapeake	zh	短名/专名	约翰·切萨皮克
+TLAD	WEZL110	E667D5D9	Eugene White	zh	短名/专名	尤金·怀特
+TLAD	WEZL115	2232D346	Leslie Mitchell	zh	短名/专名	莱斯利·米切尔
+TLAD	WEZL116	E9EA5CE2	Leslie Mitchell	zh	短名/专名	莱斯利·米切尔
+TLAD	WEZL17	A14DB1C7	Eugene White	zh	短名/专名	尤金·怀特
+TLAD	WEZL17	B544B2FB	Leslie Mitchell	zh	短名/专名	莱斯利·米切尔
+TBoGT	MAIN	B2FEE5E0	Chop Chop - OLD	zh	节目/标题	快步跑 - 旧
+TBoGT	MAIN	7FAE8559	Burn your Bridges	zh	节目/标题	烧断退路
+TBoGT	MAIN	7F0703D6	Mind the Gap	zh	节目/标题	小心缝隙
+TBoGT	MAIN	58024A32	Meat your Marker	zh	节目/标题	撞上标记
+TBoGT	MAIN	09892D41	Original Outlook	zh	短名/专名	独到眼界
+TBoGT	MAIN	2F6578F9	Damn Rotten Hills	zh	节目/标题	烂山丘
+TBoGT	MAIN	211ADC64	Round the Horny	zh	节目/标题	绕角疾驰
+TBoGT	MAIN	282346D1	Dukes/Broker	zh	街道/地名	公爵区/布洛克
+TBoGT	MAIN	651D7598	Auld Reekie	zh	短名/专名	老烟城
+TBoGT	MAIN	FD3C24EB	Burn your Bridges	zh	节目/标题	烧断退路
+TBoGT	MAIN	A4FCF476	Mind the Gap	zh	节目/标题	小心缝隙
+TBoGT	MAIN	F7EB1D1D	Meat your Marker	zh	节目/标题	撞上标记
+TBoGT	MAIN	FCA72695	Original Outlook	zh	短名/专名	独到眼界
+TBoGT	MAIN	DA7BE23F	Damn Rotten Hills	zh	节目/标题	烂山丘
+TBoGT	MAIN	B1318FAB	Round the Horny	zh	节目/标题	绕角疾驰
+TBoGT	LBTR224	E298D7BD	Michael Wayne	zh	短名/专名	迈克尔·韦恩
+TBoGT	LBTR227	A6D19384	Tony J Smith	zh	节目/标题	托尼·J·史密斯
+TBoGT	LBTR230	420B59E1	Mary Williamson	zh	短名/专名	玛丽·威廉森
+TBoGT	LBTR231	647A0532	Tony J Smith	zh	节目/标题	托尼·J·史密斯
+TBoGT	LBTR231	F5E4C195	Michael Wayne	zh	短名/专名	迈克尔·韦恩
+TBoGT	LBTR239	70BB3794	Mary Williamson	zh	短名/专名	玛丽·威廉森
+TBoGT	LBTR239	FB408380	Tony J Smith	zh	节目/标题	托尼·J·史密斯
+TBoGT	LBTR247	242F53FD	Richie Score	zh	短名/专名	里奇·斯科尔
+TBoGT	LBTR247	525CE888	Michael Wayne	zh	短名/专名	迈克尔·韦恩
+TBoGT	LBTR247	B085381B	Mary Williamson	zh	短名/专名	玛丽·威廉森
+TBoGT	LBTR248	098B56E6	Tony J Smith	zh	节目/标题	托尼·J·史密斯
+TBoGT	LBTR27	33F84C94	Tony J Smith	zh	节目/标题	托尼·J·史密斯
+TBoGT	LBTR27	CAE20175	Michael Wayne	zh	短名/专名	迈克尔·韦恩
+TBoGT	PBLB227	31972AA4	Joshua Crane	zh	短名/专名	约书亚·克莱恩
+TBoGT	PBLB230	269A14A2	S. Fiona Scott	zh	节目/标题	菲奥娜·斯科特
+TBoGT	PBLB233	F6D035F3	Candice Johnson	zh	短名/专名	坎迪斯·约翰逊
+TBoGT	PBLB239	83ECD02E	Candice Johnson	zh	短名/专名	坎迪斯·约翰逊
+TBoGT	PBLB247	27FAB847	Joshua Crane	zh	短名/专名	约书亚·克莱恩
+TBoGT	PBLB248	19741B3A	S. Fiona Scott	zh	节目/标题	菲奥娜·斯科特
+TBoGT	PBLB27	2B380D0B	Joshua Crane	zh	短名/专名	约书亚·克莱恩
+TBoGT	RACESE2	1BE398F6	Mind the Gap	zh	节目/标题	小心缝隙
+TBoGT	RACESE2	7838519A	Burn your Bridges	zh	节目/标题	烧断退路
+TBoGT	RACESE2	7D51ED30	Damn Rotten Hills	zh	节目/标题	烂山丘
+TBoGT	RACESE2	937B9987	Round the Horny	zh	节目/标题	绕角疾驰
+TBoGT	RACESE2	B165C3F4	Upper Junction	keep	短名/专名	
+TBoGT	RACESE2	E1DF364D	Original Outlook	zh	短名/专名	独到眼界
+TBoGT	RACESE2	FC976BBD	Meat your Marker	zh	节目/标题	撞上标记
+TBoGT	WEZL227	A772BBAB	Eugene White	zh	短名/专名	尤金·怀特
+TBoGT	WEZL231	89C2DE85	John Chesapeake	zh	短名/专名	约翰·切萨皮克
+TBoGT	WEZL239	5DBD1C62	Eugene White	zh	短名/专名	尤金·怀特
+TBoGT	WEZL239	FEC0C87F	Leslie Mitchell	zh	短名/专名	莱斯利·米切尔
+TBoGT	WEZL247	EF7D82E9	John Chesapeake	zh	短名/专名	约翰·切萨皮克
+TBoGT	WEZL247	EFF34890	Leslie Mitchell	zh	短名/专名	莱斯利·米切尔
+TBoGT	WEZL27	1F5E4DB4	Eugene White	zh	短名/专名	尤金·怀特
+TBoGT	WEZL27	F871A047	Leslie Mitchell	zh	短名/专名	莱斯利·米切尔
+base	MAIN	BFAD869B	Niko... Niko... Niiiiko... Nikooooooo cooo cooo cooo - Kiki	zh	节目/标题	尼科…尼科…尼～科…尼科科科科 咕咕咕 - 琪琪
+TLAD	MAIN	4D9A3E5F	GTA episodic content proof of concept demo	zh	节目/标题	GTA 资料片概念验证演示
+TBoGT	E2B1AUD	9E6A8256	~z~What am I doing here in E2?	zh	节目/标题	~z~我在 E2 里干嘛？
+base	MAIN	15998120	AXIS 2 Left	keep	短名/专名	
+base	MAIN	36D1988B	CAPS LOCK	keep	短名/专名	
+base	MAIN	3937485B	AXIS 1 Left	keep	短名/专名	
+base	MAIN	39858D37	NUM LOCK	keep	短名/专名	
+base	MAIN	3E15F637	MEDIA SEL	keep	短名/专名	
+base	MAIN	4DA2864E	AXIS 2 Right	keep	短名/专名	
+base	MAIN	5C0D2323	AXIS 1 Down	keep	短名/专名	
+base	MAIN	5F9CDB01	AXIS LRY	keep	短名/专名	
+base	MAIN	63EBC1E6	WEB BACK	keep	短名/专名	
+base	MAIN	6E61788A	AXIS LRZ	keep	短名/专名	
+base	MAIN	7FB5EA74	AXIS 2 Down	keep	短名/专名	
+base	MAIN	815C2AC0	WEB HOME	keep	短名/专名	
+base	MAIN	858CA678	SCRL LOCK	keep	短名/专名	
+base	MAIN	86123330	MEDIA STOP	keep	短名/专名	
+base	MAIN	8BB5F958	International Funk	keep	短名/专名	
+base	MAIN	A4BDBA9B	dp_POOL_BN_MID	dev	开发残留	
+base	MAIN	C6BBF883	AXIS 1 Right	keep	短名/专名	
+base	MAIN	DDF9D7B9	AXIS LRX	keep	短名/专名	
+base	MAIN	E164BD79	dp_SHOT_MH_MID	dev	开发残留	
+base	CRAPLST	3DE0015A	CRAP LIST	zh	人名/地名/其他	烂清单
+base	FCJAAUD	3D15481D	FCJ_ACT_ARRIVem_NOTLATE	dev	开发残留	
+base	FCJSAUD	021019BF	FCJ_ACT_CALL_REQ_SPEC_NORTHWOOd	dev	开发残留	
+base	FCJSAUD	7AF5D1C9	FCJ_ACT_CALL_REQ_SPEC_HATTON_GARDENs	dev	开发残留	
+base	GCC2AUD	22383CB2	GCC_ACT_ARRIVem_NOTLATE	dev	开发残留	
+base	GCK1AUD	485F8853	GCK_ACT_CALL_HOSP_CANCEL_HiLIKE	dev	开发残留	
+base	GCK1AUD	60A2E100	GCK_ACT_PKA_CALL_HiLIKE	dev	开发残留	
+base	GCK2AUD	2E226CBB	GCK_ACT_ARRIVE_HiGHEND	dev	开发残留	
+base	GCK2AUD	81063EDE	GCK_ACT_ARRIVem_NOTLATE	dev	开发残留	
+base	GCK3AUD	89F4642F	GCK_ACT_LEAVE_HiGHEND	dev	开发残留	
+base	GCKC1AU	1951E364	GCK2_FAMILY_em	dev	开发残留	
+base	GCKK2AU	21C1AC74	GCKK_ACT_ARRIVem_NOTLATE	dev	开发残留	
+base	GCKKC2A	71BB45FB	GCKC_FRENCH_em	dev	开发残留	
+base	GCM2AUD	9343F377	GCM_ACT_ARRIVem_NOTLATE	dev	开发残留	

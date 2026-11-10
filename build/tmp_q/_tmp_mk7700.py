@@ -1,0 +1,17 @@
+# -*- coding: utf-8 -*-
+import io
+rows = [
+("base","MAIN","A25EC1F9","不对，不算大。真要是那么大，一架飞机才装得下十二个人。","if they were 指的是对方说「小」，原译「哪小了…就坐十二个人」把前后逻辑接反"),
+("base","MAIN","B12FCB92","我们该再出去约次会，尼克。我很想听听你和你的人生。 xx","Niko 按口径统一「尼克」"),
+("base","MAIN","CCCEBDF1","尼克，你得过来一趟。我想你那两颗蛋肯定很嫉妒我的。罗曼","Niko 按口径统一「尼克」"),
+("base","MAIN","D3A2F7A8","你们都该明白保持完美状态有多重要。调头，尼克。","Niko 按口径统一「尼克」"),
+("base","MAIN","FD1C3EB8","把它还给了他。他说：「哦，你能脱到只剩内裤吗？」","Gave it back to him 是「还给了他」，原译「回去给医生」把方向与主语都丢了"),
+("base","MAIN","27A0F303","再说，妞就爱电动小玩意。Karin Dilettante 完全可以定制。","Karin Dilettante 是车型专名，按口径保留英文，原译「半吊子」把车名意译"),
+("base","MAIN","5BD36E8E","别这么对我，尼克。别这么对我。告诉我你现在在哪儿。","Niko 按口径统一「尼克」"),
+("base","MAIN","80F9CA71","你想当船长吗，尼克？我想把全部注意力都放在这几位女士身上。","You wanna be captain 是问「你想当船长吗」，原译「船长就你当吧」把问句译成指派；Nicky 统一「尼克」"),
+]
+with io.open(r"C:\Game\Grand Theft Auto IV\gta4-chs\build\tmp_q\fixes_p1_07700.tsv","w",encoding="utf-8",newline="\n") as f:
+    f.write("chapter\ttable\tcrc\t新译正文\t理由\n")
+    for r in rows:
+        f.write("\t".join(r)+"\n")
+print("wrote", len(rows))

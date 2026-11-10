@@ -1,0 +1,388 @@
+base  119526AE
+   EN : 'Roman'
+   我方: 'Roman'
+   v10: '罗曼'
+base  350AE8FB
+   EN : 'Rusty Brown'
+   我方: 'Rusty Brown'
+   v10: 'Rusty Brown甜甜圈'
+base  3C3B5B90
+   EN : 'Niko'
+   我方: 'Niko'
+   v10: '尼克'
+base  3FA20554
+   EN : 'Roman'
+   我方: 'Roman'
+   v10: '罗曼'
+base  5D2319E7
+   EN : 'Eyediditmy Way'
+   我方: 'Eyediditmy Way'
+   v10: '艾迪迪特米道'
+base  DDCA43C9
+   EN : 'Roman Bellic'
+   我方: 'Roman Bellic'
+   v10: '罗曼･贝利克'
+base  2A7ABAA5
+   EN : '~z~Niko...'
+   我方: '~z~Niko...'
+   v10: '~z~尼克...'
+base  3096C512
+   EN : 'Niko,'
+   我方: 'Niko，'
+   v10: '尼克，'
+base  4364EAAE
+   EN : 'Niko,'
+   我方: 'Niko，'
+   v10: '尼克，'
+base  5ECEA189
+   EN : 'Niko,'
+   我方: 'Niko，'
+   v10: '尼克，'
+base  7C885CFC
+   EN : 'Niko,'
+   我方: 'Niko，'
+   v10: '尼克，'
+base  98941513
+   EN : 'Niko,'
+   我方: 'Niko，'
+   v10: '尼克，'
+base  A9D6B798
+   EN : 'Niko,'
+   我方: 'Niko，'
+   v10: '尼克，'
+base  C64DF086
+   EN : 'Niko,'
+   我方: 'Niko，'
+   v10: '尼克，'
+base  FB16DA17
+   EN : 'Niko,'
+   我方: 'Niko，'
+   v10: '尼克，'
+base  16507BFF
+   EN : 'Niko B,'
+   我方: 'Niko B，'
+   v10: '尼克 B，'
+base  04B92356
+   EN : 'Tvoja voljena majka.'
+   我方: 'Tvoja voljena majka.'
+   v10: 'Tvoja voljena majka (爱你的妈妈)。'
+base  1B34B40F
+   EN : 'Moj dragi sine,'
+   我方: 'Moj dragi sine,'
+   v10: 'Moj dragi sine (我亲爱的儿子)，'
+base  3EE77B74
+   EN : 'Moj dragi sine,'
+   我方: 'Moj dragi sine,'
+   v10: 'Moj dragi sine (我亲爱的儿子)，'
+base  65F6E5D0
+   EN : 'Tvoja voljena majka.'
+   我方: 'Tvoja voljena majka.'
+   v10: 'Tvoja voljena majka (爱你的妈妈)。'
+base  BD3E945A
+   EN : 'Tvoja voljena majka.'
+   我方: 'Tvoja voljena majka.'
+   v10: 'Tvoja voljena majka (爱你的妈妈)。'
+base  D2592259
+   EN : 'Moj dragi sine,'
+   我方: 'Moj dragi sine,'
+   v10: 'Moj dragi sine (我亲爱的儿子)，'
+base  DAB54F47
+   EN : 'Tvoja voljena majka.'
+   我方: 'Tvoja voljena majka.'
+   v10: 'Tvoja voljena majka (爱你的妈妈)。'
+base  F5DDE962
+   EN : 'Moj dragi sine,'
+   我方: 'Moj dragi sine,'
+   v10: 'Moj dragi sine (我亲爱的儿子)，'
+base  09BD9C14
+   EN : 'Niko,'
+   我方: 'Niko，'
+   v10: '尼克，'
+base  1477B188
+   EN : 'Niko,'
+   我方: 'Niko，'
+   v10: '尼克，'
+base  242D50F3
+   EN : 'Niko,'
+   我方: 'Niko，'
+   v10: '尼克，'
+base  35F2F47E
+   EN : 'Niko,'
+   我方: 'Niko，'
+   v10: '尼克，'
+base  5161AB5F
+   EN : 'Niko,'
+   我方: 'Niko，'
+   v10: '尼克，'
+base  5E40C51D
+   EN : 'Niko,'
+   我方: 'Niko，'
+   v10: '尼克，'
+base  6F2266E0
+   EN : 'Niko,'
+   我方: 'Niko，'
+   v10: '尼克，'
+base  B7A177DD
+   EN : 'Niko,'
+   我方: 'Niko，'
+   v10: '尼克，'
+base  FC3ACA48
+   EN : 'Nicky,'
+   我方: 'Nicky，'
+   v10: '尼克，'
+base  0CDE9155
+   EN : 'Niko,'
+   我方: 'Niko，'
+   v10: '尼克，'
+base  2302BD9D
+   EN : 'Niko,'
+   我方: 'Niko，'
+   v10: '尼克，'
+base  30A958EA
+   EN : 'Niko,'
+   我方: 'Niko，'
+   v10: '尼克，'
+base  5A2A2BEB
+   EN : 'Niko,'
+   我方: 'Niko，'
+   v10: '尼克，'
+base  6F64565F
+   EN : 'Niko,'
+   我方: 'Niko，'
+   v10: '尼克，'
+base  7EE3F55E
+   EN : 'Niko,'
+   我方: 'Niko，'
+   v10: '尼克，'
+base  C7E3875C
+   EN : 'Niko,'
+   我方: 'Niko，'
+   v10: '尼克，'
+base  D61923C7
+   EN : 'Niko,'
+   我方: 'Niko，'
+   v10: '尼克，'
+base  5BCA031D
+   EN : 'Roman.'
+   我方: 'Roman。'
+   v10: '罗曼。'
+base  E14E408C
+   EN : 'Roman'
+   我方: 'Roman'
+   v10: '罗曼'
+base  E9D95A48
+   EN : 'Roman'
+   我方: 'Roman'
+   v10: '罗曼'
+base  3B912681
+   EN : '~z~Roman. Roman!'
+   我方: '~z~Roman。Roman！'
+   v10: '~z~罗曼。罗曼！'
+base  2C924360
+   EN : '~z~This is because guns from them have ended up on the streets here.'
+   我方: '~z~?'
+   v10: '~z~因为他们卖出的枪支流到了这边的街头。'
+base  01991F72
+   EN : '~z~Niko.'
+   我方: '~z~Niko。'
+   v10: '~z~尼克。'
+base  94F6C777
+   EN : '~z~Niko!'
+   我方: '~z~Niko！'
+   v10: '~z~尼克！'
+base  9AF702B1
+   EN : '~z~Ras clot!'
+   我方: '~z~Ras clot！'
+   v10: '~z~你妈的！'
+base  BF73CBAA
+   EN : '~z~Bumba clot!'
+   我方: '~z~Bumba clot！'
+   v10: '~z~傻逼！'
+base  D3CE008D
+   EN : '~z~Rhaatid.'
+   我方: '~z~Rhaatid。'
+   v10: '~z~我操。'
+base  B5E72594
+   EN : '~z~Roman...'
+   我方: '~z~Roman...'
+   v10: '~z~罗曼...'
+base  92984525
+   EN : '~z~Bumbaclot.'
+   我方: '~z~Bumbaclot。'
+   v10: '~z~操他妈的。'
+base  A26CDA05
+   EN : '~z~Niko, Niko.'
+   我方: '~z~Niko，Niko。'
+   v10: '~z~尼克，尼克。'
+base  E2902A2A
+   EN : '~z~Niko.'
+   我方: '~z~Niko。'
+   v10: '~z~尼克。'
+base  B0F8A1B3
+   EN : '~z~Niko.'
+   我方: '~z~Niko。'
+   v10: '~z~尼克。'
+base  0810964B
+   EN : '~z~Niko?'
+   我方: '~z~Niko？'
+   v10: '~z~尼克？'
+base  C02D0685
+   EN : '~z~Niko.'
+   我方: '~z~Niko。'
+   v10: '~z~尼克。'
+base  FEF83AD0
+   EN : '~z~Niko!'
+   我方: '~z~Niko！'
+   v10: '~z~尼克！'
+base  373DA234
+   EN : '~z~Niko...'
+   我方: '~z~Niko...'
+   v10: '~z~尼克...'
+base  E70718C3
+   EN : '~z~Roman?'
+   我方: '~z~Roman？'
+   v10: '~z~罗曼？'
+base  964ACD3E
+   EN : '~z~Niko?'
+   我方: '~z~Niko？'
+   v10: '~z~尼克？'
+base  D6BC7407
+   EN : '~z~Niko Bellic.'
+   我方: '~z~Niko Bellic。'
+   v10: '~z~尼克･贝利克。'
+base  85A9B31D
+   EN : '~z~Roman?'
+   我方: '~z~Roman？'
+   v10: '~z~罗曼？'
+base  833A88C1
+   EN : '~z~Niko!'
+   我方: '~z~Niko！'
+   v10: '~z~尼克！'
+base  DB61B90E
+   EN : '~z~Niko!'
+   我方: '~z~Niko！'
+   v10: '~z~尼克！'
+base  8029AC5E
+   EN : '~z~Niko.'
+   我方: '~z~Niko。'
+   v10: '~z~尼克。'
+base  37E46A7F
+   EN : '~z~Niko Bellic.'
+   我方: '~z~Niko Bellic。'
+   v10: '~z~尼克･贝利克。'
+base  8A140E91
+   EN : '~z~Niko Bellic.'
+   我方: '~z~Niko Bellic。'
+   v10: '~z~尼克･贝利克。'
+base  FB0B04EC
+   EN : '~z~Comrades!'
+   我方: '~z~Comrades！'
+   v10: '~z~Comrades(同志)！'
+base  FEA555A1
+   EN : '~z~Roman?'
+   我方: '~z~Roman？'
+   v10: '~z~罗曼？'
+base  20DB8228
+   EN : '~z~Roman...'
+   我方: '~z~Roman...'
+   v10: '~z~罗曼...'
+base  7DB9EA09
+   EN : '~z~Roman?'
+   我方: '~z~Roman？'
+   v10: '~z~罗曼？'
+base  D98E1D66
+   EN : '~z~Niko,'
+   我方: '~z~Niko，'
+   v10: '~z~尼克，'
+base  B9DDBB9F
+   EN : '~z~Niko!'
+   我方: '~z~Niko！'
+   v10: '~z~尼克！'
+TLAD  4C6144A0
+   EN : '~z~Deadbeats, Deadbeats, Deadbeats.'
+   我方: '~z~Deadbeats，Deadbeats，Deadbeats。'
+   v10: '~z~死妈天使，死妈天使，死妈天使。'
+TLAD  2864619E
+   EN : '~z~~s~'
+   我方: '~z~~s~'
+   v10: '~z~~s~尼克：去你妈的。'
+TLAD  4AB54A40
+   EN : '~z~~s~'
+   我方: '~z~~s~'
+   v10: '~z~~s~我今天很不高兴。'
+TLAD  57513F77
+   EN : '~z~~s~'
+   我方: '~z~~s~'
+   v10: '~z~~s~尼克：操！'
+TLAD  6E4A1169
+   EN : '~z~~s~'
+   我方: '~z~~s~'
+   v10: '~z~~s~尼克：还想抓我？'
+TLAD  AAE2F92B
+   EN : '~z~~s~'
+   我方: '~z~~s~'
+   v10: '~z~~s~尼克：把你们都杀了！'
+TLAD  C17EA662
+   EN : '~z~~s~'
+   我方: '~z~~s~'
+   v10: '~z~~s~尼克：闭嘴滚蛋！'
+TLAD  0C256574
+   EN : 'Roman.'
+   我方: 'Roman.'
+   v10: '罗曼。'
+TLAD  E8506E8D
+   EN : 'We eliminate debt quickly and painlessly without damaging your credit score. We sell finan'
+   我方: '<a href="www.killdebtdead.com">www.killdebtdead.com</a>'
+   v10: '我们能够快速消灭你的债务，没有任何痛苦，并且不会影响你的个人征信。我们卖的是财务自由。也许你已经毁掉了自己的一生，并且再也无法恢复，但我们可以帮你！买东西为什么还要付钱？赊出你的新'
+TBoGT 705FE7DB
+   EN : '~z~~x~'
+   我方: '~z~~x~'
+   v10: '~z~哈哈哈哈哈哈哈哈。'
+TBoGT A8889735
+   EN : '~z~Dima la montro'
+   我方: '~z~Dima la montro。'
+   v10: '~z~嗨呀，是我吗？'
+TBoGT 51C82C35
+   EN : '~z~'
+   我方: '~z~'
+   v10: '~z~你要的我车弄来了，近在眼前。'
+TBoGT B558BA99
+   EN : "~z~'The Celebrinator'?"
+   我方: '~z~「Celebinator」？'
+   v10: '~z~「名人终结者」？'
+TBoGT 201FD031
+   EN : 'Roman.'
+   我方: 'Roman.'
+   v10: '罗曼.'
+TBoGT 08795395
+   EN : 'Moj dragi sine,'
+   我方: 'Moj dragi sine,'
+   v10: 'Moj dragi sine (我亲爱的儿子)，'
+TBoGT 15602079
+   EN : 'Tvoja voljena majka.'
+   我方: 'Tvoja voljena majka.'
+   v10: 'Tvoja voljena majka (爱你的妈妈)。'
+TBoGT 3B12EBDE
+   EN : 'Tvoja voljena majka.'
+   我方: 'Tvoja voljena majka.'
+   v10: 'Tvoja voljena majka (爱你的妈妈)。'
+TBoGT 508D96D3
+   EN : 'Tvoja voljena majka.'
+   我方: 'Tvoja voljena majka.'
+   v10: 'Tvoja voljena majka (爱你的妈妈)。'
+TBoGT 55076CB0
+   EN : 'Moj dragi sine,'
+   我方: 'Moj dragi sine,'
+   v10: 'Moj dragi sine (我亲爱的儿子)，'
+TBoGT CC1E5AE0
+   EN : 'Moj dragi sine,'
+   我方: 'Moj dragi sine,'
+   v10: 'Moj dragi sine (我亲爱的儿子)，'
+TBoGT E81EC5F7
+   EN : 'Tvoja voljena majka.'
+   我方: 'Tvoja voljena majka.'
+   v10: 'Tvoja voljena majka (爱你的妈妈)。'
+TBoGT EC239AEA
+   EN : 'Moj dragi sine,'
+   我方: 'Moj dragi sine,'
+   v10: 'Moj dragi sine (我亲爱的儿子)，'

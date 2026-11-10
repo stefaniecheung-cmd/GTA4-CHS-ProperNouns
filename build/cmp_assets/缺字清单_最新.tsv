@@ -1,0 +1,61 @@
+﻿字符	码位	类别	出现次数	章节	表	CRC	首见文本
+™	U+2122	符号	24	base	MAIN	58A5DCC5	~s~开始SIXAXIS™教程前，你必须摆脱通缉。
+¬	U+00AC	符号	14	base	MAIN	015AE632	© 2007-2020 Rockstar Games, Inc. Rockstar Games、Rockstar Nor
+®	U+00AE	符号	7	base	MAIN	00E46BDE	与 PLAYSTATION®Network 的网络连接已丢失。
+©	U+00A9	符号	6	base	MAIN	015AE632	© 2007-2020 Rockstar Games, Inc. Rockstar Games、Rockstar Nor
+é	U+00E9	拉丁重音/其它	16	base	CREDIT	3AE40047	Jesús Pérez Rosales
+á	U+00E1	拉丁重音/其它	4	base	MAIN	5A284FE0	ZiT! 正在播放：WISIN Y YANDEL - Me Estás Tentando
+É	U+00C9	拉丁重音/其它	2	base	MAIN	1E95022B	ZiT! 正在播放：RED CAFÉ - Stick'm
+ç	U+00E7	拉丁重音/其它	2	base	CREDIT	16BEF65E	François-Xavier Fouchet
+È	U+00C8	拉丁重音/其它	1	base	MAIN	0563F01B	ZiT! 正在播放：GODLEY & CRÈME - Cry
+à	U+00E0	拉丁重音/其它	1	base	CREDIT	0490D5DD	Tomàs-David Sallarès
+è	U+00E8	拉丁重音/其它	1	base	CREDIT	0490D5DD	Tomàs-David Sallarès
+ú	U+00FA	拉丁重音/其它	1	base	CREDIT	3AE40047	Jesús Pérez Rosales
+ñ	U+00F1	拉丁重音/其它	1	base	CREDIT	D539A26B	Luis Angel Galindo Muñoz
+ü	U+00FC	拉丁重音/其它	1	base	CREDIT	E35D64CF	Dennis Reinmüller
+　	U+3000	标点/全角	7	base	BLOGALX	1545F400	太糟了！爹地居然敢建议我找份工作，这辈子都没受过这么大的侮辱。我深谋远虑，还写着博客。在生活中编织艺术，像在黑色床单上留
+／	U+FF0F	标点/全角	2	base	LOVEMTM	168FE1DF	放得开、任由本能主导的女孩。能玩到野、把性活力推到顶点的女孩。柔韧、开放、自尊低，还想报复男友／丈夫／父亲的那种女孩。
+瘆	U+7606	CJK	4	base	PUBLB5	438F0B8B	暴力执法必须停止。搜查和扣押必须停止，尤其是针对癫痫病人的搜查。地铁里那些公告也瘆人。现在是什么年份？1984？博主们联
+邋	U+908B	CJK	3	base	MAIN	D3CB4BEA	今天我要结婚啦，堂弟！十点到教堂。穿得体面点，我可不想看你这副邋遢样。Roman
+遢	U+9062	CJK	3	base	MAIN	D3CB4BEA	今天我要结婚啦，堂弟！十点到教堂。穿得体面点，我可不想看你这副邋遢样。Roman
+噗	U+5657	CJK	3	TBoGT	MAIN	EDBA7FAC	还以为你会来呢。噗噗噗！快来吧！ 维克 xx
+虱	U+8671	CJK	3	TBoGT	E2T5BAU	22B962A2	~z~重点在于生意，兄弟。你那阴虱自己留着吧。
+疵	U+75B5	CJK	2	base	BC3AUD	2B2FC86F	~z~这会害咱脸上留瑕疵的。
+撵	U+64B5	CJK	2	base	DF3AUD	9B456C16	~z~行，我替你把那些占着房的撵出去。没问题。
+粝	U+7C9D	CJK	2	base	LIBTR2	151D7088	在「娱乐之战」席卷自由城的大街小巷之前，在星汇广场还同时混着粗粝、魅惑和下三滥的年月，药片随处嗑，鼻子上沾着白粉，高球杯
+唠	U+5520	CJK	2	base	MF3AUD	E7480403	~z~我就不跟你唠叨玛洛丽的事了，Roman。
+娄	U+5A04	CJK	2	base	R13AUD	762F4B68	~z~我是说，你捅了娄子，我背锅。
+髋	U+9ACB	CJK	2	base	VIPRING	871AFD6A	老太太摔断髋骨
+槌	U+69CC	CJK	2	TLAD	AIRHOCK	2E001EF6	用~PAD_LSTICK_ALL~移动球槌。~n~向任意方向推动~PAD_RSTICK_ALL~打出重击。~n~按~PA
+捋	U+634B	CJK	2	TLAD	E1B6AUD	592B358E	~z~那我捋一捋。
+嘀	U+5600	CJK	2	TLAD	E1S2AUD	14E09AF7	~z~哦，我就爱沿海滨长廊散步，长廊、长廊、长廊。乐队在那儿吹着嘀嘀嗒......
+泞	U+6CDE	CJK	1	base	MAIN	C51DA097	泥泞
+瘀	U+7600	CJK	1	base	BR3AUD	258B2D98	~z~给老子滚蛋，我不想留瘀伤。
+簸	U+7C38	CJK	1	base	C4AUD	3ECC7896	~z~这该死的颠簸搞得我根本没法开火。
+辄	U+8F84	CJK	1	base	LCPDKO	2AF8A0B7	- 文森特･卢皮塞拉的侄子。<br/>- 据传其为卢皮塞拉犯罪家族老大，但很多人认为仍由其叔叔掌权。<br/>- 据说其
+蔓	U+8513	CJK	1	base	LIBTR12	B2C8E9FB	从前是黑手党、犹太黑帮和爱尔兰斗士。如今是阿尔巴尼亚人、俄罗斯人、牙买加人和韩国人的地盘，他们同样在敲诈勒索、贩卖毒品。
+纭	U+7EAD	CJK	1	base	LIBTR43	D72F8D98	萨福克的一场婚礼变成了骇人惨剧：一名男子在自己的婚礼上被杀。新郎Roman Bellic，31岁，是住在中央公园东的生意
+肏	U+808F	CJK	1	base	LIBTR45	D17AC439	警方宣布，近日菲利波･坎塔拉托的死因是体内爆燃——这对家属来说无疑尴尬至极。坎塔拉托是网上一个日渐壮大的直播群的成员，他
+砌	U+780C	CJK	1	base	LIBTR7	2D99D38A	对股市来说这是疯狂的一周：股价先涨，随后崩下来，搞得市场动荡，也让一堆评论员有机会堆砌各种最高级的词，装作看得懂眼下发生
+渥	U+6E25	CJK	1	base	LOVEMTF	0D422BBE	我得到了多少。我这辈子过得太优渥了，得到的太多，多到让我愧疚。我只想回报点什么。我试着通过工作、通过慈善去回报。我讨厌炫
+韧	U+97E7	CJK	1	base	LOVEMTM	168FE1DF	放得开、任由本能主导的女孩。能玩到野、把性活力推到顶点的女孩。柔韧、开放、自尊低，还想报复男友／丈夫／父亲的那种女孩。
+喏	U+558F	CJK	1	base	M1AUD	A8E3CBE6	~z~喏，这就是我的证词，伙计。
+沤	U+6CA4	CJK	1	base	PUBLB7	A1297C48	优质大麻、伐木工、烂军队。对我们这些想过平静日子、自己沤肥、喝公平贸易咖啡、见人就宣讲塑料之恶的人来说，加拿大一天比一天
+岬	U+5CAC	CJK	1	base	R11AUD	76C6BB21	~z~那岬角上的那些妓女，连我都不会去，堂弟。
+囔	U+56D4	CJK	1	base	WEAZL10	FC0944E5	想象一下——室外37度，你还得走路去上班。没有机会坐在舒适的SUV里吹着空调等堵车，没有机会听你上早班时最爱听的WKTT
+砺	U+783A	CJK	1	TLAD	MAIN	B6CC48F4	小地图上方显示的信息，表明你的 Lost 帮成员经过战斗磨砺到什么程度；程度由名字旁边的色条表示。
+璀	U+7480	CJK	1	TLAD	E1A2AUD	308D773D	~z~我会带你们穿过 Star Junction 的灯火璀璨，走过中央公园西那些华丽商铺......
+璨	U+74A8	CJK	1	TLAD	E1A2AUD	308D773D	~z~我会带你们穿过 Star Junction 的灯火璀璨，走过中央公园西那些华丽商铺......
+芋	U+828B	CJK	1	TLAD	E1E1AUD	25A6D7D9	~z~没说的，就当她是烫手山芋，甩了。已经甩了。
+拣	U+62E3	CJK	1	TLAD	E1E3AUD	82944803	~z~没时间挑三拣四了。
+擞	U+64DE	CJK	1	TLAD	E1E3AUD	B10371BB	~z~要是我有这么个妞，我早就精神抖擞了。
+抡	U+62A1	CJK	1	TLAD	MALC1AU	8E2CA573	~z~那场赛车本来最多就是抡棒球棍。我可没料到会有人开枪。
+惭	U+60ED	CJK	1	TLAD	RPi1AUD	76F908EF	~z~比利...他控制了我。我太惭愧了。
+钾	U+94BE	CJK	1	TBoGT	E2BCAUD	1A97471C	~z~补点钾。吃根香蕉什么的。你可是要干活的。
+啵	U+5575	CJK	1	TBoGT	E2BCAUD	EA3821EF	~z~等不及了，啵！
+墩	U+58A9	CJK	1	TBoGT	E2BR3AU	604DBB12	~z~你觉得我这胖墩弟弟挤得进那玩意儿？动动脑子，洛佩兹。
+撬	U+64AC	CJK	1	TBoGT	E2T5BAU	422CEB5C	~z~我要你帮我从这个工会混蛋嘴里撬点消息出来。
+颚	U+989A	CJK	1	TBoGT	E2Tm3AU	52EF6B7C	~z~噢，天哪，我还真喜欢黄种人。她们的逼跟土狼的颚似的，你知道吧。
+姘	U+59D8	CJK	1	TBoGT	E2Tm3AU	AF149271	~z~野鸡，哥们。姘头。风尘女子。骚货。
+肓	U+8093	CJK	1	TBoGT	EML18	B3A1052F	统一价格，每人仅要$10,000。我们的保险计划会给您和您的家人提供全面的终身医保。没错，终身医保。没有陷阱，没有小字，
+酝	U+915D	CJK	1	TBoGT	LBTR239	451370DD	随着好麦坞由主打铁血硬汉转向都市美男，最近浪漫喜剧的票房一时疯涨。这种转变已经酝酿已久了。自由城影协的发言人伊丽莎白･兰

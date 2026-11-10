@@ -1,0 +1,10 @@
+﻿chapter	table	crc	english	zh_new	resolution
+TBoGT	E2Y1Aud	E50E2243	After I've finished with them, they'll look like they've been dragged through the fucking desert.	等我完事儿，她们会像被拖过他妈一片沙漠一样惨。	原文其实完整（dragged through the fucking desert 是「被拖着穿过沙漠」的惨状比喻），只是导出预览截断；原译「沙漠遇难的脱水人干」为自创意象。fucking 按原意译出。
+TBoGT	E2Y3AUD	CC495487	Can you now?	你现在就能买了？	Can you now? 是对对方当下能力的反诘惊叹，原译「能买到吗」丢了 now 的时点并把肯定语气改成疑问。
+TBoGT	E2Y3AUD	1AEDA761	When a book is called "Guns,	当一本书的名字叫「枪炮，	原文本身就在书名中途断句（引号未闭合，下一条接书名后半），确认为原始文本而非导出截断；译文保持同一断点，把原译误当顿号的引号还原成中文引号。
+TLAD	E1HPAUD	96E75BE0	DIALOGUE MISSING	对话缺失	DIALOGUE MISSING 是配音缺失的占位符，不是台词；与 5D478FFD 统一为「对话缺失」，「丢失」改「缺失」避免像事件报告。
+TLAD	E1S1AUD	BBC92791	Ah, he was a man of the people, a philanthropist, a pompous windbag and an occasional catamite,	啊，他是人民公仆，是个大善人，是个牛皮大王，偶尔还当个男宠，	原文完整（catamite＝被包养的男宠/娈童），只是预览截断；原译「小受」属圈内用语且不合讽刺政客的语境；原文以逗号结尾（本条被切成两句显示），译文保留逗号。
+TLAD	E1SAAUD	5D478FFD	DIALOGUE MISSING	对话缺失	同 96E75BE0 的占位符，两处统一。
+TBoGT	E2BCLA	2BB5C8D7	Cold man.	你可真冷血。	前一条是「我事儿很多，给不了你需要的关注」，本条是女方对这句的评语；意语 Che tristezza / 法语 C'est bas / 西语 Hombre frío 三语一致指向责备。原译「好冷酷啊」偏旁观感叹。
+TBoGT	E2BG1CA	5B2EBAE5	Go. Roll the bitch!	去。把音响轰起来！	意语 Pompa il volume / 法语 Fais péter le son / 西语 Dale caña 三语都把 roll 解成「开音响、放起来」；原译「闪亮登场」无原文依据。
+TBoGT	E2BCLA	DB14B1D9	E mio.	是我。	意大利语「(这)是我的」，法/意原文都保留 E mio，官方西语译作 Soy yo（是我）；中文「是我。」已准确，不改。

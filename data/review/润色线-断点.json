@@ -1,0 +1,199 @@
+{
+  "updated": "2026-11-09 23:58:00",
+  "stamp": "20261108_pass6244",
+  "queue": {
+    "total": 58157,
+    "P1": 7950,
+    "P2": 1113,
+    "P3": 18725,
+    "P4": 30369
+  },
+  "p3": {
+    "total": 18725,
+    "offset_done": 18725,
+    "remaining": 0,
+    "next_from": 18726
+  },
+  "counts": {
+    "zh_global_rows": 13315,
+    "review_log_rows": 12278,
+    "qa": "合计：检查 14125 条，错误 0，警告 17"
+  },
+  "pending_dump": {
+    "file": null,
+    "covers": "6125-6244 已全部审完并落表，无待分析残留"
+  },
+  "banlist": {
+    "status": "voided",
+    "decided": "2026-11-08 用户拍板选项 2",
+    "reason": "来历不明（拿不出用户原话）+ 「逼作侮辱后缀」与拍板「侮辱词口径不用动」直接冲突 + 误判正常中文（重量级奖项/下次一定买）",
+    "current_rule": "唯一判据＝原文语义是否到位；原文有的必须译出，原文没有的不许自加；侮辱词不做净化",
+    "reviewed_log_entries": 82,
+    "refixed": 33,
+    "purge_rollbacks": [
+      "7A228571",
+      "CF6356B4"
+    ],
+    "script": "C:\\Game\\_tools\\_tmp_log_f5.py",
+    "audit_script": "C:\\Game\\_tools\\_tmp_banned_audit.py"
+  },
+  "artifacts_sha256": {
+    "zh_global": "df813fe1adc7e1bc769b7fda28aad7b5d301824956c8ca37c3e5bf656073c69b",
+    "review_log": "7661ed65a617be31f330280b7490c40a4a64a4e21c19542b1d6827203fee938d",
+    "zchs_gxt": "BEEC417327871828"
+  },
+  "build": {
+    "src_regenerated": false,
+    "gxt_base_tr": {
+      "bytes": 2670666,
+      "sha256_16": "BEEC417327871828"
+    },
+    "gxt_TLAD_tr": {
+      "bytes": 778444,
+      "sha256_16": "D8569D93C54F7F17"
+    },
+    "gxt_TBoGT_tr": {
+      "bytes": 973648,
+      "sha256_16": "C8CDCC00163DFD67"
+    },
+    "applied": {
+      "base": 9717,
+      "TLAD": 2500,
+      "TBoGT": 2830
+    },
+    "deployed": false,
+    "deployed_batch": "p49725（游戏侧仍为 P4 收尾版 2,669,910）"
+  },
+  "charset": {
+    "measured_at_offset": "P3 全库终扫 + P4 前 100",
+    "note": "P3 才走到 33.4%，字符集还会变；图集最后一次追加等 P3 收尾全库终扫",
+    "atlas_capacity": 3597,
+    "non_ascii_used": 3347,
+    "hanzi": 3306,
+    "punct": 41,
+    "slack": 250,
+    "missing_7": [
+      "虱",
+      "辖",
+      "啵",
+      "钾",
+      "墩",
+      "瘆",
+      "撬"
+    ],
+    "missing_occurrences": 10,
+    "missing_7_note": "实测应为 19 汉字 + 全角空格；详见 docs\\439条与缺字-实测结论.md"
+  },
+  "snapshots": {
+    "覆盖表_zh_global": {
+      "path": "C:\\Game\\Grand Theft Auto IV\\gta4-chs\\assets_backup\\覆盖表_zh_global_20261108_pass6244.tsv",
+      "bytes": 610284,
+      "sha256": "44cbf4299c8ef21b52ea28b38dbc1aea0a7cd3ca64556619fc573982e37bb85b"
+    },
+    "审读日志": {
+      "path": "C:\\Game\\Grand Theft Auto IV\\gta4-chs\\assets_backup\\审读日志_20261108_pass6244.tsv",
+      "bytes": 1508443,
+      "sha256": "9a91b840afd69c76de53a2c4bcceba504a85e404f47b9db7fbbbd18376382d9b"
+    }
+  },
+  "authoritative_doc": "C:\\Game\\Grand Theft Auto IV\\gta4-chs\\docs\\润色线-进度存档.md",
+  "queue_total": 58157,
+  "passed_offset": 58157,
+  "remaining": 0,
+  "next_from": 1114,
+  "pipeline_order": [
+    "patch_polish1.py",
+    "fix_ctrl.py",
+    "qa_gate.py",
+    "apply_zh.py",
+    "gxt_pack.py",
+    "gxt_verify_engine.py"
+  ],
+  "pipeline_note": "patch_polish1 必须在 fix_ctrl 之前；反过来会把 fix_ctrl 补的控制符冲掉",
+  "notes_log": [
+    {
+      "at": "2026-11-09 03:35:03",
+      "offset": 6365,
+      "note": "6306-6365 本批 16 条已落表；机制化存档建立"
+    },
+    {
+      "at": "2026-11-09 09:21:45",
+      "offset": 8265,
+      "note": "三章部署首次执行(p8265)：本体/TLAD/TBoGT 三章 gxt 全部换我方译文包(59,661/18,557/23,911)；TLAD/TBoGT 图集换 4096 那套(解压18,878,464/19,927,040)；备份后缀 .bak_p8265"
+    },
+    {
+      "at": "2026-11-09 11:21:07",
+      "offset": 18725,
+      "note": "P4 batch1 1-100 done (20 fixes)"
+    },
+    {
+      "at": "2026-11-09 20:52:00",
+      "offset": 7950,
+      "note": "P1 队列全部走完（6366→7950 共 34 批）；base 生效 9,661 条，zchs_base_tr.gxt 2,670,200 字节，qa 检查 14,040 条 0 错误 / 17 警告；尚未部署到游戏侧"
+    },
+    {
+      "at": "2026-11-09 23:40:00",
+      "offset": 1113,
+      "note": "P2 队列全部走完（7951→1113 共 12 批）；base 生效 9,709 条，zchs_base_tr.gxt 2,670,198 字节，qa 检查 14,109 条 0 错误 / 17 警告；尚未部署到游戏侧"
+    },
+    {
+      "at": "2026-11-09 23:58:00",
+      "offset": 1113,
+      "note": "挂起 8 条结案（挂起表 6 条全处理 + 语义待定 3 条中 2 条改、1 条确认原译正确）；EULA 8 条统一口径（删第三方署名行、Microsoft 商标句、标点）；打码/自加符号 6 条（〇逼→那个 C 字、去掉自加星号与括注、sandwich maker 误译改正）；顺带清理覆盖表 5 行 chapter 空的重复旧行。base 9,717 / TLAD 2,500 / TBoGT 2,830，qa 14,125 条 0 错 17 警。覆盖表备份 assets_backup\\覆盖表_zh_global_20261109_p2hold.tsv"
+    }
+  ],
+  "layers": {
+    "1": 7950,
+    "2": 1113,
+    "3": 18725,
+    "4": 30369
+  },
+  "last_deploy": {
+    "offset": 17565,
+    "backup_suffix": ".bak_p17565",
+    "pack_verify": "三章 gxt 回读 524/59661、142/18557、163/23911，文本逐条比对 0 条不一致",
+    "atlas": "图集沿用 p8265 版本，本次未重部署",
+    "files": [
+      {
+        "path": "common\\text\\zchs.gxt",
+        "bytes": 2675500,
+        "sha256_head": "7D5BCBEE60DA82DD"
+      },
+      {
+        "path": "chs\\gxt\\zchs.gxt",
+        "bytes": 2675500,
+        "sha256_head": "7D5BCBEE60DA82DD"
+      },
+      {
+        "path": "TLAD\\common\\text\\zchs.gxt",
+        "bytes": 779226,
+        "sha256_head": "C294E33BC1B2A2C0"
+      },
+      {
+        "path": "TBoGT\\common\\text\\zchs.gxt",
+        "bytes": 972324,
+        "sha256_head": "E67154971539C54E"
+      }
+    ]
+  },
+  "p4": {
+    "total": 30369,
+    "offset_done": 30369,
+    "remaining": 0,
+    "next_from": 30370
+  },
+  "p1": {
+    "total": 7950,
+    "offset_done": 7950,
+    "remaining": 0,
+    "next_from": 7951,
+    "note": "P1 队列 1-7950 全批走完（6366 起分段推进到 7950）"
+  },
+  "p2": {
+    "total": 1113,
+    "offset_done": 1113,
+    "remaining": 0,
+    "next_from": 1114,
+    "note": "P2 队列 7951-9063 全批走完（每批 100 条，末批 113 条）"
+  }
+}

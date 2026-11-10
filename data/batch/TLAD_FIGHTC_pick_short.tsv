@@ -1,0 +1,14 @@
+序号	crc	english	上邻	下邻
+1	0388A2F5	Here comes a new Challenger		RANK D
+2	08AB303D	RANK D	Here comes a new Challenger	Here comes new Challengers
+3	0B0E3945	Here comes new Challengers	RANK D	If the crowd sides with you, in can help out in a tight spot.
+4	0C2813D8	If the crowd sides with you, in can help out in a tight spot.	Here comes new Challengers	RANK E
+5	1E3A5B5B	RANK E	If the crowd sides with you, in can help out in a tight spot.	RANK B
+6	2D1DF922	RANK B	RANK E	RANK C
+7	3F659DB1	RANK C	RANK B	The Crowd goes wild!!!!!
+8	53D3468C	RANK A	The Crowd goes wild!!!!!	To get the crowd on your side try to showboat by pressing LB or perform counters.
+9	8B9AFCC8	To get the crowd on your side try to showboat by pressing LB or perform counters.	RANK A	FIGHT CLUB ~n~ ~n~ The goal is beat down anyone who steps up and challenge you.~n~ ~n~ There are 7 ranks increasing in difficulty. Maim your way to the top.
+10	9651094A	FIGHT CLUB ~n~ ~n~ The goal is beat down anyone who steps up and challenge you.~n~ ~n~ There are 7 ranks increasing in difficulty. Maim your way to the top.	To get the crowd on your side try to showboat by pressing LB or perform counters.	The fight is over, you have now made the next rank.
+11	A4E784E7	The fight is over, you have now made the next rank.	FIGHT CLUB ~n~ ~n~ The goal is beat down anyone who steps up and challenge you.~n~ ~n~ There are 7 ranks increasing in difficulty. Maim your way to the top.	RANK F
+12	D8744FD0	RANK F	The fight is over, you have now made the next rank.	Elite Rank
+13	E3EEE3D5	Elite Rank	RANK F	

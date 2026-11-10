@@ -1,0 +1,162 @@
+key	zh	bucket
+SkipIntro	跳过开场	取值/标签
+SkipMenu	跳过主菜单	取值/标签
+BorderlessWindowed	无边框窗口	取值/标签
+FpsLimitPreset	帧率上限	菜单项
+Bloom	泛光	菜单项
+ConsoleGamma	主机伽马	菜单项
+ScreenFilter	画面滤镜	菜单项
+Windowed	窗口化	菜单项
+Definition	画质定义	取值/标签
+ShadowFilter	阴影过滤	取值/标签
+TreeLighting	树木光照	取值/标签
+DepthOfField	景深	取值/标签
+MotionBlur	动态模糊	取值/标签
+LightSyncRGB	RGB 灯效同步	取值/标签
+TreeAlpha	树木透明度	菜单项
+SunShafts	太阳光束	菜单项
+DisplayFpsCounter	显示帧率	菜单项
+AlwaysRun	始终奔跑	菜单项
+AltDialogue	备用对白	取值/标签
+CameraCenteringInCover	掩体准心回中	取值/标签
+DelayBeforeCenteringCameraKB	键鼠镜头回中延迟	取值/标签
+DelayBeforeCenteringCameraPad	手柄镜头回中延迟	菜单项
+FieldOfView	视野	菜单项
+RawInput	原始输入	取值/标签
+Buttons	按键提示	菜单项
+Letterbox	上下黑边	取值/标签
+Pillarbox	左右黑边	取值/标签
+Antialiasing	抗锯齿	菜单项
+CheckForUpdates	检查更新	取值/标签
+BlockOnLostFocus	失焦暂停	取值/标签
+TransparentMapMenu	透明地图菜单	取值/标签
+ExtendedSniperControls	扩展狙击操作	菜单项
+TimedEvents	限时事件	取值/标签
+VolumetricFog	体积雾	菜单项
+ToneMapping	色调映射	菜单项
+ZoomedMovement	缩放移动	取值/标签
+UnclampLighting	解除光照限制	菜单项
+DistantLights	远景灯光	菜单项
+CenteredVehCam	载具居中镜头	菜单项
+CenteredFootCam	步行居中镜头	菜单项
+CameraShake	镜头抖动	取值/标签
+CutsceneAudioSync	过场音频同步	取值/标签
+TurnIndicators	转向灯	菜单项
+ExtraNightShadows	额外夜间阴影	取值/标签
+GraphicsAPI	图形接口	菜单项
+AlwaysShowBulletTraces	始终显示弹道	菜单项
+ConsoleAutoExposure	主机自动曝光	取值/标签
+DelayBeforeCenteringCameraKBInCar	键鼠车内回中延迟	取值/标签
+DelayBeforeCenteringCameraPadInCar	手柄车内回中延迟	取值/标签
+CameraTurnSpeedKBInCar	键鼠车内转向速度	取值/标签
+CameraTurnSpeedPadInCar	手柄车内转向速度	菜单项
+PadLookSensitivity	手柄视角灵敏度	菜单项
+PadAimSensitivity	手柄瞄准灵敏度	菜单项
+MouseAimSensitivity	鼠标瞄准灵敏度	菜单项
+DisableWardrobeTransition	关闭换装转场	取值/标签
+InstantStopTaxi	立即刹停出租车	取值/标签
+AmbientOcclusion	环境光遮蔽	取值/标签
+AutoClimbLadders	自动爬梯	菜单项
+StuntJumpCamera	特技跳跃镜头	取值/标签
+ActionCamera	动作镜头	取值/标签
+FOV	视野距离	取值/标签
+OFF	关闭	取值/标签
+Off	关闭	取值/标签
+Sharp	锐利	取值/标签
+Soft	柔和	取值/标签
+CHSS	CHSS	保留原文
+Cutscenes Only	仅过场动画	取值/标签
+Low	低	取值/标签
+Medium	中	取值/标签
+High	高	取值/标签
+Very High	极高	取值/标签
+PC	电脑版	取值/标签
+PC+	电脑版+	取值/标签
+Console	主机版	取值/标签
+Xbox 360	Xbox 360	保留原文
+Xbox One	Xbox One	保留原文
+Playstation 3	PlayStation 3	取值/标签
+Playstation 4	PlayStation 4	取值/标签
+Playstation 5	PlayStation 5	取值/标签
+Nintendo Switch	Nintendo Switch	保留原文
+Steam Deck	Steam Deck	保留原文
+Steam Controller	Steam 手柄	取值/标签
+FXAA	FXAA	保留原文
+SMAA	SMAA	保留原文
+Default	默认	取值/标签
+Custom	自定义	取值/标签
+AimingZoomFix	瞄准缩放修复	仅 ini
+AlwaysDisplayHealthOnReticle	准心显示敌人血量	仅 ini
+AmbientOcclusionBias	环境光遮蔽偏移	仅 ini
+AmbientOcclusionBlurPasses	环境光遮蔽模糊次数	仅 ini
+AmbientOcclusionBlurRadius	环境光遮蔽模糊半径	仅 ini
+AmbientOcclusionFarClip	环境光遮蔽远距裁剪	仅 ini
+AmbientOcclusionIntensity	环境光遮蔽强度	仅 ini
+AmbientOcclusionLogMaxOffset	环境光遮蔽对数最大偏移	仅 ini
+AmbientOcclusionMaxMipLevel	环境光遮蔽最大 Mip 层级	仅 ini
+AmbientOcclusionRadius	环境光遮蔽半径	仅 ini
+AmbientOcclusionSamples	环境光遮蔽采样数	仅 ini
+AutoClimbLaddersRange	自动爬梯触发距离	仅 ini
+BrakeLightsWhenStopped	停车亮刹车灯	仅 ini
+CascadeBlendSize	级联阴影混合范围	仅 ini
+ConsoleCarReflectionsAndDirt	主机版车漆反射与污渍	仅 ini
+CoronaAlphaMultiplier	光晕透明度倍率	仅 ini
+CoronaRadiusMultiplier	光晕半径倍率	仅 ini
+CutsceneFpsLimit	过场动画帧率上限	仅 ini
+DeathMusic	死亡音乐	仅 ini
+DefaultCameraAngleInTLaD	TLAD 默认镜头角度	仅 ini
+DisableCameraCenteringInCover	禁用掩体准心回中	仅 ini
+DisableDefaultLodLights	禁用默认远景灯光	仅 ini
+DisplayMemoryStats	显示内存统计	仅 ini
+EnablePreAlphaDepth	启用预透明深度	仅 ini
+EpisodicDeathMusic	资料片死亡音乐	仅 ini
+EpisodicVehicles	资料片载具	仅 ini
+EpisodicWeapons	资料片武器	仅 ini
+ExplosiveAnnihilator	歼灭者爆炸弹	仅 ini
+ExtendedLimits	扩展上限	仅 ini
+ExtendedTimecycEditing	扩展 timecyc 编辑	仅 ini
+ExtraDynamicShadows	额外动态阴影	仅 ini
+ExtraInfo	附加信息	仅 ini
+FixHelicopterSearchlights	修复直升机探照灯	仅 ini
+ForceShadowFilter	强制阴影过滤	仅 ini
+FpsLimit	帧率上限	仅 ini
+FrameLimitType	锁帧模式	仅 ini
+GamepadAimSensitivityRange	手柄瞄准灵敏度范围	仅 ini
+GamepadLookSensitivityRange	手柄视角灵敏度范围	仅 ini
+HighResolutionShadows	高分辨率阴影	仅 ini
+Language	语言	仅 ini
+LeftIndicatorKey	左转向灯键	仅 ini
+LoadingFpsLimit	载入帧率上限	仅 ini
+ManualTurnIndicators	手动转向灯	仅 ini
+MaxSoftness	最大柔和度	仅 ini
+MenuAccessDelayOnStartup	启动菜单延迟	仅 ini
+MenuEnteringDelay	菜单进入延迟	仅 ini
+MenuExitingDelay	菜单退出延迟	仅 ini
+MinigamesFpsLimit	小游戏帧率上限	仅 ini
+MinigamesList	小游戏列表	仅 ini
+MouseAimSensitivityRange	鼠标瞄准灵敏度范围	仅 ini
+MouseLookSensitivityRange	鼠标视角灵敏度范围	仅 ini
+NoBloomColorShift	关闭泛光色偏	仅 ini
+OtherEpisodicChecks	其他资料片检查	仅 ini
+OverrideTreeAlpha	树木透明度覆盖	仅 ini
+PedBudget	路人预算	仅 ini
+PedDeathAnimFixFromTBoGT	路人死亡动作修复	仅 ini
+PlayerClimbRagdollControl	攀爬布娃娃控制	仅 ini
+PlayerJumpRagdollControl	跳跃布娃娃控制	仅 ini
+RadarZoomDelay	雷达缩放延迟	仅 ini
+RecoilFix	后坐力修复	仅 ini
+ReflectionMSAAQuality	反射 MSAA 质量	仅 ini
+RemoveSCOSignatureCheck	移除 SCO 签名检查	仅 ini
+RightIndicatorKey	右转向灯键	仅 ini
+ShadowBias	阴影偏移	仅 ini
+ShadowSoftness	阴影柔和度	仅 ini
+SlightlyIncreaseRadiusWithDistance	光晕随距离微增	仅 ini
+SmoothLightVolumes	平滑光体积	仅 ini
+SmoothShorelines	平滑海岸线	仅 ini
+SunShaftsDecay	太阳光束衰减	仅 ini
+SunShaftsDensity	太阳光束密度	仅 ini
+TBoGTHelicopterHeightLimit	TBoGT 直升机高度限制	仅 ini
+TBoGTPoliceWeapons	TBoGT 警用武器	仅 ini
+UnlockFramerateDuringLoadscreens	载入时不锁帧	仅 ini
+VehicleBudget	载具预算	仅 ini
+VolFogFarClip	体积雾远距裁剪	仅 ini

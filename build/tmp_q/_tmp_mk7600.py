@@ -1,0 +1,16 @@
+# -*- coding: utf-8 -*-
+import io
+rows = [
+("base","MAIN","B2FA4624","你们几位可比那婊子辣多了。我们返航吧，尼克。","bitch 按原意译出，原译「尊鬼神」把侮辱词改成了不相关的词；Nicky 统一「尼克」"),
+("base","MAIN","BAEDA7D9","已显示 ~1~ 个及以上结果。~n~再次搜索以显示更多匹配。","原文是 more matches（更多匹配结果），原译「更多房间」把 match 误读成房间"),
+("base","MAIN","CA663901","唔……唔，我看得出你这表情是打算干什么……","where you're going with that look 是「这表情想干什么」，原译「穿成这样出去的后果」把 look 误读成穿着"),
+("base","MAIN","F511E6D2","然后这帮混蛋把我按在椅子上，我压根没想试车。","put me in a chair 是「把我按到椅子上」，原译「给了我一把椅子」把被动动作译成赠予"),
+("base","MAIN","062CC17B","太美了。这套收藏里你还会得到：极缎面处理的独狼战术刀。","原译漏掉 with extreme satin finish（缎面处理这一卖点）"),
+("base","MAIN","1821D602","尼克，我现在在教堂。我要结婚了。穿套像样的衣服，尽快赶过来。罗曼","Niko 按口径统一「尼克」"),
+("base","MAIN","263E6743","这部纪录片里他们用钢丝把她的下巴固定住，想让她少吃点。","wired her jaw together 是「用钢丝把下巴固定」，原译「把下巴固定住」漏了钢丝这个手段"),
+]
+with io.open(r"C:\Game\Grand Theft Auto IV\gta4-chs\build\tmp_q\fixes_p1_07600.tsv","w",encoding="utf-8",newline="\n") as f:
+    f.write("chapter\ttable\tcrc\t新译正文\t理由\n")
+    for r in rows:
+        f.write("\t".join(r)+"\n")
+print("wrote", len(rows))

@@ -1,0 +1,38 @@
+# === 失败 hook 路线（已冻结，不入库）===
+/src/
+/out/
+
+# === 备份目录与第三方参照基线 ===
+/assets_backup/
+/reference/
+/data/bak_nightlife/
+/build/tmp_q/_scripts_snapshot/
+/build/tmp_q/release_snapshot_before_asi/
+/build/tmp_q/backup_gxt_20261110/
+/build/tmp_q/backup_gxt_before_stable_20261110/
+/build/tmp_q/backup_zh_global_*.tsv
+/build/font_work/backup_deploy/
+
+# === 备份文件 ===
+**/*.bak
+**/*.bak_*
+**/*.bak_before_*
+**/*.bak_2026*
+**/*.bak_broken*
+**/*.bak[0-9]_*
+
+# === 编译产物 ===
+**/*.obj
+
+# === 字库 / 渲染中间产物（成品 dat/wtd/gxt/asi/zip 保留）===
+/build/atlas_work/
+/build/font_work/glyphs/
+/build/font_work/verify_preview/
+/build/font_work/*.png
+**/*.dds
+**/*.bin
+**/probe_*.png
+**/diag_*.png
+
+# === 临时文件 ===
+**/_batch_tmp.txt

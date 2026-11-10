@@ -1,0 +1,14 @@
+# -*- coding: utf-8 -*-
+import io
+rows = [
+("base","MAIN","7EB6B5D1","不，我两年前就做过了，可他们去年又打来了。","No I done it 是先否定「没做过」的追问，原译「怎么了」把否定答句译成反问"),
+("base","MAIN","BBDC3FB5","出名之前我从没为这个担过心。我现在也没更虚荣，","And I'm not more vain now 是「我现在也没变得更虚荣」，原译「不是吹嘘自己」换成了打圆场"),
+("base","MAIN","CA394C3E","尼克，给我妹打个电话。她他妈整天跟妈泡在一起，这可不健康。","Niko 按口径统一「尼克」"),
+("base","MAIN","EDAEC09C","我从医院回来了，尼克。有空打给我。就这样 - LJ","Niko 按口径统一「尼克」"),
+("base","MAIN","0856BE1F","系统会提示你按~INPUT_PICKUP~试穿服装。","原文是系统提示语，原译「这边建议您…哦」客服腔且脱离提示语气"),
+]
+with io.open(r"C:\Game\Grand Theft Auto IV\gta4-chs\build\tmp_q\fixes_p1_07500.tsv","w",encoding="utf-8",newline="\n") as f:
+    f.write("chapter\ttable\tcrc\t新译正文\t理由\n")
+    for r in rows:
+        f.write("\t".join(r)+"\n")
+print("wrote", len(rows))

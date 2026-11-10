@@ -1,0 +1,69 @@
+序号	crc	english	上邻	下邻
+1	020FF742	lost territory		40%
+2	072F9D22	40%	lost territory	gained territory (30%)
+3	09042B94	gained territory (30%)	40%	1 defender in this territory.
+4	0C982511	1 defender in this territory.	gained territory (30%)	gained territory (50%)
+5	1171BEB3	gained territory (50%)	1 defender in this territory.	60%
+6	185F3F81	60%	gained territory (50%)	gained territory (60%)
+7	19054AB2	gained territory (60%)	60%	gained territory (100%)
+8	192A1CB1	gained territory (100%)	gained territory (60%)	gained territory (55%)
+9	1C81D4D3	gained territory (55%)	gained territory (100%)	Take over the other territories while protecting your own.
+10	249073B8	Take over the other territories while protecting your own.	gained territory (55%)	lost territory (85%)
+11	274189C9	lost territory (85%)	Take over the other territories while protecting your own.	gained territory (80%)
+12	28AEDAF9	gained territory (80%)	lost territory (85%)	Take over the other territories while protecting your own.
+13	33EA4ADA	Take over the other territories while protecting your own.	gained territory (80%)	Taking Turf
+14	39B52D4D	Taking Turf	Take over the other territories while protecting your own.	Turf ~1~% taken over.
+15	3AD7C4C0	Turf ~1~% taken over.	Taking Turf	An enemy is nearby, turf cannot be taken over.
+16	3AEE23CC	An enemy is nearby, turf cannot be taken over.	Turf ~1~% taken over.	lost territory (50%)
+17	3E2E36BE	lost territory (50%)	An enemy is nearby, turf cannot be taken over.	Take over the other territories while protecting your own.
+18	402D2AF1	Take over the other territories while protecting your own.	lost territory (50%)	On
+19	41BD189A	On	Take over the other territories while protecting your own.	Duration
+20	4677891A	Duration	On	lost territory (45%)
+21	537166A8	lost territory (45%)	Duration	Near
+22	5382BC25	Near	lost territory (45%)	lost territory (35%)
+23	53BAE8DB	lost territory (35%)	Near	lost territory (15%)
+24	5EAFFC5D	lost territory (15%)	lost territory (35%)	Take over the other territories while protecting your own.
+25	6048A4AA	Take over the other territories while protecting your own.	lost territory (15%)	lost territory (55%)
+26	633500CF	lost territory (55%)	Take over the other territories while protecting your own.	gained territory
+27	666EFBB6	gained territory	lost territory (55%)	10 mins
+28	67CDDE61	10 mins	gained territory	Take over the other territories while protecting your own.
+29	712B401F	Take over the other territories while protecting your own.	10 mins	Gun Van
+30	747D65C7	Gun Van	Take over the other territories while protecting your own.	波汉
+31	7DD09779	Bohan	Gun Van	lost territory (65%)
+32	80F93C03	lost territory (65%)	波汉	gained territory (40%)
+33	83489D0B	gained territory (40%)	lost territory (65%)	80%
+34	8AED249B	80%	gained territory (40%)	Dukes/Broker
+35	8C7E34D4	Dukes/Broker	80%	lost territory (70%)
+36	8F01DAB8	lost territory (70%)	Dukes/Broker	gained territory (20%)
+37	8FC6B3C7	gained territory (20%)	lost territory (70%)	Far
+38	976A43F3	Far	gained territory (20%)	奥尔德尼
+39	99264E24	Alderney	Far	Location
+40	9AE39C50	Location	奥尔德尼	100%
+41	9E3E4B3D	100%	Location	Take over the other territories while protecting your own.
+42	A5EFF671	Take over the other territories while protecting your own.	100%	Random
+43	A74FEA7B	Random	Take over the other territories while protecting your own.	Off
+44	A938E790	Off	Random	gained territory (75%)
+45	A9FA610A	gained territory (75%)	Off	lost territory (60%)
+46	AA038E1B	lost territory (60%)	gained territory (75%)	阿尔冈琴
+47	ABD9738A	Algonquin	lost territory (60%)	lost territory (30%)
+48	AFFCA161	lost territory (30%)	阿尔冈琴	gained territory (45%)
+49	B809068B	gained territory (45%)	lost territory (30%)	You upgraded a defender's weapon.
+50	C47D6442	You upgraded a defender's weapon.	gained territory (45%)	gained territory (65%)
+51	C677A590	gained territory (65%)	You upgraded a defender's weapon.	gained territory (70%)
+52	C7719BF8	gained territory (70%)	gained territory (65%)	lost territory (20%)
+53	C946D021	lost territory (20%)	gained territory (70%)	Take over the other territories while protecting your own.
+54	CC1F7742	Take over the other territories while protecting your own.	lost territory (20%)	lost territory (0%)
+55	CCEC827C	lost territory (0%)	Take over the other territories while protecting your own.	gained territory (35%)
+56	D013B9AC	gained territory (35%)	lost territory (0%)	Territory ~1~ is under attack.
+57	D3126FCF	Territory ~1~ is under attack.	gained territory (35%)	Bikers from another club are in this territory.
+58	D6206803	Bikers from another club are in this territory.	Territory ~1~ is under attack.	lost territory (75%)
+59	D71AEAED	lost territory (75%)	Bikers from another club are in this territory.	20 mins
+60	E282D3C9	20 mins	lost territory (75%)	lost territory (80%)
+61	F0099B56	lost territory (80%)	20 mins	gained territory (85%)
+62	F199ECCC	gained territory (85%)	lost territory (80%)	30 mins
+63	F4597776	30 mins	gained territory (85%)	gained territory (15%)
+64	F57D02DA	gained territory (15%)	30 mins	lost territory (40%)
+65	F8D23167	lost territory (40%)	gained territory (15%)	Take over the other territories while protecting your own.
+66	F8FD1C92	Take over the other territories while protecting your own.	lost territory (40%)	Blips
+67	FB715CE2	Blips	Take over the other territories while protecting your own.	~1~ defenders in this territory.
+68	FE553D8E	~1~ defenders in this territory.	Blips	

@@ -1,0 +1,1532 @@
+序号	crc	english	上邻	下邻
+1	AD0EBC11	The autosave pause menu option is used by The Ballad of Gay Tony. It is currently switched off. Switch it on again to re-enable autosaving for The Ballad of Gay Tony.		装甲运兵车
+2	2189D250	APC	暂停菜单中的自动存档选项由夜生活之曲使用。目前已被关闭。开启后可以启用夜生活之曲的自动存档功能。	布里凯德
+3	EF1E8F88	Brickade	装甲运兵车	街头恶魔
+4	63ABADE7	Akuma	布里凯德	巴提 定制版
+5	CADD5D2D	Bati Custom	街头恶魔	刀锋
+6	B820ED5E	Blade	巴提 定制版	猛牛
+7	EDD516C6	Buffalo	刀锋	子弹 GT
+8	9AE6DDA1	Bullet GT	猛牛	秃鹰攻击直升机
+9	2F03547B	Buzzard	子弹 GT	双T
+10	9C669788	Double T	秃鹰攻击直升机	F620
+11	DCBCBE48	F620	双T	法焦超级版
+12	0350D1AB	Faggio Ultra	F620	浮舟
+13	98CC6F33	Floater	法焦超级版	迷魅光轮
+14	11F76C14	Hexer	浮舟	白鸟
+15	A99B5BBA	Hakuchou	迷魅光轮	警用摩托
+16	FDEFAEC3	Police Bike	白鸟	警用巡逻车
+17	71FA16EA	Police Cruiser	警用摩托	警用史汀格
+18	8A63C7B9	Police Stinger	警用巡逻车	加长型礼车E
+19	F92AEC4D	Stretch E	警用史汀格	莎夫特
+20	4EF0307F	Schafter	加长型礼车E	莎夫特
+21	8E75AF85	Schafter	莎夫特	瑟雷诺
+22	4FB1A214	Serrano	莎夫特	吊挂直升机
+23	3E48BF23	Skylift	瑟雷诺	大满贯皮卡
+24	2B7F9DE3	Slamvan	吊挂直升机	走私者
+25	38527DEC	Smuggler	大满贯皮卡	金钻耀星
+26	42F2ED16	Super Diamond	走私者	金钻耀星敞篷版
+27	61A3B9BA	Super Drop Diamond	金钻耀星	斯威夫特
+28	EBC24DF2	Swift	金钻耀星敞篷版	坦帕
+29	39F9C898	Tampa	斯威夫特	威德
+30	F79A00F7	Vader	坦帕	布尔加林
+31	FC5A022C	Bulgarin	威德	莫里
+32	13242FC0	Mori	布尔加林	托尼 (可进行)
+33	EE96E6A2	Tony (available)	莫里	恩里克
+34	7C508217	Henrique	托尼 (可进行)	罗科
+35	DA093D87	Rocco	恩里克	尤瑟夫
+36	4BC1F284	Yusuf	罗科	MP Group
+37	1B191133	MP Group	尤瑟夫	母亲家
+38	783CCB81	Mom's House	MP Group	托尼 (不可进行)
+39	8589E61B	Tony (absent)	母亲家	(unused)
+40	9ED718CD	(unused)	托尼 (不可进行)	阿曼多
+41	AD4A35B3	Armando	(unused)	低空跳伞
+42	0A51EFC1	Base Jumping	阿曼多	约炮
+43	D8960C4A	Booty Call	低空跳伞	毒品战争
+44	E5BC2696	Drug Wars	约炮	高尔夫
+45	32F24101	Golf	毒品战争	自由城铁笼格斗
+46	DAADAE4D	L.C. Cage Fighter	高尔夫	桌上冰球
+47	99BE2CEB	Air Hockey	自由城铁笼格斗	铁人三项
+48	E6A4A796	Triathlon	桌上冰球	榴弹发射器
+49	E307BF7D	Grenade Launcher	铁人三项	夜店经营
+50	E8F24AD6	Club Management	榴弹发射器	低空跳伞
+51	F744677A	Base Jumping	夜店经营	黏弹
+52	2304BE56	Sticky Bombs	低空跳伞	游戏进度
+53	F308879D	Game Progress	黏弹	托尼任务进度
+54	1C3EDA09	Tony progress	游戏进度	尤瑟夫任务进度
+55	042FA8A7	Yusuf progress	托尼任务进度	莫里任务进度
+56	F5F90C3A	Mori progress	尤瑟夫任务进度	恩里克好感度
+57	C14822D1	Henrique like	莫里任务进度	恩里克尊敬度
+58	B39D877C	Henrique respect	恩里克好感度	阿曼多任务进度
+59	E5D4EBEA	Armando progress	恩里克尊敬度	阿曼多好感度
+60	CFE2C006	Armando like	阿曼多任务进度	阿曼多尊敬度
+61	5684CD58	Armando respect	阿曼多好感度	雷･布尔加林任务进度
+62	4FBD0872	Ray Bulgarin progress	阿曼多尊敬度	罗科任务进度
+63	C2006CF7	Rocco progress	雷･布尔加林任务进度	我爱自由城
+64	1669A322	I luv L.C.	罗科任务进度	任务用时
+65	281C4687	Time	我爱自由城	玩家受伤
+66	D1C999E3	Player Damage	任务用时	车辆受损
+67	E37F3D4E	Car Damage	玩家受伤	中国外卖
+68	ED4450D8	Chinese Takeout	车辆受损	任务用时
+69	FEF2F435	Time	中国外卖	玩家受伤
+70	90B097AE	Player Damage	任务用时	命中率
+71	280B46FD	Accuracy	玩家受伤	统统爆头
+72	240A3EFB	100% Headshots	命中率	挥杆练习
+73	124E9B84	Practice Swing	统统爆头	任务用时
+74	808377F0	Time	挥杆练习	玩家受伤
+75	6CC0D06B	Player Damage	任务用时	爆头数
+76	2B1FCB96	Headshots	玩家受伤	命中率
+77	DCECAF31	Accuracy	爆头数	精准制导
+78	C6B282BD	100% Golf Accuracy	命中率	写篇博客！...
+79	F86F6636	Blog This!...	精准制导	任务用时
+80	E869C62B	Time	写篇博客！...	车辆受损
+81	AC58514D	Car Damage	任务用时	绿荫红颜
+82	491F8ADD	Boulevard Baby	车辆受损	任务用时
+83	8FFC9896	Time	绿荫红颜	玩家受伤
+84	A1C03C1D	Player Damage	任务用时	好人一生平安
+85	E57FC39B	Good Guy	玩家受伤	舞力全开
+86	F73C6714	Groove On	好人一生平安	...写篇博客！
+87	3E62755F	...Blog This!	舞力全开	任务用时
+88	DB13AEC3	Time	...写篇博客！	玩家受伤
+89	21BEBC18	Player Damage	任务用时	抓住博主用时
+90	2CA9D1EE	Time to Catch Blogger	玩家受伤	砰砰
+91	39198529	Bang Bang	抓住博主用时	任务用时
+92	688463FE	Time	砰砰	玩家受伤
+93	64AD5C50	Player Damage	任务用时	精准爆破
+94	D8C8448C	No Bombs Wasted	玩家受伤	蛋糕上的糖霜
+95	EA926820	Frosting On The Cake	精准爆破	任务用时
+96	BDBD8E77	Time	蛋糕上的糖霜	玩家受伤
+97	A0165325	Player Damage	任务用时	黏弹命中率
+98	23845A03	Bomb Accuracy	玩家受伤	摆脱警察用时
+99	3341F97E	Escape Cops Time	黏弹命中率	欲速则不达
+100	056F1DD9	Not So Fast	摆脱警察用时	任务用时
+101	5C65CF39	Time	欲速则不达	玩家受伤
+102	4AB72BDC	Player Damage	任务用时	火箭筒命中率
+103	3CEB1044	Rocket Accuracy	玩家受伤	直升机受损
+104	C27C1B0C	Helicopter Damage	火箭筒命中率	女士半价
+105	344C7EAB	Ladies Half Price	直升机受损	任务用时
+106	05FB2209	Time	女士半价	玩家受伤
+107	13B9BD86	Player Damage	任务用时	拖行时长
+108	79940939	Hanger On Time	玩家受伤	离港时间
+109	EBBD6D8E	Departure Time	拖行时长	任务用时
+110	DE0E5230	Time	离港时间	玩家受伤
+111	AE82F20A	Player Damage	任务用时	爆头数
+112	7E3A1179	Headshots	玩家受伤	命中率
+113	9067B5D4	Accuracy	爆头数	基布兹大哥
+114	11D1B8AE	Kibbutz Number One	命中率	任务用时
+115	63DADCBB	Time	基布兹大哥	玩家受伤
+116	677AE3FB	Player Damage	任务用时	船只受损
+117	37C4048E	Boat Damage	玩家受伤	爆头数
+118	CEFBB303	Headshots	船只受损	命中率
+119	213DD786	Accuracy	爆头数	禁放窜天猴
+120	32B0FA6C	Quickdraw the RPG	命中率	最高航速
+121	92E73E3F	Top Boat Speed	禁放窜天猴	落子无悔
+122	7D911393	This Ain't Checkers	最高航速	任务用时
+123	EF6E7754	Time	落子无悔	玩家受伤
+124	4DEFB455	Player Damage	任务用时	完美着陆
+125	38778965	Perfect Landing	玩家受伤	一骑绝尘
+126	AB55EF20	Always First	完美着陆	第三
+127	959CC3AE	No. 3	一骑绝尘	任务用时
+128	17004677	Time	第三	玩家受伤
+129	011E1AB3	Player Damage	任务用时	最高车速
+130	70707956	Top Speed	玩家受伤	车辆受损
+131	FA598C2E	Car Damage	最高车速	紧随其后
+132	31807A7B	Followed Close	车辆受损	纵情时刻
+133	183D47F5	Sexy Time	紧随其后	任务用时
+134	5D9B52B0	Time	纵情时刻	玩家受伤
+135	512539C4	Player Damage	任务用时	命中率
+136	FE4D941A	Accuracy	玩家受伤	直升机受损
+137	6CC2F0FF	Helicopter Damage	命中率	船只击沉
+138	9BE74F47	Boats Destroyed	直升机受损	高空跳台
+139	8A3CABF2	High Dive	船只击沉	任务用时
+140	3749060C	Time	高空跳台	玩家受伤
+141	371888E7	Player Damage	任务用时	爆头数
+142	9CE05475	Headshots	玩家受伤	命中率
+143	B264FF7E	Accuracy	爆头数	直升机击落
+144	32487F47	Helicopters Destroyed	命中率	贴地开伞
+145	00849BC0	Free Fall Time	直升机击落	原形毕露
+146	04E3A47E	Caught With Your Pants Down	贴地开伞	任务用时
+147	52EBC08D	Time	原形毕露	玩家受伤
+148	913F3D0B	Player Damage	任务用时	警车击毁
+149	E0645B7C	Cop Cars Destroyed	玩家受伤	战车受损
+150	E4A76402	Tank Damage	警车击毁	百步穿杨
+151	FA990EE1	Sharpshooter	战车受损	拥有一切的男人
+152	681E69EA	For The Man Who Has Everything	百步穿杨	任务用时
+153	5E735694	Time	拥有一切的男人	玩家受伤
+154	DDD7D55F	Player Damage	任务用时	给爷趴
+155	CC0D31CA	Duck Chopper	玩家受伤	直升机击落
+156	C1381C20	Helicopters Destroyed	给爷趴	街角男孩
+157	2F6B7885	Corner Kids	直升机击落	任务用时
+158	7DEB1583	Time	街角男孩	玩家受伤
+159	F2497DE6	Player Damage	任务用时	爆头数
+160	DD4053D4	Headshots	玩家受伤	命中率
+161	F8B40E03	Accuracy	爆头数	收工
+162	39D79049	Clocking Off	命中率	任务用时
+163	4C463526	Time	收工	玩家受伤
+164	3AEE92BB	Player Damage	任务用时	爆头数
+165	6CBD7658	Headshots	玩家受伤	命中率
+166	2679E9D2	Accuracy	爆头数	妈妈的崽
+167	184F4D7D	Momma's Boy	命中率	任务用时
+168	03E524A9	Time	妈妈的崽	玩家受伤
+169	F656098B	Player Damage	任务用时	场外援助
+170	EF4E7B7C	Crowd Helped	玩家受伤	反击终结
+171	F5DD0775	Counter Finish	场外援助	诱敌深入
+172	66A4E903	Going Deep	反击终结	任务用时
+173	59024DBE	Time	诱敌深入	玩家受伤
+174	1240C040	Player Damage	任务用时	爆头数
+175	C482A4C5	Headshots	玩家受伤	命中率
+176	F6AE091B	Accuracy	爆头数	载具摧毁
+177	2917EDEE	Vehicles Destroyed	命中率	隐形诡雷
+178	91E53F83	Bomb Hidden	载具摧毁	黏弹大屠杀
+179	7B2B120F	Sticky Bomb Carnage	隐形诡雷	不速之客
+180	B47304A6	Dropping In	黏弹大屠杀	任务用时
+181	AE957BFB	Time	不速之客	玩家受伤
+182	D49E4814	Player Damage	任务用时	爆头数
+183	C30F24F6	Headshots	玩家受伤	命中率
+184	79541179	Accuracy	爆头数	着陆距离
+185	577BCDC9	Landing Distance	命中率	老板速降
+186	9DB8DA42	Ashvilli Plummet	着陆距离	卡车落点
+187	8C4BB768	Truck Landing	老板速降	危机四伏
+188	425EA393	In The Crosshairs	卡车落点	任务用时
+189	310B00EC	Time	危机四伏	玩家受伤
+190	67396D48	Player Damage	任务用时	爆头数
+191	0B8C9595	Headshots	玩家受伤	命中率
+192	882F8EDD	Accuracy	爆头数	一枪一个狙击手
+193	9291A3A1	4 shots, 4 snipers	命中率	派对结束
+194	A4A247C2	Party's Over	一枪一个狙击手	任务用时
+195	CEE19C40	Time	派对结束	玩家受伤
+196	4F061C8B	Player Damage	任务用时	爆头数
+197	595C3137	Headshots	玩家受伤	命中率
+198	6C1ED6BC	Accuracy	爆头数	摧毁敌方车辆
+199	75C9EA12	Enemy Cars Destroyed	命中率	淑女之夜
+200	9681AB71	Ladies' Night	摧毁敌方车辆	任务用时
+201	E0B8BED6	Time	淑女之夜	直升机受损
+202	5CB3B6CE	Helicopter Damage	任务用时	低空飞行
+203	76F3EB4E	Low Fly	直升机受损	紧追不舍
+204	69364FD3	Close Pursuit	低空飞行	榴弹发射器击杀数
+205	68D4B861	Kills with Grenade Launcher	紧追不舍	.44手枪击杀数
+206	761B244B	Kills with 44	榴弹发射器击杀数	全自动爆炸霰弹击杀数
+207	8A4C4CAD	Kills with Shotgun Ex	.44手枪击杀数	全自动标准霰弹击杀数
+208	9C7F7113	Kills with Auto Shotgun	全自动爆炸霰弹击杀数	突击冲锋枪击杀数
+209	2EE515E0	Kills with Assault SMG	全自动标准霰弹击杀数	黄金冲锋枪击杀数
+210	41333A7C	Kills with Gold SMG	突击冲锋枪击杀数	高级机枪击杀数
+211	51A2DB5B	Kills with Advanced MG	黄金冲锋枪击杀数	高级狙击枪击杀数
+212	60087826	Kills with Advanced Sniper	高级机枪击杀数	黏弹击杀数
+213	1B09EF8E	Kills with Sticky Bombs	高级狙击枪击杀数	秃鹰飞弹击杀数
+214	CBADD0D7	Kills with Buzzard Rockets	黏弹击杀数	秃鹰机枪击杀数
+215	E2EEFF59	Kills with Buzzard Minigun	秃鹰飞弹击杀数	APC火炮击杀数
+216	703F99FC	Kills with APC cannon	秃鹰机枪击杀数	毒品战争完成
+217	754AFD05	Drug wars completed	APC火炮击杀数	夜店任务完成
+218	1C6FCB4C	Nightclub missions complete	毒品战争完成	高尔夫游玩
+219	52C537FA	Times played golf	夜店任务完成	高尔夫获胜
+220	F7F50257	Times won golf	高尔夫游玩	开香槟次数
+221	2E336ED3	Champagne corks popped	高尔夫获胜	一口闷次数
+222	B9445B83	Champagne downed	开香槟次数	喝吐了次数
+223	AAB6BE68	Times thrown up	一口闷次数	香槟对吹获胜次数
+224	8CF582E6	Number of drinking wins	喝吐了次数	舞姿征服人数
+225	FF45E781	People impressed with dancing	香槟对吹获胜次数	低空跳伞完成数
+226	F10BCB0D	Number of base jumps completed	舞姿征服人数	最低开伞高度
+227	E2442D7E	Dist from ground before opening chute	低空跳伞完成数	铁笼格斗获胜次数
+228	43FBF0EC	Number of L.C. Cage Fights won	最低开伞高度	竞速获胜
+229	554D1276	Races won	铁笼格斗获胜次数	消灭海鸥
+230	677EB6D9	Seagulls exterminated	竞速获胜	高尔夫球击中旗杆次数
+231	7658548C	Flags hit with a golf ball	消灭海鸥	桌上冰球游玩
+232	AA7E659E	Times played air hockey	高尔夫球击中旗杆次数	桌上冰球获胜
+233	BB420725	Times won air hockey	桌上冰球游玩	我爱自由城
+234	2B5C7844	I luv L.C.	桌上冰球获胜	中国外卖
+235	461AAC78	Chinese Takeout	我爱自由城	挥杆练习
+236	2FBBFFBF	Practice Swing	中国外卖	写篇博客！...
+237	193DD2C3	Blog This!...	挥杆练习	妈妈的崽
+238	C70276FF	Momma's Boy	写篇博客！...	纵情时刻
+239	8BC97F6E	Sexy Time	妈妈的崽	高空跳台
+240	1A931CFB	High Dive	纵情时刻	原形毕露
+241	2C5B408B	Caught With Your Pants Down	高空跳台	基布兹大哥
+242	3F08E5E6	Kibbutz Number One	原形毕露	落子无悔
+243	D1470A64	This Ain't Checkers	基布兹大哥	街角男孩
+244	584F986F	Corner Kids	落子无悔	收工
+245	C7FD77C9	Clocking Off	街角男孩	砰砰
+246	95A211EF	Bang Bang	收工	...写篇博客！
+247	070074AA	...Blog This!	砰砰	绿荫红颜
+248	BB245CF3	Boulevard Baby	...写篇博客！	欲速则不达
+249	A5563157	Not So Fast	绿荫红颜	淑女之夜
+250	4F9705DA	Ladies' Night	欲速则不达	第三
+251	C9C0FA2C	No. 3	淑女之夜	诱敌深入
+252	284CB73A	Going Deep	第三	不速之客
+253	16DB1457	Dropping In	诱敌深入	危机四伏
+254	C8BE7707	In The Crosshairs	不速之客	拥有一切的男人
+255	933A0BFF	For The Man Who Has Everything	危机四伏	女士半价
+256	6BCA3D20	Ladies Half Price	拥有一切的男人	派对结束
+257	B59DD0C6	Party's Over	女士半价	离港时间
+258	64E02F50	Departure Time	派对结束	低空跳伞赚取
+259	AEA1C2D2	Money made from base jumps	离港时间	自由城铁笼格斗支出
+260	877EF48D	Money spent on L.C. Cage Fighter	低空跳伞赚取	蛋糕上的糖霜
+261	51548839	Frosting On The Cake	自由城铁笼格斗支出	香槟支出
+262	499079C1	Money spent on champagne	蛋糕上的糖霜	自由城铁笼格斗赚取
+263	3B65DD6C	Money won on L.C. Cage Fighter	香槟支出	跳舞
+264	5DA40924	Dancing	自由城铁笼格斗赚取	高尔夫
+265	9053763E	Golf	跳舞	桌上冰球
+266	C24DC3FA	Air Hockey	高尔夫	Cop
+267	352EB58C	Cop	桌上冰球	Criminal
+268	F7938202	Criminal	Cop	Gang
+269	2BDC2253	Gang	Criminal	Armour
+270	1006A667	Armour	Gang	Mafia
+271	58EAB7B2	Mafia	Armour	Triad
+272	A3354C46	Triad	Mafia	Biker
+273	B17FE8DB	Biker	Triad	Dominican
+274	7F528481	Dominican	Biker	Role
+275	019682F3	Role	Dominican	ICON_W_KILLS_Assist
+276	2AB36B3E	ICON_W_KILLS_Assist	Role	ICON_W_KILLSTREAK_left
+277	08BB279B	ICON_W_KILLSTREAK_left	ICON_W_KILLS_Assist	ASSISTED KILLS
+278	A2F32C2C	ASSISTED KILLS	ICON_W_KILLSTREAK_left	KILL STREAK
+279	3E67E3BB	KILL STREAK	ASSISTED KILLS	我爱自由城...
+280	07A2DF96	I luv LC...	KILL STREAK	TBoGT完成
+281	D7A4D7E6	TBoGT Complete	我爱自由城...	THIS LABEL NEEDS TO BE HERE !!!
+282	4F3C3F29	THIS LABEL NEEDS TO BE HERE !!!	TBoGT完成	找一辆座位更多的载具。
+283	C1DB9B98	You need a vehicle with more passenger seats.	THIS LABEL NEEDS TO BE HERE !!!	被通缉时不能进入夜店。
+284	796A5AF5	You cannot enter the club with a wanted level.	找一辆座位更多的载具。	你太会惹是生非，已被夜店拉黑。
+285	0ACAE920	You are barred from the club for causing trouble.	被通缉时不能进入夜店。	夜店尚未开门。
+286	9D3D0108	The club is currently closed.	你太会惹是生非，已被夜店拉黑。	按~INPUT_PICKUP~开始管理夜店。
+287	5CDFFBEB	Press ~INPUT_PICKUP~ to manage the club.	夜店尚未开门。	目前无法进行夜店管理。
+288	7FC46265	Club management is not available at this time.	按~INPUT_PICKUP~开始管理夜店。	玩保龄球需要$10。
+289	D8E7E8FE	Bowling costs $10.	目前无法进行夜店管理。	找一条空的球道来玩一局。
+290	3ABF1E4F	Find an empty lane to play a game in.	玩保龄球需要$10。	按~INPUT_PICKUP~玩半局。~n~按~ACCEPT~玩整局。
+291	9D19E403	Press ~INPUT_PICKUP~ to play a half game.~n~Press ~ACCEPT~ to play a full game.	找一条空的球道来玩一局。	按~INPUT_PICKUP~打保龄球。
+292	D77758BD	Press ~INPUT_PICKUP~ if you want to bowl.	按~INPUT_PICKUP~玩半局。~n~按~ACCEPT~玩整局。	你的钱不够，无法打保龄球。
+293	7425121A	You don't have enough cash to play.	按~INPUT_PICKUP~打保龄球。	走到柜台前开始保龄球。
+294	E65F768D	Walk up to the desk to start bowling.	你的钱不够，无法打保龄球。	此次与米歇尔的半局免费。
+295	033433B6	This 5 frame game with Michelle is free.	走到柜台前开始保龄球。	被通缉时不能打保龄球。
+296	56B65AB9	You can't bowl with the cops after you.	此次与米歇尔的半局免费。	按~INPUT_PICKUP~玩桌上冰球。
+297	BDDD8D08	Press ~INPUT_PICKUP~ to play air hockey.	被通缉时不能打保龄球。	你想和谁玩桌上冰球？~n~按~PAD_A~和阿曼多玩。~n~按~PAD_B~和恩里克玩。~n~按~INPUT_PICKUP~退出。
+298	623F55D1	Who do you want to play at air hockey?~n~Press ~PAD_A~ to play Armando.~n~Press ~PAD_B~ to play Henrique.~n~Press ~INPUT_PICKUP~ to exit.	按~INPUT_PICKUP~玩桌上冰球。	你想和谁玩桌上冰球？~n~按~INPUT_FRONTEND_MINIGAME_1~和阿曼多玩。~n~按~INPUT_FRONTEND_MINIGAME_2~和恩里克玩。~n~按~INPUT_PICKUP~退出。
+299	65785A90	Who do you want to play at air hockey?~n~Press ~INPUT_FRONTEND_MINIGAME_1~ to play Armando.~n~Press ~INPUT_FRONTEND_MINIGAME_2~ to play Henrique.~n~Press ~INPUT_PICKUP~ to exit.	你想和谁玩桌上冰球？~n~按~PAD_A~和阿曼多玩。~n~按~PAD_B~和恩里克玩。~n~按~INPUT_PICKUP~退出。	按~INPUT_PICKUP~和阿曼多玩桌上冰球。
+300	E3B758C7	Press ~INPUT_PICKUP~ to play Armando at air hockey.	你想和谁玩桌上冰球？~n~按~INPUT_FRONTEND_MINIGAME_1~和阿曼多玩。~n~按~INPUT_FRONTEND_MINIGAME_2~和恩里克玩。~n~按~INPUT_PICKUP~退出。	按~INPUT_PICKUP~和恩里克玩桌上冰球。
+301	0F152F86	Press ~INPUT_PICKUP~ to play Henrique at air hockey.	按~INPUT_PICKUP~和阿曼多玩桌上冰球。	按~INPUT_PICKUP~退出。~n~按~INPUT_FRONTEND_ACCEPT~再来一局。
+302	B07DA5FE	Press ~INPUT_PICKUP~ to quit. ~n~Press ~INPUT_FRONTEND_ACCEPT~ to play again.	按~INPUT_PICKUP~和恩里克玩桌上冰球。	按~INPUT_PICKUP~退出。~n~按~INPUT_FRONTEND_ACCEPT~继续。
+303	38073BEE	Press ~INPUT_PICKUP~ to quit. ~n~Press ~INPUT_FRONTEND_ACCEPT~ to go back to the game.	按~INPUT_PICKUP~退出。~n~按~INPUT_FRONTEND_ACCEPT~再来一局。	按~INPUT_PICKUP~开始跳舞。
+304	2528B61A	Press ~INPUT_PICKUP~ to start dancing.	按~INPUT_PICKUP~退出。~n~按~INPUT_FRONTEND_ACCEPT~继续。	'Call me sometime big boy'~n~(Booty call placeholder dialogue)
+305	D897B9E6	'Call me sometime big boy'~n~(Booty call placeholder dialogue)	按~INPUT_PICKUP~开始跳舞。	按~INPUT_PICKUP~向阿曼多购买武器。
+306	21A98EB4	Press ~INPUT_PICKUP~ to purchase weapons from Armando.	'Call me sometime big boy'~n~(Booty call placeholder dialogue)	阿曼多无聊了，走了。
+307	6145036C	Armando got bored and left.	按~INPUT_PICKUP~向阿曼多购买武器。	阿曼多会向你低价出售武器。去~BLIP_105~向阿曼多购买武器。
+308	AF6A39BE	Armando will sell you weapons at discounted prices. Meet Armando at the ~BLIP_105~ icon to purchase weapons.	阿曼多无聊了，走了。	在~1~秒内进入任意载具。
+309	B87E173D	You have ~1~ second to get into a vehicle.	阿曼多会向你低价出售武器。去~BLIP_105~向阿曼多购买武器。	在~1~秒内进入你的~b~载具。
+310	1E9C5202	You have ~1~ second to get into your ~b~vehicle.	在~1~秒内进入任意载具。	在~1~秒内进入任意载具。
+311	41509C74	You have ~1~ seconds to get into a vehicle.	在~1~秒内进入你的~b~载具。	在~1~秒内进入你的~b~载具。
+312	C2A52BFC	You have ~1~ seconds to get into your ~b~vehicle.	在~1~秒内进入任意载具。	上装~n~用~PAD_LEFT~~PAD_RIGHT~更换上装。~n~按~INPUT_FRONTEND_ACCEPT~保存。~n~按~INPUT_PICKUP~退出。
+313	E880AE62	Tops~n~Use ~PAD_LEFT~ and ~PAD_RIGHT~ to change tops.~n~Press ~INPUT_FRONTEND_ACCEPT~ to accept.~n~Press ~INPUT_PICKUP~ to decline.	在~1~秒内进入你的~b~载具。	下装~n~按~PAD_UP~查看上装。~n~用~PAD_LEFT~~PAD_RIGHT~更换下装。~n~按~INPUT_FRONTEND_ACCEPT~保存。~n~按~INPUT_PICKUP~退出。
+314	4678002F	Pants~n~Press ~PAD_UP~ to view tops.~n~Use ~PAD_LEFT~ and ~PAD_RIGHT~ to change pants.~n~Press ~INPUT_FRONTEND_ACCEPT~ to accept.~n~Press ~INPUT_PICKUP~ to decline.	上装~n~用~PAD_LEFT~~PAD_RIGHT~更换上装。~n~按~INPUT_FRONTEND_ACCEPT~保存。~n~按~INPUT_PICKUP~退出。	套装~n~用~PAD_LEFT~~PAD_RIGHT~更换套装。~n~按~INPUT_FRONTEND_ACCEPT~保存。~n~按~INPUT_PICKUP~退出。
+315	227B8FD4	Outfits~n~Use ~PAD_LEFT~ and ~PAD_RIGHT~ to change outfit.~n~Press ~INPUT_FRONTEND_ACCEPT~ to accept.~n~Press ~INPUT_PICKUP~ to decline.	下装~n~按~PAD_UP~查看上装。~n~用~PAD_LEFT~~PAD_RIGHT~更换下装。~n~按~INPUT_FRONTEND_ACCEPT~保存。~n~按~INPUT_PICKUP~退出。	上装~n~按~PAD_DOWN~查看下装。~n~你没有其他上装。~n~按~INPUT_FRONTEND_ACCEPT~保存。~n~按~INPUT_PICKUP~退出。
+316	43CF90F7	Tops~n~Press ~PAD_DOWN~ to view pants.~n~You don't own any other tops.~n~Press ~INPUT_FRONTEND_ACCEPT~ to accept.~n~Press ~INPUT_PICKUP~ to decline.	套装~n~用~PAD_LEFT~~PAD_RIGHT~更换套装。~n~按~INPUT_FRONTEND_ACCEPT~保存。~n~按~INPUT_PICKUP~退出。	下装~n~按~PAD_UP~查看上装。~n~你没有其他下装。~n~按~INPUT_FRONTEND_ACCEPT~保存。~n~按~INPUT_PICKUP~退出。
+317	F185D9F6	Pants~n~Press ~PAD_UP~ to view tops.~n~You don't own any other pants~n~Press ~INPUT_FRONTEND_ACCEPT~ to accept.~n~Press ~INPUT_PICKUP~ to decline.	上装~n~按~PAD_DOWN~查看下装。~n~你没有其他上装。~n~按~INPUT_FRONTEND_ACCEPT~保存。~n~按~INPUT_PICKUP~退出。	套装~n~你没有其他套装。~n~按~INPUT_FRONTEND_ACCEPT~保存。~n~按~INPUT_PICKUP~退出。
+318	1DD4B630	Outfits~n~You don't own any other outfits.~n~Press ~INPUT_FRONTEND_ACCEPT~ to accept.~n~Press ~INPUT_PICKUP~ to decline.	下装~n~按~PAD_UP~查看上装。~n~你没有其他下装。~n~按~INPUT_FRONTEND_ACCEPT~保存。~n~按~INPUT_PICKUP~退出。	恩里克无法到达你当前的位置。
+319	25B49343	Henrique can't reach your current location.	套装~n~你没有其他套装。~n~按~INPUT_FRONTEND_ACCEPT~保存。~n~按~INPUT_PICKUP~退出。	爆头数
+320	B529847F	Headshots	恩里克无法到达你当前的位置。	任务用时
+321	9C6C5C99	Time	爆头数	最高车速
+322	CA9ECB77	Top Speed	任务用时	车辆受损
+323	C9902AE7	Car Damage	最高车速	子弹用量
+324	44D80EB9	Ammo Used	车辆受损	Flair
+325	AD8ADB00	Flair	子弹用量	命中率
+326	12F6FD40	Accuracy	Flair	~1~%
+327	F725F22E	~1~%	命中率	~1~
+328	ECBFDC8A	~1~	~1~%	%
+329	27B1F4A7	%	~1~	坦克受损
+330	5D762697	Tank Damage	%	玩家受伤
+331	D8563F40	Player Damage	坦克受损	~1~:~1~:~1~
+332	4FFAC3A3	~1~:~1~:~1~	玩家受伤	~1~:0~1~:~1~
+333	D19EDFAC	~1~:0~1~:~1~	~1~:~1~:~1~	~1~:~1~:0~1~
+334	6F344EFF	~1~:~1~:0~1~	~1~:0~1~:~1~	~1~:0~1~:0~1~
+335	677FCD2F	~1~:0~1~:0~1~	~1~:~1~:0~1~	/~1~:~1~:~1~
+336	B2AF8903	/~1~:~1~:~1~	~1~:0~1~:0~1~	~1~
+337	1FFF664F	~1~	/~1~:~1~:~1~	/~1~
+338	7B2C7739	/~1~	~1~	~1~/25
+339	94E10671	~1~/25	/~1~	~1~/50
+340	15E80879	~1~/50	~1~/25	~1~mph
+341	17F9D928	~1~mph	~1~/50	/~1~mph
+342	44473EC0	/~1~mph	~1~mph	百步穿杨
+343	E99B1068	Sharpshooter	/~1~mph	摧毁敌方车辆
+344	F252A64A	Enemy Cars Destroyed	百步穿杨	最高航速
+345	890B4C27	Top Boat Speed	摧毁敌方车辆	禁放窜天猴
+346	9FA9D8F1	Quickdraw the RPG	最高航速	船只受损
+347	6E8B921B	Boat Damage	禁放窜天猴	载具摧毁
+348	E669C0C9	Vehicles Destroyed	船只受损	完美着陆
+349	94D88AF2	Perfect Landing	载具摧毁	老板速降
+350	41F07FE2	Ashvilli Plummet	完美着陆	卡车落点
+351	AB342725	Truck Landing	老板速降	精准制导
+352	28B5055C	100% Golf Accuracy	卡车落点	抓住博主用时
+353	C2D2DB3B	Time To Catch Blogger	精准制导	统统爆头
+354	83756115	100% Headshots	抓住博主用时	直升机受损
+355	4C7B8A18	Helicopter Damage	统统爆头	船只击沉
+356	FBB2AF99	Boats Destroyed	直升机受损	一枪一个狙击手
+357	74EC01AF	4 shots, 4 snipers	船只击沉	精准爆破
+358	A91E13EF	No Bombs Wasted	一枪一个狙击手	直升机受损
+359	97454374	Helicopter Damage	精准爆破	紧追不舍
+360	45D2C07C	Close Pursuit	直升机受损	低空飞行
+361	F9078094	Low Fly	紧追不舍	放过艾哈迈德
+362	16526094	Spare Ahmed	低空飞行	直升机击落
+363	0565EB37	Helicopters Destroyed	放过艾哈迈德	贴地开伞
+364	E565E209	Freefall Time	直升机击落	警车击毁
+365	CB4565BD	Cop Cars Destroyed	贴地开伞	给爷趴
+366	55A829FE	Duck Chopper	警车击毁	直升机击落
+367	70FB4260	Helicopters Destroyed	给爷趴	Cars Carnage
+368	854BACED	Cars Carnage	直升机击落	空降上船
+369	82F11D0C	Landed in Boat	Cars Carnage	一骑绝尘
+370	D5097FA1	Always First	空降上船	黏弹命中率
+371	5213AFC4	Bomb Accuracy	一骑绝尘	摆脱警察用时
+372	194C8554	Escape Cops Time	黏弹命中率	拖行时长
+373	03E3BE58	Hanger On Time	摆脱警察用时	舞力全开
+374	A7DCADAF	Groove On	拖行时长	好人一生平安
+375	EB1800E0	Good Guy	舞力全开	火箭筒命中率
+376	3C065648	Rocket Accuracy	好人一生平安	直升机受损
+377	49492781	Helicopter Damage	火箭筒命中率	Vehicle Carnage
+378	1264F270	Vehicle Carnage	直升机受损	隐形诡雷
+379	FFDFDE45	Bomb Hidden	Vehicle Carnage	黏弹大屠杀
+380	ED747EB4	Sticky Bomb Carnage	隐形诡雷	紧随其后
+381	E72C3E52	Followed Close	黏弹大屠杀	场外援助
+382	A1ED4089	Crowd Helped	紧随其后	反击终结
+383	63F7CE25	Counter Finish	场外援助	~s~完成任务后会显示结算画面。
+384	676645E5	~s~On completion of a job a mission passed screen will be displayed.	反击终结	结算画面中会显示你的评分，以及次要目标的达成状况。
+385	225DBBC5	This will show your score and whether you have achieved any secondary objectives.	~s~完成任务后会显示结算画面。	完成所有主线任务后，你可以重玩这些任务，提升评分。
+386	142F1F68	Once you complete all missions in the game you will be able to repeat missions and improve your score.	结算画面中会显示你的评分，以及次要目标的达成状况。	按~INPUT_FRONTEND_ACCEPT~查看目标成绩。~n~按~INPUT_FRONTEND_CANCEL~退出结算画面。
+387	3DDA72BE	Press ~INPUT_FRONTEND_ACCEPT~ to view the target score.~n~Press ~INPUT_FRONTEND_CANCEL~ to quit the mission passed screen.	完成所有主线任务后，你可以重玩这些任务，提升评分。	低空跳伞
+388	12ED7B37	BASE JUMP	按~INPUT_FRONTEND_ACCEPT~查看目标成绩。~n~按~INPUT_FRONTEND_CANCEL~退出结算画面。	定点跳伞
+389	206465FB	Target Jumps	低空跳伞	~1~/5
+390	6940EBCA	~1~/5	定点跳伞	载具跳伞
+391	78FC52FB	Vehicle Jumps	~1~/5	~1~/5
+392	C66B1EB3	~1~/5	载具跳伞	检查点跳伞
+393	C3EF9233	Heli Jumps	~1~/5	~1~/5
+394	30741A9D	~1~/5	检查点跳伞	合计
+395	C905E942	Overall	~1~/5	~1~/15
+396	3572D049	~1~/15	合计	~s~已完成
+397	E678F7C8	~s~Completed	~1~/15	你就是自由城拳王
+398	E0F98CB6	You are the Liberty City Champion	~s~已完成	~s~作弊耍赖！
+399	D6296CDA	~s~CHEAT!	你就是自由城拳王	~r~使用回血秘籍
+400	8F10E038	~r~Used Health Cheat	~s~作弊耍赖！	~r~使用武器秘籍
+401	A2196B06	~r~Used Weapons Cheat	~r~使用回血秘籍	~r~使用通缉秘籍
+402	3A531636	~r~Used Wanted Level Cheat	~r~使用武器秘籍	~r~使用跳过旅程
+403	34D38117	~r~Used a Trip Skip	~r~使用通缉秘籍	~s~由于在任务中使用了秘籍，你的任务评分将不被保留，也无法上传至 Rockstar Social Club。
+404	CE43DF3F	~s~As a cheat was used during this mission, your results cannot be saved or uploaded to the Rockstar Social Club.	~r~使用跳过旅程	~s~由于使用了续关功能，任务评分将不被保留，也无法上传至 Rockstar Social Club。完成夜生活之曲的所有主线任务后，再通过手机中的任务重玩功能刷分吧。
+405	1A05AFDC	~s~Mission results cannot be saved or uploaded to Rockstar Social Club if a replay is used. Once you've completed all the story missions in The Ballad of Gay Tony, play the mission again using the mission repeat option on the cellphone to get usable results.	~s~由于在任务中使用了秘籍，你的任务评分将不被保留，也无法上传至 Rockstar Social Club。	~s~续关不算
+406	3E3ED395	~s~MISSION REPLAY	~s~由于使用了续关功能，任务评分将不被保留，也无法上传至 Rockstar Social Club。完成夜生活之曲的所有主线任务后，再通过手机中的任务重玩功能刷分吧。	打的不算
+407	140F1BBC	TAXI TRIP	~s~续关不算	~s~由于乘坐了出租车，任务评分将不被保留，也无法上传至 Rockstar Social Club。完成夜生活之曲的所有主线任务后，再通过手机中的任务重玩功能刷分吧。
+408	22333FFC	~s~Mission results cannot be saved or uploaded to Rockstar Social Club if a taxi is used. Once you've completed all the story missions in The Ballad of Gay Tony, play the mission again using the mission repeat option on the cellphone to get usable results.	打的不算	新纪录
+409	16310261	NR	~s~由于乘坐了出租车，任务评分将不被保留，也无法上传至 Rockstar Social Club。完成夜生活之曲的所有主线任务后，再通过手机中的任务重玩功能刷分吧。	~INPUT_FRONTEND_ACCEPT~
+410	963781DC	~INPUT_FRONTEND_ACCEPT~	新纪录	~INPUT_FRONTEND_CANCEL~
+411	93055AA3	~INPUT_FRONTEND_CANCEL~	~INPUT_FRONTEND_ACCEPT~	目标
+412	4567EBFD	TARGETS	~INPUT_FRONTEND_CANCEL~	我的成绩
+413	8A2A7581	MY RESULTS	目标	退出
+414	78E7D2FC	EXIT	我的成绩	已消灭所有海鸥。自由城更清净了。
+415	7027B774	All seagulls killed. LC is a quieter place.	退出	自由城内还有 ~1~ 只海鸥。
+416	16301136	~1~ seagulls left in Liberty City.	已消灭所有海鸥。自由城更清净了。	自由城内还剩最后一只海鸥。
+417	63F77074	Just one seagull left in Liberty City.	自由城内还有 ~1~ 只海鸥。	开门大吉
+418	2AB42A5A	Doors open	自由城内还剩最后一只海鸥。	酒前准备
+419	1D6A8FC7	Pretox	开门大吉	狂饮大促
+420	4D176F20	Happy Hour	酒前准备	吧台烈酒
+421	EDF5B0E2	Shots at the Bar	狂饮大促	贵宾待遇
+422	DF891409	Hit the VIP	吧台烈酒	存酒服务
+423	1253799D	Bottle Service	贵宾待遇	再来一曲
+424	4A5F6984	One More Tune	存酒服务	余兴派对
+425	181504F0	After Party	再来一曲	曲终人未散
+426	DDA51045	After the After Party	余兴派对	今夜无眠
+427	3BC8CC57	Up All Night	曲终人未散	直到天明
+428	71CD55D9	Daylight Breaks	今夜无眠	三天三夜
+429	F129D490	24hr Party Person	直到天明	路易斯
+430	ED07189F	Luis	三天三夜	Arm
+431	55565C73	Arm	路易斯	恩里克
+432	D1565471	Hen	Arm	~BLIP_108~表示毒品战争的集合地点。帮助阿曼多和恩里克建立毒品帝国，你也能得到奖励。
+433	BAE254B6	The ~BLIP_108~ icon represents the meeting point for a Drug War. Help Armando and Henrique build a drugs empire and you will be rewarded.	恩里克	随着进度推进，毒品战争会变得更富挑战性，但你的安全屋中也会解锁新的武器装备。
+434	BE604B51	Drug Wars become more challenging as you progress but will unlock new weaponry in your safehouse.	~BLIP_108~表示毒品战争的集合地点。帮助阿曼多和恩里克建立毒品帝国，你也能得到奖励。	摆脱通缉才能开始毒品战争。
+435	B673C25B	Lose the cops before starting a Drug War.	随着进度推进，毒品战争会变得更富挑战性，但你的安全屋中也会解锁新的武器装备。	恩里克现在没空。
+436	F4D0CCAC	Henrique is currently busy.	摆脱通缉才能开始毒品战争。	毒品战争暂不可用，稍后再试。
+437	34EC75FA	Drug wars are currently unavailable, try again later.	恩里克现在没空。	你想和谁打台球？~n~按~PAD_A~和阿曼多打。~n~按~PAD_B~和恩里克打。~n~按~PAD_X~和科雷打。~n~按~INPUT_PICKUP~退出。
+438	89916F8B	Who do you want to play pool with?~n~Press ~PAD_A~ to play Armando.~n~Press ~PAD_B~ to play Henrique.~n~Press ~PAD_X~ to play Clay.~n~Press ~INPUT_PICKUP~ to exit.	毒品战争暂不可用，稍后再试。	你想和谁打台球？~n~按~PAD_A~和阿曼多打。~n~按~PAD_B~和恩里克打。~n~按~INPUT_PICKUP~退出。
+439	CBD3F3C7	Who do you want to play pool with?~n~Press ~PAD_A~ to play Armando.~n~Press ~PAD_B~ to play Henrique.~n~Press ~INPUT_PICKUP~ to exit.	你想和谁打台球？~n~按~PAD_A~和阿曼多打。~n~按~PAD_B~和恩里克打。~n~按~PAD_X~和科雷打。~n~按~INPUT_PICKUP~退出。	你想和谁打台球？~n~按~INPUT_FRONTEND_MINIGAME_1~和阿曼多打。~n~按~INPUT_FRONTEND_MINIGAME_2~和恩里克打。~n~按~INPUT_PICKUP~退出。
+440	E550EDE3	Who do you want to play pool with?~n~Press ~INPUT_FRONTEND_MINIGAME_1~ to play Armando.~n~Press ~INPUT_FRONTEND_MINIGAME_2~ to play Henrique.~n~Press ~INPUT_PICKUP~ to exit.	你想和谁打台球？~n~按~PAD_A~和阿曼多打。~n~按~PAD_B~和恩里克打。~n~按~INPUT_PICKUP~退出。	你想和谁打台球？~n~按~PAD_A~和阿曼多打。~n~按~PAD_B~和科雷打。~n~按~INPUT_PICKUP~退出。
+441	B994CF49	Who do you want to play pool with?~n~Press ~PAD_A~ to play Armando.~n~Press ~PAD_B~ to play Clay.~n~Press ~INPUT_PICKUP~ to exit.	你想和谁打台球？~n~按~INPUT_FRONTEND_MINIGAME_1~和阿曼多打。~n~按~INPUT_FRONTEND_MINIGAME_2~和恩里克打。~n~按~INPUT_PICKUP~退出。	你想和谁打台球？~n~按~PAD_A~和恩里克打。~n~按~PAD_B~和科雷打。~n~按~INPUT_PICKUP~退出。
+442	AC5EB4DD	Who do you want to play pool with?~n~Press ~PAD_A~ to play Henrique.~n~Press ~PAD_B~ to play Clay.~n~Press ~INPUT_PICKUP~ to exit.	你想和谁打台球？~n~按~PAD_A~和阿曼多打。~n~按~PAD_B~和科雷打。~n~按~INPUT_PICKUP~退出。	按~INPUT_PICKUP~和阿曼多打台球。
+443	9A181050	Press ~INPUT_PICKUP~ to play pool with Armando.	你想和谁打台球？~n~按~PAD_A~和恩里克打。~n~按~PAD_B~和科雷打。~n~按~INPUT_PICKUP~退出。	按~INPUT_PICKUP~和恩里克打台球。
+444	90A0FD5A	Press ~INPUT_PICKUP~ to play pool with Henrique.	按~INPUT_PICKUP~和阿曼多打台球。	按~INPUT_PICKUP~和科雷打台球。
+445	7E6758E7	Press ~INPUT_PICKUP~ to play pool with Clay.	按~INPUT_PICKUP~和恩里克打台球。	你想和谁玩飞镖？~n~按~PAD_A~和阿曼多玩。~n~按~PAD_B~和恩里克玩。~n~按~PAD_X~和科雷玩。~n~按~INPUT_PICKUP~退出。
+446	98F2472A	Who do you want to play darts with?~n~Press ~PAD_A~ to play Armando.~n~Press ~PAD_B~ to play Henrique.~n~Press ~PAD_X~ to play Clay.~n~Press ~INPUT_PICKUP~ to exit.	按~INPUT_PICKUP~和科雷打台球。	你想和谁玩飞镖？~n~按~PAD_A~和阿曼多玩。~n~按~PAD_B~和恩里克玩。~n~按~INPUT_PICKUP~退出。
+447	A6C0E2C7	Who do you want to play darts with?~n~Press ~PAD_A~ to play Armando.~n~Press ~PAD_B~ to play Henrique.~n~Press ~INPUT_PICKUP~ to exit.	你想和谁玩飞镖？~n~按~PAD_A~和阿曼多玩。~n~按~PAD_B~和恩里克玩。~n~按~PAD_X~和科雷玩。~n~按~INPUT_PICKUP~退出。	你想和谁玩飞镖？~n~按~INPUT_FRONTEND_MINIGAME_1~和阿曼多玩。~n~按~INPUT_FRONTEND_MINIGAME_2~和恩里克玩。~n~按~INPUT_PICKUP~退出。
+448	4ED2289F	Who do you want to play darts with?~n~Press ~INPUT_FRONTEND_MINIGAME_1~ to play Armando.~n~Press ~INPUT_FRONTEND_MINIGAME_2~ to play Henrique.~n~Press ~INPUT_PICKUP~ to exit.	你想和谁玩飞镖？~n~按~PAD_A~和阿曼多玩。~n~按~PAD_B~和恩里克玩。~n~按~INPUT_PICKUP~退出。	你想和谁玩飞镖？~n~按~PAD_A~和阿曼多玩。~n~按~PAD_B~和科雷玩。~n~按~INPUT_PICKUP~退出。
+449	75650010	Who do you want to play darts with?~n~Press ~PAD_A~ to play Armando.~n~Press ~PAD_B~ to play Clay.~n~Press ~INPUT_PICKUP~ to exit.	你想和谁玩飞镖？~n~按~INPUT_FRONTEND_MINIGAME_1~和阿曼多玩。~n~按~INPUT_FRONTEND_MINIGAME_2~和恩里克玩。~n~按~INPUT_PICKUP~退出。	你想和谁玩飞镖？~n~按~PAD_A~和恩里克玩。~n~按~PAD_B~和科雷玩。~n~按~INPUT_PICKUP~退出。
+450	8B3B2BBC	Who do you want to play darts with?~n~Press ~PAD_A~ to play Henrique.~n~Press ~PAD_B~ to play Clay.~n~Press ~INPUT_PICKUP~ to exit.	你想和谁玩飞镖？~n~按~PAD_A~和阿曼多玩。~n~按~PAD_B~和科雷玩。~n~按~INPUT_PICKUP~退出。	按~INPUT_PICKUP~和阿曼多玩飞镖。
+451	5F98D47C	Press ~INPUT_PICKUP~ to play darts with Armando.	你想和谁玩飞镖？~n~按~PAD_A~和恩里克玩。~n~按~PAD_B~和科雷玩。~n~按~INPUT_PICKUP~退出。	按~INPUT_PICKUP~和恩里克玩飞镖。
+452	6DC370D1	Press ~INPUT_PICKUP~ to play darts with Henrique.	按~INPUT_PICKUP~和阿曼多玩飞镖。	按~INPUT_PICKUP~和科雷玩飞镖。
+453	449E1E87	Press ~INPUT_PICKUP~ to play darts with Clay.	按~INPUT_PICKUP~和恩里克玩飞镖。	毒品战争
+454	A077D66F	Drug Wars	按~INPUT_PICKUP~和科雷玩飞镖。	低空跳伞
+455	A1BAE969	Base Jumping	毒品战争	自由城铁笼格斗
+456	8B372640	L.C. Cage Fighter	低空跳伞	THIS LABEL NEEDS TO BE HERE !!!
+457	5331FFC2	THIS LABEL NEEDS TO BE HERE !!!	自由城铁笼格斗	发表评论
+458	2D2C8430	LEAVE COMMENT	THIS LABEL NEEDS TO BE HERE !!!	本文已关闭评论功能
+459	48FBDF3C	COMMENTS ARE CLOSED FOR THIS POST	发表评论	您已评论过这篇文章
+460	A86C8794	YOU'VE ALREADY COMMENTED ON THIS POST	本文已关闭评论功能	提交
+461	CF0D3B37	SUBMIT	您已评论过这篇文章	夜店小子死了
+462	3B6332A9	Club Kid Death	提交	剥削压榨
+463	E7C63377	Exploitation	夜店小子死了	大麻诉状
+464	D0EF0194	Marijuana	剥削压榨	海盗
+465	BAB62D32	Pirates	大麻诉状	劳顿扬言采取行动！
+466	419260A3	Lawton Promises Action!	海盗	累觉不怕
+467	AEF6CCAB	Tired of Terror	劳顿扬言采取行动！	银行劫案
+468	E8C0895A	Bank Heist	累觉不怕	夜店枪战
+469	C65DB531	Nightclub Shootout	银行劫案	空气吉他手遇害
+470	2B27B6A6	Air Guitar Death	夜店枪战	真人秀明星
+471	7A936501	Reality Star	空气吉他手遇害	血洗暴怒
+472	13AE4FD1	Bloody Rampage	真人秀明星	经济衰退
+473	5CE11A18	Recession	血洗暴怒	毒品复燃
+474	B35C568E	Drug Resurgence	经济衰退	连环爆炸！
+475	EF0A868A	Explosions!	毒品复燃	暴怒队传言
+476	9E1E9C96	RAMPAGE Rumors	连环爆炸！	下流牙医
+477	D5281A25	Dirty Dentist	暴怒队传言	鹿特丹震颤
+478	DA46DD0B	Rotterdam Rocked	下流牙医	嬉皮士之死
+479	040F687E	Hipster Death	鹿特丹震颤	美男电影
+480	CDBC0B5D	Metro Movies	嬉皮士之死	游艇爆炸
+481	35639233	Yacht Explodes	美男电影	再谈经济衰退
+482	4085DC4A	And in Recession News	游艇爆炸	男团丑闻
+483	48BE0283	Boy Band Scandal	再谈经济衰退	格拉韦利死了
+484	A4FAF160	Gravelli Dead	男团丑闻	乞丐与钻石
+485	4F5B79F5	Bum Diamonds	格拉韦利死了	移民犯罪
+486	5B03A70E	Immigrant Crime	乞丐与钻石	同性恋遇害
+487	B16AE2C1	Homosexual Homicide	移民犯罪	懒散一代
+488	7F110B83	Lazy	同性恋遇害	草根民主
+489	DC00A1BD	Grassroots Democracy	懒散一代	军火商人
+490	EDC9454E	Arms Dealer	草根民主	经济衰退到此为止!
+491	8BD5FBC5	Recession is over!	军火商人	连环爆炸
+492	AE05C024	Explosions	经济衰退到此为止!	鹿特丹震颤
+493	FC46DCA9	Rotterdam Rocked	连环爆炸	男子气概
+494	863FE732	Manhood	鹿特丹震颤	经济衰退
+495	155C126B	Recession	男子气概	男孩乐队大出洋相
+496	8FF5CD22	Boy Band Blooper	经济衰退	应届生
+497	19FB27EE	Graduates	男孩乐队大出洋相	MyRoom争议
+498	5C258482	MyRoom Controversy	应届生	阴柔之力
+499	78503BB3	Flower Power	MyRoom争议	龌龊牙医
+500	A3159141	Dirty Dentist	阴柔之力	艺术家遇害
+501	61F68F04	Artist Killed	龌龊牙医	军火商人之死
+502	2B442500	DEATH OF AN ARMS SALESMAN	艺术家遇害	Eunux问题
+503	56057A82	Eunux Troubles	军火商人之死	www.youvebeencelebinated.com
+504	8987F72A	www.youvebeencelebinated.com	Eunux问题	www.youvebeencelebinated.com
+505	7781A7AB	www.youvebeencelebinated.com	www.youvebeencelebinated.com	www.fuggie.com
+506	F499220C	www.fuggie.com	www.youvebeencelebinated.com	www.womenareidiots.net
+507	E6EB86B1	www.womenareidiots.net	www.fuggie.com	www.goldforlife.biz
+508	59376B47	www.goldforlife.biz	www.womenareidiots.net	www.bleeter.biz
+509	4B80CFDA	www.bleeter.biz	www.goldforlife.biz	www.bahamamamasclub.com
+510	C10C3DC3	www.bahamamamasclub.com	www.bleeter.biz	www.maisonette9.com
+511	AA69107D	www.maisonette9.com	www.bahamamamasclub.com	www.princessrobotbubblegum.com
+512	DC96F4D8	www.princessrobotbubblegum.com	www.maisonette9.com	www.herculeslibertycity.com
+513	C9EACF80	www.herculeslibertycity.com	www.princessrobotbubblegum.com	巴哈马妈妈
+514	55AE4C13	BAHAMA MAMAS	www.herculeslibertycity.com	进化于此停止，狂欢在此开始！
+515	F81B4620	Where evolution stops and the party starts!	巴哈马妈妈	www.bahamamamasclub.com
+516	EB403288	www.bahamamamasclub.com	进化于此停止，狂欢在此开始！	BLEETER
+517	6C3FF932	BLEETER	www.bahamamamasclub.com	生活突然快了起来！
+518	E4A11F30	Life suddenly got quick!	BLEETER	www.bleeter.biz
+519	83C3E38D	www.bleeter.biz	生活突然快了起来！	FUGGIE
+520	5314C6DC	FUGGIE	www.bleeter.biz	自带开孔的毯子！！！
+521	F6E243B2	The blanket with glory holes!!!	FUGGIE	www.fuggie.com
+522	B1153E2F	www.fuggie.com	自带开孔的毯子！！！	大力神
+523	88E3B279	HERCULES	www.fuggie.com	奥林匹斯的人间一角。
+524	4114D816	A slice of Olympus here on Earth.	大力神	www.herculeslibertycity.com
+525	9F5D9AC0	www.herculeslibertycity.com	奥林匹斯的人间一角。	9号豪宅
+526	7F919FD5	MAISONETTE 9	www.herculeslibertycity.com	自由城最高档的夜店。不欢迎闲杂人等。
+527	F2D2BB93	Liberty City's most exclusive club. We're not expecting you.	9号豪宅	www.maisonette9.com
+528	CCA7F554	www.maisonette9.com	自由城最高档的夜店。不欢迎闲杂人等。	机械泡泡糖公主
+529	B5638B78	PRINCESS ROBOT BUBBLEGUM	www.maisonette9.com	全球最棒的动漫，官方网站！
+530	1BB08D4E	The world's greatest anime ever, online!	机械泡泡糖公主	www.princessrobotbubblegum.com
+531	4A99F13A	www.princessrobotbubblegum.com	全球最棒的动漫，官方网站！	女人是傻瓜
+532	A40DE8CD	WOMEN ARE IDIOTS	www.princessrobotbubblegum.com	尼克 兰开斯特为你解释他是怎样把500多个姑娘骗到自己床上的。
+533	4D85F0F8	Nick Lancaster explains how he's slept with over 500 different girls.	女人是傻瓜	www.womenareidiots.net
+534	3956CEB4	www.womenareidiots.net	尼克 兰开斯特为你解释他是怎样把500多个姑娘骗到自己床上的。	名人终结者
+535	D1C94443	THE CELEBINATOR	www.womenareidiots.net	遍览自由城最棒与最糟的八卦新闻。
+536	7808C601	The best and worst gossip in Liberty City.	名人终结者	www.youvebeencelebinated.com
+537	6706AA13	www.youvebeencelebinated.com	遍览自由城最棒与最糟的八卦新闻。	黄金永恒
+538	C03AA126	GOLD FOR LIFE	www.youvebeencelebinated.com	你的投资一文不值，速来投资黄金！
+539	29DC29A5	Your investments are in tatters, you should invest in gold!	黄金永恒	www.goldforlife.biz
+540	55CC879F	www.goldforlife.biz	你的投资一文不值，速来投资黄金！	THIS LABEL NEEDS TO BE HERE !!!
+541	DF3E0135	THIS LABEL NEEDS TO BE HERE !!!	www.goldforlife.biz	托尼
+542	5020E957	Tony	THIS LABEL NEEDS TO BE HERE !!!	你可以来豪宅给我打下手。营业的时候我在店里，其他时间来公寓找我。  T 么么哒
+543	AF08D5FA	Could do with some help at Maisonette. Come by during opening hours or I'll see you at the loft. T xx	托尼	PLACEHOLDER
+544	FB446E74	PLACEHOLDER	你可以来豪宅给我打下手。营业的时候我在店里，其他时间来公寓找我。  T 么么哒	PLACEHOLDER
+545	8D5B92A0	PLACEHOLDER	PLACEHOLDER	PLACEHOLDER
+546	D791A70F	PLACEHOLDER	PLACEHOLDER	莫里
+547	3D89C429	Mori	PLACEHOLDER	PLACEHOLDER
+548	510E7B5B	PLACEHOLDER	莫里	PLACEHOLDER
+549	F4F5C32B	PLACEHOLDER	PLACEHOLDER	PLACEHOLDER
+550	E3B720AE	PLACEHOLDER	PLACEHOLDER	PLACEHOLDER
+551	99638C00	PLACEHOLDER	PLACEHOLDER	尤瑟夫
+552	61920C39	Yusuf	PLACEHOLDER	好哥们儿！秃鹰直升机在西河的停机坪，你随时可以去用。我的就是你的，兄弟！一起嗨吧！ - Yu$uf
+553	62F4C1EF	My dude! The Buzzard is on the West River for you whenever you want it. What's mine is yours, bro! Let's do this! - Yu$uf	尤瑟夫	NOOSE的牛逼APC坦克现在停在建筑工地，伙计。拿去打海鸥以外的东西吧，你这疯子！ - Yu$uf
+554	A1643EC9	That APC motherfucking NOOSE tank thing is available at the building site, dog. Try shooting up some shit other than seagulls, you crazy motherfucker! - Yu$uf	好哥们儿！秃鹰直升机在西河的停机坪，你随时可以去用。我的就是你的，兄弟！一起嗨吧！ - Yu$uf	PLACEHOLDER
+555	729DE13D	PLACEHOLDER	NOOSE的牛逼APC坦克现在停在建筑工地，伙计。拿去打海鸥以外的东西吧，你这疯子！ - Yu$uf	PLACEHOLDER
+556	44D305A8	PLACEHOLDER	PLACEHOLDER	阿曼多
+557	D259EDCB	Armando	PLACEHOLDER	我这儿需要你帮忙，有空吗？
+558	B4A5015D	I need you to help one of my boys, you available?	阿曼多	有人在妨碍我的生意，你能帮我解决吗？
+559	8EDF35D2	There's some people messing with my business, can you help sort this problem out?	我这儿需要你帮忙，有空吗？	下次你爹要你舔屌，搞得你想跑出来的时候，跟我们说一声。贱人！
+560	A0205854	Next time your daddy wants his dick sucked and you need to run off, give us the heads up. Puta!	有人在妨碍我的生意，你能帮我解决吗？	操了，兄弟。我进货就花了一千多，结果什么都没捞到。操！下次我就要倒闭了。
+561	EA746CFB	Fuck, bro. I spent about a g in that joint and I didn't get nothing. WTF! Next time I'll close that shit.	下次你爹要你舔屌，搞得你想跑出来的时候，跟我们说一声。贱人！	契约终止了，下次再快点吧。
+562	59EA4BE1	The contract has be terminated. Be quicker next time.	操了，兄弟。我进货就花了一千多，结果什么都没捞到。操！下次我就要倒闭了。	让鸡儿歇一歇，接个电话。我们什么时候出去玩，兄弟？
+563	6B48EE9E	Put down the cock and pick up the phone. When we gonna hang, bro?	契约终止了，下次再快点吧。	高地好久没有得到你的临幸了，兄弟。有空出来玩吧。
+564	346680DA	The Heights ain't had no love from you in a long time, bro. When we doing something.	让鸡儿歇一歇，接个电话。我们什么时候出去玩，兄弟？	哟，老兄。操！我知道你不在乎我，但H见到你会很高兴的。这个白痴很容易寂寞。
+565	47BA2781	Yo man. Fuck! I know you don't give a shit about me, but H would really appreciate seeing you. Dumb motherfucker gets lonely.	高地好久没有得到你的临幸了，兄弟。有空出来玩吧。	你手机里还有我们的号码吗，城里人？还是说只剩名人跟基佬的号码了？有空了就找我们出去玩吧。
+566	5073BF9C	You still got our numbers in your phone, Downtown? Or it filled up with celebrities and homos' digits? Call us and we'll hang.	哟，老兄。操！我知道你不在乎我，但H见到你会很高兴的。这个白痴很容易寂寞。	你人呢，兄弟？H被你弄得很伤心。
+567	5DAA5A09	Where werer you, bro? H got real upset.	你手机里还有我们的号码吗，城里人？还是说只剩名人跟基佬的号码了？有空了就找我们出去玩吧。	我告诉H你不来了的时候，这个白痴其实很兴奋。
+568	2AEEF493	I told H you weren't gonna show. Dumb motherfucker actually got excited.	你人呢，兄弟？H被你弄得很伤心。	我们等了你很久，兄弟。很高兴能知道我们在你心中的地位有多低。大佬T的鸡巴一定很好吃吧。
+569	3AA093F6	We were waiting for you for a while, bro. It's nice to know where we stand in your list of priorities, bro. Big T's cock must taste real good.	我告诉H你不来了的时候，这个白痴其实很兴奋。	我和恩里克在考虑上电视了，因为你现在好像只和名人来往了。混蛋。
+570	87472D4A	Me and Rique was thinking of trying to get on TV coz it seems you only like hanging with famous people now. Asshole.	我们等了你很久，兄弟。很高兴能知道我们在你心中的地位有多低。大佬T的鸡巴一定很好吃吧。	妈的，兄弟。需要什么家伙了就打个电话，我有一车的货，可以便宜卖给你。
+571	9511C8DF	Shit, bro. You need any hardware gimme a shout. I got a van all loaded up with the shit and I can sell it to you cheap.	我和恩里克在考虑上电视了，因为你现在好像只和名人来往了。混蛋。	哟，L。我进了一些降落伞。需要降落伞之类的装备，就给我打个电话。我会开车过来的。回见。
+572	6DF4FA9E	Yo, L. I got hold of some parachutes. You need one of them or any other hardware, call me and I'll come by in the van. Later.	妈的，兄弟。需要什么家伙了就打个电话，我有一车的货，可以便宜卖给你。	妈
+573	9825F960	Mom	哟，L。我进了一些降落伞。需要降落伞之类的装备，就给我打个电话。我会开车过来的。回见。	PLACEHOLDER
+574	C79B3480	PLACEHOLDER	妈	PLACEHOLDER
+575	E2136970	PLACEHOLDER	PLACEHOLDER	PLACEHOLDER
+576	94294D8D	PLACEHOLDER	PLACEHOLDER	PLACEHOLDER
+577	756F1019	PLACEHOLDER	PLACEHOLDER	布尔加林
+578	86ECD6EE	Bulgarin	PLACEHOLDER	PLACEHOLDER
+579	7FAF4907	PLACEHOLDER	布尔加林	PLACEHOLDER
+580	2D8CA4C3	PLACEHOLDER	PLACEHOLDER	PLACEHOLDER
+581	1B4F0048	PLACEHOLDER	PLACEHOLDER	PLACEHOLDER
+582	E8259A02	PLACEHOLDER	PLACEHOLDER	The cops are transporting a snitch. Kill him!
+583	FACE3F53	The cops are transporting a snitch. Kill him!	PLACEHOLDER	The cops have picked up one of my vehicles. Destroy it before they get a chance to take a closer look.
+584	9FEA098C	The cops have picked up one of my vehicles. Destroy it before they get a chance to take a closer look.	The cops are transporting a snitch. Kill him!	There's a price on your head. Keep your eyes open.
+585	F023B4EA	There's a price on your head. Keep your eyes open.	The cops have picked up one of my vehicles. Destroy it before they get a chance to take a closer look.	Contract's been canceled you are in the clear.
+586	323F3924	Contract's been canceled you are in the clear.	There's a price on your head. Keep your eyes open.	帮我弄一辆海军上将
+587	1BDD0D40	Get me an Admiral	Contract's been canceled you are in the clear.	帮我弄一辆猛牛
+588	4B0FEBA5	Get me a Buffalo	帮我弄一辆海军上将	帮我弄一辆公爵
+589	3F49D419	Get me a Dukes	帮我弄一辆猛牛	帮我弄一辆争夺者
+590	C0A456D0	Get me a Contender	帮我弄一辆公爵	帮我弄一辆迷魅光轮
+591	6F3333EB	Get me a Hexer	帮我弄一辆争夺者	帮我弄一辆 NRG 900
+592	64691E57	Get me an NRG900	帮我弄一辆迷魅光轮	帮我弄一辆总统
+593	92A5FAD0	Get me a Presidente	帮我弄一辆 NRG 900	帮我弄一辆莎夫特
+594	FB944CAF	Get me a Schafter	帮我弄一辆总统	帮我弄一辆种马
+595	A9DA293C	Get me a Stallion	帮我弄一辆莎夫特	帮我弄一辆文森特
+596	A0DD1742	Get me a Vincent	帮我弄一辆种马	An Enemy Gang is Member is in your territory. Kill him!
+597	4D2E6B62	An Enemy Gang is Member is in your territory. Kill him!	帮我弄一辆文森特	The Cops are escorting a VIP between Police Stations. Kill him!
+598	245799B5	The Cops are escorting a VIP between Police Stations. Kill him!	An Enemy Gang is Member is in your territory. Kill him!	罗科
+599	9ECA86AD	Rocco	The Cops are escorting a VIP between Police Stations. Kill him!	我这儿需要你帮忙，有空吗？
+600	7740645B	I need you to help one of my boys, you available?	罗科	有人在妨碍我的生意，你能帮我解决吗？
+601	312FD83B	There's some people messing with my business, can you help sort this problem out?	我这儿需要你帮忙，有空吗？	恩里克
+602	0D73E3FE	Henrique	有人在妨碍我的生意，你能帮我解决吗？	哟，兄弟，你人呢？我们等了好久。 恩里克
+603	3C3D1A16	Yo bro where wer u? We waited. Hen	恩里克	你忘记我们了吗，兄弟？？我们约好了的。 恩里克
+604	6A50763C	you forget about us bro?? We waz ment to meet. Hen	哟，兄弟，你人呢？我们等了好久。 恩里克	我们不是约好了吗，混蛋！下次记得来。妈的！ 恩里克
+605	588AD2B1	we waz supozed 2 meet muthafucka! Show up next time. Dam! Hen	你忘记我们了吗，兄弟？？我们约好了的。 恩里克	操了，兄弟。你不来，我就只能跟那个暴脾气混蛋处一天了。下次先说一声。 恩里克
+606	6152642C	fukk bro. U didn't show and I had to hang with that moody muthafucka A all day. Gimme the heads up nxt time. Hen	我们不是约好了吗，混蛋！下次记得来。妈的！ 恩里克	你好吗，兄弟？好久没你消息了。 恩里克
+607	500CC1A1	u ok bro? Ain't heard nuthing in a while. Hen	操了，兄弟。你不来，我就只能跟那个暴脾气混蛋处一天了。下次先说一声。 恩里克	你在城里吧，兄弟。我和A好久没你消息了。有空一起玩吧。
+608	9EA35ECD	U in town bro. I aint hear nuthing in a time. A aint neither. We shuld hang	你好吗，兄弟？好久没你消息了。 恩里克	你在哪呢，兄弟。阿曼多说你现在在威斯敏斯特区，彻底成了基佬。真的吗？？？？？？？ 恩里克
+609	8C60BA48	where u be bro. Mando says u full gay in Westminster now. That tru?????? Hen	你在城里吧，兄弟。我和A好久没你消息了。有空一起玩吧。	别光顾着工作，L。何况你的工作还是舔屌。我们找个机会出去玩吧。 恩里克
+610	B8501226	don't work too hard L. Specially if ur work is suckin dick. Me you and A shuld hang. Hen	你在哪呢，兄弟。阿曼多说你现在在威斯敏斯特区，彻底成了基佬。真的吗？？？？？？？ 恩里克	你去哪了，哥们？我们在找你。 恩里克
+611	AF05FF92	where u go homie? We waz lookin. Hen	别光顾着工作，L。何况你的工作还是舔屌。我们找个机会出去玩吧。 恩里克	哟，兄弟。需要车子就打电话给我，我会弄来的。 恩里克
+612	AEBF40F0	yo bro. U eva need a car or sumthin gimme a call. I'll get it. Hen	你去哪了，哥们？我们在找你。 恩里克	哟，L！找到他们存放F620和Bullet的地方了。需要这两种车或者其他车就联系我吧。 恩里克
+613	E3F2AB56	yo L! I found where they store some F620s and Bullets. You need them or some other cars call me. Hen	哟，兄弟。需要车子就打电话给我，我会弄来的。 恩里克	你肯定不会相信的，哥们儿。NOOSE居然他妈有坦克。需要了就找我送一辆过来。 恩里克
+614	D315099B	u never believe this homie. NOOSE got these fuking tank things. Call me if you need me to boost one. Hen	哟，L！找到他们存放F620和Bullet的地方了。需要这两种车或者其他车就联系我吧。 恩里克	哟，哥们。在这里卖货好无聊。你要是有麻烦，我可以开车过来带你脱困。打个电话就行。 恩里克
+615	F84F540F	yo man. Shit is borin on this corner. You ever in trouble I can come by in my pickup and bring you outta there. Just call me. Hen	你肯定不会相信的，哥们儿。NOOSE居然他妈有坦克。需要了就找我送一辆过来。 恩里克	你就不该离开俱乐部的，兄弟，那些娘们把我给榨干了。真是这周最棒的一天！ 恩里克
+616	7779D266	you shoulda stayed at the club bro. Them ladys grinded the shit out me. Best day this week! Hen	哟，哥们。在这里卖货好无聊。你要是有麻烦，我可以开车过来带你脱困。打个电话就行。 恩里克	乔乔
+617	29956997	Jojo	你就不该离开俱乐部的，兄弟，那些娘们把我给榨干了。真是这周最棒的一天！ 恩里克	来找我，你就能得到了。 JJ
+618	59A02582	Come over and you'll get all this. JJ	乔乔	我现在欲火焚身，路易斯。快来帮我灭火。 JJ
+619	4FD6920B	I'm feeling the burn, Luis. Come over and put it out. JJ	来找我，你就能得到了。 JJ	忙了一天，我要跟路易斯亲热。跟我保证你现在有空，快点过来。 JJ
+620	624C36F6	Hard day and I need my Luis fix. Promise you won't have to do a thing. Come over ASAP. JJ	我现在欲火焚身，路易斯。快来帮我灭火。 JJ	你人呢？我还以为你会出现的。下次提前说，我好约别人！ JJ
+621	74695B30	Where were you? I thought you were going to be here. Let me know next time and I'll schedule someone else! JJ	忙了一天，我要跟路易斯亲热。跟我保证你现在有空，快点过来。 JJ	抱歉，路易斯。我对你失去兴趣了。本来想打电话，但我真的太忙了。保重 JJ
+622	86A7FFAD	Sorry Luis. This just isn't fun anymore. Would have called but real busy. Take care. JJ	你人呢？我还以为你会出现的。下次提前说，我好约别人！ JJ	泰勒
+623	D586C17B	Taylor	抱歉，路易斯。我对你失去兴趣了。本来想打电话，但我真的太忙了。保重 JJ	娘子好看吗？亲自过来找她吧。 T xx
+624	4FE4BEBD	How's Mommy look? Come see her in the flesh. T xx	泰勒	娘子想被你粗暴对待。过来找她吧。 T xx
+625	3D9E1A30	Mommy wants some rough. Come round and give it to her. T xx	娘子好看吗？亲自过来找她吧。 T xx	我在家里好寂寞啊，快过来。顺便，记得走员工通道。 T xx
+626	88E530D9	I'm all alone at home. Come around. BTW - remember to use the staff entrance. T xx	娘子想被你粗暴对待。过来找她吧。 T xx	你人呢？我以为你会来，一直不让男友回来。多谢啊。 T
+627	7B229554	Where were you? I kept my boyf out the house forever thinking you were coming. Thanks a lot. T	我在家里好寂寞啊，快过来。顺便，记得走员工通道。 T xx	糟了！男友发现你的事了，娘子是个坏姑娘。再跟你做她就要分手了。 T xx
+628	6C61F7D3	Opps! Boyf found out about you. Mommy's a bad girl. No more treats if she keeps doing you. Sorry. T xx	你人呢？我以为你会来，一直不让男友回来。多谢啊。 T	维琪
+629	CB25ACB9	Vikky	糟了！男友发现你的事了，娘子是个坏姑娘。再跟你做她就要分手了。 T xx	图透一下，现在过来你你就能得到啦！ 维克 xx
+630	7604903E	Sneak peak of what u'll b getting if u come round right now! Vik xx	维琪	你在我的脑海里跑了一天，一定很累吧。 :) 来找我。 维克 xx
+631	A5B9EFA8	u must b tired running threw my head all day. :) come round. Vik xx	图透一下，现在过来你你就能得到啦！ 维克 xx	快过来，风流小子。我一直在想你！需要你温暖的大手抚摸！ 维克 xx
+632	93774B23	Get here now stud. Been thinkin about u! Need those hands on me! Vik xx	你在我的脑海里跑了一天，一定很累吧。 :) 来找我。 维克 xx	我还以为你会来。大错特错了！拜托来一次吧！ 维克 xx
+633	EDBA7FAC	thought u were coming over. Poo! Poo! Poo! Soon pls! Vik xx	快过来，风流小子。我一直在想你！需要你温暖的大手抚摸！ 维克 xx	呃...很难受，但不可能继续了...只能这样散了。抱歉！ 维克 xxx
+634	DB75DB23	umm... Hard 2 do, but things not working out... Need to call us off. Soz! Vik xxx	我还以为你会来。大错特错了！拜托来一次吧！ 维克 xx	安娜
+635	92BFBBD2	Ana	呃...很难受，但不可能继续了...只能这样散了。抱歉！ 维克 xxx	中意吗？快来吧，我的斗牛士！ 亲亲
+636	DD7EF39A	Te gusta? Come around now, my matador! Besos	安娜	老娘想要吞下你的小可乐饼。来找我。 亲亲
+637	D01B58D3	Mamma wants to gobble down your little croqueta. Come to me. Besos	中意吗？快来吧，我的斗牛士！ 亲亲	我的生活如此乏味，需要一些香辛料才能得到色彩。你快来吧。 亲亲
+638	B5D42445	My day has been so bland. I need some spice to give it excitement. Please come around. Besos	老娘想要吞下你的小可乐饼。来找我。 亲亲	我的床还是那么冰冷。你没必要道歉的，斗牛士确实会有很多女主人。只是别忘了我们在一起时的干柴烈火。 亲亲
+639	A59683CA	My bed stayed cold. You do not need to apologize. The matador is meant to have many mistresses. Just do not forget our heat together. Besos.	我的生活如此乏味，需要一些香辛料才能得到色彩。你快来吧。 亲亲	斗牛士，长话短说吧，儿女情长该结束了。希望你在接下来的旅途中也会遇到热情的爱。
+640	1B196ECE	Matador, our brief, turbulent affair is over. I wish you heat and love on the rest of your journey. Besos	我的床还是那么冰冷。你没必要道歉的，斗牛士确实会有很多女主人。只是别忘了我们在一起时的干柴烈火。 亲亲	达娜
+641	C01E941B	Dana	斗牛士，长话短说吧，儿女情长该结束了。希望你在接下来的旅途中也会遇到热情的爱。	嘿，快看，无修的图。快来我家看完整的时装秀。 ;)
+642	AACFC901	Hey look - no airbrushing. Come around 2 mine for the full catwalk show. ;)	达娜	嘿，老兄，我想跟你来一发。快来满足我吧。 ;)
+643	D04913F3	Hey Dude, I need a work out. Come by and give me 1. ;)	嘿，快看，无修的图。快来我家看完整的时装秀。 ;)	为了拍这张照，我特意做了个蜜蜡脱毛。快来享用吧。 :-o
+644	049C7C99	I just got waxed like a baby for this shoot. Stop by and enjoy it. :-o	嘿，老兄，我想跟你来一发。快来满足我吧。 ;)	呃... :-/ 你去哪了？时间就是$，混蛋！！ :(
+645	F3B1DAC4	ummm. :-/ where were you? Time is $, motherfucker!! :(	为了拍这张照，我特意做了个蜜蜡脱毛。快来享用吧。 :-o	抱歉，老兄，我要成为更好的模特。别太 :(
+646	19F62750	Sorry, dude. Upgrading 2 a better model. Don't get 2 :(	呃... :-/ 你去哪了？时间就是$，混蛋！！ :(	辛迪
+647	5D73CEAB	Cindy	抱歉，老兄，我要成为更好的模特。别太 :(	嘿，甜心，我现在很渴望快感。你有空吗？ xx
+648	878FFA0F	Hey Sugar, I've got a craving for somehting sweet. U free? xx	辛迪	在这座城市，我一个女孩子还是有点寂寞。真希望能有人给我带来乐趣啊...
+649	41DCEEA6	A girl gets kind of lonely in this city. If only someone would come around and keep her entertained...	嘿，甜心，我现在很渴望快感。你有空吗？ xx	女孩子要怎么做，才能在自由城得到鱼水之欢？！我现在在公寓里，你想来就来吧。 xx
+650	241BB324	What's a girl got to do to get some action in this town?! I'll be at my apartment for a bit if you wanna come by.xx	在这座城市，我一个女孩子还是有点寂寞。真希望能有人给我带来乐趣啊...	你一定是有急事吧，甜心。我会慢慢适应自由城不说一声就不来的习俗的。我会适应这里的！
+651	AC6343B5	I guess something came up, Sugar. I got to get used to people in LC not calling to cancel. I'll learn one day!	女孩子要怎么做，才能在自由城得到鱼水之欢？！我现在在公寓里，你想来就来吧。 xx	嘿，甜心，我也不想发短信说这种事，但这似乎是自由城的作派。我们不可能了，保重。 xx
+652	BEA56839	Hey Sugar, hate to do this by txt, but seems like the LC way. Stuff ain't working out. Take care. xx	你一定是有急事吧，甜心。我会慢慢适应自由城不说一声就不来的习俗的。我会适应这里的！	塔尼娅
+653	6EC0F145	Tania	嘿，甜心，我也不想发短信说这种事，但这似乎是自由城的作派。我们不可能了，保重。 xx	喂！快他妈过来满足我！我要忍不住了！
+654	8DAF88D1	Oi! Get ur arse around here and sort me out! I'm gagging for it!	塔尼娅	算了，别那么混蛋，过来找我！我忍不住了！
+655	732F53D5	Woteva, stop being a nonce and come round here! I'm gagging.	喂！快他妈过来满足我！我要忍不住了！	你是要做一个娘炮，还是过来轰入我的后门？我等着你！
+656	88717E59	Are you going to be a poof or are you coming round here to smash my back doors down. I'm waiting!	算了，别那么混蛋，过来找我！我忍不住了！	喂，你这个自大狂，你他妈人呢？算了，兄弟。
+657	0878FE62	Oi, you vain twat. Where the fuck were you? Wotevz, bruv.	你是要做一个娘炮，还是过来轰入我的后门？我等着你！	听着，兄弟，不能再这样了。我是独立女性，懂吧。再见。
+658	D6BB1AE7	Listen bruv, can't keep doing this. I'm an independent woman, innit. Latz.	喂，你这个自大狂，你他妈人呢？算了，兄弟。	莉莉
+659	7A1C87FC	Lily	听着，兄弟，不能再这样了。我是独立女性，懂吧。再见。	我已经玩自拍玩腻了。想知道还有什么是我玩腻了的吗？
+660	B8034C4D	I'm bored enough to take photos of myself. Want to find out what else I'm bored enough to do?	莉莉	我好无聊啊。快来找我。
+661	E369A319	Right. I'm bored. Get round here.	我已经玩自拍玩腻了。想知道还有什么是我玩腻了的吗？	你好久没来了。可以来让我想起我爱来自由城的原因吗？
+662	D5A00786	Not here for much longer. Want to remind me why I love soming bak to Liberty City?	我好无聊啊。快来找我。	好久没有一起做过了。别再放我鸽子了。
+663	FEEF5A24	Really not here for long enough to get messed round like this. Please don't stand me up again.	你好久没来了。可以来让我想起我爱来自由城的原因吗？	我不玩了！你要是对我有过感情，就跟我说一声。爱你。
+664	114EFEDF	I'm off! Give me a shout if you're ever over my way. Big kiss.	好久没有一起做过了。别再放我鸽子了。	塔米
+665	8BCEAB60	Tami	我不玩了！你要是对我有过感情，就跟我说一声。爱你。	嘿，汉子。你在哪儿呢？我现在正等着你！
+666	904706E0	Hey papi. Where u at? This shit's waiting for you!	塔米	告诉我，汉子，你在哪里？我需要你！
+667	9F94A57B	Diga me, papi? Where u be? I need ur ass!	嘿，汉子。你在哪儿呢？我现在正等着你！	噢，汉子！汉子！光是想到你就让我浑身燥热。快过来啊！
+668	CCB3FFB9	Oh papi! Papi! I'm getting muy caliente just thinking 'bout you. Get here pronto!	告诉我，汉子，你在哪里？我需要你！	你是一下子变傻了吗，汉子？你他妈去哪了？
+669	55F6123F	You turn stupid all of a sudden, papi? Where the fuck was u?	噢，汉子！汉子！光是想到你就让我浑身燥热。快过来啊！	哟，汉子，我和你结束了。你还是换个地方插你那玩意吧。抱歉。
+670	670FB472	Yo, papi. I'm done with your ass. You gonna have to stick that thing of yours somewhere else. Sorry.	你是一下子变傻了吗，汉子？你他妈去哪了？	多米诺
+671	476D22BA	Domino	哟，汉子，我和你结束了。你还是换个地方插你那玩意吧。抱歉。	该上演第二幕了，甜心。快来吧。
+672	CCC395A1	Time for the second act, sweetheart. Come on down.	多米诺	我现在的状态很好，可以带来最好的表现。速来。
+673	498F8F3B	I've got a feeling I'm about to give my best performance. Get here.	该上演第二幕了，甜心。快来吧。	到点了，宝贝。快来满足我吧！
+674	78506CBC	Call time, baby. Come around and impress me!	我现在的状态很好，可以带来最好的表现。速来。	我们是不是误会了什么，好像说好了要见面的吧？呃...
+675	656246E0	Think we must have got some crossed wires, I thought we were meant to meet up? Ummmm....	到点了，宝贝。快来满足我吧！	请不要再联系我了，会很尴尬的。再见，失败者。
+676	93CC23B3	Please don't call me again. Could get awkward. Later on, loser.	我们是不是误会了什么，好像说好了要见面的吧？呃...	海蒂
+677	16B1413F	Heidi	请不要再联系我了，会很尴尬的。再见，失败者。	快来啊，亲爱的。我要给你看看照片里没拍到的东西... H xx
+678	24E01D6D	Come by soon, darling. I've got something to show you that isn't in the pic... H xx	海蒂	快来啊，亲爱的。我刚买了个新玩具。 H xx
+679	3321B9F0	Come on over, darling. Just bought a new toy. H xx	快来啊，亲爱的。我要给你看看照片里没拍到的东西... H xx	快来，宝贝。做完瑜伽感觉有点累，需要你来帮我放松。 H xx
+680	09596660	Come by, babes. Feeling toned post yoga, and need you to unwind me. H xx	快来啊，亲爱的。我刚买了个新玩具。 H xx	等一下，宝贝，你好像搞错了我俩的关系，我才是有权放鸽子的人。别再鸽我了。 H xx
+681	7A36C7FD	Hold up, babes. Think you got the power balance confused just now I'm the one who's meant to stand you up. Don't do it again. H xx	快来，宝贝。做完瑜伽感觉有点累，需要你来帮我放松。 H xx	向前进，向上走，亲爱的。勿忘我。拜拜啦！ H xx
+682	A26D1869	Moving on, moving up, love. Don't forget me. Toodles! H xx	等一下，宝贝，你好像搞错了我俩的关系，我才是有权放鸽子的人。别再鸽我了。 H xx	Simone
+683	60F155C2	Simone	向前进，向上走，亲爱的。勿忘我。拜拜啦！ H xx	我想要你的怀抱，快来找我。么么
+684	F0DED1E8	Me want snuggles. Come see me soon. xoxo	Simone	要亲亲，要抱抱。我等着你...么么
+685	DE1EAC68	Smooches and snugs soon pls. Waiting now... xoxo	我想要你的怀抱，快来找我。么么	宝宝需要她的毯子，我一整晚都要吸吸。你知道我在哪儿的。么么
+686	5B51A6D0	baby needs her blankee. Me suck suck all night long. You know where to come. xoxo	要亲亲，要抱抱。我等着你...么么	没有得到说好的抱抱！宝宝哭哭。么么
+687	4899015F	Didn't get those snuggles you promised! Made me really sad. xoxo	宝宝需要她的毯子，我一整晚都要吸吸。你知道我在哪儿的。么么	我觉得你对这份感情不够认真，别再联系我了。之前就经历过这种事了。么么么么
+688	37E7DFFD	I don't think you're taking this seriously enough. Please don't call again. Been through this before sadly. xoxoxoxox	没有得到说好的抱抱！宝宝哭哭。么么	Secret
+689	ED416C3C	Secret	我觉得你对这份感情不够认真，别再联系我了。之前就经历过这种事了。么么么么	PLACEHOLDER
+690	E7F13623	PLACEHOLDER	Secret	PLACEHOLDER
+691	D62E929E	PLACEHOLDER	PLACEHOLDER	PLACEHOLDER
+692	037CED3A	PLACEHOLDER	PLACEHOLDER	PLACEHOLDER
+693	F1B349A7	PLACEHOLDER	PLACEHOLDER	PLACEHOLDER
+694	BACC5BDA	PLACEHOLDER	PLACEHOLDER	PLACEHOLDER
+695	8D3300A8	PLACEHOLDER	PLACEHOLDER	PLACEHOLDER
+696	0C67FF1C	PLACEHOLDER	PLACEHOLDER	PLACEHOLDER
+697	DF20A48E	PLACEHOLDER	PLACEHOLDER	PLACEHOLDER
+698	A836B6BB	PLACEHOLDER	PLACEHOLDER	PLACEHOLDER
+699	4AD1E069	PLACEHOLDER	PLACEHOLDER	PLACEHOLDER
+700	7FB04A25	PLACEHOLDER	PLACEHOLDER	THIS LABEL NEEDS TO BE HERE !!!
+701	4FE4B898	THIS LABEL NEEDS TO BE HERE !!!	PLACEHOLDER	~s~托尼白天不在这儿。去公寓找他。
+702	E2C1DD00	~s~Tony is not here during the day. Go to his apartment.	THIS LABEL NEEDS TO BE HERE !!!	~s~托尼白天不在这儿。晚七点到早七点间再来吧。
+703	B44DFB2A	~s~Tony is not here during the day. Try again between 7pm and 7am.	~s~托尼白天不在这儿。去公寓找他。	~s~托尼晚上不在家。他在夜店上班。
+704	FD21F166	~s~Tony is not at home at night. He is working in the clubs.	~s~托尼白天不在这儿。晚七点到早七点间再来吧。	~s~托尼晚上不在家。早七点到晚七点间再来吧。
+705	82651A2B	~s~Tony is not at home at night. Try again between 7am and 7pm.	~s~托尼晚上不在家。他在夜店上班。	~s~按~INPUT_PICKUP~进入自由城铁笼格斗。
+706	37328BD3	~s~Press ~INPUT_PICKUP~ to enter L.C. Cage Fighters.	~s~托尼晚上不在家。早七点到晚七点间再来吧。	~s~请在非任务期间再来。
+707	664C8571	~s~Come back when you're not on a mission.	~s~按~INPUT_PICKUP~进入自由城铁笼格斗。	~s~下场比赛还在准备，过会儿再来吧。
+708	0CB34E6F	~s~Another fight will be on soon, come back in a while.	~s~请在非任务期间再来。	~s~连按~INPUT_SPRINT~挣脱人群。
+709	24C0D9B2	~s~Repeatedly hit ~INPUT_SPRINT~ to escape the crowd.	~s~下场比赛还在准备，过会儿再来吧。	按~INPUT_PICKUP~打高尔夫。
+710	91C65553	Press ~INPUT_PICKUP~ to play golf.	~s~连按~INPUT_SPRINT~挣脱人群。	你想和谁打高尔夫？~n~按~PAD_A~和阿曼多打。~n~按~PAD_B~和恩里克打。~n~按~INPUT_PICKUP~退出。
+711	A3D9B6D4	Who do you want to play golf with?~n~Press ~PAD_A~ to play Armando.~n~Press ~PAD_B~ to play Henrique.~n~Press ~INPUT_PICKUP~ to exit.	按~INPUT_PICKUP~打高尔夫。	你想和谁打高尔夫？~n~按~INPUT_FRONTEND_MINIGAME_1~和阿曼多打。~n~按~INPUT_FRONTEND_MINIGAME_2~和恩里克打。~n~按~INPUT_PICKUP~退出。
+712	8AD9788C	Who do you want to play golf with?~n~Press ~INPUT_FRONTEND_MINIGAME_1~ to play Armando.~n~Press ~INPUT_FRONTEND_MINIGAME_2~ to play Henrique.~n~Press ~INPUT_PICKUP~ to exit.	你想和谁打高尔夫？~n~按~PAD_A~和阿曼多打。~n~按~PAD_B~和恩里克打。~n~按~INPUT_PICKUP~退出。	练球场暂时关门了。
+713	C608EDD6	The driving range is temporarily closed.	你想和谁打高尔夫？~n~按~INPUT_FRONTEND_MINIGAME_1~和阿曼多打。~n~按~INPUT_FRONTEND_MINIGAME_2~和恩里克打。~n~按~INPUT_PICKUP~退出。	用~PAD_LSTICK_ALL~在空中移动。~n~按~INPUT_SPRINT~打开降落伞。~n~按住~INPUT_MELEE_ATTACK1~查看不同视角。
+714	137E7BC0	Use ~PAD_LSTICK_ALL~ to move in the air. ~n~Press ~INPUT_SPRINT~ to activate parachute. ~n~Hold ~INPUT_MELEE_ATTACK1~ to view different cameras.	练球场暂时关门了。	用~PAD_LSTICK_ALL~在空中移动。~n~按~INPUT_MOUSE_LMB~打开降落伞。~n~按住~INPUT_MOUSE_RMB~查看不同视角。
+715	EA215F01	Use ~PAD_LSTICK_ALL~ to move in the air. ~n~Press ~INPUT_MOUSE_LMB~ to activate parachute. ~n~Hold ~INPUT_MOUSE_RMB~ to view different cameras.	用~PAD_LSTICK_ALL~在空中移动。~n~按~INPUT_SPRINT~打开降落伞。~n~按住~INPUT_MELEE_ATTACK1~查看不同视角。	用~PAD_LSTICK_ALL~控制身体重心。~n~按~PAD_LT~或~PAD_RT~进行急转。~n~按~INPUT_ENTER~抛弃降落伞。~n~按住~INPUT_MELEE_ATTACK1~查看不同视角。
+716	8554CA44	Use ~PAD_LSTICK_ALL~ to shift body weight. ~n~Use ~PAD_LT~ and ~PAD_RT~ to apply left and right air brakes. ~n~Press ~INPUT_ENTER~ to detach the parachute. ~n~Hold ~INPUT_MELEE_ATTACK1~ to view different cameras.	用~PAD_LSTICK_ALL~在空中移动。~n~按~INPUT_MOUSE_LMB~打开降落伞。~n~按住~INPUT_MOUSE_RMB~查看不同视角。	用~PAD_LSTICK_ALL~控制身体重心。~n~按~INPUT_MOUSE_LMB~或~INPUT_MOUSE_RMB~进行急转。~n~按~INPUT_ENTER~抛弃降落伞。~n~按住~INPUT_NEXT_CAMERA~查看不同视角。
+717	6AC25A30	Use ~PAD_LSTICK_ALL~ to shift body weight. ~n~Use ~INPUT_MOUSE_LMB~ and ~INPUT_MOUSE_RMB~ to apply left and right air brakes. ~n~Press ~INPUT_ENTER~ to detach the parachute. ~n~Hold ~INPUT_NEXT_CAMERA~ to view different cameras.	用~PAD_LSTICK_ALL~控制身体重心。~n~按~PAD_LT~或~PAD_RT~进行急转。~n~按~INPUT_ENTER~抛弃降落伞。~n~按住~INPUT_MELEE_ATTACK1~查看不同视角。	用~PAD_LSTICK_ALL~控制身体重心。~n~按~PAD_LB~或~PAD_RB~进行急转。~n~按~INPUT_ENTER~脱离降落伞。~n~按住~INPUT_MELEE_ATTACK1~查看不同视角。
+718	E8032E81	Use ~PAD_LSTICK_ALL~ to shift body weight. ~n~Use ~PAD_LB~ and ~PAD_RB~ to apply left and right air brakes. ~n~Press ~INPUT_ENTER~ to detach the parachute. ~n~Hold ~INPUT_MELEE_ATTACK1~ to view different cameras.	用~PAD_LSTICK_ALL~控制身体重心。~n~按~INPUT_MOUSE_LMB~或~INPUT_MOUSE_RMB~进行急转。~n~按~INPUT_ENTER~抛弃降落伞。~n~按住~INPUT_NEXT_CAMERA~查看不同视角。	用~PAD_LSTICK_ALL~控制身体重心。~n~按~INPUT_MOUSE_LMB~或~INPUT_MOUSE_RMB~进行急转。~n~按~INPUT_ENTER~脱离降落伞。~n~按住~INPUT_NEXT_CAMERA~查看不同视角。
+719	416E3A2D	Use ~PAD_LSTICK_ALL~ to shift body weight. ~n~Use ~INPUT_MOUSE_LMB~ and ~INPUT_MOUSE_RMB~ to apply left and right air brakes. ~n~Press ~INPUT_ENTER~ to detach the parachute. ~n~Hold ~INPUT_NEXT_CAMERA~ to view different cameras.	用~PAD_LSTICK_ALL~控制身体重心。~n~按~PAD_LB~或~PAD_RB~进行急转。~n~按~INPUT_ENTER~脱离降落伞。~n~按住~INPUT_MELEE_ATTACK1~查看不同视角。	打开降落伞。
+720	B6738845	Open your parachute.	用~PAD_LSTICK_ALL~控制身体重心。~n~按~INPUT_MOUSE_LMB~或~INPUT_MOUSE_RMB~进行急转。~n~按~INPUT_ENTER~脱离降落伞。~n~按住~INPUT_NEXT_CAMERA~查看不同视角。	按~INPUT_ATTACK~装备降落伞。
+721	CCD84A8A	Press ~INPUT_ATTACK~ to put on the parachute.	打开降落伞。	按~INPUT_PICKUP~在这栋大楼跳伞。
+722	A5FF24CC	Press ~INPUT_PICKUP~ to jump from this building.	按~INPUT_ATTACK~装备降落伞。	按~INPUT_PICKUP~乘坐直升机跳伞。
+723	F71372A1	Press ~INPUT_PICKUP~ to be airlifted for a base jump.	按~INPUT_PICKUP~在这栋大楼跳伞。	上下移动~INPUT_LOOK_UP~晃动酒瓶。按~INPUT_FRONTEND_ACCEPT~开瓶。按~INPUT_PICKUP~可随时退出。
+724	25BA7F09	Move ~INPUT_LOOK_UP~ up and down to shake the bottle. Press ~INPUT_FRONTEND_ACCEPT~ to pop the cork. Press ~INPUT_PICKUP~ to quit at any time.	按~INPUT_PICKUP~乘坐直升机跳伞。	上下移动~PAD_RSTICK_ALL~晃动酒瓶。按~INPUT_MOUSE_LMB~开瓶。按~INPUT_PICKUP~可随时退出。
+725	DD607F9F	Move ~PAD_RSTICK_ALL~ up and down to shake the bottle. Press ~INPUT_MOUSE_LMB~ to pop the cork. Press ~INPUT_PICKUP~ to quit at any time.	上下移动~INPUT_LOOK_UP~晃动酒瓶。按~INPUT_FRONTEND_ACCEPT~开瓶。按~INPUT_PICKUP~可随时退出。	匀速转动~PAD_RSTICK_ROTATE~喝酒。按~INPUT_PICKUP~退出。
+726	0F785285	Rotate ~PAD_RSTICK_ROTATE~ at a steady speed to take a drink. Press ~INPUT_PICKUP~ to quit.	上下移动~PAD_RSTICK_ALL~晃动酒瓶。按~INPUT_MOUSE_LMB~开瓶。按~INPUT_PICKUP~可随时退出。	匀速转动~PAD_RSTICK_ALL~喝酒。按~INPUT_PICKUP~退出。
+727	A605D81B	Rotate ~PAD_RSTICK_ALL~ at a steady speed to take a drink. Press ~INPUT_PICKUP~ to quit.	匀速转动~PAD_RSTICK_ROTATE~喝酒。按~INPUT_PICKUP~退出。	~s~移动~PAD_RSTICK_LEFTRIGHT~喷洒香槟。
+728	56BBE10F	~s~Move ~PAD_RSTICK_LEFTRIGHT~ to spray the champagne.	匀速转动~PAD_RSTICK_ALL~喝酒。按~INPUT_PICKUP~退出。	~s~移动~PAD_RSTICK_ALL~喷洒香槟。
+729	01A0C819	~s~Move ~PAD_RSTICK_ALL~ left or right to spray the champagne.	~s~移动~PAD_RSTICK_LEFTRIGHT~喷洒香槟。	按~INPUT_PICKUP~喝一杯。酒水不收费。
+730	D523AB40	Press ~INPUT_PICKUP~ to drink a shot. Drinks are on the house.	~s~移动~PAD_RSTICK_ALL~喷洒香槟。	按~INPUT_PICKUP~进行香槟对吹。
+731	1675D483	Press ~INPUT_PICKUP~ to start a champagne drink off.	按~INPUT_PICKUP~喝一杯。酒水不收费。	按~INPUT_PICKUP~退出。
+732	FFF9DD7A	Press ~INPUT_PICKUP~ to quit.	按~INPUT_PICKUP~进行香槟对吹。	前往~BLIP_106~图标可以进行低空跳伞。
+733	D959F47E	Go to the ~BLIP_106~ icon to take part in different base jumping activites.	按~INPUT_PICKUP~退出。	前往~BLIP_120~图标参加自由城铁笼格斗，成为自由城拳王。
+734	BBD35EC1	Go to the ~BLIP_120~ icon to take part in L.C. Cage Fighters and become Liberty City's top brawler.	前往~BLIP_106~图标可以进行低空跳伞。	前往~BLIP_108~图标协助阿曼多和恩里克的毒品战争。
+735	2A69778C	Go to the ~BLIP_108~ icon to help out Armando and Henrique in drug wars.	前往~BLIP_120~图标参加自由城铁笼格斗，成为自由城拳王。	前往~BLIP_65~图标参加铁人三项。
+736	D332694A	Go to the ~BLIP_65~ icon to take part in multiple vehicle races.	前往~BLIP_108~图标协助阿曼多和恩里克的毒品战争。	主线剧情已完成，你可以通过手机重玩之前的任务。在「任务」中进行选择，就可以无限制地重玩所有任务。
+737	079DAA64	The main story has now been completed. You can repeat missions via the phone. Go to 'missions' then choose the mission you want to repeat. You can repeat missions as many times as you wish.	前往~BLIP_65~图标参加铁人三项。	晚上九点到早上五点之间，你可以前往9号豪宅的~BLIP_121~图标参与夜店经营。
+738	F3D5DAC2	Go to the ~BLIP_121~ icon in Maisonette 9 during its opening times of 9pm-5am to partake in the club management job.	主线剧情已完成，你可以通过手机重玩之前的任务。在「任务」中进行选择，就可以无限制地重玩所有任务。	你随时可以在停机坪找到尤瑟夫的秃鹰直升机。
+739	7CF390FF	Yusuf's Buzzard will be available here at the helipad whenever you need it.	晚上九点到早上五点之间，你可以前往9号豪宅的~BLIP_121~图标参与夜店经营。	你随时可以在建筑工地找到尤瑟夫的NOOSE坦克。
+740	E6E52966	Yusuf's NOOSE Tank will be available here at the Building Site whenever you need it.	你随时可以在停机坪找到尤瑟夫的秃鹰直升机。	你随时可以在尤瑟夫的公寓门口找到他的金钻耀星敞篷版。
+741	D777B90E	Yusuf's Super Drop Diamond will be available here at his apartment whenever you need it.	你随时可以在建筑工地找到尤瑟夫的NOOSE坦克。	尤瑟夫的坦克
+742	7BCEC81F	Yusuf's Tank	你随时可以在尤瑟夫的公寓门口找到他的金钻耀星敞篷版。	尤瑟夫的秃鹰
+743	74BD25DC	Yusuf's Buzzard	尤瑟夫的坦克	尤瑟夫的SuperDD
+744	A45C1783	Yusuf's SuperDD	尤瑟夫的秃鹰	你把~b~阿曼多~s~和~b~恩里克~s~落下了。
+745	956B30EF	You are leaving ~b~Armando~s~ and ~b~Henrique~s~ behind.	尤瑟夫的SuperDD	你把~b~阿曼多~s~落下了。
+746	769A3880	You are leaving ~b~Armando~s~ behind.	你把~b~阿曼多~s~和~b~恩里克~s~落下了。	你把~b~恩里克~s~落下了。
+747	AC2263F6	You are leaving ~b~Henrique~s~ behind.	你把~b~阿曼多~s~落下了。	你已和朋友安排了活动。去小地图上的~BLIP_105~接他们。
+748	FF5A3E11	You have arranged to hang out with your friends. Meet them by going towards the ~BLIP_105~ on the radar.	你把~b~恩里克~s~落下了。	你已和朋友安排了活动。去小地图上的~BLIP_98~接他们。
+749	44987252	You have arranged to hang out with your friends. Meet them by going towards the ~BLIP_98~ on the radar.	你已和朋友安排了活动。去小地图上的~BLIP_105~接他们。	在安排活动后你仍然可以取消它。使用手机中对应朋友下的选项取消。比起被放鸽子，他们更乐意事先得到通知。
+750	86FED73B	You can cancel an activity after it has been arranged. Use the option on the phone under your friend's name. They will prefer to be warned than stood up.	你已和朋友安排了活动。去小地图上的~BLIP_98~接他们。	你可以带阿曼多和恩里克去小地图上标记的任何地点。驾驶途中，小地图上还会显示附近的其它活动地点。
+751	878BBB68	You can take Armando and Henrique to the location of any activity marked on the radar. As you drive other nearby activities will appear on the radar.	在安排活动后你仍然可以取消它。使用手机中对应朋友下的选项取消。比起被放鸽子，他们更乐意事先得到通知。	你已与阿曼多和恩里克完成了一项活动。送他们回家或再进行一项其他活动。一次约会最多进行四项活动。
+752	E4C99E21	You have completed an activity with Armando and Henrique. You can drop them off or go on another activity. You can take them on up to 4 activities.	你可以带阿曼多和恩里克去小地图上标记的任何地点。驾驶途中，小地图上还会显示附近的其它活动地点。	阿曼多和恩里克准备好下车了。
+753	8CED0910	Armando and Henrique are ready to be dropped off now.	你已与阿曼多和恩里克完成了一项活动。送他们回家或再进行一项其他活动。一次约会最多进行四项活动。	你喝醉了。视线一片模糊，行走和驾驶也变得十分困难。尽量保持平衡。很快就会恢复正常的。
+754	B257D22C	You are drunk. Your vision is blurred and you will find it difficult to walk and drive. Try to keep your balance. You'll sober up soon.	阿曼多和恩里克准备好下车了。	停到阿曼多和恩里克附近，或鸣笛引起他们的注意。
+755	4A69685C	Stop near Armando and Henrique or toot the horn to attract their attention.	你喝醉了。视线一片模糊，行走和驾驶也变得十分困难。尽量保持平衡。很快就会恢复正常的。	停到阿曼多和恩里克附近，或鸣笛引起他们的注意。
+756	67663398	Stop near Armando and Henrique or toot the horn to attract their attention.	停到阿曼多和恩里克附近，或鸣笛引起他们的注意。	降落到阿曼多和恩里克附近，引起他们的注意。
+757	BB7EDD10	Land close to Armando and Henrique to attract their attention.	停到阿曼多和恩里克附近，或鸣笛引起他们的注意。	~r~你丢下了你的朋友。
+758	6337B54E	~r~You left your friends behind.	降落到阿曼多和恩里克附近，引起他们的注意。	~r~你丢下了阿曼多。
+759	73D488F5	~r~You left Armando behind.	~r~你丢下了你的朋友。	~r~你丢下了恩里克。
+760	85022B50	~r~You left Henrique behind.	~r~你丢下了阿曼多。	~r~你伤害了阿曼多和恩里克。
+761	0FA4886E	~r~You injured Armando and Henrique.	~r~你丢下了恩里克。	~r~阿曼多和恩里克受伤了。
+762	D0B3BB9F	~r~Armando and Henrique are injured.	~r~你伤害了阿曼多和恩里克。	~r~你伤害了阿曼多。
+763	F5D19942	~r~You injured Armando.	~r~阿曼多和恩里克受伤了。	~r~阿曼多受伤了。
+764	6DA3BD9C	~r~Armando is injured.	~r~你伤害了阿曼多。	~r~你伤害了恩里克。
+765	BAAB22F6	~r~You injured Henrique.	~r~阿曼多受伤了。	~r~恩里克受伤了。
+766	ED193C8D	~r~Henrique is injured.	~r~你伤害了恩里克。	托尼
+767	9051DDE0	Tony	~r~恩里克受伤了。	目标
+768	28635590	Target	托尼	列车
+769	8F31EE01	Train	目标	飞机
+770	A60A632C	Plane	列车	艾哈迈德
+771	A72F50CA	Ahmed	飞机	艾哈迈德和塔希尔
+772	8333ED67	Ahmed and Tahir	艾哈迈德	车头
+773	36275B99	Front Carriage	艾哈迈德和塔希尔	甩掉警察。
+774	A581DDD1	Lose the cops.	车头	THIS LABEL NEEDS TO BE HERE !!!
+775	400C26AB	THIS LABEL NEEDS TO BE HERE !!!	甩掉警察。	我爱自由城
+776	4D809984	I luv LC	THIS LABEL NEEDS TO BE HERE !!!	中国外卖
+777	3F46FD11	Chinese Takeout	我爱自由城	挥杆练习
+778	2B25D4CF	Practice Swing	中国外卖	写篇博客！...
+779	04E4884D	Blog This!...	挥杆练习	绿荫红颜
+780	F680EB86	Boulevard Baby	写篇博客！...	...写篇博客！
+781	E0CAC01A	...Blog This!	绿荫红颜	砰砰
+782	D7EBAE5C	Bang Bang	...写篇博客！	蛋糕上的糖霜
+783	C22D82E0	Frosting On The Cake	砰砰	欲速则不达
+784	B316E4B3	Not So Fast	蛋糕上的糖霜	淑女之夜
+785	CF07C178	Ladies' Night	欲速则不达	女士半价
+786	E14765F7	Ladies Half Price	淑女之夜	离港时间
+787	6D6F7E4D	Departure Time	女士半价	基布兹大哥
+788	36C410F7	Kibbutz Number One	离港时间	落子无悔
+789	4955B61A	This Ain't Checkers	基布兹大哥	第三
+790	24456BFA	No. 3	落子无悔	Chop Chop (Heli Courier) - OBSOLETE
+791	9FA262B2	Chop Chop (Heli Courier) - OBSOLETE	第三	纵情时刻
+792	71B986E1	Sexy Time	Chop Chop (Heli Courier) - OBSOLETE	高空跳台
+793	806F244C	High Dive	纵情时刻	原形毕露
+794	5B2CD9C8	Caught With Your Pants Down	高空跳台	拥有一切的男人
+795	AF8B0367	For The Man Who Has Everything	原形毕露	街角男孩
+796	E1D0E7F2	Corner Kids	拥有一切的男人	收工
+797	89F83842	Clocking Off	街角男孩	妈妈的崽
+798	7C569CFF	Momma's Boy	收工	诱敌深入
+799	F8089469	Going Deep	妈妈的崽	不速之客
+800	22CBE9EF	Dropping In	诱敌深入	危机四伏
+801	148C4D70	In The Crosshairs	不速之客	派对结束
+802	C51A2E85	Party's Over	危机四伏	夜店经营
+803	4102265B	Club Management	派对结束	我爱自由城
+804	3C0D1B21	I luv LC	夜店经营	中国外卖
+805	4CFCBE60	Chinese Take...	我爱自由城	挥杆练习
+806	D6A720CF	Practice Swing	中国外卖	写篇博客！...
+807	8C288CF3	Blog This!...	挥杆练习	绿荫红颜
+808	D0901271	Boulevard Baby	写篇博客！...	...写篇博客！
+809	8094F380	...Blog This!	绿荫红颜	砰砰
+810	310B5A5E	Bang Bang	...写篇博客！	蛋糕上的糖霜
+811	52AE1EBB	Frosting On...	砰砰	欲速则不达
+812	DECF3393	Not So Fast	蛋糕上的糖霜	淑女之夜
+813	D6EEB54F	Ladies' Night	欲速则不达	女士半价
+814	1C0942E3	Ladies Half...	淑女之夜	离港时间
+815	0FBFA024	Departure Time	女士半价	基布兹老大
+816	78C7F59F	Kibbutz No. One	离港时间	落子无悔
+817	1743B148	This Ain't...	基布兹老大	第三
+818	AB835D55	No. 3	落子无悔	Chop Chop - OLD
+819	B2FEE5E0	Chop Chop - OLD	第三	纵情时刻
+820	40CD805F	Sexy Time	Chop Chop - OLD	高空跳台
+821	1CBFB7DC	High Dive	纵情时刻	原形毕露
+822	A696CE34	Caught With...	高空跳台	拥有一切的男人
+823	88C8E20C	For The Man...	原形毕露	街角男孩
+824	788B407D	Corner Kids	拥有一切的男人	收工
+825	96F300DC	Clocking Off	街角男孩	妈妈的崽
+826	788542CD	Momma's Boy	收工	诱敌深入
+827	8E76E960	Going Deep	妈妈的崽	不速之客
+828	E7DF9A98	Dropping In	诱敌深入	危机四伏
+829	18707F2D	In The Cross...	不速之客	派对结束
+830	AFE02CF6	Party's Over	危机四伏	GTp
+831	2833BBE7	GTp	派对结束	我爱自由城
+832	97FDD301	I luv L.C.	GTp	中国外卖
+833	51DF4825	Chinese Takeout	我爱自由城	挥杆练习
+834	5B83AA86	Practice Swing	中国外卖	写篇博客！...
+835	9DED307C	Blog This!...	挥杆练习	绿荫红颜
+836	51A29498	Boulevard Baby	写篇博客！...	...写篇博客！
+837	7663DF1E	...Blog This!	绿荫红颜	砰砰
+838	E52DC2A4	Bang Bang	...写篇博客！	蛋糕上的糖霜
+839	79B5ECCA	Frosting On The Cake	砰砰	欲速则不达
+840	2B66CCC5	Not So Fast	蛋糕上的糖霜	淑女之夜
+841	F0ADE8CD	Ladies' Night	欲速则不达	女士半价
+842	2E73E7B8	Ladies Half Price	淑女之夜	离港时间
+843	06818DA8	Departure Time	女士半价	基布兹大哥
+844	4B149A39	Kibbutz Number One	离港时间	落子无悔
+845	E985D5CD	This Ain't Checkers	基布兹大哥	第三
+846	9BB43DB7	No. 3	落子无悔	Chop Chop (Heli Courier) - OBSOLETE
+847	C4390854	Chop Chop (Heli Courier) - OBSOLETE	第三	纵情时刻
+848	530624D0	Sexy Time	Chop Chop (Heli Courier) - OBSOLETE	高空跳台
+849	09F21241	High Dive	纵情时刻	原形毕露
+850	95482B97	Caught With Your Pants Down	高空跳台	拥有一切的男人
+851	C475D971	For The Man Who Has Everything	原形毕露	街角男孩
+852	C24853F6	Corner Kids	拥有一切的男人	收工
+853	EFD832A5	Clocking Off	街角男孩	妈妈的崽
+854	32B3372A	Momma's Boy	收工	诱敌深入
+855	81664F3F	Going Deep	妈妈的崽	不速之客
+856	8348D178	Dropping In	诱敌深入	危机四伏
+857	05BD59C7	In The Crosshairs	不速之客	派对结束
+858	2FCBACCF	Party's Over	危机四伏	夜店经营
+859	731951B1	Club Management	派对结束	THIS LABEL NEEDS TO BE HERE !!!
+860	85B91AB8	THIS LABEL NEEDS TO BE HERE !!!	夜店经营	托尼
+861	25AE9588	Tony	THIS LABEL NEEDS TO BE HERE !!!	莫里
+862	15A2FC41	Mori	托尼	尤瑟夫
+863	93974C17	Yusuf	莫里	阿曼多
+864	F678B811	Armando	尤瑟夫	妈
+865	7124569C	Mom	阿曼多	布尔加林
+866	EF7A1F6C	Bulgarin	妈	罗科
+867	745A335C	Rocco	布尔加林	恩里克
+868	DDE00260	Henrique	罗科	凯里
+869	CEA8F50A	Kerry	恩里克	德西
+870	31C3AEA6	Dessie	凯里	乔乔
+871	95B5DBCB	Jojo	德西	泰勒
+872	AB7E075B	Taylor	乔乔	维琪
+873	293282C2	Vikky	泰勒	安娜
+874	3E91AD80	Ana	维琪	达娜
+875	4C844965	Dana	安娜	辛迪
+876	621E7499	Cindy	达娜	塔尼娅
+877	72DF95B3	Tania	辛迪	莉莉
+878	847AB8E9	Lily	塔尼娅	塔米
+879	97AC5F4C	Tami	莉莉	多米诺
+880	5D91990D	Domino	塔米	海蒂
+881	8F2E7C46	Heidi	多米诺	Simone
+882	3C0FD60A	Simone	海蒂	差事
+883	6CFB40D9	Job	Simone	桌上冰球
+884	6B4E3D7F	Air Hockey	差事	扳手腕
+885	5954998C	Arm Wrestling	桌上冰球	快艇
+886	C7237528	Boating	扳手腕	保龄球
+887	A3D32E88	Bowling	快艇	跳舞
+888	91A98A35	Dancing	保龄球	飞镖
+889	007367C7	Darts	跳舞	喝酒
+890	EE3CC35A	Drinking	飞镖	吃饭
+891	008C67F5	Eating	喝酒	帮派战争
+892	ECD5C088	Gang War	吃饭	高尔夫
+893	7DF6F395	Golf	帮派战争	约会
+894	13961ED1	Hang Out	高尔夫	直升机兜风
+895	58E02968	Heli Ride	约会	猜大小
+896	6F2B55FE	HiLo Cards	直升机兜风	搭车
+897	B45E6063	Lift	猜大小	台球
+898	4A8F8CC7	Pool	搭车	赛车
+899	980BA7BE	Race	台球	演出
+900	A5DA435B	Show	赛车	脱衣舞俱乐部
+901	8FF3978A	Strip Club	演出	约吗？
+902	ED186B7D	Hang Out?	脱衣舞俱乐部	看女人吗？
+903	F9678674	Visit girl?	约吗？	取消计划
+904	6DA02312	Cancel Plans	看女人吗？	军火车
+905	23468E60	Gun Van	取消计划	取消计划
+906	054043E0	Cancel Plans	军火车	车辆
+907	EFBC98D9	Vehicles	取消计划	比利
+908	BF362D0B	Billy	车辆	手枪
+909	BB3CFB49	Pistol	比利	玩家列表
+910	31C604CD	Player List	手枪	玩家列表为空
+911	C7DA2A4D	Your player list is empty.	玩家列表	载具
+912	2CF4049D	Vehicles	玩家列表为空	任务
+913	29E393ED	Missions	载具	退出任务
+914	F1B8E753	Quit Mission	任务	械 - 高级武器
+915	7BF48BDD	GUN - Advanced	退出任务	海 - FLOATER
+916	FE4C9087	WET - FLOATER	械 - 高级武器	摩 - AKUMA
+917	107B34E4	MBK - AKUMA	海 - FLOATER	摩 - VADER
+918	E26ED8D0	MBK - VADER	摩 - AKUMA	APC - APC
+919	F41E7C2F	APC - APC	摩 - VADER	空 - 秃鹰
+920	526EB8CE	FLY - BUZZARD	APC - APC	车 - BULLET GT
+921	242DDC4D	CAR - BULLET GT	空 - 秃鹰	空 - 降落伞
+922	F0E3F90E	FLY - PARACHUTE	车 - BULLET GT	武 - 爆裂拳
+923	83219D8B	ARM - Super Punch	空 - 降落伞	械 - 爆炸狙击枪
+924	EAC3ECDA	GUN - Explosive Sniper	武 - 爆裂拳	夜店
+925	48C61021	Club	械 - 爆炸狙击枪	THIS LABEL NEEDS TO BE HERE !!!
+926	9B7E3C86	THIS LABEL NEEDS TO BE HERE !!!	夜店	~z~应该是比奇盖特吧。
+927	5FAA72F5	~z~Looks like Beachgate to me.	THIS LABEL NEEDS TO BE HERE !!!	~z~哟。呃... 林荫大道吧。
+928	52E83A4F	~z~Yo. Umm... Boulevard, I think.	~z~应该是比奇盖特吧。	~z~小湾。
+929	AF003C85	~z~Little Bay.	~z~哟。呃... 林荫大道吧。	~z~好像是北方花园。
+930	120B70F1	~z~Like, Northern Gardens.	~z~小湾。	~z~福特赛德。
+931	74813646	~z~Fortside.	~z~好像是北方花园。	~z~工业区。
+932	1B705D28	~z~Industrial.	~z~福特赛德。	~z~南波汉，哟。
+933	C21523CE	~z~South Bohan, yo.	~z~工业区。	~z~好像是追逐角。
+934	C579273C	~z~Like, Chase Point.	~z~南波汉，哟。	~z~查奇岛。
+935	F8B9CFD1	~z~Charge Island.	~z~好像是追逐角。	~z~殖民地岛。
+936	57D5F27A	~z~Colony Island.	~z~查奇岛。	~z~鹿特丹山。
+937	22932F85	~z~Rotterdam Hill.	~z~殖民地岛。	~z~哟。呃... 斯坦威.
+938	07ADE7CA	~z~Yo. Umm... Steinway.	~z~鹿特丹山。	~z~东岛城。
+939	BD9E4099	~z~East Island City.	~z~哟。呃... 斯坦威.	~z~草地公园。
+940	BCB0782A	~z~Meadows Park.	~z~东岛城。	~z~好像是梅多山。
+941	6CBF44E2	~z~Like, Meadow Hills	~z~草地公园。	~z~应该是塞尔维萨高地。
+942	8C7FB270	~z~Looks like Cerveza Heights.	~z~好像是梅多山。	~z~威利斯，哟。
+943	91B72BE4	~z~Willis, yo.	~z~应该是塞尔维萨高地。	~z~舒特勒。
+944	3BE26EDD	~z~Schottler.	~z~威利斯，哟。	~z~比奇伍德城。
+945	19D229B5	~z~Beechwood City.	~z~舒特勒。	~z~应该是中心区吧。
+946	D92C9D0D	~z~Looks like downtown to me.	~z~比奇伍德城。	~z~东胡克。
+947	6D1407F2	~z~East Hook.	~z~应该是中心区吧。	~z~好像是博阿博。
+948	1F9CE4FA	~z~Like, BOABO	~z~东胡克。	~z~弗朗西斯国际机场。
+949	B803EE13	~z~Francis International Airport.	~z~好像是博阿博。	~z~南坡。
+950	13BA5E63	~z~South Slopes.	~z~弗朗西斯国际机场。	~z~哟，呃... 霍夫海滩。
+951	7FAE36C9	~z~Yo. Umm... Hove Beach.	~z~南坡。	~z~萤火虫岛。
+952	758C9FC7	~z~Firefly Island.	~z~哟，呃... 霍夫海滩。	~z~奥特卢克，哟。
+953	6DEA6DA8	~z~Outlook, yo.	~z~萤火虫岛。	~z~安格尔湾。
+954	B3C47498	~z~Anger Bay.	~z~奥特卢克，哟。	~z~城堡花园。
+955	AE2BEAA1	~z~Castle Gardens.	~z~安格尔湾。	~z~哟，呃... 证券交易所。
+956	2CECAABF	~z~Yo. Umm... The Exchange.	~z~城堡花园。	~z~应该是唐人街。
+957	219B552C	~z~Looks like Chinatown.	~z~哟，呃... 证券交易所。	~z~小意大利。
+958	BC9688DC	~z~Little Italy.	~z~应该是唐人街。	~z~鱼市北。
+959	9F5CDF4A	~z~Fishmarket North.	~z~小意大利。	~z~鱼市南。
+960	CCB3CB5D	~z~Fishmarket South.	~z~鱼市北。	~z~好像是城堡花园城。
+961	8E08412F	~z~Like, Castle Garden City.	~z~鱼市南。	~z~诺福克。
+962	85BBD475	~z~Norfolk.	~z~好像是城堡花园城。	~z~萨福克。
+963	2BA15465	~z~Suffolk.	~z~诺福克。	~z~哟，呃... 下伊斯顿。
+964	8632C90B	~z~Yo. Umm... Lower Easton.	~z~萨福克。	~z~伊斯顿，哟。
+965	4D66B7BA	~z~Easton, yo.	~z~哟，呃... 下伊斯顿。	~z~三角区。
+966	B9CC7DD1	~z~The Triangle.	~z~伊斯顿，哟。	~z~肉类区。
+967	311132BD	~z~The Meat Quarter.	~z~三角区。	~z~好像是总统城。
+968	BAA4383E	~z~Like, Presidents City.	~z~肉类区。	~z~兰塞特。
+969	967EBC66	~z~Lancet.	~z~好像是总统城。	~z~威斯敏斯特。
+970	40403C36	~z~Westminster.	~z~兰塞特。	~z~应该是炼狱吧。
+971	C4CEF625	~z~Looks like Purgatory to me.	~z~威斯敏斯特。	~z~星汇广场，哟。
+972	FCECF601	~z~Star Junction, yo.	~z~应该是炼狱吧。	~z~哈顿花园。
+973	30FB8CBC	~z~Hatton Gardens.	~z~星汇广场，哟。	~z~中央公园东。
+974	362FC1B0	~z~Middle Park East.	~z~哈顿花园。	~z~兰开斯特。
+975	65942BF2	~z~Lancaster.	~z~中央公园东。	~z~哟，呃...中央公园。
+976	0DD8A187	~z~Yo. Umm... Middle Park.	~z~兰开斯特。	~z~好，大学高地。
+977	CD2EEEAA	~z~Yeah, Varsity Heights.	~z~哟，呃...中央公园。	~z~中央公园西。
+978	6E7444CB	~z~Middle Park West.	~z~好，大学高地。	~z~北荷兰。
+979	46005691	~z~North Holland.	~z~中央公园西。	~z~东荷兰，哟。
+980	C07E826C	~z~East Holland, yo.	~z~北荷兰。	~z~杰弗逊高地。
+981	3D061A58	~z~Jefferson Heights.	~z~东荷兰，哟。	~z~北伍德。
+982	A13DD3AF	~z~Northwood.	~z~杰弗逊高地。	~z~韦斯代克。
+983	A76549B3	~z~Westdyke.	~z~北伍德。	~z~好，左伍德。
+984	964B4B75	~z~Yeah, Leftwood.	~z~韦斯代克。	~z~奥尔德尼市。
+985	7A0C981C	~z~Alderney City.	~z~好，左伍德。	~z~伯尔赫姆。
+986	6A5ECE10	~z~Berchem.	~z~奥尔德尼市。	~z~好像是诺曼底。
+987	31D2697B	~z~Like, Normandy.	~z~伯尔赫姆。	~z~阿克特。
+988	D2B32A09	~z~Acter.	~z~好像是诺曼底。	~z~阿克特湾。
+989	BAD7C9BA	~z~Acter Bay.	~z~阿克特。	~z~都铎港。
+990	9F3FB689	~z~Port Tudor.	~z~阿克特湾。	~z~都铎。
+991	F07D4F3A	~z~Tudor.	~z~都铎港。	~z~阿克特工业园。
+992	B80CD93C	~z~Acter Industrial Park.	~z~都铎。	~z~里士满，哟。
+993	A9D4D1FD	~z~Richmond, yo.	~z~阿克特工业园。	~z~应该是蛙镇吧。
+994	7AC589E6	~z~Looks like Frogtown to me.	~z~里士满，哟。	~z~幸福岛。
+995	C32E52C2	~z~Happiness Island.	~z~应该是蛙镇吧。	~z~市政厅。
+996	4193962E	~z~City Hall.	~z~幸福岛。	~z~高尔夫球场。
+997	9A6B36AF	~z~The Golfcourse.	~z~市政厅。	~z~机场。
+998	910E4539	~z~The Airport.	~z~高尔夫球场。	~z~萤火虫公屋社区。
+999	479646E5	~z~Firefly Projects.	~z~机场。	~z~布洛克大桥，哟。
+1000	E81B81F8	~z~Broker Bridge, yo.	~z~萤火虫公屋社区。	~z~阿尔冈琴大桥。
+1001	83D292F6	~z~Algonquin Bridge.	~z~布洛克大桥，哟。	~z~东区大桥。
+1002	40CE317A	~z~East Borough Bridge.	~z~阿尔冈琴大桥。	~z~公爵区湾大桥。
+1003	277D5A1B	~z~Dukes Bay Bridge.	~z~东区大桥。	~z~希基大桥。
+1004	040FC338	~z~Hickey Bridge.	~z~公爵区湾大桥。	~z~北伍德高地大桥。
+1005	BED6D322	~z~Northwood Heights Bridge.	~z~希基大桥。	~z~布斯隧道，哟。
+1006	99C03624	~z~The Booth Tunnel, yo.	~z~北伍德高地大桥。	~z~应该是纵身大桥吧。
+1007	E7ABF3E6	~z~Like, Leaper's Bridge.	~z~布斯隧道，哟。	~z~~x~妈的，我也不太清楚。待会儿再联系你。
+1008	331C4EA9	~z~~x~Shit. I ain't actually sure about that. I'll have to call you back.	~z~应该是纵身大桥吧。	~z~~x~妈的，太难了，我不知道。过会儿我再打给你。
+1009	40DAEA26	~z~~x~Damn, you know what, I don't know. I'll hit you back in a minute.	~z~~x~妈的，我也不太清楚。待会儿再联系你。	~z~~x~操，我还真不知道在哪儿。待会儿打给你。
+1010	D49B1180	~z~~x~Dios. You'd think I'd know this shit. I'm gonna have to call you later.	~z~~x~妈的，太难了，我不知道。过会儿我再打给你。	~z~~x~您好，这里是LCPD，请问您想让我们向哪里出警？
+1011	D39242BC	~z~~x~Hello, this is the LCPD, where would you like us to send an officer?	~z~~x~操，我还真不知道在哪儿。待会儿打给你。	~z~~x~您好，您呼叫的是医疗服务中心，您需要在哪里的医疗应急？
+1012	3BAAB27B	~z~~x~Hello, you're through to the MS Paramedics. In which area is your medical emergency?	~z~~x~您好，这里是LCPD，请问您想让我们向哪里出警？	~z~~x~您好，这里是FDLC，您需要在哪里的帮助？
+1013	9AE3DE5A	~z~~x~Hello, this is the FDLC. Where do you need assistance?	~z~~x~您好，您呼叫的是医疗服务中心，您需要在哪里的医疗应急？	~z~~x~您好，您呼叫的是自由城应急服务。
+1014	01682959	~z~~x~Hello, you're through to the Liberty City Emergency Services.	~z~~x~您好，这里是FDLC，您需要在哪里的帮助？	~z~~x~请使用您的拨号按键选择您需要的特定服务。
+1015	27A975DB	~z~~x~Please use your touchtone keypad to select which specific service you require.	~z~~x~您好，您呼叫的是自由城应急服务。	~z~~x~报警请按1，急救请按2，消防请按3。
+1016	BC4F1F28	~z~~x~Press 1 for Police, press 2 for Paramedics, press 3 for the Fire Department.	~z~~x~请使用您的拨号按键选择您需要的特定服务。	~z~~x~很快将有一名LCPD干员到达，先生。
+1017	9E796D1D	~z~~x~An LCPD peacekeeper will be there as soon as possible, sir.	~z~~x~报警请按1，急救请按2，消防请按3。	~z~~x~我们会尽快派出一支训练有素的医疗小组，先生。
+1018	4C991F96	~z~~x~We'll send a basically trained paramedic as soon as we can, sir.	~z~~x~很快将有一名LCPD干员到达，先生。	~z~~x~请不要离开，并准备好您的保险单证或信用卡。
+1019	7DC381EA	~z~~x~Don't move and please have your insurance documentation or credit card ready.	~z~~x~我们会尽快派出一支训练有素的医疗小组，先生。	~z~~x~我们马上就派消防车过来。
+1020	E31F139F	~z~~x~We'll get a fire truck out to you right away.	~z~~x~请不要离开，并准备好您的保险单证或信用卡。	~z~~x~请坚持住。注意，FDLC不对过程中造成的财产损失负任何责任。
+1021	14ECF73A	~z~~x~Hold tight and please be advised that the FDLC takes no responsibility for damage to property.	~z~~x~我们马上就派消防车过来。	~z~~x~我们期待您的下次来电。同时请您注意安全。
+1022	F4F129A8	~z~~x~We look forward to hearing from you again. Please stay safe in the meantime.	~z~~x~请坚持住。注意，FDLC不对过程中造成的财产损失负任何责任。	~z~~x~很抱歉，但目前我们的干员都忙于完成指标以及书面工作。
+1023	EE586A51	~z~~x~I'm sorry, but all our peacekeepers are currently busy filling quotas and dealing with paper work.	~z~~x~我们期待您的下次来电。同时请您注意安全。	~z~~x~请稍后再拨。
+1024	9C48C633	~z~~x~Please call back later.	~z~~x~很抱歉，但目前我们的干员都忙于完成指标以及书面工作。	~z~~x~目前我们的电话全部占线，请稍后再拨。您的紧急状况对我们十分重要。
+1025	BE68DA95	~z~~x~All our lines are busy at the moment, please call again later. Your emergency is important to us.	~z~~x~请稍后再拨。	~z~~x~喂，这地方还真不错啊。
+1026	59E6A989	~z~~x~Oye, there's something to be said for this place.	~z~~x~目前我们的电话全部占线，请稍后再拨。您的紧急状况对我们十分重要。	~z~~x~这家店才是我该工作的地方。
+1027	ABB0CD1C	~z~~x~I should be working one of these clubs.	~z~~x~喂，这地方还真不错啊。	~z~~x~这里可比我工作的地方实诚多了。
+1028	B579E0AE	~z~~x~This place is actually a lot more honest than where I work.	~z~~x~这家店才是我该工作的地方。	~z~~x~妈的，姑娘，待会儿我们找点乐子吧。
+1029	8730041B	~z~~x~Damn mami, we could have some fun later on.	~z~~x~这里可比我工作的地方实诚多了。	~z~~x~ ~c~我他妈射爆。耶。
+1030	22EF3B97	~z~~x~ ~c~Pop that little booty. Yeah.	~z~~x~妈的，姑娘，待会儿我们找点乐子吧。	~z~~x~诶哟，太棒了，宝贝。
+1031	74BB5F32	~z~~x~Ayo. Work that shit, baby.	~z~~x~ ~c~我他妈射爆。耶。	~z~~x~妈的，姑娘。你在这儿上班可惜了。
+1032	9F214C4B	~z~~x~Diablo, girl. You way too fine to be working here.	~z~~x~诶哟，太棒了，宝贝。	~z~~x~你应该去我的店工作，姑娘。
+1033	755578B4	~z~~x~You should come to work for me, mami.	~z~~x~妈的，姑娘。你在这儿上班可惜了。	~z~~x~这屁股我可以看一整天。
+1034	83B69576	~z~~x~I could watch that ass all day.	~z~~x~你应该去我的店工作，姑娘。	~z~~x~妈的，你太会了。
+1035	39E181CD	~z~~x~Damn, you real fine.	~z~~x~这屁股我可以看一整天。	~z~~x~我的天哪，我好想对你...
+1036	4A142232	~z~~x~Ay Dios mio, the things I would do to you...	~z~~x~妈的，你太会了。	~z~~x~好吧，宝贝，你真会。
+1037	202FCE66	~z~~x~Okay, baby. You got it.	~z~~x~我的天哪，我好想对你...	~z~~x~谁是自由城最幸运的人啊？
+1038	7D4569F1	~z~~x~Who the luckiest guy in L.C.?	~z~~x~好吧，宝贝，你真会。	~z~~x~两个人？我的天哪。
+1039	8D890A74	~z~~x~Los dos? Ay Dios mio.	~z~~x~谁是自由城最幸运的人啊？	~z~~x~我就知道你们要两个人才能服侍我。
+1040	9FBEAEDF	~z~~x~I knew it would take two of you to handle me.	~z~~x~两个人？我的天哪。	~z~~x~喂，你们待会儿再为了我吵架吧。
+1041	3A05E36F	~z~~x~Oye, you girls are gonna have to fight over me later.	~z~~x~我就知道你们要两个人才能服侍我。	~z~~x~没第三个了吗？两个还不太够。
+1042	4A5A8418	~z~~x~Where's the third one? Two ain't enough.	~z~~x~喂，你们待会儿再为了我吵架吧。	~z~~x~我的天哪，太棒了。
+1043	64A1B8A6	~z~~x~Dios mio. This is the shit.	~z~~x~没第三个了吗？两个还不太够。	~z~~x~ ~c~很高兴见到你。
+1044	AF404DB0	~z~~x~It was a pleasure meeting you.	~z~~x~我的天哪，太棒了。	~z~~x~太糟了，姑娘。你都不肯给我电话号码。
+1045	D86AA004	~z~~x~This cold, mami. You ain't even giving up your number.	~z~~x~ ~c~很高兴见到你。	~z~~x~谢谢你，宝贝。我还想再坐一会儿。
+1046	CAD804DF	~z~~x~Thank you, baby. I think I'm gonna have to sit down for a minute.	~z~~x~太糟了，姑娘。你都不肯给我电话号码。	~z~~x~你真的很特别，宝贝。谢谢。
+1047	68B8C09E	~z~~x~You got something special, baby. Gracias.	~z~~x~谢谢你，宝贝。我还想再坐一会儿。	Dummy label.
+1048	DF02BB77	Dummy label.	~z~~x~你真的很特别，宝贝。谢谢。	E2ES_AA
+1049	0B1104FA	E2ES_AA	Dummy label.	010
+1050	2E20761D	010	E2ES_AA	E2ES_BA
+1051	16678C44	E2ES_BA	010	010
+1052	F00D66E7	010	E2ES_BA	E2ES_CA
+1053	27B28D96	E2ES_CA	010	010
+1054	06D8DACF	010	E2ES_CA	E2ES_DA
+1055	9926E242	E2ES_DA	010	010
+1056	8F4C5B0F	010	E2ES_DA	E2ES_EA
+1057	9126E80A	E2ES_EA	010	010
+1058	84A4C02D	010	E2ES_EA	E2ES_FA
+1059	64FEF94C	E2ES_FA	010	010
+1060	CBCF4AE3	010	E2ES_FA	E2ES_GA
+1061	62E894BE	E2ES_GA	010	010
+1062	7BD7656F	010	E2ES_GA	E2ES_HA
+1063	E17206AF	E2ES_HA	010	010
+1064	CE1EB537	010	E2ES_HA	E2ES_IA
+1065	79D3614C	E2ES_IA	010	010
+1066	85EB80E2	010	E2ES_IA	E2ES_JA
+1067	FAA69305	E2ES_JA	010	010
+1068	29D13282	010	E2ES_JA	E2ES_KA
+1069	35A16F76	E2ES_KA	010	010
+1070	AEB0A852	010	E2ES_KA	E2ES_LA
+1071	00A89119	E2ES_LA	010	010
+1072	6DECE429	010	E2ES_LA	E2ES_MA
+1073	DD01E010	E2ES_MA	010	010
+1074	4F424BFE	010	E2ES_MA	E2ES_NA
+1075	05253EB4	E2ES_NA	010	010
+1076	5B8DCF76	010	E2ES_NA	E2ES_OA
+1077	B7352E45	E2ES_OA	010	010
+1078	E5F4D2E7	010	E2ES_OA	E2ES_PA
+1079	F7E26B6D	E2ES_PA	010	010
+1080	9C183013	010	E2ES_PA	E2ES_QA
+1081	31A3100F	E2ES_QA	010	010
+1082	DD42507D	010	E2ES_QA	E2ES_RA
+1083	0D1EC48A	E2ES_RA	010	010
+1084	0E1C4685	010	E2ES_RA	E2ES_SA
+1085	036384FC	E2ES_SA	010	010
+1086	A4153C2A	010	E2ES_SA	E2ES_TA
+1087	29400C93	E2ES_TA	010	010
+1088	6967C2F2	010	E2ES_TA	E2ES_UA
+1089	1AD37252	E2ES_UA	010	010
+1090	70CE5474	010	E2ES_UA	E2ES_VA
+1091	4B0A2E02	E2ES_VA	010	010
+1092	505A1D60	010	E2ES_VA	E2ES_WA
+1093	B45D91D1	E2ES_WA	010	010
+1094	12698E9D	010	E2ES_WA	E2ES_XA
+1095	8B233C0D	E2ES_XA	010	010
+1096	E3AE6310	010	E2ES_XA	E2ES_YA
+1097	C988CC0F	E2ES_YA	010	010
+1098	C21F6F0D	010	E2ES_YA	E2ES_ZA
+1099	70EEE41F	E2ES_ZA	010	010
+1100	A5346D12	010	E2ES_ZA	E2ES_A_AA
+1101	C8FC2AD3	E2ES_A_AA	010	010
+1102	700BD4CF	010	E2ES_A_AA	E2ES_A_BA
+1103	A0C3244D	E2ES_A_BA	010	010
+1104	1B23C7BA	010	E2ES_A_BA	E2ES_A_CA
+1105	78ECB0EC	E2ES_A_CA	010	010
+1106	D77325A4	010	E2ES_A_CA	E2ES_A_DA
+1107	703192A6	E2ES_A_DA	010	010
+1108	AC5AACF7	010	E2ES_A_DA	E2ES_A_EA
+1109	3E24C9F7	E2ES_A_EA	010	010
+1110	F00C6CA3	010	E2ES_A_EA	E2ES_A_FA
+1111	05A032E9	E2ES_A_FA	010	010
+1112	2BE179D9	010	E2ES_A_FA	E2ES_A_GA
+1113	47BC8825	E2ES_A_GA	010	010
+1114	9ACB9DF4	010	E2ES_A_GA	E2ES_A_HA
+1115	09E7B9C8	E2ES_A_HA	010	010
+1116	94180D96	010	E2ES_A_HA	E2ES_A_IA
+1117	59B5C536	E2ES_A_IA	010	010
+1118	45852BF6	010	E2ES_A_IA	E2ES_A_JA
+1119	B9C299F3	E2ES_A_JA	010	010
+1120	B7758641	010	E2ES_A_JA	E2ES_A_KA
+1121	21ED8DC9	E2ES_A_KA	010	010
+1122	5F92207D	010	E2ES_A_KA	E2ES_A_LA
+1123	57E1D5D1	E2ES_A_LA	010	010
+1124	9E59B354	010	E2ES_A_LA	E2ES_A_MA
+1125	5F545955	E2ES_A_MA	010	010
+1126	40C19A28	010	E2ES_A_MA	E2ES_A_NA
+1127	4A17FCBD	E2ES_A_NA	010	010
+1128	32A38D49	010	E2ES_A_NA	E2ES_A_OA
+1129	9F335466	E2ES_A_OA	010	010
+1130	61C4FDB8	010	E2ES_A_OA	E2ES_A_PA
+1131	E06A395E	E2ES_A_PA	010	010
+1132	26917963	010	E2ES_A_PA	E2ES_A_QA
+1133	9E12E4B0	E2ES_A_QA	010	010
+1134	FA11F7AF	010	E2ES_A_QA	E2ES_A_RA
+1135	E38B242C	E2ES_A_RA	010	010
+1136	435C7396	010	E2ES_A_RA	E2ES_A_SA
+1137	A51EDD0C	E2ES_A_SA	010	010
+1138	6F3A32D1	010	E2ES_A_SA	E2ES_A_TA
+1139	C52A01DB	E2ES_A_TA	010	010
+1140	D5759023	010	E2ES_A_TA	E2ES_A_UA
+1141	AB82F3CE	E2ES_A_UA	010	010
+1142	B0DF0648	010	E2ES_A_UA	E2ES_A_VA
+1143	12E97D8A	E2ES_A_VA	010	010
+1144	62FEA8D5	010	E2ES_A_VA	E2ES_A_WA
+1145	D9A43A58	E2ES_A_WA	010	010
+1146	D3EBF26C	010	E2ES_A_WA	E2ES_A_XA
+1147	4B284523	E2ES_A_XA	010	010
+1148	2C160831	010	E2ES_A_XA	E2ES_A_YA
+1149	B0310317	E2ES_A_YA	010	010
+1150	FC1B3F16	010	E2ES_A_YA	E2ES_A_ZA
+1151	A068C0C8	E2ES_A_ZA	010	010
+1152	0947ECD8	010	E2ES_A_ZA	E2ES_B_AA
+1153	F2C4499A	E2ES_B_AA	010	010
+1154	76CD16F9	010	E2ES_B_AA	E2ES_B_BA
+1155	E4B813E7	E2ES_B_BA	010	010
+1156	EB7E1162	010	E2ES_B_BA	E2ES_B_CA
+1157	B8E3EE28	E2ES_B_CA	010	010
+1158	80788B90	010	E2ES_B_CA	E2ES_B_DA
+1159	ADB42B6E	E2ES_B_DA	010	010
+1160	FF27F736	010	E2ES_B_DA	E2ES_B_EA
+1161	13229315	E2ES_B_EA	010	010
+1162	7436F08F	010	E2ES_B_EA	E2ES_B_FA
+1163	F6775299	E2ES_B_FA	010	010
+1164	64F65CD7	010	E2ES_B_FA	E2ES_B_GA
+1165	95435AED	E2ES_B_GA	010	010
+1166	412B8F73	010	E2ES_B_GA	E2ES_B_HA
+1167	2AFDE969	E2ES_B_HA	010	010
+1168	8E499A40	010	E2ES_B_HA	E2ES_B_IA
+1169	1F9208FB	E2ES_B_IA	010	010
+1170	F423DD96	010	E2ES_B_IA	E2ES_B_JA
+1171	3D9C25D3	E2ES_B_JA	010	010
+1172	5B5C4015	010	E2ES_B_JA	E2ES_B_KA
+1173	64031AF1	E2ES_B_KA	010	010
+1174	7B187118	010	E2ES_B_KA	E2ES_B_LA
+1175	B3F21225	E2ES_B_LA	010	010
+1176	087F8B76	010	E2ES_B_LA	E2ES_B_MA
+1177	DD59FD6B	E2ES_B_MA	010	010
+1178	51AD123F	010	E2ES_B_MA	E2ES_B_NA
+1179	C4E51A4F	E2ES_B_NA	010	010
+1180	6AC768C7	010	E2ES_B_NA	E2ES_B_OA
+1181	A1F9F5A4	E2ES_B_OA	010	010
+1182	DAF24AB7	010	E2ES_B_OA	E2ES_B_PA
+1183	CEEF72BA	E2ES_B_PA	010	010
+1184	81E32F31	010	E2ES_B_PA	E2ES_B_QA
+1185	D0B077A7	E2ES_B_QA	010	010
+1186	353F8417	010	E2ES_B_QA	E2ES_B_RA
+1187	3C6EFC1B	E2ES_B_RA	010	010
+1188	DEDE73D2	010	E2ES_B_RA	E2ES_B_SA
+1189	74DD9AB1	E2ES_B_SA	010	010
+1190	C1A0FBF5	010	E2ES_B_SA	E2ES_B_TA
+1191	7F0B75BE	E2ES_B_TA	010	010
+1192	D0B1806A	010	E2ES_B_TA	E2ES_B_UA
+1193	AC7EA6EF	E2ES_B_UA	010	010
+1194	31780CE1	010	E2ES_B_UA	E2ES_B_VA
+1195	D47D1759	E2ES_B_VA	010	010
+1196	BEF29F56	010	E2ES_B_VA	E2ES_B_WA
+1197	1FDAEA14	E2ES_B_WA	010	010
+1198	D9F3A003	010	E2ES_B_WA	E2ES_B_XA
+1199	0D38D558	E2ES_B_XA	010	010
+1200	0CF84346	010	E2ES_B_XA	E2ES_B_YA
+1201	7628AB93	E2ES_B_YA	010	010
+1202	146B1A97	010	E2ES_B_YA	E2ES_B_ZA
+1203	A8FE0041	E2ES_B_ZA	010	010
+1204	F42881AA	010	E2ES_B_ZA	E2ES_C_AA
+1205	0B4B99CC	E2ES_C_AA	010	010
+1206	ED6F60F2	010	E2ES_C_AA	E2ES_C_BA
+1207	8D77A78D	E2ES_C_BA	010	010
+1208	36FB12FA	010	E2ES_C_BA	E2ES_C_CA
+1209	1D3223F5	E2ES_C_CA	010	010
+1210	33C33EAB	010	E2ES_C_CA	E2ES_C_DA
+1211	3FD55067	E2ES_C_DA	010	010
+1212	B1B562E8	010	E2ES_C_DA	EC1_DA
+1213	55809DAD	EC1_DA	010	100
+1214	C4BA7713	100	EC1_DA	EC1_EA
+1215	EA07AEF2	EC1_EA	100	100
+1216	60D3E665	100	EC1_EA	EC1_FA
+1217	6CE9FE8A	EC1_FA	100	100
+1218	B442C263	100	EC1_FA	EC1_GA
+1219	FD803B19	EC1_GA	100	EC1_GB
+1220	2C0F1716	EC1_GB	EC1_GA	EC1_GC
+1221	E7749062	EC1_GC	EC1_GB	100100100
+1222	C045AB15	100100100	EC1_GC	EC1_HA
+1223	3287AB7E	EC1_HA	100100100	100
+1224	9B334404	100	EC1_HA	EC1_IA
+1225	6ED59A8F	EC1_IA	100	EC1_IB
+1226	D585E6EA	EC1_IB	EC1_IA	100100
+1227	59D02BF0	100100	EC1_IB	EC1_JA
+1228	304FDB80	EC1_JA	100100	EC1_JB
+1229	FC80F503	EC1_JB	EC1_JA	100100
+1230	4E1E4237	100100	EC1_JB	EC1_C_OA
+1231	350039EA	EC1_C_OA	100100	100
+1232	9D873FA6	100	EC1_C_OA	EC1_C_PA
+1233	617FEEED	EC1_C_PA	100	EC1_C_PB
+1234	1117CF0E	EC1_C_PB	EC1_C_PA	100100
+1235	8C3D735D	100100	EC1_C_PB	EC1_C_QA
+1236	8DC93993	EC1_C_QA	100100	100
+1237	7B8466C9	100	EC1_C_QA	E2LA_AA
+1238	2DC014BA	E2LA_AA	100	090
+1239	D4C6C5D1	090	E2LA_AA	E2LA_BA
+1240	4CF5BB56	E2LA_BA	090	090
+1241	802268E0	090	E2LA_BA	E2LA_CA
+1242	4072C4C0	E2LA_CA	090	090
+1243	41BF0D71	090	E2LA_CA	E2LA_DA
+1244	44598F8D	E2LA_DA	090	090
+1245	E215434A	090	E2LA_DA	Dummy label.
+1246	AE1959A5	Dummy label.	090	TBoGT Deathmatch
+1247	AE130A53	TBoGT Deathmatch	Dummy label.	TBoGT Team Deathmatch
+1248	A03C6EA6	TBoGT Team Deathmatch	TBoGT Deathmatch	TBoGT Races
+1249	CCDDC7E8	TBoGT Races	TBoGT Team Deathmatch	TBoGT GTA Races
+1250	BE0FAA4C	TBoGT GTA Races	TBoGT Races	阿尔冈琴之旅
+1251	54572EAB	Tour D'Algonquin	TBoGT GTA Races	豪华旅行车
+1252	FCF6FFE8	Grand Tourer	阿尔冈琴之旅	两边都走
+1253	CA9C1B33	Go Both Ways	豪华旅行车	Burn your Bridges
+1254	7FAE8559	Burn your Bridges	两边都走	柏油覆面
+1255	8D1D2036	Tar Macked	Burn your Bridges	Club Class
+1256	EB34DC30	Club Class	柏油覆面	跳场躲避
+1257	F98A78DB	Jumpyard Dodge	Club Class	上枢纽
+1258	B0D4E771	Upper Junction	跳场躲避	Mind the Gap
+1259	7F0703D6	Mind the Gap	上枢纽	草地公园换乘停车场
+1260	664066AE	Meadows Park & Ride	Mind the Gap	Meat your Marker
+1261	58024A32	Meat your Marker	草地公园换乘停车场	Original Outlook
+1262	09892D41	Original Outlook	Meat your Marker	飞掠
+1263	FB6810FF	Fly By	Original Outlook	Damn Rotten Hills
+1264	2F6578F9	Damn Rotten Hills	飞掠	Round the Horny
+1265	211ADC64	Round the Horny	Damn Rotten Hills	Blips
+1266	2168E62B	Blips	Round the Horny	Shooting
+1267	2EDE08A3	Shooting	Blips	All
+1268	40A3AC2E	All	Shooting	Near
+1269	30D48C84	Near	All	Far
+1270	92905006	Far	Near	Leader
+1271	A4D1F489	Leader	Far	None
+1272	771B991D	None	Leader	Team
+1273	87183916	Team	None	用~PAD_LSTICK_ALL~在空中移动。~n~按~INPUT_SPRINT~打开降落伞。~n~按住~INPUT_MELEE_ATTACK1~切换视角。~n~按~INPUT_DUCK~放烟。
+1274	B53E03EB	Use ~PAD_LSTICK_ALL~ to move in the air. ~n~Press ~INPUT_SPRINT~ to activate parachute. ~n~Hold ~INPUT_MELEE_ATTACK1~ to view different cameras. ~n~Press ~INPUT_DUCK~ to activate smoke.	Team	用~PAD_LSTICK_ALL~在空中移动。~n~按~INPUT_SPRINT~打开降落伞。~n~按住~INPUT_NEXT_CAMERA~切换视角。~n~按~INPUT_DUCK~放烟。
+1275	49914354	Use ~PAD_LSTICK_ALL~ to move in the air. ~n~Press ~INPUT_SPRINT~ to activate parachute. ~n~Hold ~INPUT_NEXT_CAMERA~ to view different cameras. ~n~Press ~INPUT_DUCK~ to activate smoke.	用~PAD_LSTICK_ALL~在空中移动。~n~按~INPUT_SPRINT~打开降落伞。~n~按住~INPUT_MELEE_ATTACK1~切换视角。~n~按~INPUT_DUCK~放烟。	用~PAD_LSTICK_ALL~移动身体重心。~n~用~PAD_LT~和~PAD_RT~操作左右空中减速。~n~按~INPUT_ENTER~脱开降落伞。~n~按住~INPUT_MELEE_ATTACK1~切换视角。~n~按~INPUT_DUCK~放烟。
+1276	DED0D20B	Use ~PAD_LSTICK_ALL~ to shift body weight. ~n~Use ~PAD_LT~ and ~PAD_RT~ to apply left and right air brakes. ~n~Press ~INPUT_ENTER~ to detach the parachute. ~n~Hold ~INPUT_MELEE_ATTACK1~ to view different cameras. ~n~Press ~INPUT_DUCK~ to activate smoke.	用~PAD_LSTICK_ALL~在空中移动。~n~按~INPUT_SPRINT~打开降落伞。~n~按住~INPUT_NEXT_CAMERA~切换视角。~n~按~INPUT_DUCK~放烟。	用~PAD_LSTICK_ALL~移动身体重心。~n~用~INPUT_MOUSE_LMB~和~INPUT_MOUSE_RMB~操作左右空中减速。~n~按~INPUT_ENTER~脱开降落伞。~n~按住~INPUT_NEXT_CAMERA~切换视角。~n~按~INPUT_DUCK~放烟。
+1277	42B7E8E7	Use ~PAD_LSTICK_ALL~ to shift body weight. ~n~Use ~INPUT_MOUSE_LMB~ and ~INPUT_MOUSE_RMB~ to apply left and right air brakes. ~n~Press ~INPUT_ENTER~ to detach the parachute. ~n~Hold ~INPUT_NEXT_CAMERA~ to view different cameras. ~n~Press ~INPUT_DUCK~ to activate smoke.	用~PAD_LSTICK_ALL~移动身体重心。~n~用~PAD_LT~和~PAD_RT~操作左右空中减速。~n~按~INPUT_ENTER~脱开降落伞。~n~按住~INPUT_MELEE_ATTACK1~切换视角。~n~按~INPUT_DUCK~放烟。	用~PAD_LSTICK_ALL~移动身体重心。~n~用~PAD_LB~和~PAD_RB~操作左右空中减速。~n~按~INPUT_ENTER~脱开降落伞。~n~按住~INPUT_MELEE_ATTACK1~切换视角。~n~按~INPUT_DUCK~放烟。
+1278	FA4D906B	Use ~PAD_LSTICK_ALL~ to shift body weight. ~n~Use ~PAD_LB~ and ~PAD_RB~ to apply left and right air brakes. ~n~Press ~INPUT_ENTER~ to detach the parachute. ~n~Hold ~INPUT_MELEE_ATTACK1~ to view different cameras. ~n~Press ~INPUT_DUCK~ to activate smoke.	用~PAD_LSTICK_ALL~移动身体重心。~n~用~INPUT_MOUSE_LMB~和~INPUT_MOUSE_RMB~操作左右空中减速。~n~按~INPUT_ENTER~脱开降落伞。~n~按住~INPUT_NEXT_CAMERA~切换视角。~n~按~INPUT_DUCK~放烟。	用~PAD_LSTICK_ALL~移动身体重心。~n~用~INPUT_MOUSE_LMB~和~INPUT_MOUSE_RMB~操作左右空中减速。~n~按~INPUT_ENTER~脱开降落伞。~n~按住~INPUT_NEXT_CAMERA~切换视角。~n~按~INPUT_DUCK~放烟。
+1279	5B377EC0	Use ~PAD_LSTICK_ALL~ to shift body weight. ~n~Use ~INPUT_MOUSE_LMB~ and ~INPUT_MOUSE_RMB~ to apply left and right air brakes. ~n~Press ~INPUT_ENTER~ to detach the parachute. ~n~Hold ~INPUT_NEXT_CAMERA~ to view different cameras. ~n~Press ~INPUT_DUCK~ to activate smoke.	用~PAD_LSTICK_ALL~移动身体重心。~n~用~PAD_LB~和~PAD_RB~操作左右空中减速。~n~按~INPUT_ENTER~脱开降落伞。~n~按住~INPUT_MELEE_ATTACK1~切换视角。~n~按~INPUT_DUCK~放烟。	即刻加入
+1280	7E14AAF1	Instant Play	用~PAD_LSTICK_ALL~移动身体重心。~n~用~INPUT_MOUSE_LMB~和~INPUT_MOUSE_RMB~操作左右空中减速。~n~按~INPUT_ENTER~脱开降落伞。~n~按住~INPUT_NEXT_CAMERA~切换视角。~n~按~INPUT_DUCK~放烟。	Deathmatch
+1281	90574F76	Deathmatch	即刻加入	Team Deathmatch
+1282	A041EF4B	Team Deathmatch	Deathmatch	Races
+1283	C28C33DF	Races	Team Deathmatch	GTA Races
+1284	D2C1D44A	GTA Races	Races	Free Mode
+1285	F1EE9212	Free Mode	GTA Races	Location
+1286	C2BE1380	Location	Free Mode	Global Domination
+1287	01E8171A	Global Domination	Location	战斗站
+1288	DAD5C8FA	Battle Station	Global Domination	游乐园
+1289	EC646C17	Funland	战斗站	学业受挫
+1290	471A2181	Academically Challenged	游乐园	Ziggurat
+1291	23D4DAF7	Ziggurat	学业受挫	Xero In
+1292	358D7E68	Xero In	Ziggurat	Auld Reekie
+1293	003F13CC	Auld Reekie	Xero In	Diamond In The Rough
+1294	81DD970B	Diamond In The Rough	Auld Reekie	擅闯
+1295	5C2E4BA9	Trespass	Diamond In The Rough	乘风破浪
+1296	6D4CEDE6	Catch Your Wave	擅闯	自由城
+1297	FECBF423	Liberty City	乘风破浪	奥尔德尼
+1298	D8FDA887	Alderney	自由城	阿尔冈琴
+1299	14AE9FE8	Algonquin	奥尔德尼	波汉
+1300	82F8FC7F	Bohan	阿尔冈琴	Dukes/Broker
+1301	282346D1	Dukes/Broker	波汉	Airport
+1302	220F3AA9	Airport	Dukes/Broker	It's a nitro powered race through the streets of Liberty City.
+1303	49A80881	It's a nitro powered race through the streets of Liberty City.	Airport	~a~ 2-16 players.
+1304	F49D3198	~a~ 2-16 players.	It's a nitro powered race through the streets of Liberty City.	It's a nitro powered race through the streets of Liberty City. With added weapons.
+1305	78FA6725	It's a nitro powered race through the streets of Liberty City. With added weapons.	~a~ 2-16 players.	~a~ 2-16 players.
+1306	0A365CCA	~a~ 2-16 players.	It's a nitro powered race through the streets of Liberty City. With added weapons.	It's faction versus faction in an all out war.
+1307	AD62CFC5	It's faction versus faction in an all out war.	~a~ 2-16 players.	~a~ 3-16 players.
+1308	42EACE2E	~a~ 3-16 players.	It's faction versus faction in an all out war.	It's every man for himself.
+1309	4DAD1057	It's every man for himself.	~a~ 3-16 players.	~a~ 2-16 players.
+1310	2DBFA3D8	~a~ 2-16 players.	It's every man for himself.	It's every man for himself.
+1311	7FE1F4C0	It's every man for himself.	~a~ 2-16 players.	~a~ Up to 16 players.
+1312	E7669727	~a~ Up to 16 players.	It's every man for himself.	~m~Race to the finish, passing through each checkpoint in order. Hold ~INPUT_VEH_EXIT~ to respawn your vehicle on the last checkpoint passed. The race vehicles are equipped with nitro. Use it wisely or risk wrecking your ride.
+1313	6067B4A5	~m~Race to the finish, passing through each checkpoint in order. Hold ~INPUT_VEH_EXIT~ to respawn your vehicle on the last checkpoint passed. The race vehicles are equipped with nitro. Use it wisely or risk wrecking your ride.	~a~ Up to 16 players.	~m~Race to the finish, passing through each checkpoint in order. The race vehicles are equipped with nitro. Use it wisely or risk wrecking your ride. Weapons litter the streets. Pick 'em up and lay waste to the competition. You can only hold one drive-by weapon at a time, hold ~INPUT_DROP_WEAPON~ to drop your currently selected weapon when in a vehicle.
+1314	34B05D33	~m~Race to the finish, passing through each checkpoint in order. The race vehicles are equipped with nitro. Use it wisely or risk wrecking your ride. Weapons litter the streets. Pick 'em up and lay waste to the competition. You can only hold one drive-by weapon at a time, hold ~INPUT_DROP_WEAPON~ to drop your currently selected weapon when in a vehicle.	~m~Race to the finish, passing through each checkpoint in order. Hold ~INPUT_VEH_EXIT~ to respawn your vehicle on the last checkpoint passed. The race vehicles are equipped with nitro. Use it wisely or risk wrecking your ride.	~m~Take the other faction out. The faction with the most cash at the end wins. Remember to loot the cash dropped by deceased players. That's how to gain dominance.
+1315	4E211018	~m~Take the other faction out. The faction with the most cash at the end wins. Remember to loot the cash dropped by deceased players. That's how to gain dominance.	~m~Race to the finish, passing through each checkpoint in order. The race vehicles are equipped with nitro. Use it wisely or risk wrecking your ride. Weapons litter the streets. Pick 'em up and lay waste to the competition. You can only hold one drive-by weapon at a time, hold ~INPUT_DROP_WEAPON~ to drop your currently selected weapon when in a vehicle.	~m~Kill the other players as many times as you can. The player with the most cash when the game ends wins. Remember to loot the cash dropped by your dead adversaries.
+1316	7DA56F20	~m~Kill the other players as many times as you can. The player with the most cash when the game ends wins. Remember to loot the cash dropped by your dead adversaries.	~m~Take the other faction out. The faction with the most cash at the end wins. Remember to loot the cash dropped by deceased players. That's how to gain dominance.	~m~Kill the other players as many times as you can. The player with the most cash when the game ends wins. Remember to loot the cash dropped by your dead adversaries.
+1317	6B6BCAAD	~m~Kill the other players as many times as you can. The player with the most cash when the game ends wins. Remember to loot the cash dropped by your dead adversaries.	~m~Kill the other players as many times as you can. The player with the most cash when the game ends wins. Remember to loot the cash dropped by your dead adversaries.	Weapons
+1318	6C547F3C	Weapons	~m~Kill the other players as many times as you can. The player with the most cash when the game ends wins. Remember to loot the cash dropped by your dead adversaries.	Episodic
+1319	770C6D7B	Episodic	Weapons	Automatic
+1320	80CD80FD	Automatic	Episodic	Sniper Rifles
+1321	49A192A6	Sniper Rifles	Automatic	Explosives
+1322	5B6D363D	Explosives	Sniper Rifles	Sticky Bombs
+1323	BFE5FF2D	Sticky Bombs	Explosives	Shotguns
+1324	C9B512CB	Shotguns	Sticky Bombs	Projectiles
+1325	92892474	Projectiles	Shotguns	Melee
+1326	AC9D589C	Melee	Projectiles	SMGs
+1327	2565CA27	SMGs	Melee	Assault Rifles
+1328	35166988	Assault Rifles	SMGs	Grenade Launchers
+1329	914FAB22	Grenade Launchers	Assault Rifles	Sniper Rifles
+1330	9D7BC396	Sniper Rifles	Grenade Launchers	Episodic Weapons
+1331	9228ACF0	Episodic Weapons	Sniper Rifles	Health Only
+1332	81070AAD	Health Only	Episodic Weapons	Off
+1333	E797D7B1	Off	Health Only	You have been invited to join a party in GTAIV:The Ballad of Gay Tony.
+1334	ACCDA2F0	You have been invited to join a party in GTAIV:The Ballad of Gay Tony.	Off	You have been invited to play GTAIV:The Ballad of Gay Tony - Freemode.
+1335	6DBBB592	You have been invited to play GTAIV:The Ballad of Gay Tony - Freemode.	You have been invited to join a party in GTAIV:The Ballad of Gay Tony.	You have been invited to play GTAIV:The Ballad of Gay Tony - Instant Play.
+1336	394E5068	You have been invited to play GTAIV:The Ballad of Gay Tony - Instant Play.	You have been invited to play GTAIV:The Ballad of Gay Tony - Freemode.	You have been invited to play GTAIV:The Ballad of Gay Tony - Deathmatch.
+1337	48056DD6	You have been invited to play GTAIV:The Ballad of Gay Tony - Deathmatch.	You have been invited to play GTAIV:The Ballad of Gay Tony - Instant Play.	You have been invited to play GTAIV:The Ballad of Gay Tony - Team Deathmatch.
+1338	5DAC1923	You have been invited to play GTAIV:The Ballad of Gay Tony - Team Deathmatch.	You have been invited to play GTAIV:The Ballad of Gay Tony - Deathmatch.	You have been invited to play GTAIV:The Ballad of Gay Tony - Races.
+1339	6C7A36BF	You have been invited to play GTAIV:The Ballad of Gay Tony - Races.	You have been invited to play GTAIV:The Ballad of Gay Tony - Team Deathmatch.	You have been invited to play GTAIV:The Ballad of Gay Tony - GTA Races.
+1340	A27CA2C3	You have been invited to play GTAIV:The Ballad of Gay Tony - GTA Races.	You have been invited to play GTAIV:The Ballad of Gay Tony - Races.	Select this option to jump straight into a player match free-for-all game, bypassing the lobby screen.
+1341	86262EA5	Select this option to jump straight into a player match free-for-all game, bypassing the lobby screen.	You have been invited to play GTAIV:The Ballad of Gay Tony - GTA Races.	It's every man for himself.
+1342	3F7399AD	It's every man for himself.	Select this option to jump straight into a player match free-for-all game, bypassing the lobby screen.	Kick back in Liberty City. With parachutes.
+1343	D5AB7A5A	Kick back in Liberty City. With parachutes.	It's every man for himself.	Team game. It's faction versus faction in an all out war.
+1344	A623670B	Team game. It's faction versus faction in an all out war.	Kick back in Liberty City. With parachutes.	Race through the streets of Liberty City. With nitro.
+1345	9451C368	Race through the streets of Liberty City. With nitro.	Team game. It's faction versus faction in an all out war.	Race through the streets of Liberty City. With nitro and guns.
+1346	89F3AEAC	Race through the streets of Liberty City. With nitro and guns.	Race through the streets of Liberty City. With nitro.	Deathmatch
+1347	148A811F	Deathmatch	Race through the streets of Liberty City. With nitro and guns.	Races
+1348	2943AA91	Races	Deathmatch	Deathmatch
+1349	EE82353B	Deathmatch	Races	Race Class
+1350	FCCDB7E9	Race Class	Deathmatch	Sports Cars
+1351	89B38528	Sports Cars	Race Class	Luxury
+1352	08490271	Luxury	Sports Cars	American Classic
+1353	37095FF1	American Classic	Luxury	Sports Bikes
+1354	45E6FDAC	Sports Bikes	American Classic	装甲运兵车
+1355	52D21766	APC	Sports Bikes	killed
+1356	DB19E6F1	killed	装甲运兵车	murdered
+1357	C8DF427C	murdered	killed	slaughtered
+1358	05C3BC44	slaughtered	murdered	iced
+1359	F48E19D9	iced	slaughtered	took out
+1360	2D400B40	took out	iced	took down
+1361	1002D0C2	took down	took out	wiped out
+1362	48AFC21F	wiped out	took down	eliminated
+1363	3F65AF8B	eliminated	wiped out	punished
+1364	8FC6503F	punished	eliminated	dominated
+1365	864C3D4B	dominated	punished	bludgeoned
+1366	EFEF4821	bludgeoned	dominated	battered
+1367	E240ACC4	battered	bludgeoned	broke
+1368	95621308	broke	battered	beat down
+1369	07BD77BD	beat down	broke	pummelled
+1370	BF4266C8	pummelled	beat down	smashed
+1371	A99B3B7A	smashed	pummelled	cracked
+1372	5CD0A1E2	cracked	smashed	brained
+1373	4D1F027F	brained	cracked	hammered
+1374	674CB716	hammered	brained	homered
+1375	50F58A68	homered	hammered	stabbed
+1376	992B41AF	stabbed	homered	butchered
+1377	57A4BE9B	butchered	stabbed	spiked
+1378	455A1A06	spiked	butchered	stuck it to
+1379	2D4FEA4E	stuck it to	spiked	filleted
+1380	1F9A4EE3	filleted	stuck it to	slashed
+1381	09E32375	slashed	filleted	striped
+1382	F42BF807	striped	slashed	diced
+1383	E6665C7C	diced	striped	cut up
+1384	D0B43118	cut up	diced	eviscerated
+1385	C2EB9587	eviscerated	cut up	detonated
+1386	FA26AEBD	detonated	eviscerated	blew up
+1387	494CCD08	blew up	detonated	blasted
+1388	53A1E1B2	blasted	blew up	pulverized
+1389	24D40417	pulverized	blasted	totaled
+1390	8F24D8B7	totaled	pulverized	vaporized
+1391	A2B67FDA	vaporized	totaled	atomized
+1392	8C88D373	atomized	vaporized	shocked & awed
+1393	9EB677CE	shocked & awed	atomized	fucked up
+1394	66F4084A	fucked up	shocked & awed	blitzed
+1395	793AACD7	blitzed	fucked up	charred
+1396	0AF2AAF8	charred	blitzed	cooked
+1397	4E9A32A2	cooked	charred	roasted
+1398	4057961D	roasted	cooked	blazed
+1399	B4DE7F29	blazed	roasted	ignited
+1400	9EA352B3	ignited	blazed	flame grilled
+1401	8573A054	flame grilled	ignited	torched
+1402	831D9BA8	torched	flame grilled	burnt
+1403	8AFB2B07	burnt	torched	cindered
+1404	79020715	cindered	burnt	barbequed
+1405	BE45119E	barbequed	cindered	shot
+1406	1D42E857	shot	barbequed	capped
+1407	EB9084F3	capped	shot	whacked
+1408	94A75726	whacked	capped	clipped
+1409	A2D9F38B	clipped	whacked	2nd amendmented
+1410	B81B1E0D	2nd amendmented	clipped	clocked
+1411	C684BAE0	clocked	2nd amendmented	popped
+1412	64B4F73E	popped	clocked	smoked
+1413	32EB13AB	smoked	popped	pistoled
+1414	884EBE75	pistoled	smoked	deaded
+1415	568DDAF0	deaded	pistoled	opened up
+1416	43612166	opened up	deaded	pumped
+1417	8C8633AF	pumped	opened up	shelled
+1418	7E2F9702	shelled	pumped	farmed
+1419	EF1378C8	farmed	shelled	blew away
+1420	E259DF55	blew away	farmed	shottied
+1421	C3A7A1F1	shottied	blew away	perforated
+1422	B4D5044C	perforated	shottied	12 bored
+1423	2A0EEEBE	12 bored	perforated	put a load in
+1424	19414D23	put a load in	12 bored	double barreled
+1425	08D1AC44	double barreled	put a load in	peppered
+1426	52D0F829	peppered	double barreled	plugged
+1427	1863834F	plugged	peppered	SMGed
+1428	2E34AEF1	SMGed	plugged	ventilated
+1429	ABFB2A78	ventilated	SMGed	sprayed
+1430	91FEF684	sprayed	ventilated	massacred
+1431	5F551131	massacred	sprayed	riddled
+1432	759C3DBF	riddled	massacred	cut down
+1433	EA822785	cut down	riddled	cancelled
+1434	B8CA4416	cancelled	cut down	crossed out
+1435	CE346EEA	crossed out	cancelled	machined
+1436	DD4AA31C	machined	crossed out	drilled
+1437	EF9147A9	drilled	machined	killed
+1438	07D17829	killed	drilled	annihilated
+1439	9A1A1CBC	annihilated	killed	terminated
+1440	3A04DC8F	terminated	annihilated	armied
+1441	443EF103	armied	terminated	ended
+1442	E0FE2A87	ended	armied	3rd worlded
+1443	F2BBCE02	3rd worlded	ended	punctuated
+1444	733A4EF9	punctuated	3rd worlded	decommissioned
+1445	7D786375	decommissioned	punctuated	nailed
+1446	25BFC9D6	nailed	decommissioned	sniped
+1447	19FCB250	sniped	nailed	picked off
+1448	10199E8A	picked off	sniped	surprised
+1449	04B687C0	surprised	picked off	struck down
+1450	F129E0A7	struck down	surprised	lightning bolted
+1451	E76BCD2B	lightning bolted	struck down	assassinated
+1452	D7CAADE9	assassinated	lightning bolted	high-calibered
+1453	CBD195F7	high-calibered	assassinated	brought down
+1454	B955F100	brought down	high-calibered	caught out
+1455	AF53DCFC	caught out	brought down	drive-byed
+1456	B833D46F	drive-byed	caught out	mowed down
+1457	CB15FA33	mowed down	drive-byed	street sweepered
+1458	9DA61F54	street sweepered	mowed down	Los Santos styled
+1459	93358A6F	Los Santos styled	street sweepered	gang landed
+1460	A5602EC4	gang landed	Los Santos styled	cruised
+1461	F47F4D01	cruised	gang landed	motor-slayed
+1462	06D571AD	motor-slayed	cruised	wiped out
+1463	D80A9418	wiped out	motor-slayed	Grove Streeted
+1464	EB53BAAA	Grove Streeted	wiped out	took out
+1465	3C3EDC7F	took out	Grove Streeted	flattened
+1466	6DC7B86A	flattened	took out	ran-over
+1467	5E6E19B7	ran-over	flattened	steamrollered
+1468	901AFD10	steamrollered	ran-over	splattered
+1469	74E9C6AE	splattered	steamrollered	crushed
+1470	A6D12A7C	crushed	splattered	manslaughtered
+1471	B176BFA7	manslaughtered	crushed	accidented
+1472	7B1B52F1	accidented	manslaughtered	gouranga'd
+1473	C20260BE	gouranga'd	accidented	plowed
+1474	93D58465	plowed	gouranga'd	hit and runned
+1475	E8502D59	hit and runned	plowed	has a kill streak of 3!
+1476	90D4E1FF	has a kill streak of 3!	hit and runned	has a kill streak of 5!
+1477	B44DA8F0	has a kill streak of 5!	has a kill streak of 3!	has a kill streak of 10!
+1478	4F87139B	has a kill streak of 10!	has a kill streak of 5!	has ended the kill streak of
+1479	6F6808F3	has ended the kill streak of	has a kill streak of 10!	's
+1480	EF74B7D8	's	has ended the kill streak of	kill streak has ended!
+1481	13378C0E	kill streak has ended!	's	assisted kill.
+1482	A3E011EA	assisted kill.	kill streak has ended!	REVENGE KILL!
+1483	26059633	REVENGE KILL!	assisted kill.	glided for
+1484	1449E0EA	glided for	REVENGE KILL!	activated parachute
+1485	A977659A	activated parachute	glided for	ft before landing.
+1486	018C3179	ft before landing.	activated parachute	completed all base jumps in
+1487	99AC979E	completed all base jumps in	ft before landing.	Deathmatch
+1488	11AB55D5	Deathmatch	completed all base jumps in	Team Deathmatch
+1489	DC986A70	Team Deathmatch	Deathmatch	Races
+1490	EF5B0FF5	Races	Team Deathmatch	GTA Races
+1491	98A16273	GTA Races	Races	Free Mode
+1492	AAE106F6	Free Mode	GTA Races	Party Mode
+1493	BD502BD4	Party Mode	Free Mode	Global Domination
+1494	CD9ECC71	Global Domination	Party Mode	战斗站
+1495	5FCDF0CD	Battle Station	Global Domination	游乐园
+1496	72039538	Funland	战斗站	学业受挫
+1497	8448B9C2	Academically Challenged	游乐园	Ziggurat
+1498	947B5A27	Ziggurat	学业受挫	Xero In
+1499	52DCD117	Xero In	Ziggurat	Auld Reekie
+1500	651D7598	Auld Reekie	Xero In	Diamond In The Rough
+1501	35B796CD	Diamond In The Rough	Auld Reekie	擅闯
+1502	8EF24941	Trespass	Diamond In The Rough	乘风破浪
+1503	A247EFEC	Catch Your Wave	擅闯	Sports Cars
+1504	6C1E839A	Sports Cars	乘风破浪	Luxury
+1505	63A172EC	Luxury	Sports Cars	American Classic
+1506	39EA1F7E	American Classic	Luxury	Sports Bikes
+1507	46F4B993	Sports Bikes	American Classic	装甲运兵车
+1508	9D456633	APC	Sports Bikes	阿尔冈琴之旅
+1509	F31190A2	Tour D'Algonquin	装甲运兵车	豪华旅行车
+1510	04D0341F	Grand Tourer	阿尔冈琴之旅	两边都走
+1511	EB018076	Go Both Ways	豪华旅行车	Burn your Bridges
+1512	FD3C24EB	Burn your Bridges	两边都走	柏油覆面
+1513	67FEFA7B	Tar Macked	Burn your Bridges	Club Class
+1514	3A481F0E	Club Class	柏油覆面	跳场躲避
+1515	497FBD7D	Jumpyard Dodge	Club Class	上枢纽
+1516	963656E9	Upper Junction	跳场躲避	Mind the Gap
+1517	A4FCF476	Mind the Gap	上枢纽	草地公园换乘停车场
+1518	6FB989F0	Meadows Park & Ride	Mind the Gap	Meat your Marker
+1519	F7EB1D1D	Meat your Marker	草地公园换乘停车场	Original Outlook
+1520	FCA72695	Original Outlook	Meat your Marker	飞掠
+1521	CCB446B0	Fly By	Original Outlook	Damn Rotten Hills
+1522	DA7BE23F	Damn Rotten Hills	飞掠	Round the Horny
+1523	B1318FAB	Round the Horny	Damn Rotten Hills	Episodic
+1524	BEF02B28	Episodic	Round the Horny	Automatic
+1525	ACA486E5	Automatic	Episodic	Sniper Rifles
+1526	D9FB6192	Sniper Rifles	Automatic	Explosives
+1527	CF414C1E	Explosives	Sniper Rifles	Sticky Bombs
+1528	FD81289D	Sticky Bombs	Explosives	Shooting
+1529	F16F8F9E	Shooting	Sticky Bombs	THIS LABEL NEEDS TO BE HERE !!!
+1530	5754ECCC	THIS LABEL NEEDS TO BE HERE !!!	Shooting	THIS LABEL NEEDS TO BE HERE !!!
+1531	DBB0CD56	THIS LABEL NEEDS TO BE HERE !!!	THIS LABEL NEEDS TO BE HERE !!!	

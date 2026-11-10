@@ -1,0 +1,11 @@
+chapter	table	crc	新译正文	理由
+base	MAIN	F457BF7F	~z~因为当地人管它叫洪堡。说真的。	原文末尾还有 Honestly 一句，原译整句漏掉
+base	MAIN	F6313DCA	~z~文明带到这片土地上的一切。	bring to bear on 是「施加于」，原译「应有尽有」把它当成数量齐全
+base	MAIN	2431991C	支援你的 Holland Hustlers 成员都死了。	Holland Hustlers 是帮派专名，此前「荷兰皮条客帮」把 Hustlers 误读成皮条客，按专名保留英文
+base	MAIN	24B2FD47	~z~~x~我们家什么都不搞，不摆装饰。	We don't do anything in our house 是「家里什么都不弄」，原译「不会在家庆祝」是无根据的补充
+base	MAIN	35783E05	~z~他们说的我一句都听不懂。我只想开枪。	原译「我谁在说什么都听不懂」句子不成句，anybody's saying 是「别人说的话」
+base	MAIN	46D94E66	尼克，我这儿还有拉客的活，接单找我。罗曼	Niko 按口径统一「尼克」
+base	MAIN	4B1ACD1D	~z~~x~尼克，你人呢？现在就告诉我。	Niko 按口径统一「尼克」
+base	MAIN	5056F246	哟，看谁不顺眼就说一声，我派兄弟们过去。	send the boyz 是「派兄弟们」，原译「派俩人」把人数写死
+base	MAIN	F777A5C4	~z~~x~今晚夜色真好。	It's a beautiful night 是陈述当下夜色，原译「今晚一定会是个不错的夜晚」加了推测
+base	MAIN	56DABBFC	按~INPUT_PICKUP~投放炸弹。	drop the bomb 是「投下炸弹」，原译「丢弃炸弹」把投弹译成扔掉

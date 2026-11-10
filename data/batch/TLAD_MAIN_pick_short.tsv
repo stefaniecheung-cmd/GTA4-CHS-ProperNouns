@@ -1,0 +1,74 @@
+序号	crc	english	上邻	下邻
+1	32F24101	Lost Eagle	联络人	掰手腕
+2	F6596620	Pool Cue	帮派战争	土制炸弹
+3	DAADAE4D	Territory 1	科雷	Territory 2
+4	E8F24AD6	Territory 2	Territory 1	Territory 3
+5	F744677A	Territory 3	Territory 2	Territory 4
+6	858503FD	Territory 4	Territory 3	Territory 5
+7	A1B03C53	Territory 5	Territory 4	Territory 6
+8	AFE6D8C0	Territory 6	Territory 5	科雷的载具
+9	063FB3C3	BANDIT!	www.congressmanthomasstubbs.com	畅销全美的男性生活杂志！现在是21世纪，崇拜自己吧。Bandit！
+10	ED416C3C	Secret	PLACEHOLDER	PLACEHOLDER
+11	F4ACBA64	Reaper's Ride	码头挑逗	脱轨器
+12	172D525F	Game Name	Bogan's Revenge	全油门
+13	E34E8317	Chopper vs Chopper	全油门	Icon_w_PrisonersKilled_Left
+14	81D8A112	Witnesses Killed	Icon_w_CheckpointsReached_Left	Witnesses Saved
+15	742605AD	Witnesses Saved	Witnesses Killed	Bikes Captured
+16	655BE819	Bikes Captured	Witnesses Saved	Turf Lost
+17	576C4C3A	Turf Lost	Bikes Captured	Turf Taken
+18	1DB758D1	Turf Taken	Turf Lost	Time spent as Lone Wolf Biker
+19	F53287C8	Checkpoints reached	Time spent as Lone Wolf Biker	Chopper vs Chopper
+20	C6F3BDCE	Chopper vs Chopper	Checkpoints reached	证人保护
+21	341296EA	Races	俱乐部生意	Team Deathmatch
+22	558659D1	Own the City	Team Deathmatch	Own the City
+23	B09F095A	Own the City	Own the City	Lone Wolf Biker
+24	598D61DF	Lone Wolf Biker	Own the City	Deathmatch
+25	005BCC49	~a~ 2 players.	A biker's running through checkpoints with a gunship at his back. How long will he last?	~m~The ~COL_NET_1~N.O.O.S.E.~m~ must protect the state witnesses while ~COL_NET_2~The ~COL_NET_2~Lost~m~ must take them out.
+26	7AE5DE42	~1~ WINS	~m~Kill the other bikers as many times as you can. The biker with the most cash when the game ends wins. Remember to loot the cash dropped by your dead adversaries.	~1~ MINUTES WINS
+27	D79EECDA	~1~ MINUTES WINS	~1~ WINS	THE LOST MC
+28	51799B4E	THE LOST MC	~1~ MINUTES WINS	ANGELS OF DEATH MC
+29	C3C1FFDD	ANGELS OF DEATH MC	THE LOST MC	~1~% WINS
+30	8B585D3B	~1~% WINS	ANGELS OF DEATH MC	~1~%
+31	6D8C05D9	Powerful	Standard	Pistols
+32	7ECA2855	Pistols	Powerful	Shotguns
+33	831630F1	Shotguns	Pistols	Projectiles
+34	D6465754	Projectiles	Shotguns	Melee
+35	C9EE3EA4	Assault Rifles	SMGs	Grenade Launchers
+36	57171640	Grenade Launchers	Assault Rifles	Sniper Rifles
+37	695E3ACE	Sniper Rifles	Grenade Launchers	Biker Weapons
+38	7BD4DFBB	Biker Weapons	Sniper Rifles	Health Only
+39	8BEF7FF0	Health Only	Biker Weapons	Off
+40	E1FAEFC9	THE LOST	Off	Race Class
+41	FABBBACD	Race Class	THE LOST	The Lost
+42	1E3C3C8F	The Lost	Race Class	Angels of Death
+43	B278E50A	Street Bikes	Angels of Death	Vans
+44	7A65F4E5	Trucks	Cars	Cars
+45	9E8ABD2E	Trucks	Cars	Everyman For Himself
+46	740C32E7	THE LOST MC	Everyman For Himself	ANGELS OF DEATH MC
+47	2FA7AA1F	ANGELS OF DEATH MC	THE LOST MC	Bus Health
+48	B57294AF	Bus Health	ANGELS OF DEATH MC	Prison Bus
+49	0CD1F322	Prison Bus	Bus Health	Prisoner
+50	12242162	Prisoner	Prison Bus	警察局
+51	047BA269	THE LOST MC	国家安全执法局	You have been invited to play GTAIV:The Lost and Damned - Witness Protection.
+52	A1174633	Races	Team Deathmatch	俱乐部生意
+53	7AE679D2	Lone Wolf Biker	俱乐部生意	证人保护
+54	884A149D	Own The City	证人保护	Free Mode
+55	A5CFCFA8	Party Mode	Free Mode	Chopper vs. Chopper
+56	B5FDF004	Chopper vs. Chopper	Party Mode	Down Under
+57	D1BDB568	Lost Bikes	Bogan's Revenge	Angels Of Death Bikes
+58	58F3E0E5	Street Bikes	Angels Of Death Bikes	Vans
+59	8A99C424	Trucks	Cars	Road Bikes
+60	79282141	Road Bikes	Trucks	Run for 2 minutes
+61	FA75A3DE	Run for 2 minutes	Road Bikes	Run for 5 minutes
+62	F69E9C30	Run for 5 minutes	Run for 2 minutes	Run for 10 minutes
+63	E601FAF7	Run for 10 minutes	Run for 5 minutes	Everyone Gets a Go
+64	D433D75B	Everyone Gets a Go	Run for 10 minutes	3 Checkpoints
+65	6FB011DD	3 Checkpoints	Everyone Gets a Go	5 Checkpoints
+66	A5857D87	5 Checkpoints	3 Checkpoints	9 Checkpoints
+67	22E9F84E	9 Checkpoints	5 Checkpoints	40 Percent
+68	3A68274E	40 Percent	9 Checkpoints	60 Percent
+69	28B283E3	60 Percent	40 Percent	80 Percent
+70	5E99EFB1	80 Percent	60 Percent	100 Percent
+71	FC30AAE0	100 Percent	80 Percent	Biker Weapons
+72	EF6E915C	Biker Weapons	100 Percent	Grenade Launchers
+73	259CFDB8	Grenade Launchers	Biker Weapons	

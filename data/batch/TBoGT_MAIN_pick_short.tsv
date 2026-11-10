@@ -1,0 +1,61 @@
+序号	crc	english	上邻	下邻
+1	23D4DAF7	Ziggurat	学业受挫	Xero In
+2	358D7E68	Xero In	Ziggurat	Auld Reekie
+3	5F551131	massacred	sprayed	riddled
+4	759C3DBF	riddled	massacred	cut down
+5	EA822785	cut down	riddled	cancelled
+6	B8CA4416	cancelled	cut down	crossed out
+7	CE346EEA	crossed out	cancelled	machined
+8	DD4AA31C	machined	crossed out	drilled
+9	EF9147A9	drilled	machined	killed
+10	07D17829	killed	drilled	annihilated
+11	9A1A1CBC	annihilated	killed	terminated
+12	3A04DC8F	terminated	annihilated	armied
+13	443EF103	armied	terminated	ended
+14	E0FE2A87	ended	armied	3rd worlded
+15	F2BBCE02	3rd worlded	ended	punctuated
+16	733A4EF9	punctuated	3rd worlded	decommissioned
+17	7D786375	decommissioned	punctuated	nailed
+18	25BFC9D6	nailed	decommissioned	sniped
+19	19FCB250	sniped	nailed	picked off
+20	10199E8A	picked off	sniped	surprised
+21	04B687C0	surprised	picked off	struck down
+22	F129E0A7	struck down	surprised	lightning bolted
+23	E76BCD2B	lightning bolted	struck down	assassinated
+24	D7CAADE9	assassinated	lightning bolted	high-calibered
+25	CBD195F7	high-calibered	assassinated	brought down
+26	B955F100	brought down	high-calibered	caught out
+27	AF53DCFC	caught out	brought down	drive-byed
+28	B833D46F	drive-byed	caught out	mowed down
+29	CB15FA33	mowed down	drive-byed	street sweepered
+30	9DA61F54	street sweepered	mowed down	Los Santos styled
+31	93358A6F	Los Santos styled	street sweepered	gang landed
+32	A5602EC4	gang landed	Los Santos styled	cruised
+33	F47F4D01	cruised	gang landed	motor-slayed
+34	06D571AD	motor-slayed	cruised	wiped out
+35	D80A9418	wiped out	motor-slayed	Grove Streeted
+36	EB53BAAA	Grove Streeted	wiped out	took out
+37	3C3EDC7F	took out	Grove Streeted	flattened
+38	6DC7B86A	flattened	took out	ran-over
+39	5E6E19B7	ran-over	flattened	steamrollered
+40	901AFD10	steamrollered	ran-over	splattered
+41	74E9C6AE	splattered	steamrollered	crushed
+42	A6D12A7C	crushed	splattered	manslaughtered
+43	B176BFA7	manslaughtered	crushed	accidented
+44	7B1B52F1	accidented	manslaughtered	gouranga'd
+45	C20260BE	gouranga'd	accidented	plowed
+46	93D58465	plowed	gouranga'd	hit and runned
+47	E8502D59	hit and runned	plowed	has a kill streak of 3!
+48	A3E011EA	assisted kill.	kill streak has ended!	REVENGE KILL!
+49	26059633	REVENGE KILL!	assisted kill.	glided for
+50	1449E0EA	glided for	REVENGE KILL!	activated parachute
+51	A977659A	activated parachute	glided for	ft before landing.
+52	018C3179	ft before landing.	activated parachute	completed all base jumps in
+53	EF5B0FF5	Races	Team Deathmatch	GTA Races
+54	98A16273	GTA Races	Races	Free Mode
+55	BD502BD4	Party Mode	Free Mode	Global Domination
+56	CD9ECC71	Global Domination	Party Mode	战斗站
+57	6C1E839A	Sports Cars	乘风破浪	Luxury
+58	63A172EC	Luxury	Sports Cars	American Classic
+59	39EA1F7E	American Classic	Luxury	Sports Bikes
+60	46F4B993	Sports Bikes	American Classic	装甲运兵车

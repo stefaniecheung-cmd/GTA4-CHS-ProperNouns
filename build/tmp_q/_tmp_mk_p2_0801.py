@@ -1,0 +1,21 @@
+# -*- coding: utf-8 -*-
+import io
+rows = [
+("base","MAIN","E8F6D6ED","我知道你在这儿日子不好过，尼克。可我已经没法再替你挡住条子了。你该把心思花点在我们这段关系上了——这可不是单行道。 xoxo","Niko 按口径统一「尼克」"),
+("base","MAIN","F50BA9C6","按~INPUT_FRONTEND_ACCEPT~购买西装。~n~按~INPUT_PICKUP~不买西装离开。","leave suit 是「不买西装离开」，原译只写「离开」丢了宾语"),
+("base","MAIN","F84D9348","按~INPUT_FRONTEND_ACCEPT~购买毛衣。~n~按~INPUT_PICKUP~不买毛衣离开。","leave sweater 是「不买毛衣离开」，原译丢宾语"),
+("base","MAIN","78BC1735","完了，尼克。他们会查出弗拉德是我们杀的。我清楚。我们的尸体会跟弗拉德的一起躺在洪堡河里……完了。罗曼","Niko 按口径统一「尼克」"),
+("base","MAIN","F0209238","尼克——这事一点岔子都不能出。米哈伊尔是个危险人物。我在俱乐部侧面给你留了些防护装备。你的朋友，迪米特里。","Niko 按口径统一「尼克」"),
+("base","MAIN","C4CD5B35","操，老弟。你不给我打电话，别人也不打。我是真孤单。也许你当初该崩了我，而不是 Playboy X……","Playboy X 为专名，按口径保留英文，原译「花花公子」把专名意译成头衔"),
+("base","MAIN","1F873EEA","非常抱歉。这段关系维持不下去了。顺便说，这还是我几个治疗师的一致意见。你的余生都将是一场反高潮。 xx","anti-climax 是「反高潮」，原译「渐渐衰亡」字面错解"),
+("base","MAIN","9B049B49","尼克，兄弟。你真顶用。巴德曼感激你搭手，可那地界遍地是警察。我这边没货能再给你了。保重。就这样 - LJ","Niko 按口径统一「尼克」；Babylon 是「警察」的牙买加俚语"),
+("base","MAIN","34ED18F0","尼克，又有活给你。你知道的，你做掉泰迪那栋楼的保洁合同在我手上。我正靠着让人把他洒在地上的脑浆刮干净赚钱。再见","Nicky 按口径统一「尼克」；scraping his brains off the floor 是「刮地上的脑浆」，原译「涂地的脑浆」把洒落误作涂抹"),
+("base","MAIN","42A4345E","尼克，又有活给你。你知道的，你做掉泰迪那栋楼的保洁合同在我手上。我正靠着让人把他洒在地上的脑浆刮干净赚钱。再见","Nicky 按口径统一「尼克」；同上一条同句误译"),
+("base","MAIN","9AC78535","~s~按下~INPUT_PICKUP~或~CANCEL~，或点击桌面上的「LOGOUT」图标以退出本机。","原文只说 on the desktop，原译自加「右下角」"),
+("base","MAIN","A31B6CAD","NB，你在哪儿，兄弟？你他妈到底在哪儿？我敢说你现在肯定不是戴着金链子、搂着姑娘、揣着钞票——因为那才是我现在的样子。 - B","原译「肯定不是项戴大金链子、手持碧绿票子、身下骑着婊子」句式断裂且「项戴」为错字"),
+]
+with io.open(r"C:\Game\Grand Theft Auto IV\gta4-chs\build\tmp_q\fixes_p2_0801.tsv","w",encoding="utf-8",newline="\n") as f:
+    f.write("chapter\ttable\tcrc\t新译正文\t理由\n")
+    for r in rows:
+        f.write("\t".join(r)+"\n")
+print("wrote", len(rows))

@@ -1,0 +1,32 @@
+序号	crc	english	上邻	下邻
+1	0631DE52	45 mins		You lost the ~B~bike.~S~ Get it back and take it to your Clubhouse.
+2	08F5F433	You lost the ~B~bike.~S~ Get it back and take it to your Clubhouse.	45 mins	One of The Lost has taken the ~B~bike.~S~ Get it back before he takes it to their Clubhouse.
+3	0D44FE87	One of The Lost has taken the ~B~bike.~S~ Get it back before he takes it to their Clubhouse.	You lost the ~B~bike.~S~ Get it back and take it to your Clubhouse.	~R~The Lost destroyed the bike.~S~
+4	0D6DFED5	~R~The Lost destroyed the bike.~S~	One of The Lost has taken the ~B~bike.~S~ Get it back before he takes it to their Clubhouse.	Steal the ~B~Innovation~S~ before The Lost and bring it back to the Clubhouse.
+5	101456A8	Steal the ~B~Innovation~S~ before The Lost and bring it back to the Clubhouse.	~R~The Lost destroyed the bike.~S~	30 mins
+6	14787ADF	30 mins	Steal the ~B~Innovation~S~ before The Lost and bring it back to the Clubhouse.	10 mins
+7	16337E51	10 mins	30 mins	One of your brothers lost the ~B~bike.~S~ Steal it and take it to your Clubhouse.
+8	1BB819B7	One of your brothers lost the ~B~bike.~S~ Steal it and take it to your Clubhouse.	10 mins	Best of 3
+9	22A79739	Best of 3	One of your brothers lost the ~B~bike.~S~ Steal it and take it to your Clubhouse.	You captured the bike for your team.
+10	2DCABDDC	You captured the bike for your team.	Best of 3	60 mins
+11	30E533B4	60 mins	You captured the bike for your team.	Best of 9
+12	3D0D4C04	Best of 9	60 mins	Best of 5
+13	4B4FE889	Best of 5	Best of 9	You have the bike. Return it to the ~Y~Clubhouse.~S~
+14	54C40BCE	You have the bike. Return it to the ~Y~Clubhouse.~S~	Best of 5	Steal the ~B~Innovation~S~ before the Angels of Death and bring it back to the Clubhouse.
+15	624AFB14	Steal the ~B~Innovation~S~ before the Angels of Death and bring it back to the Clubhouse.	You have the bike. Return it to the ~Y~Clubhouse.~S~	One of the Angels of Death has taken the ~B~bike.~S~ Get it back before he takes it to their Clubhouse.
+16	AAE3109F	One of the Angels of Death has taken the ~B~bike.~S~ Get it back before he takes it to their Clubhouse.	Steal the ~B~Innovation~S~ before the Angels of Death and bring it back to the Clubhouse.	One of your brothers captured the bike.
+17	B743D0C8	One of your brothers captured the bike.	One of the Angels of Death has taken the ~B~bike.~S~ Get it back before he takes it to their Clubhouse.	~R~The bike was destroyed.~S~
+18	B7DF515F	~R~The bike was destroyed.~S~	One of your brothers captured the bike.	Duration
+19	C300C261	Duration	~R~The bike was destroyed.~S~	Get off the bike.
+20	C9137467	Get off the bike.	Duration	~S~The Lost no longer have the ~B~bike.~S~ Steal it and take it to the Clubhouse.
+21	DA669675	~S~The Lost no longer have the ~B~bike.~S~ Steal it and take it to the Clubhouse.	Get off the bike.	~S~Take the bike back to the ~Y~Clubhouse.~S~
+22	DB9D9983	~S~Take the bike back to the ~Y~Clubhouse.~S~	~S~The Lost no longer have the ~B~bike.~S~ Steal it and take it to the Clubhouse.	~R~The Angels of Death destroyed the bike.~S~
+23	E2F180BF	~R~The Angels of Death destroyed the bike.~S~	~S~Take the bike back to the ~Y~Clubhouse.~S~	~R~The bike is stuck. Pickup a different bike.~S~
+24	E471AA8B	~R~The bike is stuck. Pickup a different bike.~S~	~R~The Angels of Death destroyed the bike.~S~	20 mins
+25	E87C22E3	20 mins	~R~The bike is stuck. Pickup a different bike.~S~	~R~You destroyed the bike.~S~
+26	EE2C3EA0	~R~You destroyed the bike.~S~	20 mins	~R~The Angels of Death captured the bike.~S~
+27	F4AB2432	~R~The Angels of Death captured the bike.~S~	~R~You destroyed the bike.~S~	~R~One of your brothers destroyed the bike. ~S~
+28	F6AC4F00	~R~One of your brothers destroyed the bike. ~S~	~R~The Angels of Death captured the bike.~S~	~R~The Lost captured the bike.~S~
+29	FBD75BA8	~R~The Lost captured the bike.~S~	~R~One of your brothers destroyed the bike. ~S~	One of your brothers has the ~B~bike.~S~ Help get it back to the Clubhouse.
+30	FE8ADF5D	One of your brothers has the ~B~bike.~S~ Help get it back to the Clubhouse.	~R~The Lost captured the bike.~S~	~S~The Angels of Death no longer have the ~B~bike.~S~ Steal it and take it to the Clubhouse.
+31	FF72608C	~S~The Angels of Death no longer have the ~B~bike.~S~ Steal it and take it to the Clubhouse.	One of your brothers has the ~B~bike.~S~ Help get it back to the Clubhouse.	

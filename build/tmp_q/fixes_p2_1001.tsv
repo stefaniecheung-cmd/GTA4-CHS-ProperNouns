@@ -1,0 +1,27 @@
+chapter	table	crc	新译正文	理由
+base	MAIN	83A2478B	按~INPUT_VEH_EXIT~下车。~n~按~INPUT_FRONTEND_ACCEPT~加钱跳过这段行程。~n~用~PAD_LSTICK_UPDOWN~切换目的地。	skip at extra cost 是加钱跳过这段行程，原译「跳过动画」把行程说成动画
+base	MAIN	885AD568	目前尚未登录。用 Social Club 账户登录后，您可以把游戏进度连同所获成就一并保存。若没有网络连接，仍须以「离线账户」登录才能保存进度。您想现在登录吗？	原文只说离线账户同样能存进度，原译自加「但将无法解锁成就」
+base	MAIN	104CF09E	用~INPUT_KB_LEFT~和~INPUT_KB_RIGHT~浏览帽子。~n~按~INPUT_FRONTEND_ACCEPT~购买帽子。~n~按~INPUT_PICKUP~不买帽子离开。	两键名之间缺「和」；leave hat 漏译宾语
+base	MAIN	75C2D709	用~INPUT_KB_LEFT~和~INPUT_KB_RIGHT~浏览眼镜。~n~按~INPUT_FRONTEND_ACCEPT~购买眼镜。~n~按~INPUT_PICKUP~不买眼镜离开。	两键名之间缺「和」；leave glasses 漏译宾语
+base	MAIN	A1220845	用~INPUT_KB_LEFT~和~INPUT_KB_RIGHT~浏览鞋子。~n~按~INPUT_FRONTEND_ACCEPT~购买鞋子。~n~按~INPUT_PICKUP~不买鞋离开。	两键名之间缺「和」；leave shoes 漏译宾语
+base	MAIN	042B0B7E	你已经拥有~a~了。~n~用~PAD_LEFT~和~PAD_RIGHT~浏览鞋子。~n~按~INPUT_FRONTEND_ACCEPT~购买鞋子。~n~按~INPUT_PICKUP~不买鞋离开。	两键名之间缺「和」；leave shoes 漏译宾语
+base	MAIN	DEB64095	你已经拥有~a~了。~n~用~PAD_LEFT~和~PAD_RIGHT~浏览帽子。~n~按~INPUT_FRONTEND_ACCEPT~购买帽子。~n~按~INPUT_PICKUP~不买帽子离开。	两键名之间缺「和」；leave hats 漏译宾语
+base	MAIN	FDF87F19	你已经拥有~a~了。~n~用~PAD_LEFT~和~PAD_RIGHT~浏览眼镜。~n~按~INPUT_FRONTEND_ACCEPT~购买眼镜。~n~按~INPUT_PICKUP~不买眼镜离开。	两键名之间缺「和」；leave glasses 漏译宾语
+base	MAIN	A6FD0E40	按~INPUT_VEH_EXIT~下车。~n~按~INPUT_FRONTEND_ACCEPT~跳过这段行程。~n~按~PAD_X~加急。~n~用~PAD_LSTICK_UPDOWN~切换目的地。	skip 是跳过这段行程，与同批「加钱跳过」条统一口径
+base	MAIN	2FC9CC29	按~INPUT_VEH_EXIT~下车。~n~按~INPUT_FRONTEND_ACCEPT~加钱跳过这段行程。~n~按~PAD_X~加急。~n~用~PAD_LSTICK_UPDOWN~切换目的地。	skip at extra cost 是加钱跳过这段行程，原译「跳过动画」错层
+base	MAIN	56ECAEFE	你已经拥有~a~了。~n~用~INPUT_KB_LEFT~和~INPUT_KB_RIGHT~浏览鞋子。~n~按~INPUT_FRONTEND_ACCEPT~购买鞋子。~n~按~INPUT_PICKUP~不买鞋离开。	两键名之间缺「和」；leave shoes 漏译宾语
+base	MAIN	D585B63F	你已经拥有~a~了。~n~用~INPUT_KB_LEFT~和~INPUT_KB_RIGHT~浏览帽子。~n~按~INPUT_FRONTEND_ACCEPT~购买帽子。~n~按~INPUT_PICKUP~不买帽子离开。	两键名之间缺「和」；leave hats 漏译宾语
+base	MAIN	E86F200A	你已经拥有~a~了。~n~用~INPUT_KB_LEFT~和~INPUT_KB_RIGHT~浏览眼镜。~n~按~INPUT_FRONTEND_ACCEPT~购买眼镜。~n~按~INPUT_PICKUP~不买眼镜离开。	两键名之间缺「和」；leave glasses 漏译宾语
+base	MAIN	5950208D	按~INPUT_VEH_EXIT~下车。~n~按~INPUT_FRONTEND_ACCEPT~跳过这段行程。~n~用~PAD_RSTICK_ALL~观察四周。~n~用~PAD_LSTICK_UPDOWN~切换目的地。	skip 是跳过这段行程，原译「跳过动画」错层
+base	MAIN	115F90AD	按~INPUT_VEH_EXIT~下车。~n~按~INPUT_FRONTEND_ACCEPT~加钱跳过这段行程。~n~用~PAD_RSTICK_ALL~观察四周。~n~用~PAD_LSTICK_UPDOWN~切换目的地。	skip at extra cost 是加钱跳过这段行程，原译「跳过动画」错层
+base	MAIN	41034C6C	按~PAD_DPAD_UP~或~PAD_DPAD_DOWN~换台。用~INPUT_FRONTEND_LT~或~INPUT_FRONTEND_RT~调节音量。按~PAD_BACK~切换视角。按~INPUT_PICKUP~停止观看。	两组键名之间都缺「或」，原译直接并置
+base	MAIN	9BD783C6	按~PAD_DPAD_UP~或~PAD_DPAD_DOWN~换台。用~INPUT_FRONTEND_LT~或~INPUT_FRONTEND_RT~调节音量。按~PAD_BACK~切换视角。按~INPUT_PICKUP~停止观看。	两组键名之间都缺「或」
+base	MAIN	DAF046C8	用~PAD_DPAD_UP~或~PAD_DPAD_DOWN~换台。按~INPUT_FRONTEND_LB~或~INPUT_FRONTEND_RB~调节音量。按~PAD_BACK~切换视角。按~INPUT_PICKUP~停止观看。	两组键名之间都缺「或」
+base	MAIN	CCB22A4C	按~PAD_DPAD_UP~或~PAD_DPAD_DOWN~换台。按~INPUT_FRONTEND_LT~或~INPUT_FRONTEND_RT~调节音量。按~PAD_BACK~切换视角。按~INPUT_PICKUP~停止观看。	两组键名之间都缺「或」；且原译自加~n~断行，原文没有
+base	MAIN	11F4F816	下装~n~按~PAD_UP~查看上装。~n~按~PAD_DOWN~查看鞋子。~n~用~PAD_LEFT~和~PAD_RIGHT~更换下装。~n~按~INPUT_FRONTEND_ACCEPT~确认。~n~按~INPUT_PICKUP~取消。	两键名之间缺「和」
+base	MAIN	22492C46	眼镜~n~按~PAD_UP~查看帽子。~n~按~PAD_DOWN~查看上装。~n~用~PAD_LEFT~和~PAD_RIGHT~更换眼镜。~n~按~INPUT_FRONTEND_ACCEPT~确认。~n~按~INPUT_PICKUP~取消。	两键名之间缺「和」
+base	MAIN	322CF8C7	眼镜~n~按~PAD_UP~查看帽子。~n~按~PAD_DOWN~查看套装。~n~用~PAD_LEFT~和~PAD_RIGHT~更换眼镜。~n~按~INPUT_FRONTEND_ACCEPT~确认。~n~按~INPUT_PICKUP~取消。	两键名之间缺「和」
+base	MAIN	41CF96C1	套装~n~按~PAD_UP~查看眼镜。~n~按~PAD_DOWN~查看鞋子。~n~用~PAD_LEFT~和~PAD_RIGHT~更换套装。~n~按~INPUT_FRONTEND_ACCEPT~确认。~n~按~INPUT_PICKUP~取消。	两键名之间缺「和」
+base	MAIN	618FCDC3	上装~n~按~PAD_UP~查看眼镜。~n~按~PAD_DOWN~查看下装。~n~用~PAD_LEFT~和~PAD_RIGHT~更换上装。~n~按~INPUT_FRONTEND_ACCEPT~确认。~n~按~INPUT_PICKUP~取消。	两键名之间缺「和」
+base	MAIN	4BFC85E6	按~INPUT_VEH_EXIT~下车。~n~按~INPUT_FRONTEND_ACCEPT~跳过这段行程。~n~按~PAD_X~加急。~n~用~PAD_RSTICK_ALL~观察四周。~n~用~PAD_LSTICK_UPDOWN~切换目的地。	skip 是跳过这段行程，原译「跳过动画」错层
+base	MAIN	698ABFB2	按~INPUT_VEH_EXIT~下车。~n~按~INPUT_FRONTEND_ACCEPT~加钱跳过这段行程。~n~按~PAD_X~加急。~n~用~PAD_RSTICK_ALL~观察四周。~n~用~PAD_LSTICK_UPDOWN~切换目的地。	skip at extra cost 是加钱跳过这段行程，原译「跳过动画」错层

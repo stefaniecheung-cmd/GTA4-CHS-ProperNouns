@@ -1,0 +1,93 @@
+crc	table	english	zh	缺失
+08045C81	MAIN	Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to buy.~n~Press ~INPUT_PICKUP~ to exit.~n~~r~You are already wearing full body armor.	用~PAD_LSTICK_ALL~选择武器。~n~按~INPUT_FRONTEND_ACCEPT~购买。~n~按~INPUT_PICKUP~退出。~n~~g~你已经穿着了完好的防弹衣。	控制符丢失:~r~
+16BB004E	MAIN	Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to buy.~n~Press ~INPUT_PICKUP~ to exit.~n~~r~You are already equipped with a knife.	用~PAD_LSTICK_ALL~选择武器。~n~按~INPUT_FRONTEND_ACCEPT~购买。~n~按~INPUT_PICKUP~退出。~n~~g~你已经拥有了匕首。	控制符丢失:~r~
+3FA9F8B0	MAIN	You have ~1~ seconds to return to your ~b~vehicle.	在~1~秒内回到你的载具上。	控制符丢失:~b~
+912AD69B	MAIN	You are at the crime scene. Take out any ~r~criminals~s~ in this precinct.	你已到达犯罪现场。解决区域内的所有~r~罪犯。	控制符丢失:~s~
+C61F09D8	MAIN	You have ~1~ second to return to your ~b~vehicle.	在~1~秒内回到你的载具上。	控制符丢失:~b~
+CD06E2B6	MAIN	~s~Paramedics will heal you if you look hurt.~n~They will charge a fee.	~s~若你看上去受伤了，医务人员将会治疗你。这将收取一定费用。	控制符丢失:~n~
+087575BA	BELL2	~s~Lose your wanted level.	甩掉条子。	控制符丢失:~s~
+AE59D75A	BERNIE1	Take Bernie to ~y~Perseus~s~ in The Exchange.	带伯尼去证券交易所的~y~神之子服饰。	控制符丢失:~s~
+5067BC8A	BYDSH	Drive to ~y~Burger Shot~s~ where Bucky hangs out.	驾车前往巴基所在的~y~汉堡店。	控制符丢失:~s~
+398AEA2A	CHOPCHS	Get close and move to the right of the ~r~target chopper~w~ to give Jacob a shot.	从右侧接近~r~目标~s~~n~给雅各布制造开火机会。	控制符丢失:~w~
+072F52A6	CIA2	~s~Press ~PAD_LB~ to leave the police computer.	按~PAD_LB~退出警用电脑。	控制符丢失:~s~
+83652D14	CIA5	Fly to the ~y~dropoff point~s~ on the south side of the Airport.	飞往位于机场南侧的~y~着陆点。	控制符丢失:~s~
+D8EEDCFD	CIA5	Take the ~b~helicopter.~s~	抢夺~b~直升机。	控制符丢失:~s~
+70002479	DWAYNE1	Chase ~r~Jayvon~s~ down.	追击~r~杰丰。	控制符丢失:~s~
+A4BE8DC5	DWAYNE1	Go meet ~b~Dwayne~s~ at the Cluckin' Bell.	去铛铛钟找~b~德维恩。	控制符丢失:~s~
+66F1E0DD	E3AUD	~z~-See you later.~n~-watch me and...	~z~待会儿见。	控制符丢失:~n~
+C95409B3	ELIZA1	~s~Press ~PAD_LB~ or ~PAD_B~ to fire.	~s~按~INPUT_ATTACK~开火。	控制符丢失:~PAD_B~,~PAD_LB~
+39C0CEB7	FCJAAUD	~z~Yo, me done with this y'know, star. Me can't find meself warming up.	哟，我受不了了好吧，兄弟。我整个人都不好了。	控制符丢失:~z~
+68B9342B	FCJAAUD	~z~Yo me have enough o' this y'know, star. Jus' take I home y'know, Niko.	哟，我受够了好吗，兄弟。赶紧送我回家，尼克。	控制符丢失:~z~
+84686B89	FCJAAUD	~z~Yo, me have enough o' this star, man. Jus' take I home Niko, no?	哟，我已经受够了，兄弟。送我回家好吗，尼克？	控制符丢失:~z~
+3A8F73AC	FM1AUD	~z~Yeah ya do. You know that a man's gotta do~n~what a man's gotta do.	~z~不，你知道的。该做的事就是得做。	控制符丢失:~n~
+8DF2A3B8	FRANCI1	Go to the ~y~viewpoint~s~ off Union Drive East.	前往联合车道东的~y~观景台。	控制符丢失:~s~
+0E8A5F42	FRANCI4	There is ~g~ammo~s~ for the sniper rifle in the car.	车里有狙击步枪的~g~弹药。	控制符丢失:~s~
+3D9E3D69	FRANCI4	Take the ~g~sniper rifle~s~ from the car.	去车里拿~g~狙击步枪。	控制符丢失:~s~
+71EAA601	FRANCI4	Obtain ~g~ammo~s~ for the sniper rifle.	去弄一些狙击枪的~g~子弹。	控制符丢失:~s~
+DD901E8E	FRANCI5	Go to the ~y~courtyard park~s~ in Lancet.	前往兰塞特区的~y~庭院公园。	控制符丢失:~s~
+266EF18D	GUNINTR	Take Dimitri to the ~y~sex shop~s~ on Delaware Avenue.	带迪米特里去特拉华大道上的~y~成人用品店。	控制符丢失:~s~
+1BB561FE	INTDATE	~s~Get back in the car with ~a~.	与~a~一起回到车上。	控制符丢失:~s~
+312CA3D8	JACOB3P	Take the package to ~y~Schottler~s~ by 0~1~:~1~.	在 0~1~:~1~ 前将包裹送到~y~舒特勒。	控制符丢失:~s~
+466ECE5C	JACOB3P	Take the package to ~y~Schottler~s~ by 0~1~:0~1~.	在 0~1~:0~1~ 前将包裹送到~y~舒特勒。	控制符丢失:~s~
+7AEFB75D	JACOB3P	Take the package to ~y~Schottler~s~ by ~1~:0~1~.	在 ~1~:0~1~ 前将包裹送到~y~舒特勒。	控制符丢失:~s~
+974070FA	JACOB3P	Take the package to ~y~Schottler~s~ by 00:~1~.	在 00:~1~ 前将包裹送到~y~舒特勒。	控制符丢失:~s~
+9B68784E	JACOB3P	Wipe ~r~them~s~ all out.	干掉~r~他们。	控制符丢失:~s~
+D1CB6A3B	JACOB3P	Take the package to ~y~Schottler~s~ by ~1~:~1~.	在 ~1~:~1~ 前将包裹送到~y~舒特勒。	控制符丢失:~s~
+8812C34C	JIMMY1	~S~Get back to ~b~Pegorino~s~ with the offering.	~S~带着礼物去找~b~佩戈里诺。	控制符丢失:~s~
+04DBA6C7	JIMMY2	Wipe ~r~them~s~ all out.	消灭~r~帕瓦诺家族的人。	控制符丢失:~s~
+6C243296	JIMMY3	Press ~a~ to change into doctor's scrubs.	按~PAD_LB~换上医生工作服。	控制符丢失:~a~
+8802C5D9	JIMMY3	Press ~a~ to speak to the nurse.	按~PAD_LB~与护士交谈。	控制符丢失:~a~
+B4C42550	JIMMY3	Press ~a~ to unplug the life support machine.	按~PAD_LB~切断维生装置的电源。	控制符丢失:~a~
+6BB409E1	JIMMY4	~s~Don't get too close or you might be spotted.	甩掉条子。	控制符丢失:~s~
+550560C4	KILLBOX	Go to ~y~Oleg's apartment~s~ in Hove Beach.	前往奥列格在霍夫海滩的~y~公寓。	控制符丢失:~s~
+7A04BCED	LK_NET3	Go to the ~y~basketball courts~s~ on Exeter Avenue.	前往埃克塞特大道的~y~篮球场。	控制符丢失:~s~
+DD7C3BE0	M1AUD	~z~-What?~n~-Okay.	~z~怎么？	控制符丢失:~n~
+EAAF5646	M1AUD	~z~-What?~n~-Oh, oh, oh, oh.	~z~哦，哦，哦，哦。	控制符丢失:~n~
+217A924B	PULOVER	~s~The ~b~vans~S~ are in transit. Find them and pull them over.	~b~货车~S~都在行驶中。找到并截停它们。	控制符丢失:~s~
+ACD2A95D	PULOVER	~s~Find and pull over the ~b~van~S~ before it reaches its destination.	~s~在货车到达其目的地前截停~b~货车。	控制符丢失:~S~
+FB3D2E63	WI_JEF1	Use ~PAD_RSTICK_ALL~ to move the camera. Zoom in and out using ~PAD_LSTICK_UPDOWN~. Press ~INPUT_PHONE_ACCEPT~ to capture an image. When taking a photo of a person make sure you get a clear shot of their face.	用~PAD_LSTICK_ALL~移动相机，用~PAD_RSTICK_UPDOWN~进行缩放。按~INPUT_PHONE_ACCEPT~拍照。拍人时确保能拍到脸。	控制符丢失:~PAD_LSTICK_UPDOWN~,~PAD_RSTICK_ALL~
+2F0E064C	WI_PTS1	Take out the ~r~men~s~ that are hassling Pathos.	干掉~r~骚扰帕索斯的人。	控制符丢失:~s~
+4A137BC5	BILLY1	This is Johnny's Hexer. It's the only one of its kind in Liberty City.~n~A modern classic chopper with a 2032cc twin cam engine and 6 speed transmission with a final chain drive.	这是强尼的Hexer，在自由城独一无二。它是一台现代复古摩托，搭载2032cc双凸轮发动机与六速变速箱，采用链条传动。	控制符丢失:~n~
+7ED36B66	BILLY1	~s~Press ~INPUT_VEH_ACCELERATE~ to accelerate. Press ~INPUT_VEH_BRAKE~ to brake or reverse if the vehicle is stopped.	按~INPUT_VEH_ACCELERATE~加速。按~INPUT_VEH_BRAKE~刹车，在车辆停止时可倒车。	控制符丢失:~s~
+110FCB09	BILLY4	Go with ~b~Billy~s~.	跟随~b~比利。	控制符丢失:~s~
+8C66121B	BILLY4	Race against Billy to the ~y~A.O.D. clubhouse~s~.	与比利比赛谁先到达~y~死亡天使会所。	控制符丢失:~s~
+3DFF7745	BILLY5	Go to the ~y~building~s~ where the deal is taking place.	前往~y~交易地点。	控制符丢失:~s~
+755965FC	BILLY5	The ~y~apartment~s~ is on the third floor.	交易地点在~y~公寓三楼。	控制符丢失:~s~
+0F0771A5	BILLY6	Protect ~b~Billy~s~.	保护~b~比利。	控制符丢失:~s~
+74BBFD1E	BILLY6	~r~Your bike was wrecked.~s~	~r~你的摩托坏了。	控制符丢失:~s~
+A2B9EBA2	BILLY6	Go back and get ~b~Jim.~s~	回去找~b~吉姆。	控制符丢失:~s~
+B360564B	BILLY6	Race against Billy to the ~y~target.~s~	与比利比赛谁先到达~y~目的地。	控制符丢失:~s~
+BDB1E3C9	BILLY6	~r~You have abandoned your bike.~s~	~r~你抛弃了你的摩托。	控制符丢失:~s~
+E1AB8D81	BILLY6	~r~You abandoned Jim.~s~	~r~你抛弃了吉姆。	控制符丢失:~s~
+6CFC1807	CHAPE1	Deal with the ~r~Angels of Death~s~ and protect ~b~The Lost.	对抗~r~死亡天使~s~并保护失落帮。	控制符丢失:~b~
+3F5AB798	E1E2AUD	~z~~x~Ah... entiendo.	~z~~c~啊...理解。你假装大男子，其实喜欢同性的兄弟，跟我一样。	控制符丢失:~x~
+6A858B3D	STUB3M1	~s~Lose the cops.	甩掉条子。	控制符丢失:~s~
+209425A2	STUB3M2	Meet the ~b~contact ~s~by 0~1~:~1~.	在0~1~:~1~之前去见~b~联络人。	控制符丢失:~s~
+4D3E7EF6	STUB3M2	Meet the ~b~contact ~s~by ~1~:0~1~.	在~1~:0~1~之前去见~b~联络人。	控制符丢失:~s~
+9AAB9997	STUB3M2	Meet the ~b~contact ~s~by ~1~:~1~.	在~1~:~1~之前去见~b~联络人。	控制符丢失:~s~
+AAF43A28	STUB3M2	Meet the ~b~contact ~s~by 0~1~:0~1~.	在0~1~:0~1~之前去见~b~联络人。	控制符丢失:~s~
+CF97036D	STUB3M2	Meet the ~b~contact ~s~by 00:~1~.	在00:~1~之前去见~b~联络人。	控制符丢失:~s~
+FECBE1D6	STUB3M2	Meet the ~b~contact ~s~by 00:0~1~.	在00:0~1~之前去见~b~联络人。	控制符丢失:~s~
+10B6D526	STUB3M4	Get the car back ~s~by ~1~:0~1~.	在~1~:0~1~之前送还跑车。	控制符丢失:~s~
+3B7B2AB2	STUB3M4	Get the car back ~s~by 0~1~:~1~.	在0~1~:~1~之前送还跑车。	控制符丢失:~s~
+70ECE254	STUB3M4	~s~You have ~1~ minutes left to return car to the garage.	在~1~分钟内把车送回车库。	控制符丢失:~s~
+C26D32DC	STUB3M4	Get the car back ~s~by 00:~1~.	在00:~1~之前送还跑车。	控制符丢失:~s~
+CFE94DD4	STUB3M4	Get the car back ~s~by ~1~:~1~.	在~1~:~1~之前送还跑车。	控制符丢失:~s~
+DD3BE879	STUB3M4	Get the car back ~s~by 0~1~:0~1~.	在0~1~:0~1~之前送还跑车。	控制符丢失:~s~
+66BAED1A	STUBBS1	The chopper is landing. Find a way to take out the ~r~target.~s~	直升机正在降落。设法解决~r~目标。	控制符丢失:~s~
+74C68939	STUBBS1	The convoy is on the move. Take out the ~r~target.~s~	车队正在行进。解决~r~目标。	控制符丢失:~s~
+F4F70994	STUBBS1	Get to the ~y~airport runway~s~ by ~1~:~1~.	在~1~:~1~之前到达~y~机场跑道。	控制符丢失:~s~
+4D5F92A3	CLBPRC7	Go to ~y~Maisonette 9~s~ without hurting the fans.	在不伤害粉丝的同时前往~y~9号豪宅。	控制符丢失:~s~
+E1C9DCF8	CLUBSEC	You have ~1~ seconds to~n~return to the club to continue working as manager.	在~1~秒内回到店内继续负责经营。	控制符丢失:~n~
+E55BB679	DANCING	When the speaker glows red perform a hold move by holding ~PAD_LSTICK_ALL~ or ~PAD_RSTICK_ALL~ in one direction.	扬声器图标变红时，朝一个方向推动~INPUT_MOVE_LEFT~或~INPUT_MOVE_RIGHT~以保持动作。	控制符丢失:~PAD_LSTICK_ALL~,~PAD_RSTICK_ALL~
+879E9605	DWARS	Go get a ~b~boat ~s~from the dock.	去码头找一条~b~船。	控制符丢失:~s~
+705FE7DB	E2BG1AU	~z~~x~	~z~哈哈哈哈哈哈哈哈。	控制符丢失:~x~
+817C865E	E2T10AU	~z~- Hey, Dess.~n~ - Hey, man. ~n~ - Tony in? ~n~ - I ain't seen him.	~z~－嘿，德西。　－嘿，哥们。　－托尼在吗？　－没看见他。	控制符丢失:~n~
+37FF4EBC	FRI2	A rival gang is attempting to steal the shipment. ~n~Take ~r~them ~s~out.	敌对帮派想要偷走货物。~n~干掉~r~他们。	控制符丢失:~s~
+D4C2F248	FRI2	Get in the ~b~car~s~ with Armando and Henrique.	与阿曼多和恩里克一起~b~上车。	控制符丢失:~s~
+00F5BF33	RBULG1	Put the bomb on the ~b~back ~s~of the car.	将炸弹安放在~b~车尾。	控制符丢失:~s~
+22A58C9B	RBULG1	Put the bomb on the ~b~front ~s~of the car.	将炸弹安放在~b~车头。	控制符丢失:~s~
+6F4A776C	RBULG1	Get in the ~b~car ~s~with Ray and Timur.	与雷和蒂穆尔上~b~车。	控制符丢失:~s~
+B804812E	RBULG1	Go to the underground ~y~carpark ~s~off Topaz St.	前往黄玉街的~y~地下停车场。	控制符丢失:~s~
+C080BAB6	RBULG1	Park in the ~y~empty space ~s~next to the pillar.	将车停入柱子旁的~y~车位。	控制符丢失:~s~
+0684CD8D	TONY3	Hit the ~r~Union official ~s~with golf balls.	用高尔夫球击打~r~工会干部。	控制符丢失:~s~

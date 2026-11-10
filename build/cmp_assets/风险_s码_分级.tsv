@@ -1,0 +1,129 @@
+﻿章节	表	CRC	分级	英文原文	我方定稿	我方缺失	我方多出
+base	DERRIC2	5A1F69A3	缺s-句中未闭合(串色风险)	~s~Get back to the ~b~boat's~s~ controls.	~s~回去开~b~船。	~s~	-
+base	DERRIC2	6909077A	缺s-句中未闭合(串色风险)	~s~Follow ~b~Kim~s~.	~s~跟随~b~金。	~s~	-
+base	DERRIC2	CDEA8653	多s-句中切断(串色风险)	~s~Protect Kim from the ~r~attackers.	~s~保护金免受~r~袭击者~s~的伤害。	-	~s~
+base	DERRIC3	34A7137D	多s-句中切断(串色风险)	~s~Ditch the truck in the ~y~quiet location.	~s~找个~y~偏僻的地方~s~处理囚车。	-	~s~
+base	DWAYNE1	BF5B42FE	多s-句中切断(串色风险)	Go to the arcade in ~y~Chinatown.	前往~y~唐人街~s~的游戏厅。	-	~s~
+base	DWAYNE1	FD48BF0C	多s-句中切断(串色风险)	You're losing ~r~Jayvon.	你要跟丢~r~杰丰~s~了。	-	~s~
+base	ELIZA1	79EEF3F4	缺s-句中未闭合(串色风险)	~s~Go to the ~y~building~s~ in South Bohan.	~s~前往南波汉的~y~公寓楼。	~s~	-
+base	F1M7P	0E4B44AF	多s-句中切断(串色风险)	You have ~1~ second to get back in the ~b~car.	在~1~秒内回到~b~车~s~上。	-	~s~
+base	F1M7P	0F908A1D	多s-句中切断(串色风险)	Pick up the customer from ~y~Outlook.	去~y~奥特卢克~s~接上乘客。	-	~s~
+base	F1M7P	14DBD530	多s-句中切断(串色风险)	Pick up the customer from ~y~Boulevard.	去~y~林荫大道~s~接上乘客。	-	~s~
+base	F1M7P	21856B23	多s-句中切断(串色风险)	You have ~1~ seconds to get back in the ~b~car.	在~1~秒内回到~b~车~s~上。	-	~s~
+base	F1M7P	2C7543E6	多s-句中切断(串色风险)	Pick up the customer from ~y~Firefly Island.	去~y~萤火虫岛~s~接上乘客。	-	~s~
+base	F1M7P	36BB18F2	多s-句中切断(串色风险)	Pick up the customer from ~y~South Bohan.	去~y~南波汉~s~接上乘客。	-	~s~
+base	F1M7P	4871BC5F	多s-句中切断(串色风险)	Pick up the customer from ~y~Industrial.	去~y~工业区~s~接上乘客。	-	~s~
+base	F1M7P	5C0F639A	多s-句中切断(串色风险)	Pick up the customer from ~y~Cerveza Heights.	去~y~塞尔维萨高地~s~接上乘客。	-	~s~
+base	F1M7P	931F51B9	多s-句中切断(串色风险)	Pick up the customer from ~y~Northern Gardens.	去~y~北方花园~s~接上乘客。	-	~s~
+base	F1M7P	D698D773	多s-句中切断(串色风险)	Pick up the customer from ~y~Outlook.	去~y~奥特卢克~s~接上乘客。	-	~s~
+base	F1M7P	E0A5EB8D	多s-句中切断(串色风险)	Pick up the customer from ~y~Beechwood City.	去~y~比奇伍德城~s~接上乘客。	-	~s~
+base	F1M7P	E7F33ACF	多s-句中切断(串色风险)	Pick up the customer from ~y~Hove Beach.	去~y~霍夫海滩~s~接上乘客。	-	~s~
+base	FAU3	1F71410B	缺s-句中未闭合(串色风险)	~s~Take down ~r~Lenny~s~ on the station platform.	~s~干掉站台上的~r~莱尼。	~s~	-
+base	FAUST4	A7F13E80	缺s-句中未闭合(串色风险)	~s~The ~r~biker~s~ is heading into the gas station.	~r~飞车党~s~正在向加油站驶去。	~s~	-
+base	FIN1B	410A2F8B	多s-句中切断(串色风险)	~s~Go to the cargo hold and get revenge on ~r~Dimitri.	~s~进入货舱，向~r~迪米特里~s~复仇。	-	~s~
+base	FIN2	270AC9F8	多s-句中切断(串色风险)	~s~Get back in the ~b~helicopter.	~s~回到~b~直升机~s~上。	-	~s~
+base	FIN2	2F30DA48	多s-句中切断(串色风险)	~s~Get back in the ~b~car.	~s~回到~b~车~s~上。	-	~s~
+base	FIN2	7DCCE76F	多s-句中切断(串色风险)	~s~Get underneath Little Jacob's ~b~chopper.	~s~开到小雅各布的~b~直升机~s~下方。	-	~s~
+base	FLW_PED	44BC6936	多s-句中切断(串色风险)	Go to find the dealer in ~y~South Bohan.	去~y~南波汉~s~找那个毒贩。	-	~s~
+base	FRANCI2	AA45AFDC	多s-句中切断(串色风险)	~s~Wait outside ~y~Goldberg's office.	~s~在~y~戈德堡的办公室~s~外等候。	-	~s~
+base	FRANCI3	F3B311A5	缺s-句中未闭合(串色风险)	~s~Go to the ~y~projects~s~ in East Holland.	~s~前往东荷兰的~y~公屋社区。	~s~	-
+base	FRANCI4	6738E841	缺s-句中未闭合(串色风险)	~s~Hunt the ~r~dealer~s~ down.	~s~追击~r~毒贩。	~s~	-
+base	FRANCI4	870B5042	多s-句中切断(串色风险)	Get the sniper rifle from the ~g~car.	去~g~车~s~里拿狙击步枪。	-	~s~
+base	FRANCI4	BCE5BBF6	多s-句中切断(串色风险)	Get ammo for your sniper rifle from the ~g~car.	去~g~车~s~里拿取狙击枪弹药。	-	~s~
+base	FRANCI4	ED6CE0FC	多s-句中切断(串色风险)	Make your way to the dealer's apartment off ~y~Denver Avenue.	前往毒贩所在的~y~丹佛大道~s~上的公寓。	-	~s~
+base	FRANCI6	41A9720D	缺s-句中未闭合(串色风险)	~s~Get in the ~b~hearse~s~ with Packie.	~s~与派奇一起进入~b~灵车。	~s~	-
+base	FRANCI6	585A9F6B	多s-句中切断(串色风险)	~s~Protect the McReary family from the ~r~Albanian hoods.	~s~从~r~阿尔巴尼亚帮成员~s~手中保护麦克雷里一家。	-	~s~
+base	GAMBET1	71A4A47D	多s-句中切断(串色风险)	Get back into the ~b~car.	回到~b~车~s~上。	-	~s~
+base	GM4	608A327C	缺s-句中未闭合(串色风险)	~s~Get in the ~b~car~s~ Packie left you.	~s~进入派奇留给你的~b~车。	~s~	-
+base	GM4	C940850B	缺s-句中未闭合(串色风险)	~s~You need to lose the ~r~cars~s~ first.	~s~你得先甩掉~r~追兵。	~s~	-
+base	GM5	4ABB9B85	多s-句中切断(串色风险)	~s~Get back into ~b~Packie's car.	~s~回到~b~派奇的车~s~上。	-	~s~
+base	GM5	EF616F45	缺s-句中未闭合(串色风险)	~s~Go to the ~y~meeting point~s~ upstairs.	~s~前往在二楼的~y~会面点。	~s~	-
+base	INTDATE	727669B3	缺s-句中未闭合(串色风险)	~s~Enter the ~y~darts place~s~ with ~a~.	~s~与~a~一起进入~y~飞镖区。	~s~	-
+base	INTDATE	C8EA00B5	缺s-句中未闭合(串色风险)	~s~Enter the ~y~strip club~s~ with ~a~.	~s~与~a~一起进入~y~脱衣舞俱乐部。	~s~	-
+base	INTDATE	DA113478	缺s-句中未闭合(串色风险)	~s~Enter the ~y~pool hall~s~ with ~a~.	~s~与~a~一起进入~y~台球厅。	~s~	-
+base	JACOB1	BF50986F	多s-句中切断(串色风险)	~s~Take Jacob to the apartment block in ~y~Willis.	~s~带雅各布去位于~y~威利斯~s~的公寓楼。	-	~s~
+base	JACOB3P	C485CFB0	多s-句中切断(串色风险)	Take the package to the bridge in ~y~Outlook Park.	将包裹送到~y~奥特卢克公园~s~内的桥下。	-	~s~
+base	JIMMY1	C43480D0	缺s-句中未闭合(串色风险)	~s~Take out the ~r~Pavanos~s~ before they kill Pegorino.	~s~在佩戈里诺被杀前消灭~r~帕瓦诺家族的人。	~s~	-
+base	JIMMY1	D145EC8E	多s-句中切断(串色风险)	~s~Get Pegorino's offering back from the ~r~Pavanos.	~s~从~r~帕瓦诺家族~s~手里夺回佩戈里诺的礼物。	-	~s~
+base	MANNY1	4B1DA5A6	缺s-句中未闭合(串色风险)	~s~The ~r~dealer~s~ went into the warehouse, get him.	~r~毒贩~s~进入了仓库，干掉他。	~s~	-
+base	MANNY3	1337E5F3	缺s-句中未闭合(串色风险)	~s~The ~r~target~s~ got into that car. Follow him.	~r~目标~s~上了那辆车。跟着他。	~s~	-
+base	MANNY3	56402DEA	缺s-句中未闭合(串色风险)	~s~The ~r~train~s~ has stopped.	~r~列车~s~停下了。	~s~	-
+base	MANNY3	923F1341	缺s-句中未闭合(串色风险)	~s~The ~r~train~s~ has stopped.	~r~列车~s~停下了。	~s~	-
+base	MANNY3	C8A38260	缺s-句中未闭合(串色风险)	~s~The ~r~target~s~ got off the train.	~r~目标~s~下车了。	~s~	-
+base	MICHEL1	203697E4	缺s-句中未闭合(串色风险)	~s~Go ~y~bowling~s~ with Michelle.	~s~和米歇尔一起去~y~打保龄球。	~s~	-
+base	MICHEL1	BAC43E5F	缺s-句中未闭合(串色风险)	~s~Go to Michelle's ~b~car~s~ before she leaves.	~s~在米歇尔离开前进入她的~b~车。	~s~	-
+base	PACK1	9E99F1F5	多s-句中切断(串色风险)	~s~Continue to the ~y~harbor warehouse.	~s~到~y~码头仓库~s~继续。	-	~s~
+base	PACKIE3	C9B77461	缺s-句中未闭合(串色风险)	~s~There are too many ~r~cops. ~s~Clear the path.	~r~警察~s~太多了，杀出一条血路。	~s~	-
+base	PLAYBY3	5C9C36FA	缺s-句中未闭合(串色风险)	~s~Go to the ~g~car~s~ in the alley downtown.	~s~进入停在市中心小巷的~g~车。	~s~	-
+base	PULOVER	196CDB4A	多s-句中切断(串色风险)	Get back in the ~B~car.	回到~B~车~s~上。	-	~s~
+base	PULOVER	53894F8A	多s-句中切断(串色风险)	~S~Take the van to the ~Y~lockup.	~S~将货车送到~Y~车库~s~中。	-	~s~
+base	PULOVER	6FF40A8B	多s-句中切断(串色风险)	Get back into the ~b~van.	回到~b~货车~s~上。	-	~s~
+base	RAY2	84881B4D	缺s-句中未闭合(串色风险)	~s~Go to the ~y~drop-off~s~ in Fishmarket South.	~s~前往鱼市南的~y~倾倒点。	~s~	-
+base	RAY2	924936CF	多s-句中切断(串色风险)	~s~Get back in the ~b~truck.	~s~回到~b~垃圾车~s~上。	-	~s~
+base	RAY3	3EA7B862	缺s-句中未闭合(串色风险)	~s~The ~r~gang~s~ have escaped into the park. Take them down.	~r~卢卡一伙~s~逃进了公园。干掉他们。	~s~	-
+base	RAY3	4D87D682	多s-句中切断(串色风险)	~s~Go meet Ray on the ~y~bridge.	~s~去~y~桥~s~上等雷。	-	~s~
+base	RAY4	556D6F48	多s-句中切断(串色风险)	~s~Meet Johnny at the side entrance to the ~y~Libertonian.	~s~去~y~自由城博物馆~s~的侧门与强尼会合。	-	~s~
+base	RAY5	10D8FAB7	缺s-句中未闭合(串色风险)	~s~The ~r~bikers~s~ have entered the subway system. Follow them.	~r~飞车党~s~进入了地铁隧道。跟上他们。	~s~	-
+base	RAY5	A679A5FA	多s-句中切断(串色风险)	~s~Chase and take out the ~r~bikers.	~s~追击~r~飞车党，~s~干掉他们。	-	~s~
+base	RAY5	AB22477F	缺s-句中未闭合(串色风险)	~s~The ~r~biker~s~ has entered the subway. Follow him.	~r~飞车党~s~进入了地铁隧道。跟着他。	~s~	-
+base	ROMA10P	6FADC511	缺s-句中未闭合(串色风险)	~s~Go pick up the ~b~Sanchez~s~ from ~a~.	~s~去~a~取~b~桑切斯。	~s~	-
+base	STRK_M1	0A7948DE	缺s-句中未闭合(串色风险)	~s~Get the ~g~cash~s~ from the office.	~s~去办公室拿走~g~现金。	~s~	-
+base	STRK_M1	39E7A7BA	多s-句中切断(串色风险)	~s~Escape from the depot with ~b~Packie.	~s~与~b~派奇~s~一起逃离仓库。	-	~s~
+base	VLAD3	926C450C	多s-句中切断(串色风险)	You can surprise some enemies with a ~h~stun punch. ~s~This will knock them to the floor instantly. Stun punches can not be performed while in combat.	你可以使用~h~击晕~s~给敌人来一个突然袭击。~s~你的敌人会直接倒地。击晕无法在战斗中使用。	-	~s~
+TLAD	MAIN	CCD9EE2F	多s-句中切断(串色风险)	You have ~1~ second to return to your ~b~bike.	在~1~秒内回到你的~b~摩托~s~上。	-	~s~
+TLAD	MAIN	EDB13B26	多s-句中切断(串色风险)	You have ~1~ seconds to return to your ~b~bike.	在~1~秒内回到你的~b~摩托~s~上。	-	~s~
+TLAD	ASHLEY2	7F5BEDF1	缺s-句中未闭合(串色风险)	~s~Go to the ~y~Libertonian~s~ between 9pm and 3am.	~s~在晚上9点到凌晨3点之间前往~y~自由城博物馆。	~s~	-
+TLAD	BILLY2	D8B44061	缺s-句中未闭合(串色风险)	~s~The ~r~A.O.D.~s~ are getting away.	~r~死亡天使~s~就要跑了。	~s~	-
+TLAD	BILLY4	82D5B3E8	缺s-句中未闭合(串色风险)	~s~Take down the ~r~Angels of Death~s~ defending their clubhouse.	~s~干掉保护会所的~r~死亡天使成员。	~s~	-
+TLAD	BILLY6	16397E97	缺s-句中未闭合(串色风险)	~s~Leave the vehicle and get to your ~b~bike.~s~	~s~离开车辆，骑上你的~b~摩托。	~s~	-
+TLAD	BILLY6	1D8D1C7E	缺s-句中未闭合(串色风险)	~s~Go to your ~y~turf.~s~	~s~前往你的~y~地盘。	~s~	-
+TLAD	BILLY6	28EEA520	缺s-句中未闭合(串色风险)	~s~Go to ~y~Feldspar Street.~s~	~s~前往~y~长石街。	~s~	-
+TLAD	BILLY6	31381129	缺s-句中未闭合(串色风险)	~s~Race the Lost crew to the ~y~meet.~s~	~s~与失落帮成员比赛谁先到达~y~会面地点。	~s~	-
+TLAD	BILLY6	46E070D8	缺s-句中未闭合(串色风险)	~s~Get to ~b~Billy~s~ before you lose him.	~s~在跟丢之前跟上~b~比利。	~s~	-
+TLAD	BILLY6	A1B29FB7	缺s-句中未闭合(串色风险)	~s~Take care of the remaining ~r~Triads.~s~	~s~处理剩下的~r~三合会成员。	~s~	-
+TLAD	BILLY6	D67B4A91	缺s-句中未闭合(串色风险)	~s~Go to your ~b~bike.~s~	~s~去找你的~b~摩托。	~s~	-
+TLAD	BILLY6	E774AB3A	缺s-句中未闭合(串色风险)	~s~Take out the ~r~Triads.~s~	~s~干掉~r~三合会成员。	~s~	-
+TLAD	BILLY6	F0733543	缺s-句中未闭合(串色风险)	~s~Go to ~b~Jim.~s~	~s~去找~b~吉姆。	~s~	-
+TLAD	BILLY6	F5E97B64	缺s-句中未闭合(串色风险)	~s~You are now Chapter President. Lead the group back to your ~y~turf.~s~	~s~你现在是分会会长了，带弟兄们回你的~y~地盘。	~s~	-
+TLAD	CHAPE1	6CFC1807	多s-句中切断(串色风险)	Deal with the ~r~Angels of Death~s~ and protect ~b~The Lost.	对抗~r~死亡天使~s~并保护~b~失落帮~s~。	-	~s~
+TLAD	E1RAY1	72BA0C00	多s-句中切断(串色风险)	Meet the other ~b~Lost gang members.	与其他~b~失落帮成员~s~会合。	-	~s~
+TLAD	E1RAY1	82A65564	多s-句中切断(串色风险)	Stash the diamonds in the two ~g~trash bags.	将钻石藏到两袋~g~垃圾~s~中。	-	~s~
+TLAD	E1RAY1	B8EB41ED	多s-句中切断(串色风险)	Stash the remaining diamonds in the other ~g~trash bag.	将余下钻石藏到另一袋~g~垃圾~s~中。	-	~s~
+TLAD	E1RC3	F297DDC1	多s-句中切断(串色风险)	Get back on your ~b~bike.	回到你的~b~摩托~s~上。	-	~s~
+TLAD	ELIZA_2	B6C59E32	多s-句中切断(串色风险)	You are too far away from ~b~Marta.~s~ Go back and pick her up.	你离~b~玛尔塔~s~太远了。~s~回去接她。	-	~s~
+TLAD	ELIZA_3	DF473DCA	缺s-句中未闭合(串色风险)	~s~Defend ~b~DeSean~s~ from the cops.	~s~从警察手里保护~b~德肖恩。	~s~	-
+TLAD	JIM1	F18D21E8	多s-句尾(低)	Go to the ~b~truck.~s~	前往~b~卡车~s~所在地。~s~	-	~s~
+TLAD	JIM2	26D2674B	多s-句中切断(串色风险)	~s~Get back on the ~b~bike.	~s~回到~b~摩托~s~上。	-	~s~
+TLAD	JIM2	67ACA76A	多s-句中切断(串色风险)	~s~Go and speak to ~b~Jim.	~s~和~b~吉姆~s~交谈。	-	~s~
+TLAD	JIM2	6C2B2F87	多s-句中切断(串色风险)	Get back on your ~b~bike.	回到你的~b~摩托~s~上。	-	~s~
+TLAD	JIMGANG	5F5641DF	多s-句中切断(串色风险)	~s~Meet up with the Lost ~b~members.	~s~与失落帮~b~成员~s~会合。	-	~s~
+TLAD	MALC1	8E99DD9D	多s-句中切断(串色风险)	Get back on your ~b~bike.	回到你的~b~摩托~s~上。	-	~s~
+TLAD	STUB3M1	DD6B8A78	缺s-句中未闭合(串色风险)	~s~Go to the ~y~alley~s~ near the red light district.	~s~前往红灯区附近的~y~小巷。	~s~	-
+TLAD	STUB3M5	B0D00B57	多s-句中切断(串色风险)	~s~Go to the ~b~CEO.	~s~前往~b~CEO~s~所在地。	-	~s~
+TLAD	STUB3M5	E8D05E86	缺s-句中未闭合(串色风险)	~s~Drive the CEO to her ~y~helipad~s~ quickly.	~s~尽快开车送CEO前往~y~停机坪。	~s~	-
+TLAD	STUB3M7	5129FFCE	多s-句中切断(串色风险)	~s~Meet up with the ~b~gang.	~s~与~b~帮派分子~s~见面。	-	~s~
+TLAD	STUBBS4	8C3139D7	多s-句尾(低)	~s~Get back on your ~b~Bike.~s~	~s~回到你的~b~摩托~s~上。~s~	-	~s~
+TBoGT	BBRO1	868955F5	缺s-句中未闭合(串色风险)	~s~Get back in the ~b~boat.~s~	~s~回到~b~船上。	~s~	-
+TBoGT	BJUMP	0947F6F9	多s-句中切断(串色风险)	Base jump onto the ~b~moving vehicle.	跳到~b~行驶的载具~s~上。	-	~s~
+TBoGT	BJUMP	F23E4D59	多s-句中切断(串色风险)	Base jump onto the ~y~checkpoint.	跳到~y~检查点~s~上。	-	~s~
+TBoGT	BRO3	15AEC666	多s-句中切断(串色风险)	~s~Line up behind the ~y~Kibbutz brothers.	~s~排到~y~基布兹兄弟~s~后面。	-	~s~
+TBoGT	BRO3	F977AF0D	多s-句中切断(串色风险)	~s~Get back in the ~b~car.	~s~回到~b~车~s~上。	-	~s~
+TBoGT	CLBPRC8	0519124E	多s-句中切断(串色风险)	Pick up Bruce Spade from ~y~Northwood.	去~y~北伍德~s~接布鲁斯･斯佩德。	-	~s~
+TBoGT	CLBPRC8	07941738	多s-句中切断(串色风险)	Go to the ~b~helicopter.	前往~b~直升机~s~所在地。	-	~s~
+TBoGT	CLBPRC8	38147844	多s-句中切断(串色风险)	Get back in the ~b~helicopter.	回到~b~直升机~s~上。	-	~s~
+TBoGT	DWARS	6ACD5B37	多s-句中切断(串色风险)	Get back in the ~b~drugs vehicle.	回到~b~运毒载具~s~上。	-	~s~
+TBoGT	E2CM1AU	9603CE32	说话人码重复(真问题)	~z~Hey, how you doing, buddy?	~z~~z~嘿，你好吗，伙计？	-	~z~
+TBoGT	FRI1	038C1F1B	缺s-句中未闭合(串色风险)	~s~Take out the ~r~cops~s~ on the roof.~s~	~s~干掉屋顶上的~r~警察。~s~	~s~	-
+TBoGT	FRI1	2FFA0221	缺s-句中未闭合(串色风险)	~s~Take out the ~r~cops~s~ atacking Henrique.	~s~干掉攻击恩里克的~r~警察。	~s~	-
+TBoGT	FRI1	34BE8B9E	缺s-句中未闭合(串色风险)	~s~Take out the ~r~cops~s~ atacking Armando.	~s~干掉攻击阿曼多的~r~警察。	~s~	-
+TBoGT	FRI1	DABE2525	缺s-句中未闭合(串色风险)	~s~Take out the ~r~cops~s~ in your way.	~s~干掉挡路的~r~警察。	~s~	-
+TBoGT	MARG1	43B3C80A	缺s-句中未闭合(串色风险)	~s~Get Margot to the ~y~emergency room~s~ before she dies.~s~	~s~在玛戈死之前把她送进~y~医院。~s~	~s~	-
+TBoGT	TONY11	788E1638	多s-句尾(低)	~S~Get to the other side of ~y~Funland.~s~	~S~前往~y~游乐园~s~的另一边。~s~	-	~s~
+TBoGT	TONY5	05FCA3F9	多s-句中切断(串色风险)	~s~The next target is on an out of service subway train, intercept it at the ~y~tunnel exit.	~s~下一个目标是一列非运营的地铁，去~y~隧道出口~s~拦截。	-	~s~
+TBoGT	TONY5	75C13FDC	缺s-句中未闭合(串色风险)	~s~Destroy the ~r~train~s~ using sticky bombs.	~s~用黏弹摧毁~r~列车。	~s~	-
+TBoGT	TONY5	8CD693E4	多s-句中切断(串色风险)	~s~Throw several sticky bombs onto the base of the ~r~crane.	~s~在~r~塔吊底座~s~上安放几枚黏弹。	-	~s~
+TBoGT	TONY5	952A7B8D	多s-句中切断(串色风险)	~s~Approach the runway through the ~y~security gate.	~s~从~y~安全门~s~进入跑道。	-	~s~
+TBoGT	TONY5	95A866E0	多s-句中切断(串色风险)	~s~The crane was not destroyed, new explosives need to be set on the ~r~crane base.	~s~塔吊未被摧毁，需要在~r~塔吊底座~s~上安放新的黏弹。	-	~s~
+TBoGT	TONY5	A58A44A4	缺s-句中未闭合(串色风险)	~s~You must destroy the ~r~plane ~s~before it takes off.	~s~你必须在目标起飞前摧毁~r~飞机。	~s~	-
+TBoGT	YUSUF1	006ADCE2	多s-句中切断(串色风险)	Get a boat from the ~y~marina.	前往~y~码头，~s~找一条船。	-	~s~
+TBoGT	YUSUF4	89B3B537	多s-句中切断(串色风险)	~s~Keep moving towards the ~b~front carriage.	~s~继续向~b~车头~s~前进。	-	~s~

@@ -1,0 +1,294 @@
+chapter	table	crc	严重度	类别	明细	判定依据	english	zh
+base	MAIN	04D48A21	提示	控制符多余	多:~n~	原文~n~数=0，译文多插入断行	To dial a number with your phone you will need to access the phone. Press ~INPUT_PHONE_TAKE_OUT~ to activate the phone.	用手机拨号前需要先拿出手机。~n~按~INPUT_PHONE_TAKE_OUT~拿出手机。
+base	MAIN	14AD6416	提示	控制符多余	多:~n~	原文~n~数=0，译文多插入断行	Try again? (~a~)	再试一次？ ~n~(~a~)
+base	MAIN	178A7406	提示	控制符多余	多:~n~	原文~n~数=0，译文多插入断行	The downloadable content required for this autoload is not available. Press ~INPUT_FRONTEND_ACCEPT~ to start a new game of Grand Theft Auto IV.	载入此自动存档所需的 DLC 不可用。~n~按~INPUT_FRONTEND_ACCEPT~以开始 Grand Theft Auto IV 的新游戏。
+base	MAIN	24780912	提示	控制符多余	多:~n~	原文~n~数=0，译文多插入断行	~s~Autoloading content. Please don't turn off your system.	~s~自动载入内容中。~n~请不要关闭您的系统。
+base	MAIN	28424B98	提示	控制符多余	多:~n~	原文~n~数=0，译文多插入断行	~s~Saving content. Please don't turn off your system.	~s~存储内容中。~n~请不要关闭您的系统。
+base	MAIN	38A92C69	提示	控制符多余	多:~n~	原文~n~数=0，译文多插入断行	~s~Saving content. Please don't turn off your system.	~s~存储内容中。~n~请不要关闭您的系统。
+base	MAIN	4707AF14	提示	控制符多余	多:~n~	原文~n~数=0，译文多插入断行	~s~Loading content. Please don't turn off your system.	~s~载入内容中。~n~请不要关闭您的系统。
+base	MAIN	49A8F513	提示	控制符多余	多:~n~	原文~n~数=0，译文多插入断行	You can now go on activities with Roman as well as working with him, phone him back to arrange an alternative activity, or he may phone you.	你现在可以与罗曼进行各种活动，~n~也能替他干活。他会打电话找你，你也能打给他安排活动。
+base	MAIN	61D81230	提示	控制符多余	多:~n~	原文~n~数=0，译文多插入断行	Select this option to access the Video Editor. Press ~INPUT_REPLAY_SAVE_TO_HDD~ to capture clips.	选择此项启动视频编辑器。~n~长按~INPUT_REPLAY_SAVE_TO_HDD~捕捉片段。
+base	MAIN	83576898	提示	控制符多余	多:~n~	原文~n~数=0，译文多插入断行	Updating thumbnail. Please don't turn off your system.	更新封面中。~n~请不要关闭您的系统。
+base	MAIN	8900A803	提示	控制符多余	多:~n~	原文~n~数=0，译文多插入断行	~s~Loading content. Please don't turn off your system.	~s~载入内容中。~n~请不要关闭您的系统。
+base	MAIN	9CEF8AB9	提示	控制符多余	多:~n~	原文~n~数=0，译文多插入断行	Saving Video. Please don't turn off your system.	正在保存视频。~n~请不要关闭您的系统。
+base	MAIN	A2C669DF	提示	控制符多余	多:~n~	原文~n~数=0，译文多插入断行	Select this option to access the Video Editor. Hold ~INPUT_REPLAY_SAVE_TO_HDD~ to capture clips.	选择此项启动视频编辑器。~n~长按~INPUT_REPLAY_SAVE_TO_HDD~捕捉片段。
+base	MAIN	B194C1E0	提示	控制符多余	多:~n~	原文~n~数=0，译文多插入断行	~s~Loading content. Please don't turn off your console.	~s~载入内容中。~n~请不要关闭您的主机。
+base	MAIN	B31C813C	提示	顺序不符	EN:~s~~a~~1~~1~ ZH:~s~~1~~1~~a~	颜色/占位顺序	~s~Pick up ~a~ for ~1~:0~1~.	~s~~1~:0~1~去接~a~。
+base	MAIN	CCB22A4C	提示	控制符多余	多:~n~	原文~n~数=0，译文多插入断行	Press ~PAD_DPAD_UP~ or ~PAD_DPAD_DOWN~ to change the channel. Press ~INPUT_FRONTEND_LT~ or ~INPUT_FRONTEND_RT~ to change the volume. Press ~PAD_BACK~ to change view. Press ~INPUT_PICKUP~ to stop watching.	按~PAD_DPAD_UP~~PAD_DPAD_DOWN~换台。按~INPUT_FRONTEND_LT~~INPUT_FRONTEND_RT~调节音量。~n~按~PAD_BACK~切换视角。按~INPUT_PICKUP~停止观看。
+base	MAIN	DAE51C17	提示	控制符多余	多:~n~	原文~n~数=0，译文多插入断行	~s~Saving Clip. Please don't turn off your system.	~s~存储片段中。~n~请不要关闭您的系统。
+base	MAIN	E18AC38E	提示	控制符多余	多:~n~	原文~n~数=0，译文多插入断行	Navigate the cellphone keypad using ~PAD_DPAD_ALL~. Select your desired input using ~INPUT_PHONE_ACCEPT~. To make a phone call select the phone icon on the top left of the keypad.	用~PAD_DPAD_ALL~在手机键盘上移动光标。~n~按~INPUT_PHONE_ACCEPT~输入所选数字。选中键盘左上角的电话图标进行呼叫。
+base	MAIN	E4926427	提示	顺序不符	EN:~s~~a~~1~~1~ ZH:~s~~1~~1~~a~	颜色/占位顺序	~s~Pick up ~a~ for ~1~:~1~.	~s~~1~:~1~.去接~a~。
+base	MAIN	F0AEE4CD	提示	控制符多余	多:~n~	原文~n~数=0，译文多插入断行	~s~Autoloading content. Please don't turn off your console.	~s~自动载入内容中。~n~请不要关闭您的主机。
+base	B2AUD	1C09820D	提示	控制符多余	多:~n~	原文~n~数=0，译文多插入断行	~z~Hey man, this familiarity is getting to me. I'm a 'friend' of Ray's. I'm part of the 'family'.	~z~嘿，兄弟，这亲戚攀的就有点过分了啊。~n~说我是雷的「朋友」，说我是「家族」的一份子。
+base	BERNIE3	F29739E5	提示	控制符多余	多:~s~	多余~s~（默认色复位，官方译文也常这样收尾，渲染无影响）	Take Bernie to the coast off ~y~Firefly Island.	带伯尼去~y~萤火虫岛~s~的海岸。
+base	BR2AUD	98E80C8D	提示	控制符多余	多:~n~	原文~n~数=0，译文多插入断行	~z~we'll cruise, we'll hang, alright, alright? Thanks, homie, thanks.	~z~一起坐船浪，一起出去玩！好吗？好吗？~n~谢谢，亲爱的，谢谢。
+base	C3AUD	28C7FD5F	提示	控制符多余	多:~n~	原文~n~数=0，译文多插入断行	~z~Wait until it touches down then, when the passengers are out, get in and fly it to the airport in Dukes.	~z~等它着陆，飞机上的人都下来后，~n~跳进飞机，开到公爵区的飞机场。
+base	C4AUD	1F6F5CA0	提示	控制符多余	多:~n~	原文~n~数=0，译文多插入断行	~z~There be the other chopper. Stick to him, Niko. We need to take him down where there be no people.	~z~目标在那里。跟住他，尼克。~n~要到无人区才能把他打下来。
+base	C4AUD	281DF403	提示	控制符多余	多:~n~	原文~n~数=0，译文多插入断行	~z~Yo, job well done ya know Niko, but we haffi get out dis bumba clot debt right now, ya know.	~z~哟，干得漂亮，尼克。~n~不过我们还是得把这逼的人情债给解决掉。
+base	C4AUD	5C261FA7	提示	控制符多余	多:~n~	原文~n~数=0，译文多插入断行	~z~He was last spotted in Varsity Heights. No civilian casualties.	~z~最后一次目击他是在大学高地。~n~避免平民伤亡。
+base	C4AUD	5DF8807A	提示	控制符多余	多:~n~	原文~n~数=0，译文多插入断行	~z~Shows you the people who need spy shit done get other people to do their dirty work.	~z~结论是，需要特务行动的人~n~会找别人做这种脏活。
+base	C4AUD	A1BB38C9	提示	控制符多余	多:~n~	原文~n~数=0，译文多插入断行	~z~I appreciate your assistance, Bellic. You did a good thing today. Now it's my turn.	~z~很感谢你的协助，贝利克。~n~今天你做了件好事。现在轮到我了。
+base	C4AUD	BC2FC468	提示	控制符多余	多:~n~	原文~n~数=0，译文多插入断行	~z~Ya got some crucial flying skills, ya know Niko. Can I drop I off on de heli pad though? Me no feel so good ya know.	~z~你的飞行技术真不错，尼克。~n~能不能把我送到停机坪？我现在感觉不太好。
+base	C4AUD	BFBC4410	提示	控制符多余	多:~n~	原文~n~数=0，译文多插入断行	~z~Yo, dis be some crazy shit ya know Niko. Yo, we inna the Star Junction in a helicopter.	~z~哟，这可太疯狂了，尼克。~n~开着直升机在星汇广场里边转悠。
+base	C4AUD	C281A2C6	提示	控制符多余	多:~n~	原文~n~数=0，译文多插入断行	~z~For a man who has asked me to kill a lot of men, this guy is really safety conscious.	~z~虽然这家伙让我杀了很多人，~n~但他真的很重视安全。
+base	C4AUD	E406E5D0	提示	控制符多余	多:~n~	原文~n~数=0，译文多插入断行	~z~I have the feeling he don't want to be responsible for a helicopter crash in Middle Park.	~z~感觉他是不想为~n~中央公园的坠机事故负责。
+base	C4AUD	FD6A5816	提示	控制符多余	多:~n~	原文~n~数=0，译文多插入断行	~z~Don't worry about the bridge, Jacob. I'm finally getting the hang of flying this thing.	~z~不用担心撞桥，雅各布。~n~我已经掌握开这玩意的诀窍了。
+base	CHOPCHS	13D14FA4	提示	控制符多余	多:~s~	多余~s~（默认色复位，官方译文也常这样收尾，渲染无影响）	Get within range of the ~r~target chopper.	使~r~目标~s~进入射程范围。
+base	CHOPCHS	2C214F57	提示	控制符多余	多:~s~	多余~s~（默认色复位，官方译文也常这样收尾，渲染无影响）	Line your helicopter up with the ~r~target chopper.	将你的直升机与~r~目标~s~对齐。
+base	CHOPCHS	6F3B9E99	提示	控制符多余	多:~s~	多余~s~（默认色复位，官方译文也常这样收尾，渲染无影响）	Get back into the ~b~helicopter.	回到~b~直升机~s~上。
+base	CHOPCHS	E5840821	提示	控制符多余	多:~s~	多余~s~（默认色复位，官方译文也常这样收尾，渲染无影响）	Get back into the ~b~helicopter.	回到~b~直升机~s~上。
+base	CIA5	FE578F16	提示	控制符多余	多:~s~	多余~s~（默认色复位，官方译文也常这样收尾，渲染无影响）	Get back in the ~b~helicopter.	回到~b~直升机~s~上。
+base	DARTS	1B5C1B45	提示	控制符多余	多:~n~	原文~n~数=0，译文多插入断行	Hold ~PAD_RT~ to steady your shot. Time it well, it only lasts for a second.	按住~PAD_RT~稳定你的飞镖。~n~把握时机，稳定只能持续一秒。
+base	DARTS	2F8CF527	提示	控制符多余	多:~n~	原文~n~数=0，译文多插入断行	Hold ~INPUT_JUMP~ to steady your shot. Time it well, it only lasts for a second.	按住~INPUT_JUMP~稳定你的飞镖。~n~把握时机，稳定只能持续一秒。
+base	DM1AUD	7EEB1675	提示	控制符多余	多:~n~	原文~n~数=0，译文多插入断行	~z~Hey Derrick. Apparently your guy hangs out at a Burger Shot in Alderney.	~z~喂，德里克。看来你找的人~n~现在在奥尔德尼的吃得饱汉堡吃饭。
+base	DM1AUD	BB617F39	提示	控制符多余	多:~n~	原文~n~数=0，译文多插入断行	~z~Niko, Niko my boy. Good to hear your voice, to speak to you I mean...	~z~尼克，尼克我的孩子。~n~很高兴能听到你的声音，就是说能跟你说话...
+base	DM1AUD	ED8273A2	提示	控制符多余	多:~n~	原文~n~数=0，译文多插入断行	~z~Go check it out, but make sure his boys are there, I want them all to pay.	~z~过去看看，不过务必确保他的手下也在，~n~我要让他们全部付出代价。
+base	DM3AUD	6383C24C	提示	控制符多余	多:~n~	原文~n~数=0，译文多插入断行	~z~I left a truck with a rocket launcher in it for ya in an alley, off of Applewhite in Alderney City.	~z~我在一条巷子里给你留了辆装有火箭发射器的卡车，~n~在奥尔德尼市的阿普尔怀特街上。
+base	DM3AUD	B5C8F06F	提示	控制符多余	多:~n~	原文~n~数=0，译文多插入断行	~z~That's the end of a chapter. I can close the book on a whole lot of my past now Niko.	~z~这章终于完结了。~n~现在我可以合上这本写满我过去的书了，尼克。
+base	DM3AUD	F89178DD	提示	控制符多余	多:~n~	原文~n~数=0，译文多插入断行	~z~That's the end of a chapter. I can close the book on a whole lot of my past now Niko.	~z~这章终于完结了。~n~现在我可以合上这本写满我过去的书了，尼克。
+base	DWAYNE1	BF5B42FE	提示	控制符多余	多:~s~	多余~s~（默认色复位，官方译文也常这样收尾，渲染无影响）	Go to the arcade in ~y~Chinatown.	前往~y~唐人街~s~的游戏厅。
+base	DWAYNE1	FD48BF0C	提示	控制符多余	多:~s~	多余~s~（默认色复位，官方译文也常这样收尾，渲染无影响）	You're losing ~r~Jayvon.	你要跟丢~r~杰丰~s~了。
+base	F1M7P	0E4B44AF	提示	控制符多余	多:~s~	多余~s~（默认色复位，官方译文也常这样收尾，渲染无影响）	You have ~1~ second to get back in the ~b~car.	在~1~秒内回到~b~车~s~上。
+base	F1M7P	0F908A1D	提示	控制符多余	多:~s~	多余~s~（默认色复位，官方译文也常这样收尾，渲染无影响）	Pick up the customer from ~y~Outlook.	去~y~奥特卢克~s~接上乘客。
+base	F1M7P	14DBD530	提示	控制符多余	多:~s~	多余~s~（默认色复位，官方译文也常这样收尾，渲染无影响）	Pick up the customer from ~y~Boulevard.	去~y~林荫大道~s~接上乘客。
+base	F1M7P	21856B23	提示	控制符多余	多:~s~	多余~s~（默认色复位，官方译文也常这样收尾，渲染无影响）	You have ~1~ seconds to get back in the ~b~car.	在~1~秒内回到~b~车~s~上。
+base	F1M7P	2C7543E6	提示	控制符多余	多:~s~	多余~s~（默认色复位，官方译文也常这样收尾，渲染无影响）	Pick up the customer from ~y~Firefly Island.	去~y~萤火虫岛~s~接上乘客。
+base	F1M7P	36BB18F2	提示	控制符多余	多:~s~	多余~s~（默认色复位，官方译文也常这样收尾，渲染无影响）	Pick up the customer from ~y~South Bohan.	去~y~南波汉~s~接上乘客。
+base	F1M7P	4871BC5F	提示	控制符多余	多:~s~	多余~s~（默认色复位，官方译文也常这样收尾，渲染无影响）	Pick up the customer from ~y~Industrial.	去~y~工业区~s~接上乘客。
+base	F1M7P	5C0F639A	提示	控制符多余	多:~s~	多余~s~（默认色复位，官方译文也常这样收尾，渲染无影响）	Pick up the customer from ~y~Cerveza Heights.	去~y~塞尔维萨高地~s~接上乘客。
+base	F1M7P	931F51B9	提示	控制符多余	多:~s~	多余~s~（默认色复位，官方译文也常这样收尾，渲染无影响）	Pick up the customer from ~y~Northern Gardens.	去~y~北方花园~s~接上乘客。
+base	F1M7P	D698D773	提示	控制符多余	多:~s~	多余~s~（默认色复位，官方译文也常这样收尾，渲染无影响）	Pick up the customer from ~y~Outlook.	去~y~奥特卢克~s~接上乘客。
+base	F1M7P	E0A5EB8D	提示	控制符多余	多:~s~	多余~s~（默认色复位，官方译文也常这样收尾，渲染无影响）	Pick up the customer from ~y~Beechwood City.	去~y~比奇伍德城~s~接上乘客。
+base	F1M7P	E7F33ACF	提示	控制符多余	多:~s~	多余~s~（默认色复位，官方译文也常这样收尾，渲染无影响）	Pick up the customer from ~y~Hove Beach.	去~y~霍夫海滩~s~接上乘客。
+base	FCPC1AU	006E4766	提示	控制符多余	多:~n~	原文~n~数=0，译文多插入断行	~z~Well, sometimes we're trying to keep our heads above the water, other times we're trying to drown ourselves in it.	~z~有时我们想让自己探出水面，~n~有时也会想把自己浸在水下。
+base	FCPC1AU	94EF80F5	提示	控制符多余	多:~n~	原文~n~数=0，译文多插入断行	~z~I can't go out and look for chicks without it, but once I'm out I'm in the can most of the night doing rails.	~z~没了它我不能出门，但只要我一出门，~n~差不多就是整晚操妞吸粉。
+base	FCPCPAU	96C8CDC3	提示	控制符多余	多:~n~	原文~n~数=0，译文多插入断行	~z~Hey, Niko you wanna go bowling? It's not as bad as it sounds you know.	~z~嘿，尼克，去不去打保龄球？~n~保龄球没听起来那么糟糕的。
+base	FIN1C	D1D886E4	提示	控制符多余	多:~s~	多余~s~（默认色复位，官方译文也常这样收尾，渲染无影响）	Meet Roman at the ~y~church.	去~y~教堂~s~找罗曼。
+base	FIN1CBA	276B98A4	提示	控制符多余	多:~n~	原文~n~数=0，译文多插入断行	~z~You have to do what you have to do, cousin. If he tried to kill you then, he will try to kill you again.	~z~该做的事还是得做，堂弟。~n~他敢来杀你一次，就敢再杀你第二次。
+base	FIN1CBA	84F81F5B	提示	控制符多余	多:~n~	原文~n~数=0，译文多插入断行	~z~We gwan mash up dese ras clot. Mash em up good! Seen? Roman, dat's what you're feeling, don't it?	~z~我们要碾碎那些混蛋，让他们灰飞烟灭！懂？~n~罗曼，你就是这么想的，对吧？
+base	FIN1CBA	91B9DD98	提示	控制符多余	多:~n~	原文~n~数=0，译文多插入断行	~z~Boy, it no matter why ya are do dis ya know, me breda. I and I be backing you up for whatever.	~z~哥们，为了什么都不重要，好兄弟。~n~不论何时我们都是你的后盾。
+base	FIN1CBA	B970F0F8	提示	控制符多余	多:~n~	原文~n~数=0，译文多插入断行	~z~You asked to be here, Roman. Now that you are on board, I do not want these complaints.	~z~你主动请缨的，罗曼。~n~现在上了车，就别叽叽歪歪了。
+base	FIN1CBA	BF482BB5	提示	控制符多余	多:~n~	原文~n~数=0，译文多插入断行	~z~But he has still got some money and two bit gangsters will give their lives for a man if he'll pay the right price.	~z~但他还是有点钱的，只要开价够高，~n~总会有三脚猫混混替他卖命的。
+base	FIN1CBA	D7AD44C4	提示	控制符多余	多:~n~	原文~n~数=0，译文多插入断行	~z~But, Roman, I will not let this piece of shit go. He is taking us back to Jimmy Pegorino.	~z~但是，罗曼，我不会放过这个人渣。~n~他会带我们找到吉米･佩戈里诺的。
+base	FIN1CBA	E5A2E0AF	提示	控制符多余	多:~n~	原文~n~数=0，译文多插入断行	~z~Roman, the last thing I want is to lose you as well as Kate. I can't imagine how I'd feel if I lost you today.	~z~罗曼，我最不希望的就是同时失去你和凯特。~n~我都不知道再失去你的话我会怎么样。
+base	FLW_PED	44BC6936	提示	控制符多余	多:~s~	多余~s~（默认色复位，官方译文也常这样收尾，渲染无影响）	Go to find the dealer in ~y~South Bohan.	去~y~南波汉~s~找那个毒贩。
+base	FRANCI4	870B5042	提示	控制符多余	多:~s~	多余~s~（默认色复位，官方译文也常这样收尾，渲染无影响）	Get the sniper rifle from the ~g~car.	去~g~车~s~里拿狙击步枪。
+base	FRANCI4	BCE5BBF6	提示	控制符多余	多:~s~	多余~s~（默认色复位，官方译文也常这样收尾，渲染无影响）	Get ammo for your sniper rifle from the ~g~car.	去~g~车~s~里拿取狙击枪弹药。
+base	FRANCI4	ED6CE0FC	提示	控制符多余	多:~s~	多余~s~（默认色复位，官方译文也常这样收尾，渲染无影响）	Make your way to the dealer's apartment off ~y~Denver Avenue.	前往毒贩所在的~y~丹佛大道~s~上的公寓。
+base	GAMBET1	71A4A47D	提示	控制符多余	多:~s~	多余~s~（默认色复位，官方译文也常这样收尾，渲染无影响）	Get back into the ~b~car.	回到~b~车~s~上。
+base	GCKC1AU	B08AC4BA	提示	控制符多余	多:~n~	原文~n~数=0，译文多插入断行	~z~You poor bastard, you have. I don't normally socialize with people that know my family.	~z~你这可怜的混蛋，是很熟了。~n~平常我不跟熟悉我家族的人来往的。
+base	GCKC1AU	C02941EC	提示	控制符多余	多:~n~	原文~n~数=0，译文多插入断行	~z~It taught me how to get by, how to detach myself from people who upset me. Therapy works... it sort of works.	~z~它教会了我怎么挺下去，怎么让自己摆脱那些令我伤心的人。~n~治疗还算有效...至少能算有效吧。
+base	GCKC1AU	DC0E1BC8	提示	控制符多余	多:~n~	原文~n~数=0，译文多插入断行	~z~Is nice to get to know you too, seems like I've gotten pretty close to everyone else in your family.	~z~我也很高兴能逐渐了解你，~n~我似乎和你家的所有人都很熟了。
+base	GCKC1AU	E2D48742	提示	控制符多余	多:~n~	原文~n~数=0，译文多插入断行	~z~I wasn't suggesting that, Niko. I was just saying that therapy is one of the reasons I'm still here today.	~z~我不是那个意思，尼克。我只是想说，~n~那个治疗是我能坚持到现在的原因之一。
+base	GCKC2AU	56A9D5B1	提示	控制符多余	多:~n~	原文~n~数=0，译文多插入断行	~z~It's important to me. I've been thinking about you a lot and knowing your aspirations is important.	~z~对我来说很重要。我最近一直在想你，~n~很有必要知道你的志向。
+base	GCKC2AU	924E715B	提示	控制符多余	多:~n~	原文~n~数=0，译文多插入断行	~z~Sometimes I do not call my life survival, it is somewhere below that, but yeah. I take your point.	~z~有时候我不管我的生活叫生存，应该连生存都谈不上。~n~不过确实，我同意你的观点。
+base	GM1AUD	9D633377	提示	控制符多余	多:~n~	原文~n~数=0，译文多插入断行	~z~I knew me brother wouldn't put his faith in a bum. They'll be at them Albos in no time.	~z~我就知道我弟弟不会信错人。~n~他们马上就会和阿尔巴尼亚佬干起来的。
+base	GM1AUD	D7BEBA79	提示	控制符多余	多:~n~	原文~n~数=0，译文多插入断行	~z~All we've ever been is bitches. Working for guineas, working for niggers, any asshole with a buck.	~z~我们活成了婊子。~n~替意呆利佬卖命，替黑鬼卖命，谁给钱就替谁卖命。
+base	GM2AUD	8A117820	提示	控制符多余	多:~n~	原文~n~数=0，译文多插入断行	~z~I'll let Jimmy P know about that. I'll cut you in on anything he throws my way.	~z~我会去跟吉米 P说的。~n~之后他甩给我的活也拜托你了。
+base	INTDATE	F86D35F5	严重	顺序不符	EN:~s~~y~~s~~a~ ZH:~s~~a~~s~~y~	颜色/占位顺序	~s~Enter the ~y~bowling alley~s~ with ~a~.	~s~与~a~~s~一起进入~y~保龄球馆。
+base	JACOB3P	19A0F9E5	严重	顺序不符	EN:~y~~s~~1~~1~ ZH:~1~~1~~y~~s~	颜色/占位顺序	Get the package to the ~y~East Island City tunnel,~s~ by ~1~:~1~. The buyer is getting jumpy.	在 ~1~:~1~ 前将包裹送到~y~东岛城的隧道。~s~买家十分不安。
+base	JACOB3P	312CA3D8	严重	顺序不符	EN:~y~~s~~1~~1~ ZH:~1~~1~~y~~s~	颜色/占位顺序	Take the package to ~y~Schottler~s~ by 0~1~:~1~.	在 0~1~:~1~ 前把包裹送到~y~舒特勒~s~。
+base	JACOB3P	45714DE9	严重	顺序不符	EN:~y~~s~~1~~1~ ZH:~1~~1~~y~~s~	颜色/占位顺序	Get the package to the tower block in ~y~Steinway,~s~ by ~1~:~1~. The buyer won't wait around.	在 ~1~:~1~ 前将包裹送到~y~斯坦威~s~的公屋社区。买家不会久等。
+base	JACOB3P	466ECE5C	严重	顺序不符	EN:~y~~s~~1~~1~ ZH:~1~~1~~y~~s~	颜色/占位顺序	Take the package to ~y~Schottler~s~ by 0~1~:0~1~.	在 0~1~:0~1~ 前把包裹送到~y~舒特勒~s~。
+base	JACOB3P	531FE946	严重	顺序不符	EN:~y~~s~~1~~1~ ZH:~1~~1~~y~~s~	颜色/占位顺序	Get the package to the tower block in ~y~Steinway,~s~ by 0~1~:0~1~. The buyer won't wait around.	在 0~1~:0~1~ 前将包裹送到~y~斯坦威~s~的公屋社区。买家不会久等。
+base	JACOB3P	68FB9471	严重	顺序不符	EN:~y~~s~~1~ ZH:~1~~y~~s~	颜色/占位顺序	Take the package to ~y~Schottler~s~ by 00:0~1~.	在 00:0~1~ 前将包裹送到~y~舒特勒~s~。
+base	JACOB3P	69511420	严重	顺序不符	EN:~y~~s~~1~~1~ ZH:~1~~1~~y~~s~	颜色/占位顺序	Get the package to the ~y~East Island City tunnel,~s~ by 0~1~:0~1~. The buyer is getting jumpy.	在 0~1~:0~1~ 前将包裹送到~y~东岛城的隧道。~s~买家十分不安。
+base	JACOB3P	7809B6B9	严重	顺序不符	EN:~y~~s~~1~~1~ ZH:~1~~1~~y~~s~	颜色/占位顺序	Get the package to ~y~Beechwood City,~s~ by ~1~:~1~. The buyer won't wait around.	在 ~1~:~1~ 前将包裹送到~y~比奇伍德城。~s~买家不会久等。
+base	JACOB3P	7AEFB75D	严重	顺序不符	EN:~y~~s~~1~~1~ ZH:~1~~1~~y~~s~	颜色/占位顺序	Take the package to ~y~Schottler~s~ by ~1~:0~1~.	在 ~1~:0~1~ 前把包裹送到~y~舒特勒~s~。
+base	JACOB3P	8274C757	严重	顺序不符	EN:~y~~s~~1~ ZH:~1~~y~~s~	颜色/占位顺序	Get the package to the tower block in ~y~Steinway,~s~ by 00:~1~. The buyer won't wait around.	在 00:~1~ 前将包裹送到~y~斯坦威~s~的公屋社区。买家不会久等。
+base	JACOB3P	88E7D4D5	严重	顺序不符	EN:~y~~s~~1~ ZH:~1~~y~~s~	颜色/占位顺序	Get the package to the tower block in ~y~Steinway,~s~ by 00:0~1~. The buyer won't wait around.	在 00:0~1~ 前将包裹送到~y~斯坦威~s~的公屋社区。买家不会久等。
+base	JACOB3P	8D565D26	严重	顺序不符	EN:~y~~s~~1~ ZH:~1~~y~~s~	颜色/占位顺序	Get the package to ~y~Beechwood City,~s~ by 00:0~1~. The buyer won't wait around.	在 00:0~1~ 前将包裹送到~y~比奇伍德城。~s~买家不会久等。
+base	JACOB3P	8E22DDC3	严重	顺序不符	EN:~y~~s~~1~~1~ ZH:~1~~1~~y~~s~	颜色/占位顺序	Get the package to ~y~Beechwood City,~s~ by 0~1~:0~1~. The buyer won't wait around.	在 0~1~:0~1~ 前将包裹送到~y~比奇伍德城。~s~买家不会久等。
+base	JACOB3P	974070FA	严重	顺序不符	EN:~y~~s~~1~ ZH:~1~~y~~s~	颜色/占位顺序	Take the package to ~y~Schottler~s~ by 00:~1~.	在 00:~1~ 前把包裹送到~y~舒特勒~s~。
+base	JACOB3P	A258862E	严重	顺序不符	EN:~y~~s~~1~~1~ ZH:~1~~1~~y~~s~	颜色/占位顺序	Get the package to ~y~Beechwood City,~s~ by ~1~:0~1~. The buyer won't wait around.	在 ~1~:0~1~ 前将包裹送到~y~比奇伍德城。~s~买家不会久等。
+base	JACOB3P	AC259AC4	严重	顺序不符	EN:~y~~s~~1~~1~ ZH:~1~~1~~y~~s~	颜色/占位顺序	Get the package to the ~y~East Island City tunnel,~s~ by 0~1~:~1~. The buyer is getting jumpy.	在 0~1~:~1~ 前将包裹送到~y~东岛城的隧道。~s~买家十分不安。
+base	JACOB3P	B09322A3	严重	顺序不符	EN:~y~~s~~1~~1~ ZH:~1~~1~~y~~s~	颜色/占位顺序	Get the package to ~y~Beechwood City,~s~ by 0~1~:~1~. The buyer won't wait around.	在 0~1~:~1~ 前将包裹送到~y~比奇伍德城。~s~买家不会久等。
+base	JACOB3P	BB9C39B1	严重	顺序不符	EN:~y~~s~~1~ ZH:~1~~y~~s~	颜色/占位顺序	Get the package to ~y~Beechwood City,~s~ by 00:~1~. The buyer won't wait around.	在 00:~1~ 前将包裹送到~y~比奇伍德城。~s~买家不会久等。
+base	JACOB3P	BE4F3FA3	严重	顺序不符	EN:~y~~s~~1~~1~ ZH:~1~~1~~y~~s~	颜色/占位顺序	Get the package to the tower block in ~y~Steinway,~s~ by ~1~:0~1~. The buyer won't wait around.	在 ~1~:0~1~ 前将包裹送到~y~斯坦威~s~的公屋社区。买家不会久等。
+base	JACOB3P	C16BC550	严重	顺序不符	EN:~y~~s~~1~~1~ ZH:~1~~1~~y~~s~	颜色/占位顺序	Get the package to the ~y~East Island City tunnel,~s~ by ~1~:0~1~. The buyer is getting jumpy.	在 ~1~:0~1~ 前将包裹送到~y~东岛城的隧道。~s~买家十分不安。
+base	JACOB3P	C485CFB0	提示	控制符多余	多:~s~	多余~s~（默认色复位，官方译文也常这样收尾，渲染无影响）	Take the package to the bridge in ~y~Outlook Park.	将包裹送到~y~奥特卢克公园~s~内的桥下。
+base	JACOB3P	CEDCE0BE	严重	顺序不符	EN:~y~~s~~1~~1~ ZH:~1~~1~~y~~s~	颜色/占位顺序	Get the package to the tower block in ~y~Steinway,~s~ by 0~1~:~1~. The buyer won't wait around.	在 0~1~:~1~ 前将包裹送到~y~斯坦威~s~的公屋社区。买家不会久等。
+base	JACOB3P	D1CB6A3B	严重	顺序不符	EN:~y~~s~~1~~1~ ZH:~1~~1~~y~~s~	颜色/占位顺序	Take the package to ~y~Schottler~s~ by ~1~:~1~.	在 ~1~:~1~ 前把包裹送到~y~舒特勒~s~。
+base	JACOB3P	E6B98FDB	严重	顺序不符	EN:~y~~s~~1~ ZH:~1~~y~~s~	颜色/占位顺序	Get the package to the ~y~East Island City tunnel,~s~ by 00:~1~. The buyer is getting jumpy.	在 00:~1~ 前将包裹送到~y~东岛城的隧道。~s~买家十分不安。
+base	JACOB3P	EFFEA265	严重	顺序不符	EN:~y~~s~~1~ ZH:~1~~y~~s~	颜色/占位顺序	Get the package to the ~y~East Island City tunnel,~s~ by 00:0~1~. The buyer is getting jumpy.	在 00:0~1~ 前将包裹送到~y~东岛城的隧道。~s~买家十分不安。
+base	JIMMY2	1E6DD9EB	提示	控制符多余	多:~s~	多余~s~（默认色复位，官方译文也常这样收尾，渲染无影响）	~r~The Pavanos got away.	~r~帕瓦诺家族的人~s~逃走了。
+base	KILLBOX	37D42E68	提示	控制符多余	多:~s~	多余~s~（默认色复位，官方译文也常这样收尾，渲染无影响）	Keep up. You're losing ~r~Oleg.	跟上。你要跟丢~r~奥列格~s~了。
+base	LJ1AUD	2AA4A70C	提示	控制符多余	多:~n~	原文~n~数=0，译文多插入断行	~z~We got it sewn up, but me no like deal with new source, ya know? Don't like it at all.	~z~我们规模很大，不过我不喜欢和新货源交易，懂吧？~n~一点也不喜欢。
+base	LJ1AUD	E3461850	提示	控制符多余	多:~n~	原文~n~数=0，译文多插入断行	~z~Some Kali. Me and Badman ah sell it all pon da corner all over Liberty City - Broker, Dukes, Bohan.	~z~一种草。我和巴德曼把它卖到了自由城的角角落落~n~——布洛克、公爵区、波汉。
+base	LK_BRU2	7E547F54	提示	控制符多余	多:~s~	多余~s~（默认色复位，官方译文也常这样收尾，渲染无影响）	Get back in the ~b~car.	回到~b~车~s~上。
+base	M1AUD	945DC2E3	提示	控制符多余	多:~n~	原文~n~数=0，译文多插入断行	~z~Last I heard these dealers was up on Grand Boulevard. Let's go take a look, man.	~z~我最后一次听说这些毒贩是在格兰德大街。~n~我们过去看看，伙计。
+base	M1AUD	A0C1D3AB	提示	控制符多余	多:~n~	原文~n~数=0，译文多插入断行	~z~You ever thought about doing some TV? You might be able to get a series off the back of mine, you know?	~z~你想过录电视节目吗？~n~等我拍完说不定能给你拍个专题出来，懂吧？
+base	M1AUD	CF4A9F7D	提示	控制符多余	多:~n~	原文~n~数=0，译文多插入断行	~z~Cut.	~z~－怎么？~n~－好吧。
+base	MF11AUD	13764E5D	提示	控制符多余	多:~n~	原文~n~数=0，译文多插入断行	~z~Yo Nicky, what's up homie? Our boy, Stevie, hit me up.	~z~哟，尼克，你好吗，哥们儿？~n~我们那兄弟，斯蒂维，打给我了。
+base	MF14AUD	98BB70C5	提示	控制符多余	多:~n~	原文~n~数=0，译文多插入断行	~z~Well, you've been spending time with the rest of my family, I figured you may as well complete the set.	~z~那个，既然你已经和我家的人处过了，~n~我想你还是凑个全套吧。
+base	MF14AUD	DC301B10	提示	控制符多余	多:~n~	原文~n~数=0，译文多插入断行	~z~I never thought this would happen, Niko. I never fucking thought it. Kate, sweet, innocent Katie.	~z~我从没想到事情会这样，尼克。从来没想到过。~n~凯特，可爱纯真的凯特。
+base	MF14AUD	FA8DA6BC	提示	控制符多余	多:~n~	原文~n~数=0，译文多插入断行	~z~Well, you've been spending time with the rest of my family, I figured you may as well complete the set.	~z~那个，既然你已经和我家的人处过了，~n~我想你还是凑个全套吧。
+base	MF3AUD	2FF7B778	提示	控制符多余	多:~n~	原文~n~数=0，译文多插入断行	~z~I am on Tulsa Street, near Perestroika. Come Niko, quick.	~z~我在塔尔萨街，就是Perestroika旁边。~n~过来，尼克，赶紧。
+base	MF3AUD	EDAA9499	提示	控制符多余	多:~n~	原文~n~数=0，译文多插入断行	~z~I am on Tulsa Street, near Perestroika. Come Niko, quick.	~z~我在塔尔萨街，就是Perestroika旁边。~n~过来，尼克，赶紧。
+base	PHNDTH	7F6E1E87	提示	控制符多余	多:~s~	多余~s~（默认色复位，官方译文也常这样收尾，渲染无影响）	Put the bomb in the trunk of the ~b~car.	把炸弹装到~b~汽车~s~的后备箱下。
+base	PIBAUD	5BA3BE8A	提示	控制符多余	多:~n~	原文~n~数=0，译文多插入断行	~z~Something your eyes will never believe. The ninth wonder of the modern world, my friend.	~z~你的眼睛永远不会相信的东西。~n~世界第九大奇迹，我的朋友。
+base	PIJAUD	2A529BCC	提示	控制符多余	多:~n~	原文~n~数=0，译文多插入断行	~z~I just took some photos. But, yeah. How you doing now, anyway? You leave that bitch?	~z~我只是拍了几张照片，但我还记得你。~n~说起来你最近好吗？离开那个贱人了吗？
+base	PM2AUD	0E4D604B	提示	控制符多余	多:~n~	原文~n~数=0，译文多插入断行	~z~You know that Purgatory is called what it is because people were so scared of the McRearys.	~z~你也知道，炼狱(炼狱)是因~n~人们对麦克雷里家族的畏惧得名的。
+base	PM2AUD	2523BCE1	提示	控制符多余	多:~n~	原文~n~数=0，译文多插入断行	~z~Pecorino's a type a cheese. Pegorinos is a bunch of guido gangsters outta Alderney.	~z~佩科里诺是一种奶酪。佩戈里诺家族~n~是奥尔德尼一带的黑帮意呆佬。
+base	PM2AUD	68AE9650	提示	控制符多余	多:~n~	原文~n~数=0，译文多插入断行	~z~Take us out to the waste management plant under the Algonquin Bridge on Colony Island, big man.	~z~带我们去阿尔冈琴大桥下的垃圾处理厂，~n~殖民地岛的那个，大块头。
+base	PM2AUD	DE896294	提示	控制符多余	多:~n~	原文~n~数=0，译文多插入断行	~z~More so. At least we ain't fucking hypocrites. Kate's the only decent one.	~z~可能还更坏一点。至少我们不来伪君子那套。~n~凯特是唯一一个正派的。
+base	PM2AUD	F7729466	提示	控制符多余	多:~n~	原文~n~数=0，译文多插入断行	~z~Shut up, Gordon. So, Niko, when Francis and Gerald was growing up, Frankie becomes an altar boy.	~z~闭嘴，戈登。听好，尼克，~n~弗朗西斯和格里还小的时候，弗兰基就成了辅祭男童。
+base	PM3AUD	1AADE1A0	提示	控制符多余	多:~n~	原文~n~数=0，译文多插入断行	~z~I want Niko and Michael to go down into the vault to get the money while me and my brother handle the crowd control.	~z~尼克和迈克尔就冲进金库拿钱，~n~我和我哥负责控制人群。
+base	PM3AUD	2AD00790	提示	控制符多余	多:~n~	原文~n~数=0，译文多插入断行	~z~You know nothing about nothing, Patrick. I'm honest about me demons.	~z~你真的是连个屁都不知道，帕特里克。~n~我的恶毒可不是开玩笑的。
+base	PM3AUD	350BDFC7	提示	控制符多余	多:~n~	原文~n~数=0，译文多插入断行	~z~There was no need for a brother and sister to get married, but your parents did that and now you're here.	~z~兄妹之间也用不着结婚，~n~但是你父母结了，现在才有了你。
+base	PM3AUD	3769BFF8	提示	控制符多余	多:~n~	原文~n~数=0，译文多插入断行	~z~Me and Michael are on the civilians, Derrick and Niko are on employees.	~z~我和迈克尔负责平民，~n~德里克和尼克负责职员。
+base	PM3AUD	3E86F2BD	提示	控制符多余	多:~n~	原文~n~数=0，译文多插入断行	~z~I was just saying how I'd do what you said, Packie. No need to get abusive.	~z~我只是说一下我怎么执行而已，派奇。~n~用不着骂我吧。
+base	PM3AUD	40C3D2B4	提示	控制符多余	多:~n~	原文~n~数=0，译文多插入断行	~z~This is an emotional moment, I can feel the brotherly love in the air.	~z~真是感人肺腑，我都能感受到~n~空气中弥漫着的兄弟之爱了。
+base	PM3AUD	43D238A7	提示	控制符多余	多:~n~	原文~n~数=0，译文多插入断行	~z~He's sitting tight now. Paid for his stupidity. Man, I'm jumpy.	~z~现在他老实了。为他的愚蠢付出了代价。~n~老弟，我有点紧张了。
+base	PM3AUD	4B871D5D	提示	控制符多余	多:~n~	原文~n~数=0，译文多插入断行	~z~Once the situation has been controlled, Derrick's going to rig the vault door with explosive.	~z~场面控制住之后，~n~德里克就用炸药炸开金库大门。
+base	PM3AUD	5281762F	提示	控制符多余	多:~n~	原文~n~数=0，译文多插入断行	~z~You was gone a long time, Derrick. From what I remember, you've changed too.	~z~你走得有点久了，德里克。~n~你也和我记忆中的你改变了太多。
+base	PM3AUD	5610DD24	提示	控制符多余	多:~n~	原文~n~数=0，译文多插入断行	~z~Michael didn't get lucky, did he? Fucking have-a-go-hero. What was he thinking? He shoulda sat tight.	~z~是迈克尔运气不好，是吧？去他妈的英勇就义。~n~什么傻逼路人？趴着又不会死。
+base	PM3AUD	7BCDF0DE	提示	控制符多余	多:~n~	原文~n~数=0，译文多插入断行	~z~Don't need to tell me twice, Packie. I'm ready to go. Pumped, is what I am.	~z~用不着再跟我说一次，派奇。~n~我已经准备好了。热血沸腾就是我了。
+base	PM3AUD	86EABFC4	提示	控制符多余	多:~n~	原文~n~数=0，译文多插入断行	~z~Can't wait to see what sort of kick C4 residue is going to give me when I snort up a line of chop though one of them notes.	~z~我都忍不住想见识下~n~沾着C4的钞票卷出来的大麻烟有多爽了。
+base	PM3AUD	8A9F0B72	提示	控制符多余	多:~n~	原文~n~数=0，译文多插入断行	~z~Yeah, well, now I gotta explain to his folks that their son is lying dead on the floor of a bank in Algonquin.	~z~现在我就得去跟他家里解释说~n~他儿子死在阿尔冈琴一家银行的地板上了。
+base	PM3AUD	A60AC249	提示	控制符多余	多:~n~	原文~n~数=0，译文多插入断行	~z~When your kid is living the life, you gotta expect someone to come through the door and break this sorta news.	~z~既然孩子过着这种日子，~n~就该想到早晚会有人进来说这种事。
+base	PM3AUD	C0598710	提示	控制符多余	多:~n~	原文~n~数=0，译文多插入断行	~z~Me and St. Michael here are gonna handle the civilians while Niko and Derrick manage the employees.	~z~我和这位圣迈克尔控制平民，~n~尼克和德里克就负责解决职员。
+base	PM3AUD	D2891B45	提示	控制符多余	多:~n~	原文~n~数=0，译文多插入断行	~z~Eye on the road, Niko. We don't want you to have to break no bad news to our ma.	~z~好好看路，尼克。~n~我们可不想让你跟妈汇报什么坏消息。
+base	PM3AUD	DE0DB24E	提示	控制符多余	多:~n~	原文~n~数=0，译文多插入断行	~z~That does not make it any easier to hear. And we aren't safe yet.	~z~那也没什么区别。~n~我们自己都还没安全呢。
+base	PM3AUD	E2A5CB98	提示	控制符多余	多:~n~	原文~n~数=0，译文多插入断行	~z~Safe to say, what we're using is controllable enough to go through any vault door without incinerating whatever's inside.	~z~这么说吧，这种炸药可控性强，~n~能够炸穿任何金库大门，还不会损伤里面的东西。
+base	PM3AUD	E3A87396	提示	控制符多余	多:~n~	原文~n~数=0，译文多插入断行	~z~Gerry was right about you, Mikey. Your parents must have been twins to produce a kid as dumb as you.	~z~格里说你说的是一点没错，迈基。~n~你爸妈得是龙凤胎才能生出你这么个白痴。
+base	PM3AUD	E93AD8D2	提示	控制符多余	多:~n~	原文~n~数=0，译文多插入断行	~z~Alright, here's how the shit is going down. We're gonna go inside and each take down a security guard.	~z~好了，我先说下这票的安排。~n~进去以后我们一人解决一个保安。
+base	PM3AUD	F7093800	提示	控制符多余	多:~n~	原文~n~数=0，译文多插入断行	~z~We won't forget it, Niko. Here's your cut. I'll tell Gerry you did good. He might give you a call or something.	~z~我们不会忘的，尼克。这是你的那份。~n~我会告诉格里你干得很好的。改天他可能会打电话找你。
+base	PM3BAUD	2B31C930	提示	控制符多余	多:~n~	原文~n~数=0，译文多插入断行	~z~And you coulda been more careful of your boy Michael. He should be with us right now.	~z~你咋不多护着点你手下的迈克尔，~n~否则他哪会没命啊。
+base	PM3BAUD	F2555778	提示	控制符多余	多:~n~	原文~n~数=0，译文多插入断行	~z~Michael was unlucky. It wasn't anybody's fault what happened to him and the explosive did its job.	~z~迈克尔运气差了点。~n~他出事怪不了谁，炸弹也够好了。
+base	PULOVER	196CDB4A	提示	控制符多余	多:~s~	多余~s~（默认色复位，官方译文也常这样收尾，渲染无影响）	Get back in the ~B~car.	回到~B~车~s~上。
+base	PULOVER	53894F8A	提示	控制符多余	多:~s~	多余~s~（默认色复位，官方译文也常这样收尾，渲染无影响）	~S~Take the van to the ~Y~lockup.	~S~将货车送到~Y~车库~s~中。
+base	PULOVER	6FF40A8B	提示	控制符多余	多:~s~	多余~s~（默认色复位，官方译文也常这样收尾，渲染无影响）	Get back into the ~b~van.	回到~b~货车~s~上。
+base	R11AUD	05E43C48	提示	控制符多余	多:~n~	原文~n~数=0，译文多插入断行	~z~I got here and I had nothing, nobody. I worked my way up from the fucking dirt.	~z~我来的时候啥都没有，谁都不认识。~n~全他妈是从无到有奋斗出来的。
+base	R11AUD	33355CE1	提示	控制符多余	多:~n~	原文~n~数=0，译文多插入断行	~z~You have a lot to apologize for. Since you got here I've had my computer smashed,	~z~你要道歉的事可多了去了。~n~自打你来了以后，我电脑给人砸了，
+base	R11AUD	46518319	提示	控制符多余	多:~n~	原文~n~数=0，译文多插入断行	~z~Do you know how long it took me to get set up here? You don't because it was easy for you.	~z~你知道我为了在这里开店花了多久吗？~n~你不知道，因为你过得太容易了。
+base	R11AUD	588F2794	提示	控制符多余	多:~n~	原文~n~数=0，译文多插入断行	~z~You had it all from day one. It took me months to get some cash together.	~z~你来的第一天就啥都有了。~n~我花了好几个月才凑出一点钱。
+base	R11AUD	8CD1BC62	提示	控制符多余	多:~n~	原文~n~数=0，译文多插入断行	~z~Yeah... we sat down and finished it off there and then. Wait... wait...	~z~记得...我们坐下来，在那儿把酒喝完了。~n~打住...打住...
+base	R11AUD	D9E52A42	提示	控制符多余	多:~n~	原文~n~数=0，译文多插入断行	~z~Finally I bought a cab and then another, then I got the depot...	~z~终于我买下了第一辆的士，~n~然后是第二辆，然后开起了车行...
+base	R11AUD	FDCB9884	提示	控制符多余	多:~n~	原文~n~数=0，译文多插入断行	~z~I can't have the tavern now. I have nothing to buy it with. I have, I have nothing.	~z~我现在开不了酒馆了，根本就买不起。~n~现在我、我啥都没有了。
+base	R4AUD	E3988827	提示	控制符多余	多:~n~	原文~n~数=0，译文多插入断行	~z~Niko, Bledar has me cornered in the courts under the El Train on Firefly.	~z~尼克，我被布莱达尔逼到球场的墙角了，~n~在萤火虫的轻轨下面。
+base	R7AUD	41F27051	提示	控制符多余	多:~n~	原文~n~数=0，译文多插入断行	~z~Grow a fucking spine. You think Vlad won't come after us when I am chasing him like this?	~z~你他妈有点骨气好么。都这么追他了你还想着~n~回头弗拉德他不会来追杀我们？
+base	R7AUD	BF7C3990	提示	控制符多余	多:~n~	原文~n~数=0，译文多插入断行	~z~Hey, it happens, we have an open relationship. I do my thing, she does hers.	~z~嘿，偶尔是有的，我们关系很开放的。~n~我做我的，她做她的。
+base	ROMAN4	63FD339A	提示	控制符多余	多:~n~	原文~n~数=0，译文多插入断行	~s~Tap ~INPUT_MELEE_BLOCK~ as your opponent attacks to dodge. Press ~INPUT_MELEE_ATTACK1~ or ~INPUT_MELEE_ATTACK2~ after dodging to perform a powerful counter move.	~s~对手攻击时可按~INPUT_MELEE_BLOCK~闪避。~n~闪避后可按~INPUT_MELEE_ATTACK1~或~INPUT_MELEE_ATTACK2~进行反击。
+base	ROMAN6	E8FC131D	提示	控制符多余	多:~n~	原文~n~数=0，译文多插入断行	Use ~INPUT_AIM~ and ~PAD_RSTICK_ALL~ to aim at enemies. Press ~INPUT_ATTACK~ to fire your weapon.	使用~INPUT_AIM~和~PAD_RSTICK_ALL~瞄准敌人。~n~按~INPUT_ATTACK~开火。
+base	WI_CHRS	E362189A	提示	控制符多余	多:~s~	多余~s~（默认色复位，官方译文也常这样收尾，渲染无影响）	Go and talk to ~b~Cherise.	去和~b~谢丽丝~s~交谈。
+base	WI_CHRS	FFE5D1A1	提示	控制符多余	多:~s~	多余~s~（默认色复位，官方译文也常这样收尾，渲染无影响）	Go and talk to ~r~Cherise's boyfriend.	去和~r~谢丽丝的男朋友~s~谈谈。
+base	WI_HOS1	E5F36B24	提示	控制符多余	多:~s~	多余~s~（默认色复位，官方译文也常这样收尾，渲染无影响）	Take Hossan to the alleyway off ~y~Feldspar Street.	带霍桑去~y~长石街~s~的小巷。
+base	WI_ILYE	503E5F0E	提示	控制符多余	多:~s~	多余~s~（默认色复位，官方译文也常这样收尾，渲染无影响）	Go and speak to Anna's ~r~boyfriend.	去和安娜的~r~男朋友~s~谈谈。
+base	WI_IV1	95D3D68B	提示	控制符多余	多:~s~	多余~s~（默认色复位，官方译文也常这样收尾，渲染无影响）	Leave the car and go and speak with Ivan's ~y~debtor.	下车，与伊万的~y~债务人~s~交谈。
+base	WI_IV1	C4771A01	提示	控制符多余	多:~s~	多余~s~（默认色复位，官方译文也常这样收尾，渲染无影响）	Go and speak with Ivan's ~y~debtor.	上前与伊万的~y~债务人~s~交谈。
+base	WI_IV1	DF1F6921	提示	控制符多余	多:~s~	多余~s~（默认色复位，官方译文也常这样收尾，渲染无影响）	Go and speak with ~b~Ivan.	去与~b~伊万~s~交谈。
+base	WI_JEF2	1085D6E6	提示	控制符多余	多:~s~	多余~s~（默认色复位，官方译文也常这样收尾，渲染无影响）	Get back in ~B~Jeff's car.	回到~B~杰夫的车~s~上。
+base	WI_JEF2	34C51F68	提示	控制符多余	多:~s~	多余~s~（默认色复位，官方译文也常这样收尾，渲染无影响）	Go and speak with ~b~Jeff.	上前与~b~杰夫~s~交谈。
+base	WI_PTS1	CAFCF53E	提示	控制符多余	多:~s~	多余~s~（默认色复位，官方译文也常这样收尾，渲染无影响）	You're losing ~b~Pathos.	你要失去~b~帕索斯~s~了。
+base	WI_SRA2	3156C715	提示	控制符多余	多:~s~	多余~s~（默认色复位，官方译文也常这样收尾，渲染无影响）	Go back to the ~b~assistant.	回去找~b~店员。~s~
+base	WI_SRA2	88AE6857	提示	控制符多余	多:~s~	多余~s~（默认色复位，官方译文也常这样收尾，渲染无影响）	Collect the box from the shop ~b~assistant.	从~b~店员~s~那儿取得盒子。
+TLAD	MAIN	CCD9EE2F	提示	控制符多余	多:~s~	多余~s~（默认色复位，官方译文也常这样收尾，渲染无影响）	You have ~1~ second to return to your ~b~bike.	在~1~秒内回到你的~b~摩托~s~上。
+TLAD	MAIN	EDB13B26	提示	控制符多余	多:~s~	多余~s~（默认色复位，官方译文也常这样收尾，渲染无影响）	You have ~1~ seconds to return to your ~b~bike.	在~1~秒内回到你的~b~摩托~s~上。
+TLAD	ASH2	5ACCF947	提示	控制符多余	多:~s~	多余~s~（默认色复位，官方译文也常这样收尾，渲染无影响）	Collect Roman Bellic from the ~y~gambling den.	去~y~赌场~s~找罗曼･贝利克。
+TLAD	BILLY1	84A8AFFF	提示	控制符多余	多:~s~	多余~s~（默认色复位，官方译文也常这样收尾，渲染无影响）	Get back on your ~b~bike.	回到你的~b~摩托~s~上。
+TLAD	BILLY1	D9D95169	提示	控制符多余	多:~s~	多余~s~（默认色复位，官方译文也常这样收尾，渲染无影响）	Get back on your ~b~bike.	回到你的~b~摩托~s~上。
+TLAD	BILLY4	379E5544	提示	控制符多余	多:~s~	多余~s~（默认色复位，官方译文也常这样收尾，渲染无影响）	Get back on your ~b~bike.	回到你的~b~摩托~s~上。
+TLAD	BILLY5	6306C157	提示	控制符多余	多:~s~	多余~s~（默认色复位，官方译文也常这样收尾，渲染无影响）	Collect the package from ~b~Brian.	去找~b~布莱恩~s~拿货。
+TLAD	BILLY5	D0EA7AE5	提示	控制符多余	多:~s~	多余~s~（默认色复位，官方译文也常这样收尾，渲染无影响）	Get back on your ~b~bike.	回到你的~b~摩托~s~上。
+TLAD	CORRP2	16F5D953	提示	控制符多余	多:~s~	多余~s~（默认色复位，官方译文也常这样收尾，渲染无影响）	Get to the ~b~prison transport bus.	前往~b~囚车~s~所在地。
+TLAD	CORRP2	623D6FE1	提示	控制符多余	多:~s~	多余~s~（默认色复位，官方译文也常这样收尾，渲染无影响）	Get back in the ~b~bus.	回到~b~囚车~s~上。
+TLAD	DAV1	F796365E	提示	控制符多余	多:~s~	多余~s~（默认色复位，官方译文也常这样收尾，渲染无影响）	You are losing the ~r~lawyer.	你要跟丢~r~律师~s~了。
+TLAD	E1A2AUD	1C961DA1	提示	控制符多余	多:~n~	原文~n~数=0，译文多插入断行	~z~We ain't kidnapping nobody because of my mamma, Johnny. It's your lady friend getting us to do this. Think on that, son.	~z~我们不是因为我妈才来绑架别人的，强尼。~n~都是因为你的女性朋友。动动脑子，小子。
+TLAD	E1A2AUD	292A1616	提示	控制符多余	多:~n~	原文~n~数=0，译文多插入断行	~z~Yeah, that's what I said. Maybe Italian or Rome or some shit.	~z~对，就是这个意思。~n~也可能是意大利或者罗马那边的。
+TLAD	E1A2AUD	4D6BB73C	提示	控制符多余	多:~n~	原文~n~数=0，译文多插入断行	~z~Hey now listen, I do mean motherfucker in the most literal sense. Serious incest motherfucker.	~z~你听好了，这个「日妈」可是~n~字面意思的日妈。日了自己的亲妈。
+TLAD	E1A2AUD	4D9DC00D	提示	控制符多余	多:~n~	原文~n~数=0，译文多插入断行	~z~Ummm.... ahhhh... I... Mr. Bellic is very busy man. An important and busy man.	~z~呃...啊...我...贝利克先生是个大忙人。~n~是一位重要的大忙人。
+TLAD	E1A2AUD	4EE0A94E	提示	控制符多余	多:~n~	原文~n~数=0，译文多插入断行	~z~The Lost aren't like those Deadbeats. Take a look at my brothers, man.	~z~失落帮可跟死妈天使不一样。~n~瞧瞧我那些弟兄，伙计。
+TLAD	E1A2AUD	727E7DC8	提示	控制符多余	多:~n~	原文~n~数=0，译文多插入断行	~z~Yeah, this biker dude is twisted as all hell, man. By the way how many guys you killed, son?	~z~没错，这位飞车党可是坏得一批，伙计。~n~问一下，你杀了多少人了，小子？
+TLAD	E1A2AUD	9E594FEC	提示	控制符多余	多:~n~	原文~n~数=0，译文多插入断行	~z~Worked with this other guy, he could handle himself. Maybe this guy will be the same.	~z~之前跟我合作的人，他就很能打。~n~这家伙估计也有两下子。
+TLAD	E1A2AUD	A0EF9DC4	提示	控制符多余	多:~n~	原文~n~数=0，译文多插入断行	~z~they're in need of a Limo'. And I'm told this Bellic guy's the man for that kind of work.	~z~她们需要一辆豪华轿车。~n~别人跟我说这种事得找这位贝利克。
+TLAD	E1A2AUD	AD32A34C	提示	控制符多余	多:~n~	原文~n~数=0，译文多插入断行	~z~She's a friend and she's in trouble. I believe in looking out for people you've been close to.	~z~她是我的朋友，现在陷入了麻烦。~n~我向来都会照顾身边的人的。
+TLAD	E1A2AUD	C1648E58	提示	控制符多余	多:~n~	原文~n~数=0，译文多插入断行	~z~We're more like equal opportunity haters - we hate assholes and fools, wherever they're from.	~z~我们倒不如说是一视同仁。~n~不问出身，都他妈傻逼。
+TLAD	E1A2AUD	C5C1A1C3	提示	控制符多余	多:~n~	原文~n~数=0，译文多插入断行	~z~you might end the tour with a look at the finest specimen of manhood in the entire metropolitan area.	~z~你们还可以在旅途结束前见识到~n~整个大都会最有男子气概的人。
+TLAD	E1A2AUD	CBCCB23C	提示	控制符多余	多:~n~	原文~n~数=0，译文多插入断行	~z~Damn you better not be right. What's wrong with you, man? We was only joshing you. Tell him, Johnny.	~z~妈的，希望你说错了。你他妈有病吧，哥们？~n~我们是开玩笑的。告诉他，强尼。
+TLAD	E1A2AUD	FEE31A2C	提示	控制符多余	多:~n~	原文~n~数=0，译文多插入断行	~z~Just so you know who you dealing with, Mr. Bellic. This is one screwed up dumb redneck motherfucker.	~z~先告诉你你面前的人是谁，贝利克先生。~n~这可是一位不好惹的日妈红脖子。
+TLAD	E1E1AUD	2D12425D	提示	控制符多余	多:~n~	原文~n~数=0，译文多插入断行	~z~Man, I don't know. What is worth it? Sticking our heads out to steal a truck of blow for a few thousand bucks?	~z~兄弟，我不知道。又有什么是值得的？~n~拿命去偷一车白粉，赚几千块钱值吗？
+TLAD	E1E1AUD	3D5016B3	提示	控制符多余	多:~n~	原文~n~数=0，译文多插入断行	~z~Racism, misogyny, bad personal hygiene. But still, why you wanna kill each other?	~z~搞歧视，搞仇女，不讲个人卫生。~n~但是，你们互相残杀干嘛？
+TLAD	E1E2AUD	4E14614D	提示	控制符多余	多:~n~	原文~n~数=0，译文多插入断行	~z~Elizabeta, I only work for her now because things are weird with my brothers.	~z~伊丽莎贝塔，我替她干活是因为~n~帮里兄弟最近不太对。
+TLAD	E1E2AUD	FAC6AF09	提示	控制符多余	多:~n~	原文~n~数=0，译文多插入断行	~z~~c~You have any idea how many condoms filled with cocaine I have in my small intestine?~s~	~z~~c~你猜得到他们在我的小肠里~n~塞了多少装着可卡因的避孕套吗？~s~
+TLAD	E1RAY1	72BA0C00	提示	控制符多余	多:~s~	多余~s~（默认色复位，官方译文也常这样收尾，渲染无影响）	Meet the other ~b~Lost gang members.	与其他~b~失落帮成员~s~会合。
+TLAD	E1RAY1	82A65564	提示	控制符多余	多:~s~	多余~s~（默认色复位，官方译文也常这样收尾，渲染无影响）	Stash the diamonds in the two ~g~trash bags.	将钻石藏到两袋~g~垃圾~s~中。
+TLAD	E1RAY1	B8EB41ED	提示	控制符多余	多:~s~	多余~s~（默认色复位，官方译文也常这样收尾，渲染无影响）	Stash the remaining diamonds in the other ~g~trash bag.	将余下钻石藏到另一袋~g~垃圾~s~中。
+TLAD	E1RC3	F297DDC1	提示	控制符多余	多:~s~	多余~s~（默认色复位，官方译文也常这样收尾，渲染无影响）	Get back on your ~b~bike.	回到你的~b~摩托~s~上。
+TLAD	JIM2	6C2B2F87	提示	控制符多余	多:~s~	多余~s~（默认色复位，官方译文也常这样收尾，渲染无影响）	Get back on your ~b~bike.	回到你的~b~摩托~s~上。
+TLAD	MALC1	8E99DD9D	提示	控制符多余	多:~s~	多余~s~（默认色复位，官方译文也常这样收尾，渲染无影响）	Get back on your ~b~bike.	回到你的~b~摩托~s~上。
+TLAD	STUB3M2	209425A2	严重	顺序不符	EN:~b~~s~~1~~1~ ZH:~1~~1~~b~~s~	颜色/占位顺序	Meet the ~b~contact ~s~by 0~1~:~1~.	在 0~1~:~1~ 前会见~b~联络人~s~。
+TLAD	STUB3M2	4D3E7EF6	严重	顺序不符	EN:~b~~s~~1~~1~ ZH:~1~~1~~b~~s~	颜色/占位顺序	Meet the ~b~contact ~s~by ~1~:0~1~.	在 ~1~:0~1~ 前会见~b~联络人~s~。
+TLAD	STUB3M2	9AAB9997	严重	顺序不符	EN:~b~~s~~1~~1~ ZH:~1~~1~~b~~s~	颜色/占位顺序	Meet the ~b~contact ~s~by ~1~:~1~.	在 ~1~:~1~ 前会见~b~联络人~s~。
+TLAD	STUB3M2	AAF43A28	严重	顺序不符	EN:~b~~s~~1~~1~ ZH:~1~~1~~b~~s~	颜色/占位顺序	Meet the ~b~contact ~s~by 0~1~:0~1~.	在 0~1~:0~1~ 前会见~b~联络人~s~。
+TLAD	STUB3M2	CF97036D	严重	顺序不符	EN:~b~~s~~1~ ZH:~1~~b~~s~	颜色/占位顺序	Meet the ~b~contact ~s~by 00:~1~.	在 00:~1~ 前会见~b~联络人~s~。
+TLAD	STUB3M2	FECBE1D6	严重	顺序不符	EN:~b~~s~~1~ ZH:~1~~b~~s~	颜色/占位顺序	Meet the ~b~contact ~s~by 00:0~1~.	在 00:0~1~ 前会见~b~联络人~s~。
+TLAD	STUB3M4	10B6D526	提示	顺序不符	EN:~s~~1~~1~ ZH:~1~~1~~s~	颜色/占位顺序	Get the car back ~s~by ~1~:0~1~.	在 ~1~:0~1~ 前把车送回去~s~。
+TLAD	STUB3M4	3B7B2AB2	提示	顺序不符	EN:~s~~1~~1~ ZH:~1~~1~~s~	颜色/占位顺序	Get the car back ~s~by 0~1~:~1~.	在 0~1~:~1~ 前把车送回去~s~。
+TLAD	STUB3M4	C26D32DC	提示	顺序不符	EN:~s~~1~ ZH:~1~~s~	颜色/占位顺序	Get the car back ~s~by 00:~1~.	在 00:~1~ 前把车送回去~s~。
+TLAD	STUB3M4	CFE94DD4	提示	顺序不符	EN:~s~~1~~1~ ZH:~1~~1~~s~	颜色/占位顺序	Get the car back ~s~by ~1~:~1~.	在 ~1~:~1~ 前把车送回去~s~。
+TLAD	STUB3M4	DD3BE879	提示	顺序不符	EN:~s~~1~~1~ ZH:~1~~1~~s~	颜色/占位顺序	Get the car back ~s~by 0~1~:0~1~.	在 0~1~:0~1~ 前把车送回去~s~。
+TLAD	STUB3M4	F5401E39	提示	控制符多余	多:~s~	多余~s~（默认色复位，官方译文也常这样收尾，渲染无影响）	Get back in the ~b~car.	回到~b~车~s~上。
+TLAD	STUBBS1	F4F70994	严重	顺序不符	EN:~y~~s~~1~~1~ ZH:~1~~1~~y~~s~	颜色/占位顺序	Get to the ~y~airport runway~s~ by ~1~:~1~.	在 ~1~:~1~ 前到达~y~机场跑道~s~。
+TBoGT	BBRO1	8137E6AC	提示	控制符多余	多:~n~	原文~n~数=0，译文多插入断行	~s~Press ~INPUT_VEH_ATTACK~ to throw the sticky bombs from the driver's side of the boat. ~s~Press ~PAD_DPAD_DOWN~ to detonate the sticky bomb.~s~	~s~按~INPUT_VEH_ATTACK~从船的左侧丢出黏弹。~n~按~PAD_DPAD_DOWN~引爆黏弹。~s~
+TBoGT	BBRO1	BE5A1D63	提示	控制符多余	多:~n~	原文~n~数=0，译文多插入断行	~s~Press ~INPUT_VEH_ATTACK~ to throw the sticky bombs from the driver's side of the boat. ~s~Press ~INPUT_DETONATE~ to detonate the sticky bomb.~s~	~s~按~INPUT_VEH_ATTACK~从船的左侧丢出黏弹。~n~按~INPUT_DETONATE~引爆黏弹。~s~
+TBoGT	BJUMP	0947F6F9	提示	控制符多余	多:~s~	多余~s~（默认色复位，官方译文也常这样收尾，渲染无影响）	Base jump onto the ~b~moving vehicle.	跳到~b~行驶的载具~s~上。
+TBoGT	BJUMP	F23E4D59	提示	控制符多余	多:~s~	多余~s~（默认色复位，官方译文也常这样收尾，渲染无影响）	Base jump onto the ~y~checkpoint.	跳到~y~检查点~s~上。
+TBoGT	CLBPRC1	2AF11570	提示	控制符多余	多:~s~	多余~s~（默认色复位，官方译文也常这样收尾，渲染无影响）	Get back in Clay's ~b~car.	回到~b~科雷的车~s~上。
+TBoGT	CLBPRC4	411471D3	提示	控制符多余	多:~s~	多余~s~（默认色复位，官方译文也常这样收尾，渲染无影响）	Go to the ~b~fire truck.	前往~b~消防车~s~所在地。
+TBoGT	CLBPRC4	54F3982D	提示	控制符多余	多:~s~	多余~s~（默认色复位，官方译文也常这样收尾，渲染无影响）	Get back in the ~b~fire truck.	回到~b~消防车~s~上。
+TBoGT	CLBPRC4	BA9DE37C	提示	控制符多余	多:~s~	多余~s~（默认色复位，官方译文也常这样收尾，渲染无影响）	Wait for ~b~Poppy.	等待~b~波比~s~。
+TBoGT	CLBPRC5	3ECF1267	提示	控制符多余	多:~s~	多余~s~（默认色复位，官方译文也常这样收尾，渲染无影响）	Go to Cloe's ~b~car.	前往~b~克洛伊的车~s~的所在地。
+TBoGT	CLBPRC5	7BAD0850	提示	控制符多余	多:~s~	多余~s~（默认色复位，官方译文也常这样收尾，渲染无影响）	Get back in ~b~Cloe's car.	回到~b~克洛伊的车~s~上。
+TBoGT	CLBPRC8	0519124E	提示	控制符多余	多:~s~	多余~s~（默认色复位，官方译文也常这样收尾，渲染无影响）	Pick up Bruce Spade from ~y~Northwood.	去~y~北伍德~s~接布鲁斯･斯佩德。
+TBoGT	CLBPRC8	07941738	提示	控制符多余	多:~s~	多余~s~（默认色复位，官方译文也常这样收尾，渲染无影响）	Go to the ~b~helicopter.	前往~b~直升机~s~所在地。
+TBoGT	CLBPRC8	38147844	提示	控制符多余	多:~s~	多余~s~（默认色复位，官方译文也常这样收尾，渲染无影响）	Get back in the ~b~helicopter.	回到~b~直升机~s~上。
+TBoGT	DWARS	6ACD5B37	提示	控制符多余	多:~s~	多余~s~（默认色复位，官方译文也常这样收尾，渲染无影响）	Get back in the ~b~drugs vehicle.	回到~b~运毒载具~s~上。
+TBoGT	DWARS	F610F1C0	提示	控制符多余	多:~s~	多余~s~（默认色复位，官方译文也常这样收尾，渲染无影响）	Take the stash to the ~y~drop off.	将~y~毒品~s~送到卸货点。
+TBoGT	E2BR2AU	983E81E1	提示	控制符多余	多:~n~	原文~n~数=0，译文多插入断行	~z~An extreme race around the city. Air, more air, water, land, it's got it all.	~z~环绕城市的终极一战。~n~空中、半空、海上、地上，无所不有。
+TBoGT	E2BR3BA	A00303BE	提示	控制符多余	多:~n~	原文~n~数=0，译文多插入断行	~z~Oh jeez I'm sorry. I'm sorry I'm trying to toughen up my little bro here, my little bro who I love more than life itself and you think that you can interfere that?	~z~哦天哪，真抱歉。我只是想锻炼一下我的小老弟。~n~我爱我的小兄弟胜过爱自己，然后你告诉我这也归你管？
+TBoGT	E2F1AUD	61E48619	提示	控制符多余	多:~n~	原文~n~数=0，译文多插入断行	~z~This package sounds too good to be true, A. What this fool want to be running with low rate corner boys like you for?	~z~这批货好得有点假了，A。~n~谁会找你们这种小毒贩做大买卖啊？
+TBoGT	E2MUM1A	56ECFFD8	提示	控制符多余	多:~n~	原文~n~数=0，译文多插入断行	~z~Hey. She called me, okay? It's business. We run a service. She knew the rules. She should have read the small print.	~z~喂喂喂，是她主动找我，好吗？这行就是这样。~n~我们提供服务，她也知道规矩。她应该看过合同上的小字。
+TBoGT	E2T11AU	6F368B12	提示	控制符多余	多:~n~	原文~n~数=0，译文多插入断行	~z~Dukes? Alright, I'll wait for you in Middle Park by that silly Monoglobe. You are gonna make it, L. I know it.	~z~公爵区？好吧，我在草地公园的巨蠢地球仪那儿等你。~n~你能做到的，L。我知道的。
+TBoGT	E2T4AUD	869BF924	提示	控制符多余	多:~n~	原文~n~数=0，译文多插入断行	"~z~Yeah okay, bro, I'll get on that shit right now. ""Dear Complete Cunt, it has come to my attention that..."""	~z~那好，兄弟。我这就开始写：~n~「亲爱的大贱逼，我最近注意到...」
+TBoGT	E2T4BAU	C12FFF32	提示	控制符多余	多:~n~	原文~n~数=0，译文多插入断行	~z~This is a guise I wear in public. I'd prefer it if you'd call me the Celebinator.	~z~这是我抛头露面的马甲。~n~我还是希望你称呼我「名人终结者」。
+TBoGT	E2T5BAU	31C74E52	提示	控制符多余	多:~n~	原文~n~数=0，译文多插入断行	~z~Thank the fun police for that little jail dodger. When are you going to settle down, Luis?	~z~谢谢快乐杀手的避免犯法小知识啊。~n~你什么时候才能安定下来，路易斯？
+TBoGT	FIGHTC	151E9404	严重	顺序不符	EN:~s~~INPUT_FRONTEND_X~~r~~s~~n~~INPUT_FRO ZH:~s~~INPUT_FRONTEND_X~~r~~n~~s~~INPUT_FRO	颜色/占位顺序	~s~Press ~INPUT_FRONTEND_X~ to compete ~r~-$100~s~.~n~Press ~INPUT_FRONTEND_CANCEL~ to spectate.~n~Press ~INPUT_PICKUP~ to quit.	~s~按~INPUT_FRONTEND_X~参赛 ~r~-$100~n~~s~按~INPUT_FRONTEND_CANCEL~旁观~n~按~INPUT_PICKUP~退出
+TBoGT	FIGHTC	40B13F69	严重	顺序不符	EN:~s~~INPUT_FRONTEND_X~~n~~INPUT_FRONTEND_ ZH:~s~~INPUT_FRONTEND_X~~n~~INPUT_FRONTEND_	颜色/占位顺序	~s~Press ~INPUT_FRONTEND_X~ to compete.~n~Press ~INPUT_FRONTEND_CANCEL~ to spectate ~r~-$50~s~.~n~Press ~INPUT_PICKUP~ to quit.	~s~按~INPUT_FRONTEND_X~参加比赛~n~按~INPUT_FRONTEND_CANCEL~旁观 ~r~-$50~n~~s~按~INPUT_PICKUP~退出
+TBoGT	FIGHTC	56C9DC6E	严重	顺序不符	EN:~s~~r~~1~~s~~n~~INPUT_FRONTEND_CANCEL~~g ZH:~s~~r~~1~~n~~s~~INPUT_FRONTEND_CANCEL~~g	颜色/占位顺序	~s~Bet costs ~r~$~1~.~s~~n~Press ~INPUT_FRONTEND_CANCEL~ to back the right fighter ~g~+$~1~.~s~~n~Press ~INPUT_FRONTEND_X~ to back the left fighter ~g~+$~1~.~s~	~s~下注 ~r~$~1~~n~~s~按~INPUT_FRONTEND_CANCEL~押注右边的选手 ~g~+$~1~~n~~s~按~INPUT_FRONTEND_X~押注左边的选手 ~g~+$~1~~s~
+TBoGT	FIGHTC	A6F6AB33	严重	顺序不符	EN:~s~~INPUT_FRONTEND_ACCEPT~~n~~INPUT_FRON ZH:~s~~INPUT_FRONTEND_ACCEPT~~n~~INPUT_FRON	颜色/占位顺序	~s~Press ~INPUT_FRONTEND_ACCEPT~ to continue fighting.~n~Press ~INPUT_FRONTEND_CANCEL~ to spectate ~r~-$50.~s~~n~Press ~INPUT_PICKUP~ to quit.	~s~按~INPUT_FRONTEND_ACCEPT~进入下一轮~n~按~INPUT_FRONTEND_CANCEL~旁观 ~r~-$50~n~~s~按~INPUT_PICKUP~退出
+TBoGT	FIGHTC	E2048BE6	严重	顺序不符	EN:~s~~INPUT_FRONTEND_X~~r~~s~~n~~INPUT_FRO ZH:~s~~INPUT_FRONTEND_X~~r~~n~~s~~INPUT_FRO	颜色/占位顺序	~s~Press ~INPUT_FRONTEND_X~ to compete ~r~-$100~s~.~n~Press ~INPUT_FRONTEND_CANCEL~ to spectate ~r~-$50~s~.~n~Press ~INPUT_PICKUP~ to quit.	~s~按~INPUT_FRONTEND_X~参赛 ~r~-$100~n~~s~按~INPUT_FRONTEND_CANCEL~旁观 ~r~-$50~n~~s~按~INPUT_PICKUP~退出
+TBoGT	FRI2	19437094	提示	控制符多余	多:~s~	多余~s~（默认色复位，官方译文也常这样收尾，渲染无影响）	Return to top of the ~y~jetty.	回到~y~码头~s~上边。
+TBoGT	FRI2	4FDA5EDD	提示	控制符多余	多:~s~	多余~s~（默认色复位，官方译文也常这样收尾，渲染无影响）	Get back in the ~b~SUV.	回到~b~SUV~s~上。
+TBoGT	FRI2	A74C0CA3	提示	控制符多余	多:~s~	多余~s~（默认色复位，官方译文也常这样收尾，渲染无影响）	Go back to the pier and protect the shipment from the ~r~gang.	回到码头，从~r~敌人~s~手中保护货物。
+TBoGT	FRI2	B068BF85	提示	控制符多余	多:~s~	多余~s~（默认色复位，官方译文也常这样收尾，渲染无影响）	Guard the lower section of the ~y~pier.	保护~y~码头~s~的下方。
+TBoGT	FRI2	E77FADB2	提示	控制符多余	多:~s~	多余~s~（默认色复位，官方译文也常这样收尾，渲染无影响）	You are losing the ~b~shipment.	你要失去~b~货物~s~了。
+TBoGT	MUM1	63FD339A	提示	控制符多余	多:~n~	原文~n~数=0，译文多插入断行	~s~Tap ~INPUT_MELEE_BLOCK~ as your opponent attacks to dodge. Press ~INPUT_MELEE_ATTACK1~ or ~INPUT_MELEE_ATTACK2~ after dodging to perform a powerful counter move or take their weapon.	~s~对手攻击时可按~INPUT_MELEE_BLOCK~闪避。~n~闪避后按~INPUT_MELEE_ATTACK1~或~INPUT_MELEE_ATTACK2~反击或夺械。
+TBoGT	RBULG1	19F3B414	提示	控制符多余	多:~s~	多余~s~（默认色复位，官方译文也常这样收尾，渲染无影响）	Get back in the ~b~vehicle.	回到~b~载具~s~上。
+TBoGT	RBULG2	1F6DFE0D	提示	控制符多余	多:~s~	多余~s~（默认色复位，官方译文也常这样收尾，渲染无影响）	Land on the ~b~truck.	降落到~b~卡车~s~上。
+TBoGT	RBULG2	4BCC25CB	提示	控制符多余	多:~s~	多余~s~（默认色复位，官方译文也常这样收尾，渲染无影响）	Get back into the ~b~chopper.	回到~b~直升机~s~上。
+TBoGT	RBULG2	E84A9047	提示	控制符多余	多:~s~	多余~s~（默认色复位，官方译文也常这样收尾，渲染无影响）	Jump out and parachute onto the ~y~building.	跳伞空降到~y~大楼~s~楼顶。
+TBoGT	SP_RACE	8E08CB2A	提示	控制符多余	多:~s~	多余~s~（默认色复位，官方译文也常这样收尾，渲染无影响）	Get a bike and get to the ~y~start line.	~s~找一辆摩托车到~y~起点~s~准备。
+TBoGT	SP_RACE	C4C9FDC6	提示	控制符多余	多:~s~	多余~s~（默认色复位，官方译文也常这样收尾，渲染无影响）	Go to the ~y~start line.	~s~到~y~起点~s~准备。
+TBoGT	TONY10	47670C39	提示	控制符多余	多:~s~	多余~s~（默认色复位，官方译文也常这样收尾，渲染无影响）	Get back on the ~b~boat.	回到~b~船~s~上。
+TBoGT	TONY10	91B21A0E	提示	控制符多余	多:~s~	多余~s~（默认色复位，官方译文也常这样收尾，渲染无影响）	Get back in the ~b~boat.	回到~b~船~s~上。
+TBoGT	TONY3	35DF347B	提示	控制符多余	多:~s~	多余~s~（默认色复位，官方译文也常这样收尾，渲染无影响）	Help defend Rocco from the ~r~Messinas.	从~r~墨西拿家族成员~s~手中保护罗科。
+TBoGT	TONY3	456B5AF9	提示	控制符多余	多:~s~	多余~s~（默认色复位，官方译文也常这样收尾，渲染无影响）	Head down to the ~b~golf cart.	前往~b~高尔夫球车~s~所在地。
+TBoGT	TONY3	78D1F95F	提示	控制符多余	多:~s~	多余~s~（默认色复位，官方译文也常这样收尾，渲染无影响）	Get back into the ~b~car.	回到~b~车~s~上。
+TBoGT	TONY3	7AE9E55F	提示	控制符多余	多:~s~	多余~s~（默认色复位，官方译文也常这样收尾，渲染无影响）	Get back into the ~b~golf cart.	回到~b~高尔夫球车~s~上。
+TBoGT	TONY4	1EA5616D	提示	控制符多余	多:~s~	多余~s~（默认色复位，官方译文也常这样收尾，渲染无影响）	Get back in the ~b~chopper.	回到~b~直升机~s~上。
+TBoGT	TONY4	2F80163D	提示	控制符多余	多:~s~	多余~s~（默认色复位，官方译文也常这样收尾，渲染无影响）	Get back into the ~b~car.	回到~b~车~s~上。
+TBoGT	TONY4	49D843C8	提示	控制符多余	多:~s~	多余~s~（默认色复位，官方译文也常这样收尾，渲染无影响）	Meet Tony at the ~y~helipad.	和托尼在~y~停机坪~s~碰面。
+TBoGT	TONY4	7757A569	提示	控制符多余	多:~s~	多余~s~（默认色复位，官方译文也常这样收尾，渲染无影响）	Get to the ~b~chopper.	前往~b~直升机~s~所在地。
+TBoGT	TONY8	050A3466	提示	控制符多余	多:~s~	多余~s~（默认色复位，官方译文也常这样收尾，渲染无影响）	Get to ~b~Yusuf's chopper.	前往~b~尤瑟夫的直升机~s~的所在地。
+TBoGT	TONY8	0ADCBFFF	提示	控制符多余	多:~s~	多余~s~（默认色复位，官方译文也常这样收尾，渲染无影响）	Get back in ~b~Yusuf's chopper.	回到~b~尤瑟夫的直升机~s~上。
+TBoGT	TONY8	4FB6C9BE	提示	控制符多余	多:~s~	多余~s~（默认色复位，官方译文也常这样收尾，渲染无影响）	Fly to the roof of the ~y~Libertonian.	飞到~y~自由城博物馆~s~的屋顶。
+TBoGT	TONY8	C84A3AEB	提示	控制符多余	多:~s~	多余~s~（默认色复位，官方译文也常这样收尾，渲染无影响）	Escape the Libertonian via the ~y~skylight.	~s~通过~y~天窗~s~逃离自由城博物馆。
+TBoGT	TONY8	F74B18DC	提示	控制符多余	多:~s~	多余~s~（默认色复位，官方译文也常这样收尾，渲染无影响）	Fly back to the roof of the ~y~Libertonian.	~s~飞回~y~自由城博物馆~s~的屋顶。
+TBoGT	TONY9	FD69396B	提示	控制符多余	多:~n~	原文~n~数=0，译文多插入断行	~s~Hold ~INPUT_VEH_CIN_CAM~ to focus the camera on the suspected kidnapper. Press ~INPUT_VEH_CIN_CAM~ to toggle this view.	~s~按住~INPUT_VEH_CIN_CAM~将镜头对准绑匪。~n~按下~INPUT_VEH_CIN_CAM~切换至跟随视角。
+TBoGT	YUSUF1	006ADCE2	提示	控制符多余	多:~s~	多余~s~（默认色复位，官方译文也常这样收尾，渲染无影响）	Get a boat from the ~y~marina.	前往~y~码头，~s~找一条船。
+TBoGT	YUSUF3	0566A58F	提示	控制符多余	多:~s~	多余~s~（默认色复位，官方译文也常这样收尾，渲染无影响）	Get back in the ~b~APC.	回到~b~APC~s~上。
+TBoGT	YUSUF3	149CEBFD	提示	控制符多余	多:~s~	多余~s~（默认色复位，官方译文也常这样收尾，渲染无影响）	Get back in the ~b~APC.	回到~b~APC~s~上。
+TBoGT	YUSUF3	410B9758	提示	控制符多余	多:~s~	多余~s~（默认色复位，官方译文也常这样收尾，渲染无影响）	Get back in ~b~Yusuf's helicopter.	回到~b~尤瑟夫的直升机~s~上。
+TBoGT	YUSUF3	96E2C855	提示	控制符多余	多:~s~	多余~s~（默认色复位，官方译文也常这样收尾，渲染无影响）	Fly near the ~r~APC.	飞到~r~APC~s~附近。
+TBoGT	YUSUF4	F5A638B9	严重	顺序不符	EN:~s~~y~ ZH:~y~~s~	颜色/占位顺序	~s~Get into position ~y~above the tracks.	在~y~铁轨上方~s~就位。

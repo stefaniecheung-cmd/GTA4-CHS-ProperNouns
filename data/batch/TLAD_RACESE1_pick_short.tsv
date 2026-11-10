@@ -1,0 +1,18 @@
+序号	crc	english	上邻	下邻
+1	030DBB37	Scrapes Only	坡道加速	Press and hold ~INPUT_VEH_HEADLIGHT~ for a heavy left attack, or press and hold ~INPUT_VEH_CIN_CAM~ for a heavy right attack.
+2	057BFA66	Press and hold ~INPUT_VEH_HEADLIGHT~ for a heavy left attack, or press and hold ~INPUT_VEH_CIN_CAM~ for a heavy right attack.	Scrapes Only	三角定位
+3	0AFDA7D3	WAITING FOR PLAYERS TO FINISH...	Down The Hatch	Press and hold ~INPUT_VEH_HEADLIGHT~ for a heavy left attack, or press and hold ~INPUT_FRONTEND_RT~ for a heavy right attack.
+4	0D658909	Press and hold ~INPUT_VEH_HEADLIGHT~ for a heavy left attack, or press and hold ~INPUT_FRONTEND_RT~ for a heavy right attack.	WAITING FOR PLAYERS TO FINISH...	中间地带
+5	1BE22602	You have a bat which can be used to attack other competitors. Press ~INPUT_VEH_HEADLIGHT~ for a left attack, or press ~INPUT_FRONTEND_RT~ for a right attack.	中间地带	熔毁
+6	4A13E25F	The race is ending soon.	失乐园	Triple L Rocks
+7	54AE0148	You have a bat which can be used to attack other competitors. Press ~INPUT_MOUSE_LMB~ for a left attack, or press ~INPUT_MOUSE_RMB~ for a right attack.	Track	Normal
+8	5BDC13E3	Color	Normal	Annihilator
+9	63D475E9	You have a bat which can be used to attack other competitors. Press ~INPUT_MOUSE_LMB~ for a left attack, or press ~INPUT_MOUSE_RMB~ for a right attack.	海岸湾竞速	Enters 1ST
+10	6CA086C0	Enters 1ST	You have a bat which can be used to attack other competitors. Press ~INPUT_MOUSE_LMB~ for a left attack, or press ~INPUT_MOUSE_RMB~ for a right attack.	Off
+11	A18B4DD5	New Personal Best	脱钩	脱轨器
+12	AD771711	Vehicle Damage	脱轨器	Press and hold ~INPUT_MOUSE_LMB~ for a heavy left attack, or press and hold ~INPUT_MOUSE_RMB~ for a heavy right attack.
+13	B76ED7EB	Press and hold ~INPUT_MOUSE_LMB~ for a heavy left attack, or press and hold ~INPUT_MOUSE_RMB~ for a heavy right attack.	Vehicle Damage	布洛克折返
+14	D22D9110	Lap Time	液体交换	The Lost's Highway
+15	DC86824B	Press and hold ~INPUT_MOUSE_LMB~ for a heavy left attack, or press and hold ~INPUT_MOUSE_RMB~ for a heavy right attack.	旋转木马	Vehicle
+16	DD245B9C	Vehicle	Press and hold ~INPUT_MOUSE_LMB~ for a heavy left attack, or press and hold ~INPUT_MOUSE_RMB~ for a heavy right attack.	双重停车
+17	EC3CC7E8	You have a bat which can be used to attack other competitors. Press ~INPUT_VEH_HEADLIGHT~ for a left attack, or press ~INPUT_VEH_CIN_CAM~ for a right attack.	叭叭	A Bohan Scramble

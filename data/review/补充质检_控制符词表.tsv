@@ -1,0 +1,260 @@
+控制符	出现次数	形态
+~z~	42397	小写/其他
+~s~	3911	小写/其他
+~n~	2582	小写/其他
+~r~	1653	小写/其他
+~x~	1593	小写/其他
+~b~	984	小写/其他
+~INPUT_PICKUP~	721	小写/其他
+~y~	647	小写/其他
+~INPUT_FRONTEND_ACCEPT~	534	小写/其他
+~1~	506	小写/其他
+~g~	462	小写/其他
+~PAD_LSTICK_ALL~	336	小写/其他
+~a~	186	小写/其他
+~c~	140	小写/其他
+~S~	103	大写
+~INPUT_FRONTEND_CANCEL~	96	小写/其他
+~PAD_RSTICK_ALL~	90	小写/其他
+~PAD_A~	61	小写/其他
+~INPUT_ATTACK~	56	小写/其他
+~m~	55	小写/其他
+~INPUT_AIM~	47	小写/其他
+~PAD_B~	46	小写/其他
+~按~	44	小写/其他
+~INPUT_PHONE_ACCEPT~	42	小写/其他
+~PAD_LB~	42	小写/其他
+~PAD_Y~	40	小写/其他
+~INPUT_MOUSE_LMB~	40	小写/其他
+~R~	38	大写
+~INPUT_VEH_EXIT~	36	小写/其他
+~PAD_X~	36	小写/其他
+~INPUT_SPRINT~	35	小写/其他
+~INPUT_VEH_CIN_CAM~	32	小写/其他
+~Y~	31	大写
+~PAD_LSTICK_UPDOWN~	30	小写/其他
+~INPUT_ENTER~	30	小写/其他
+~e~	27	小写/其他
+~ACCEPT~	27	大写
+~B~	27	大写
+~PAD_UP~	24	小写/其他
+~INPUT_VEH_HORN~	24	小写/其他
+~PAD_LEFT~	22	小写/其他
+~PAD_RIGHT~	22	小写/其他
+~PAD_DOWN~	21	小写/其他
+~INPUT_PHONE_TAKE_OUT~	17	小写/其他
+~INPUT_VEH_HEADLIGHT~	17	小写/其他
+~PAD_DPAD_DOWN~	17	小写/其他
+~INPUT_MOUSE_RMB~	17	小写/其他
+~PAD_SIXAXIS_ROLL~	17	小写/其他
+~INPUT_MELEE_ATTACK1~	17	小写/其他
+~PAD_BACK~	16	小写/其他
+~PAD_LSTICK_LEFTRIGHT~	15	小写/其他
+~PAD_LT~	15	小写/其他
+~PAD_RSTICK_LEFTRIGHT~	15	小写/其他
+~COL_NET_1~	15	大写
+~INPUT_KB_LEFT~	14	小写/其他
+~INPUT_KB_RIGHT~	14	小写/其他
+~CANCEL~	13	大写
+~COL_NET_2~	13	大写
+~PAD_SIXAXIS_PITCH~	13	小写/其他
+~INPUT_VEH_ATTACK~	13	小写/其他
+~INPUT_DUCK~	13	小写/其他
+~INPUT_NEXT_CAMERA~	12	小写/其他
+~INPUT_JUMP~	12	小写/其他
+~w~	12	小写/其他
+~INPUT_KB_UP~	11	小写/其他
+~INPUT_FRONTEND_PAUSE~	11	小写/其他
+~h~	11	小写/其他
+~INPUT_KB_DOWN~	11	小写/其他
+~INPUT_VEH_BRAKE~	10	小写/其他
+~PAD_RSTICK_NONE~	10	小写/其他
+~INPUT_VEH_ACCELERATE~	10	小写/其他
+~PAD_RSTICK_UP~	9	小写/其他
+~INPUT_FRONTEND_X~	9	小写/其他
+~~	9	小写/其他
+~INPUT_MOUSE_WHEEL_UP~	9	小写/其他
+~INPUT_MOUSE_WHEEL_DOWN~	9	小写/其他
+~INPUT_REPLAY_SAVE_TO_HDD~	8	小写/其他
+~INPUT_FRONTEND_RT~	8	小写/其他
+~INPUT_PHONE_CANCEL~	8	小写/其他
+~PAD_RSTICK_UPDOWN~	8	小写/其他
+~INPUT_VEH_HANDBRAKE~	8	小写/其他
+~PAD_RSTICK_DOWN~	7	小写/其他
+~PAD_RT~	7	小写/其他
+~PAD_LSTICK_DOWN~	7	小写/其他
+~INPUT_MELEE_ATTACK2~	7	小写/其他
+~PAD_DPAD_LEFTRIGHT~	6	小写/其他
+~INPUT_FREE_AIM~	6	小写/其他
+~PAD_DPAD_ALL~	6	小写/其他
+~PAD_DPAD_UP~	6	小写/其他
+~PAD_RB~	6	小写/其他
+~INPUT_VEH_FLY_YAW_LEFT~	6	小写/其他
+~INPUT_VEH_FLY_YAW_RIGHT~	6	小写/其他
+~INPUT_MOVE_LEFT~	6	小写/其他
+~INPUT_COVER~	6	小写/其他
+~INPUT_PHONE_PUT_AWAY~	6	小写/其他
+~和吉姆玩。~	6	小写/其他
+~和特里玩。~	6	小写/其他
+~和科雷玩。~	6	小写/其他
+~PAD_START~	5	小写/其他
+~MOUSE~	5	大写
+~PAD_SIXAXIS_RELOAD~	5	小写/其他
+~PAD_LSTICK_UP~	5	小写/其他
+~PAD_LSTICK_LEFT~	5	小写/其他
+~INPUT_VEH_NEXT_WEAPON~	5	小写/其他
+~INPUT_MELEE_BLOCK~	5	小写/其他
+~INPUT_DETONATE~	5	小写/其他
+~INPUT_VEH_NEXT_RADIO~	4	小写/其他
+~INPUT_VEH_PREV_RADIO~	4	小写/其他
+~INPUT_FRONTEND_LT~	4	小写/其他
+~INPUT_FRONTEND_RB~	4	小写/其他
+~INPUT_FRONTEND_LB~	4	小写/其他
+~PAD_LSTICK_RIGHT~	4	小写/其他
+~INPUT_VEH_LOOK_BEHIND~	4	小写/其他
+~INPUT_RELOAD~	4	小写/其他
+~BLIP_84~	4	大写
+~BLIP_90~	4	大写
+~BLIP_86~	4	大写
+~BLIP_89~	4	大写
+~BLIP_83~	4	大写
+~BLIP_85~	4	大写
+~BLIP_88~	4	大写
+~BLIP_87~	4	大写
+~INPUT_MOVE_RIGHT~	4	小写/其他
+~PAD_LSTICK_NONE~	3	小写/其他
+~BLIP_27~	3	大写
+~INPUT_FRONTEND_F6~	3	小写/其他
+~INPUT_VEH_ATTACK2~	3	小写/其他
+~INPUT_MELEE_KICK~	3	小写/其他
+~INPUT_NEXT_WEAPON~	3	小写/其他
+~挑战吉姆。~	3	小写/其他
+~挑战特里。~	3	小写/其他
+~挑战科雷。~	3	小写/其他
+~和吉姆打。~	3	小写/其他
+~和特里打。~	3	小写/其他
+~和科雷打。~	3	小写/其他
+~BLIP_110~	3	大写
+~BLIP_112~	3	大写
+~PAD_RSTICK_ROTATE~	3	小写/其他
+~INPUT_MOVE_DOWN~	3	小写/其他
+~INPUT_FRONTEND_LEGEND~	2	小写/其他
+~INPUT_FRONTEND_Y~	2	小写/其他
+~INPUT_MOUSE_UD~	2	小写/其他
+~PAD_DPAD_RIGHT~	2	小写/其他
+~PAD_DPAD_LEFT~	2	小写/其他
+~INPUT_DROP_WEAPON~	2	小写/其他
+~INPUT_FRONTEND_AXIS_FWD~	2	小写/其他
+~INPUT_FRONTEND_AXIS_BACK~	2	小写/其他
+~INPUT_FRONTEND_APPLY~	2	小写/其他
+~MOUSE_WHEEL~	2	大写
+~_~	2	小写/其他
+~PAD_SIXAXIS_DRIVE~	2	小写/其他
+~提升高度，按~	2	小写/其他
+~INPUT_VEH_FLY_PITCH_UP~	2	小写/其他
+~INPUT_VEH_FLY_PITCH_DOWN~	2	小写/其他
+~INPUT_VEH_FLY_ROLL_LEFT~	2	小写/其他
+~INPUT_VEH_FLY_ROLL_RIGHT~	2	小写/其他
+~PAD_RSTICK_LEFT~	2	小写/其他
+~INPUT_SNIPER_ZOOM_OUT~	2	小写/其他
+~PAD_LSTICK_LEFTRIGHT_VEH~	2	小写/其他
+~INPUT_VEH_KEY_UD~	2	小写/其他
+~INPUT_ZOOM_RADAR~	2	小写/其他
+~INPUT_VEH_LOOK_LEFT~	2	小写/其他
+~INPUT_VEH_LOOK_RIGHT~	2	小写/其他
+~INPUT_PREV_WEAPON~	2	小写/其他
+~INPUT_MELEE_ATTACK3~	2	小写/其他
+~BLIP_118~	2	大写
+~BLIP_114~	2	大写
+~BLIP_106~	2	大写
+~INPUT_FRONTEND_SHOWSCORE~	2	小写/其他
+~BLIP_111~	2	大写
+~和阿曼多玩。~	2	小写/其他
+~和恩里克玩。~	2	小写/其他
+~BLIP_105~	2	大写
+~BLIP_108~	2	大写
+~和阿曼多打。~	2	小写/其他
+~和恩里克打。~	2	小写/其他
+~INPUT_VEH_HANDBRAKE_ALT~	2	小写/其他
+~INPUT_VEH_ATTACK3_KB~	2	小写/其他
+~T~	1	大写
+~BLIP_54~	1	大写
+~BLIP_34~	1	大写
+~INPUT_NEXT_TRACK~	1	小写/其他
+~INPUT_PREV_TRACK~	1	小写/其他
+~PAD_SELECT~	1	小写/其他
+~INPUT_TEXT_CHAT_Y~	1	小写/其他
+~BLIP_26~	1	大写
+~INPUT_FRONTEND_AXIS_LEFT~	1	小写/其他
+~_移动__~	1	小写/其他
+~_倾斜~	1	小写/其他
+~_高度__~	1	小写/其他
+~PAD_DPAD_NONE~	1	小写/其他
+~BLIP_82~	1	大写
+~INPUT_FRONTEND_REFRESH~	1	小写/其他
+~PAD_RSTICK_UPDOWN_ONLY~	1	小写/其他
+~INPUT_FRONTEND_COPY~	1	小写/其他
+~INPUT_VEH_HOTWIRE_LEFT~	1	小写/其他
+~INPUT_VEH_HOTWIRE_RIGHT~	1	小写/其他
+~BLIP_42~	1	大写
+~
+MAIN	A1FB9802	~	1	大写
+~
+MAIN	A3DF3A89	~	1	大写
+~
+MAIN	A3E0633A	~	1	大写
+~总统城。
+MAIN	A3E8EBF7	~	1	大写
+~PAD_DPAD_UPDOWN~	1	小写/其他
+~PAD_LSHOCK~	1	小写/其他
+~PAD_RSHOCK~	1	小写/其他
+~
+MAIN	BF76E918	~	1	大写
+~
+MAIN	C3E73CFD	~	1	大写
+~INPUT_FRONTEND_CUT~	1	小写/其他
+~BLIP_32~	1	大写
+~INPUT_FRONTEND_PASTE~	1	小写/其他
+~
+MAIN	E9DE925B	~	1	大写
+~
+MAIN	FC06A3DA	~	1	大写
+~INPUT_FE_REPLAY_PREVIEW~	1	小写/其他
+~BLIP_80~	1	大写
+~加速前进。~	1	小写/其他
+~
+AXISTUT	1D83C32B	~	1	大写
+~加速前进。
+AXISTUT	2B5BF0A3	~	1	大写
+~按住~	1	小写/其他
+~增加你的高度，按住~	1	小写/其他
+~下降。
+CIA5	5C946C88	按~	1	大写
+~和~	1	小写/其他
+~对齐着陆。
+CIA5	69E70BC9	用~	1	大写
+~降低高度。
+CIA5	D8EEDCFD	抢夺~	1	大写
+~直升机~	1	小写/其他
+~。
+CIA5	DB535CF7	飞往~	1	大写
+~G~	1	大写
+~INPUT_SNIPER_ZOOM_IN~	1	小写/其他
+~放大。~	1	小写/其他
+~使用~	1	小写/其他
+~BLIP_50~	1	大写
+~INPUT_TURN_OFF_RADIO~	1	小写/其他
+~BLIP_29~	1	大写
+~BLIP_126~	1	大写
+~BLIP_127~	1	大写
+~BLIP_95~	1	大写
+~BLIP_96~	1	大写
+~PAD_RSTICK_RIGHT~	1	小写/其他
+~BLIP_119~	1	大写
+~INPUT_LOOK_UP~	1	小写/其他
+~BLIP_120~	1	大写
+~BLIP_65~	1	大写
+~BLIP_121~	1	大写
+~BLIP_98~	1	大写
+~INPUT_MOVE_UP~	1	小写/其他
+~INPUT_FRONTEND_AXIS_Y~	1	小写/其他

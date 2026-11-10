@@ -1,0 +1,16 @@
+chapter	table	crc	新译正文	理由
+base	MAIN	0816332C	多棒的收尾。你知道什么时候算结束……	What a finale 是「多棒的收尾」，原译「那收尾，绝了」把感叹拆散成病句；You know it's over when 是半句悬念
+base	MAIN	10B900F0	你怎么没如约来接我，尼克？擦！ - 雅各布	Niko 按口径统一「尼克」
+base	MAIN	5AD1D2C5	「不，因为肥……」她嘴里塞着东西。	obe 是 obesity 被噎住，原译「因为肥...」断了句且 she was eating 译成「一边在吃」丢画面
+base	MAIN	68BB1136	这就是所有混过街头的人的国歌。	anybody who ever hustled 是「混过街头的人」，原译「偷抢拐骗的人」把 hustle 窄化成犯罪
+base	MAIN	6C462B71	布鲁斯在屋顶等你，去闪光的图标那儿上屋顶。	原译「前往闪烁的图标以上到屋顶」句子不成句
+base	MAIN	72A372E4	冯･克拉斯滕堡家族是世界上最富有的人之一，	Von Crastenburg 是德式姓氏，原译「克拉斯顿堡」漏了 Von 且音译不准
+base	MAIN	7F28E215	嘿，Insurgiscan 上显示这是一颗陌生星球。	Insurgiscan 是设备专名，按口径保留英文，原译「叛乱扫描仪」把专名意译
+base	MAIN	8B38A457	~1~:0~1~ 前到 SoBoHoe 家。	原译把时间标签与拉丁名挤在一起，缺分隔空格
+base	MAIN	8D3D72A4	尼克，兄弟，要接活就打给我。就这样 - LJ	Niko 按口径统一「尼克」
+base	MAIN	931D6BD2	它的深色内饰不显污渍，简直是法医的梦想。	It's a forensics dream 是「法医梦寐以求的」，原译「法医看了都做梦」把意思译飘
+base	MAIN	95DAA8F1	「是腺体的问题。」不是腺体，是贪吃。	glandular 指「内分泌/腺体导致」，原译「天生就胖」换了医学说法；greed 是贪吃
+base	MAIN	25A228B1	存储内容中。请不要关闭您的系统。	原文无 ~n~，原译多插了换行标签
+base	MAIN	38A92C69	存储内容中。请不要关闭您的系统。	原文无 ~n~，原译多插了换行标签
+base	MAIN	4707AF14	载入内容中。请不要关闭您的系统。	原文无 ~n~，原译多插了换行标签
+base	MAIN	8900A803	载入内容中。请不要关闭您的系统。	原文无 ~n~，原译多插了换行标签

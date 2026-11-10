@@ -1,0 +1,105 @@
+chapter	table	crc	english	reason
+base	CREDIT	03BBA926	Norm "Tubbz" Brown	制作人员名单：人名与职称，按用户口径保留英文
+base	CREDIT	04FCAAF5	A computer	制作人员名单：人名与职称，按用户口径保留英文
+base	CREDIT	091D7499	TJ Lawson	制作人员名单：人名与职称，按用户口径保留英文
+base	CREDIT	10DDA12E	Travis Terrell Jacobs	制作人员名单：人名与职称，按用户口径保留英文
+base	CREDIT	27B9D8B5	Liberty City Radio	制作人员名单：人名与职称，按用户口径保留英文
+base	CREDIT	5D664988	Steve "Knuckles" Donohoe	制作人员名单：人名与职称，按用户口径保留英文
+base	CREDIT	F8100521	Maitre d'	制作人员名单：人名与职称，按用户口径保留英文
+TLAD	CREDIT1	0CA5D343	Location: Mediahouse (London)	制作人员名单：人名与职称，按用户口径保留英文
+TLAD	CREDIT1	4097A343	Smithy the Stunt Boy	制作人员名单：人名与职称，按用户口径保留英文
+TLAD	CREDIT1	63306874	Stacey the Porn Star	制作人员名单：人名与职称，按用户口径保留英文
+TLAD	CREDIT1	CEF0B1BE	Ritchie the Fan	制作人员名单：人名与职称，按用户口径保留英文
+TLAD	CREDIT1	D8F1D401	Mark the General Manager	制作人员名单：人名与职称，按用户口径保留英文
+TLAD	CREDIT1	E8F03289	Audiomotion Studios Ltd (London)	制作人员名单：人名与职称，按用户口径保留英文
+TBoGT	CREDIT1	05107711	Prison Guard	制作人员名单：人名与职称，按用户口径保留英文
+TBoGT	CREDIT1	09CCC216	Sicilianaire Riddim by Oliver Rodigan	制作人员名单：人名与职称，按用户口径保留英文
+TBoGT	CREDIT1	0CA5D343	Location: Mediahouse (London)	制作人员名单：人名与职称，按用户口径保留英文
+TBoGT	CREDIT1	0DD6A5A0	President Zane	制作人员名单：人名与职称，按用户口径保留英文
+TBoGT	CREDIT1	0E6C6408	DJ Paul played by Paul Martin	制作人员名单：人名与职称，按用户口径保留英文
+TBoGT	CREDIT1	188C3DBC	Officer	制作人员名单：人名与职称，按用户口径保留英文
+TBoGT	CREDIT1	4097A343	Smithy the Stunt Boy	制作人员名单：人名与职称，按用户口径保留英文
+TBoGT	CREDIT1	58FF36A5	Immigration Agent	制作人员名单：人名与职称，按用户口径保留英文
+TBoGT	CREDIT1	5DFF6FFA	Mr. Roncero	制作人员名单：人名与职称，按用户口径保留英文
+TBoGT	CREDIT1	63306874	Stacey the Porn Star	制作人员名单：人名与职称，按用户口径保留英文
+TBoGT	CREDIT1	66A64603	Franceska Clemens and Gail Bennington	制作人员名单：人名与职称，按用户口径保留英文
+TBoGT	CREDIT1	73790F4B	Russian drug dealer	制作人员名单：人名与职称，按用户口径保留英文
+TBoGT	CREDIT1	7B60C689	Crack Ho	制作人员名单：人名与职称，按用户口径保留英文
+TBoGT	CREDIT1	7EA26372	Prisoner	制作人员名单：人名与职称，按用户口径保留英文
+TBoGT	CREDIT1	9122C74A	Callers	制作人员名单：人名与职称，按用户口径保留英文
+TBoGT	CREDIT1	959F39F2	Location Mediahouse (London)	制作人员名单：人名与职称，按用户口径保留英文
+TBoGT	CREDIT1	B3623411	Soldier	制作人员名单：人名与职称，按用户口径保留英文
+TBoGT	CREDIT1	C719E11D	Mixed By	制作人员名单：人名与职称，按用户口径保留英文
+TBoGT	CREDIT1	CED33E91	HR officer	制作人员名单：人名与职称，按用户口径保留英文
+TBoGT	CREDIT1	CEF0B1BE	Ritchie the Fan	制作人员名单：人名与职称，按用户口径保留英文
+TBoGT	CREDIT1	D8F1D401	Mark the General Manager	制作人员名单：人名与职称，按用户口径保留英文
+TBoGT	CREDIT1	E7018BAB	Random Biker	制作人员名单：人名与职称，按用户口径保留英文
+TBoGT	CREDIT1	E8F03289	Audiomotion Studios Ltd (London)	制作人员名单：人名与职称，按用户口径保留英文
+base	MAIN	145A294A	CTRL+X	物理按键名，按口径保留原样不译
+base	MAIN	14AB7F50	AXIS 2 Up	物理按键名，按口径保留原样不译
+base	MAIN	15998120	AXIS 2 Left	物理按键名，按口径保留原样不译
+base	MAIN	3169A93C	Param 3	物理按键名，按口径保留原样不译
+base	MAIN	36D1988B	CAPS LOCK	物理按键名，按口径保留原样不译
+base	MAIN	3937485B	AXIS 1 Left	物理按键名，按口径保留原样不译
+base	MAIN	39858D37	NUM LOCK	物理按键名，按口径保留原样不译
+base	MAIN	3E15F637	MEDIA SEL	物理按键名，按口径保留原样不译
+base	MAIN	405B9C7F	AXIS SLIDER 0	物理按键名，按口径保留原样不译
+base	MAIN	43B84DD9	Param 4	物理按键名，按口径保留原样不译
+base	MAIN	47E465B5	AXIS 1 Up	物理按键名，按口径保留原样不译
+base	MAIN	49624945	SYSRQ	物理按键名，按口径保留原样不译
+base	MAIN	4CCF6007	Param 5	物理按键名，按口径保留原样不译
+base	MAIN	4DA2864E	AXIS 2 Right	物理按键名，按口径保留原样不译
+base	MAIN	56FAD97E	NOCONVERT	物理按键名，按口径保留原样不译
+base	MAIN	5C0D2323	AXIS 1 Down	物理按键名，按口径保留原样不译
+base	MAIN	5D20AD7C	CTRL+C	物理按键名，按口径保留原样不译
+base	MAIN	5F9CDB01	AXIS LRY	物理按键名，按口径保留原样不译
+base	MAIN	63EBC1E6	WEB BACK	物理按键名，按口径保留原样不译
+base	MAIN	6E61788A	AXIS LRZ	物理按键名，按口径保留原样不译
+base	MAIN	79748EB0	AXIS LY	物理按键名，按口径保留原样不译
+base	MAIN	8B23B20E	AXIS LZ	物理按键名，按口径保留原样不译
+base	MAIN	8CFDC23D	CTRL+V	物理按键名，按口径保留原样不译
+base	MAIN	931441EF	AXIS SLIDER 1	物理按键名，按口径保留原样不译
+base	MAIN	A6FA69BB	AXIS LX	物理按键名，按口径保留原样不译
+base	MAIN	B61AB2A0	Param 2	物理按键名，按口径保留原样不译
+base	MAIN	C6BBF883	AXIS 1 Right	物理按键名，按口径保留原样不译
+base	MAIN	DDF9D7B9	AXIS LRX	物理按键名，按口径保留原样不译
+base	MAIN	DF2404B2	Param 6	物理按键名，按口径保留原样不译
+base	MAIN	0F43D842	MS X	物理按键名，按口径保留原样不译
+base	MAIN	10E7C28D	ZiT!	物理按键名，按口径保留原样不译
+base	MAIN	1576760D	SUV	物理按键名，按口径保留原样不译
+base	MAIN	1D1FB273	INS	物理按键名，按口径保留原样不译
+base	MAIN	2F9FD94B	MAIL	物理按键名，按口径保留原样不译
+base	MAIN	33D00524	MENU	物理按键名，按口径保留原样不译
+base	MAIN	3A7B1E1B	STOP	物理按键名，按口径保留原样不译
+base	MAIN	610F53A1	AF	物理按键名，按口径保留原样不译
+base	MAIN	74E22BF5	SUV	物理按键名，按口径保留原样不译
+base	MAIN	759A9241	CALC	物理按键名，按口径保留原样不译
+base	MAIN	8B639005	PGUP	物理按键名，按口径保留原样不译
+base	MAIN	8D30F4FA	ESC	物理按键名，按口径保留原样不译
+base	MAIN	BA2AEF6F	WAKE	物理按键名，按口径保留原样不译
+base	MAIN	BC9232E0	MS Y	物理按键名，按口径保留原样不译
+base	MAIN	CBE13ECD	MUTE	物理按键名，按口径保留原样不译
+base	MAIN	D04A99E2	END	物理按键名，按口径保留原样不译
+base	MAIN	D40ED775	WEB	物理按键名，按口径保留原样不译
+base	MAIN	E54D43E7	PGDN	物理按键名，按口径保留原样不译
+base	MAIN	E9E0966B	ZiT!	物理按键名，按口径保留原样不译
+TLAD	MAIN	063FB3C3	BANDIT!	虚构杂志名，按品牌名保留
+base	EMAILBK	252C1D29	recruitment@goldberglignerandshyster.com	邮箱地址，不译
+base	MAIN	0E87A0D4	ND	序数后缀碎片，中文序数无法后置，按用户决定保留原样
+base	MAIN	1E186C9C	th	序数后缀碎片，中文序数无法后置，按用户决定保留原样
+base	MAIN	613D28EF	st	序数后缀碎片，中文序数无法后置，按用户决定保留原样
+base	MAIN	6A4BCDCF	TH	序数后缀碎片，中文序数无法后置，按用户决定保留原样
+base	MAIN	6FF7F5D1	nd	序数后缀碎片，中文序数无法后置，按用户决定保留原样
+base	MAIN	9C36B8BD	rd	序数后缀碎片，中文序数无法后置，按用户决定保留原样
+base	MAIN	9EA238BF	RD	序数后缀碎片，中文序数无法后置，按用户决定保留原样
+base	MAIN	A73E3544	~1~ST	序数后缀碎片，中文序数无法后置，按用户决定保留原样
+base	MAIN	CD80075F	~1~ND	序数后缀碎片，中文序数无法后置，按用户决定保留原样
+base	MAIN	D22A0E67	~1~TH	序数后缀碎片，中文序数无法后置，按用户决定保留原样
+base	MAIN	FE11FB15	ST	序数后缀碎片，中文序数无法后置，按用户决定保留原样
+base	MAIN	17778C5C	~z~Smack	疑海洛因俚语或电台名，用户拍板保留英文
+base	MAIN	37BCFD2E	~z~Piswasser	德语玩笑词，用户拍板保留英文
+base	MAIN	4E66C6C6	KIBUTZ	基布兹音译无据，用户拍板保留英文
+base	MAIN	FA460B6B	12 bored	统计项截断，用户拍板保留英文
+base	BELL7	21F71143	H	单字母无上下文，用户拍板保留英文
+TLAD	E1J2AUD	A79E12C7	~z~G.F.L.D. G.F.L.D.	缩写台词无据，用户拍板保留英文
+base	MAIN	7FB5EA74	AXIS 2 Down	手柄轴名，按物理按键名口径保留原样

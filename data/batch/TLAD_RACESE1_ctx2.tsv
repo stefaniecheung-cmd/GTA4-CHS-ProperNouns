@@ -1,0 +1,55 @@
+序号	crc	english	上邻	下邻
+1	02806761	Ramped Up		Scrapes Only
+2	030DBB37	Scrapes Only	坡道加速	Press and hold ~INPUT_VEH_HEADLIGHT~ for a heavy left attack, or press and hold ~INPUT_VEH_CIN_CAM~ for a heavy right attack.
+3	057BFA66	Press and hold ~INPUT_VEH_HEADLIGHT~ for a heavy left attack, or press and hold ~INPUT_VEH_CIN_CAM~ for a heavy right attack.	Scrapes Only	三角定位
+4	064E7766	Triangulate	Press and hold ~INPUT_VEH_HEADLIGHT~ for a heavy left attack, or press and hold ~INPUT_VEH_CIN_CAM~ for a heavy right attack.	Down By The River
+5	068F77FC	Down By The River	三角定位	Down The Hatch
+6	092A74B1	Down The Hatch	Down By The River	WAITING FOR PLAYERS TO FINISH...
+7	0AFDA7D3	WAITING FOR PLAYERS TO FINISH...	Down The Hatch	Press and hold ~INPUT_VEH_HEADLIGHT~ for a heavy left attack, or press and hold ~INPUT_FRONTEND_RT~ for a heavy right attack.
+8	0D658909	Press and hold ~INPUT_VEH_HEADLIGHT~ for a heavy left attack, or press and hold ~INPUT_FRONTEND_RT~ for a heavy right attack.	WAITING FOR PLAYERS TO FINISH...	中间地带
+9	0F7889CE	Middle Ground	Press and hold ~INPUT_VEH_HEADLIGHT~ for a heavy left attack, or press and hold ~INPUT_FRONTEND_RT~ for a heavy right attack.	You have a bat which can be used to attack other competitors. Press ~INPUT_VEH_HEADLIGHT~ for a left attack, or press ~INPUT_FRONTEND_RT~ for a right attack.
+10	1BE22602	You have a bat which can be used to attack other competitors. Press ~INPUT_VEH_HEADLIGHT~ for a left attack, or press ~INPUT_FRONTEND_RT~ for a right attack.	中间地带	熔毁
+11	1C289AB5	Meltdown	You have a bat which can be used to attack other competitors. Press ~INPUT_VEH_HEADLIGHT~ for a left attack, or press ~INPUT_FRONTEND_RT~ for a right attack.	Bridging the Gap
+12	2BFC42D5	Bridging the Gap	熔毁	Blockie
+13	2DED3E3E	Blockie	Bridging the Gap	失乐园
+14	3CB6E44A	Paradise Lost	Blockie	The race is ending soon.
+15	4A13E25F	The race is ending soon.	失乐园	Triple L Rocks
+16	4B607924	Triple L Rocks	The race is ending soon.	飙车狗
+17	4ED280A1	Hoon Dog	Triple L Rocks	Random
+18	4EE90035	Random	飙车狗	Track
+19	4FC6D48B	Track	Random	You have a bat which can be used to attack other competitors. Press ~INPUT_MOUSE_LMB~ for a left attack, or press ~INPUT_MOUSE_RMB~ for a right attack.
+20	54AE0148	You have a bat which can be used to attack other competitors. Press ~INPUT_MOUSE_LMB~ for a left attack, or press ~INPUT_MOUSE_RMB~ for a right attack.	Track	Normal
+21	5533DF82	Normal	You have a bat which can be used to attack other competitors. Press ~INPUT_MOUSE_LMB~ for a left attack, or press ~INPUT_MOUSE_RMB~ for a right attack.	Color
+22	5BDC13E3	Color	Normal	Annihilator
+23	5D6E9884	Annihilator	Color	海岸湾竞速
+24	61A8A5B4	Bayshore Run	Annihilator	You have a bat which can be used to attack other competitors. Press ~INPUT_MOUSE_LMB~ for a left attack, or press ~INPUT_MOUSE_RMB~ for a right attack.
+25	63D475E9	You have a bat which can be used to attack other competitors. Press ~INPUT_MOUSE_LMB~ for a left attack, or press ~INPUT_MOUSE_RMB~ for a right attack.	海岸湾竞速	Enters 1ST
+26	6CA086C0	Enters 1ST	You have a bat which can be used to attack other competitors. Press ~INPUT_MOUSE_LMB~ for a left attack, or press ~INPUT_MOUSE_RMB~ for a right attack.	Off
+27	73E6C574	Off	Enters 1ST	Snakes & Ladders
+28	7AB45864	Snakes & Ladders	Off	Down Under
+29	85166C8F	Down Under	Snakes & Ladders	搁浅
+30	8C9DFC37	Beached	Down Under	码头挑逗
+31	906683C4	Dock Tease	搁浅	Bogan's Revenge
+32	940A8C5C	Bogan's Revenge	码头挑逗	Reaper's Ride
+33	973A116F	Reaper's Ride	Bogan's Revenge	脱钩
+34	A16CAD9C	Uncoupled	Reaper's Ride	New Personal Best
+35	A18B4DD5	New Personal Best	脱钩	脱轨器
+36	A90AB510	Derailer	New Personal Best	Vehicle Damage
+37	AD771711	Vehicle Damage	脱轨器	Press and hold ~INPUT_MOUSE_LMB~ for a heavy left attack, or press and hold ~INPUT_MOUSE_RMB~ for a heavy right attack.
+38	B76ED7EB	Press and hold ~INPUT_MOUSE_LMB~ for a heavy left attack, or press and hold ~INPUT_MOUSE_RMB~ for a heavy right attack.	Vehicle Damage	布洛克折返
+39	BAE158B9	Broker Back	Press and hold ~INPUT_MOUSE_LMB~ for a heavy left attack, or press and hold ~INPUT_MOUSE_RMB~ for a heavy right attack.	Laps
+40	BCD4F722	Laps	布洛克折返	Weapons
+41	C87CD530	Weapons	Laps	液体交换
+42	CC8EFC14	Fluid Exchange	Weapons	Lap Time
+43	D22D9110	Lap Time	液体交换	The Lost's Highway
+44	D74E1192	The Lost's Highway	Lap Time	游乐场分心
+45	D8041AD2	Fairground Distraction	The Lost's Highway	旋转木马
+46	D84D1B78	Carousel	游乐场分心	Press and hold ~INPUT_MOUSE_LMB~ for a heavy left attack, or press and hold ~INPUT_MOUSE_RMB~ for a heavy right attack.
+47	DC86824B	Press and hold ~INPUT_MOUSE_LMB~ for a heavy left attack, or press and hold ~INPUT_MOUSE_RMB~ for a heavy right attack.	旋转木马	Vehicle
+48	DD245B9C	Vehicle	Press and hold ~INPUT_MOUSE_LMB~ for a heavy left attack, or press and hold ~INPUT_MOUSE_RMB~ for a heavy right attack.	双重停车
+49	E8D9BC7D	Double Parking	Vehicle	Duke of the City
+50	E924B53F	Duke of the City	双重停车	叭叭
+51	E932BD43	Honk Honk	Duke of the City	You have a bat which can be used to attack other competitors. Press ~INPUT_VEH_HEADLIGHT~ for a left attack, or press ~INPUT_VEH_CIN_CAM~ for a right attack.
+52	EC3CC7E8	You have a bat which can be used to attack other competitors. Press ~INPUT_VEH_HEADLIGHT~ for a left attack, or press ~INPUT_VEH_CIN_CAM~ for a right attack.	叭叭	A Bohan Scramble
+53	F0C8C3F2	A Bohan Scramble	You have a bat which can be used to attack other competitors. Press ~INPUT_VEH_HEADLIGHT~ for a left attack, or press ~INPUT_VEH_CIN_CAM~ for a right attack.	In the Bricks
+54	F6F0D03E	In the Bricks	A Bohan Scramble	

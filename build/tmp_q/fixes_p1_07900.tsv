@@ -1,0 +1,9 @@
+chapter	table	crc	新译正文	理由
+base	MAIN	A86D95FF	哟，去三角大楼那边吧，尼克。那边有些疯玩意儿给姑娘们看。	Nicky 按口径统一「尼克」
+base	MAIN	51CE5875	我和尼克是这座城市最铁的两兄弟，事实如此。返航吧，哥们儿。	Nicky 按口径统一「尼克」
+base	MAIN	6453658E	冷面无情尼克，你丫就是个亲王。他就是亲王，你说呢，姑娘们？他是不是？	Nicky 按口径统一「尼克」
+base	MAIN	9281E9DA	带姑娘们去看看那些锈成铁壳的废船吧，尼克。工业衰退啊，兄弟。	Nicky 按口径统一「尼克」；rust up ships 是锈掉的船，原译「铁锈沉船」把状态译成沉没
+base	MAIN	B8EDBAAE	我看你是把动物园里的动物都睡遍了，现在又来蹭你堂弟的好心。真棒！	cousin 按口径统一「堂弟」，原译「你哥」把角色关系弄错
+base	MAIN	D0ECE040	好了……停，先生，我说了别再放了……我只是想说它真牛逼。	stop it sir 是「停，先生」，原译「掐掉，谢谢」把 sir 误读成 thank you
+base	MAIN	7A5B91A4	按~PAD_BACK~切换视角。~n~按~INPUT_PICKUP~退出舞蹈。	exit dance 是「退出舞蹈」，原译「退出观看」把动作换成观看
+base	MAIN	CF2A3AE8	用~PAD_RSTICK_ALL~四处观看。~n~按~PAD_BACK~切换视角。~n~按~INPUT_PICKUP~退出舞蹈。	exit dance 是「退出舞蹈」，原译「退出观看」把动作换成观看
